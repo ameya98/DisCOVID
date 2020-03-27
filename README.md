@@ -33,11 +33,11 @@ which outputs keywords and scores, in order of increasing relevance.
 
 ## Examples
 Running
-```
+```bash
 ./get_keywords.py txts/venezuelan_migrants.txt -n 10
 ```
 gives me:
-```
+```bash
 0.0220: venezuelan migrants
 0.0226: world report venezuelan
 0.0294: health
