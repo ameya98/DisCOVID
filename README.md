@@ -14,8 +14,13 @@ pip3 install git+https://github.com/LIAAD/yake
 ```
 
 For *sortedcontainers* (for the index creation):
-```
+```bash
 pip3 install sortedcontainers
+```
+
+For *yaml* and *strsimpy* (for the queries):
+```bash
+pip3 install PyYAML strsimpy
 ```
 
 ## Usage
