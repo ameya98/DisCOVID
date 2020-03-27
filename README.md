@@ -20,11 +20,30 @@ To convert PDF files:
 ```
 where *pdf-dir* and *text-dir* are the input and output directories.
 
-Once the PDF files are converted to text, extract keywords with:
+Once the PDF files are converted to text, extract keywords from a text file with:
 ```bash
 ./get_keywords.py txt-file -n num-keywords
 ```
 which outputs keywords and scores, in order of increasing relevance.
+
+## Examples
+Running
+```
+./get_keywords.py txts/venezuelan_migrants.txt -n 10
+```
+gives me:
+```
+0.0220: venezuelan migrants
+0.0226: world report venezuelan
+0.0294: health
+0.0379: venezuela
+0.0410: report venezuelan migrants
+0.0468: border
+0.0503: march
+0.0576: venezuelan ngo médicos
+0.0579: migrants
+0.0625: venezuelan health system
+```
 
 ## Support
 Python 3.5+
