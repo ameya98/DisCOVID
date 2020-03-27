@@ -41,6 +41,18 @@ Once the PDF files are converted to text, extract keywords from a text file with
 ```
 which outputs keywords and scores, in order of increasing relevance.
 
+Create the index file (for a bunch of text files) with:
+```bash
+./create_index.py --txts text-dir -n num-keywords
+```
+which creates a binary file storing the index.
+
+Query the generated index file with queries stored in a YAML file:
+```bash
+./query_file.py query-file index-file
+```
+which outputs (score, document, keyword) pairs. There are options for querying: use the '-h' option!
+
 ## Examples
 Running
 ```bash
