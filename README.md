@@ -2,7 +2,7 @@
 Team 88's repository for the JHU Design Challenge.
 
 ## Installation
-Instructions are for an Ubuntu (16.04+) system.  
+Instructions are for an Ubuntu (16.04+) system.
 For *pdftotext*:
 ```bash
 sudo apt install poppler-utils
@@ -14,6 +14,11 @@ pip3 install git+https://github.com/LIAAD/yake
 ```
 
 ## Usage
+Clone the repository, first!
+```bash
+git clone https://github.com/ameya98/DisCOVID.git
+cd DisCOVID
+```
 To convert PDF files:
 ```bash
 ./convert_to_text.py --pdfs pdf-dir --txts text-dir
