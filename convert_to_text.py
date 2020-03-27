@@ -25,10 +25,10 @@ if not os.path.exists(TEXT_DIRECTORY):
 # Convert PDFS one by one using pdftotext.
 pdf_files = os.listdir(PDF_DIRECTORY)
 for pdf_file in pdf_files:
-    pdf_file_full_path = PDF_DIRECTORY + pdf_file
+    pdf_file_full_path = PDF_DIRECTORY + '/' + pdf_file
     
     text_file = pdf_file.replace('.pdf', '.txt')
-    text_file_full_path = TEXT_DIRECTORY + text_file
+    text_file_full_path = TEXT_DIRECTORY + '/' + text_file
 
     if force or not os.path.exists(text_file_full_path):
         os.system('pdftotext %s - > %s' % (pdf_file_full_path, text_file_full_path))
