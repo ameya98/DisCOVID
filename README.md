@@ -43,7 +43,7 @@ which outputs keywords and scores, in order of increasing relevance.
 
 Create the index file (for a bunch of text files) with:
 ```bash
-./create_index.py --txts text-dir -n num-keywords
+./create_index.py index-file --txts text-dir -n num-keywords
 ```
 which creates a binary file storing the index.
 
