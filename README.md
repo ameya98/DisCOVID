@@ -51,7 +51,7 @@ Query the generated index file with queries stored in a YAML file:
 ```bash
 ./query_file.py query-file index-file
 ```
-which outputs (score, document, keyword) pairs. There are options for querying: use the '-h' option!
+which outputs (score, document, keyword) pairs. Use the '-h' option, and see options for the similarity function (*'--sim'*) (supported options are: Normalized Leveshtein, Jaro-Winkler and Exact, all of which have range [0, 1].) and a threshold (*'--thres'*) which should also be in [0, 1].
 
 ## Examples
 Running
