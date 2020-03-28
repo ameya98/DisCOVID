@@ -56,6 +56,7 @@ which outputs (score, document, keyword) pairs. Use the '-h' option, and see opt
 ## Examples
 Running
 ```bash
+./convert_to_text.py --pdfs pdfs/ --txts txts/
 ./get_keywords.py txts/venezuelan_migrants.txt -n 10
 ```
 gives me:
@@ -70,6 +71,15 @@ gives me:
 0.0576: venezuelan ngo médicos
 0.0579: migrants
 0.0625: venezuelan health system
+```
+
+I can create an index file (*index.pkl*) with:
+```bash
+./create_index.py index.pkl --txts txts/
+```
+and query (with queries stored in *queries.yaml*) with:
+```bash
+./query.py queries.yaml index.pkl
 ```
 
 ## Support
