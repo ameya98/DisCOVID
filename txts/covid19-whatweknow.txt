@@ -1,223 +1,223 @@
 Feng He
 
-ORCID iD: 0000-0002-7034-4285
+ORCID iD: ---
 
-Coronavirus Disease 2019 (COVID-19): What we know?
+Coronavirus Disease  (COVID-): What we know?
 
 Accepted Article
 
-Feng He1 Yu Deng1 Weina Li2
-1 Department of Thoracic Surgery, Tongji Hospital, Tongji Medical College,
+Feng He Yu Deng Weina Li
+ Department of Thoracic Surgery, Tongji Hospital, Tongji Medical College,
 Huazhong University of Science and Technology, Wuhan, China
-2 Department and Institute of Infectious Disease, Tongji Hospital, Tongji Medical
+ Department and Institute of Infectious Disease, Tongji Hospital, Tongji Medical
 College, Huazhong University of Science and Technology, Wuhan, China
 Corresponding Author: Weina Li, Department and Institute of Infectious Disease,
 Tongji Hospital, Tongji Medical College, Huazhong University of Science and
-Technology, Wuhan, China. Telephone: +86-027-83662688; Email:
+Technology, Wuhan, China. Telephone: +--; Email:
 weina_li@live.cn
-Shortened Title: COVID-19: What we know?
+Shortened Title: COVID-: What we know?
 Abstract
-In late December 2019, a cluster of unexplained pneumonia cases has been
+In late December , a cluster of unexplained pneumonia cases has been
 reported in Wuhan, China. A few days later, the causative agent of this mysterious
 pneumonia was identified as a novel coronavirus. This causative virus has been
-temporarily named as severe acute respiratory syndrome coronavirus 2
-(SARS-CoV-2) and the relevant infected disease has been named as coronavirus
-disease 2019 (COVID-19) by the World Health Organization respectively. The
+temporarily named as severe acute respiratory syndrome coronavirus 
+(SARS-CoV-) and the relevant infected disease has been named as coronavirus
+disease  (COVID-) by the World Health Organization respectively. The
 This article has been accepted for publication and undergone full peer review but
 has not been through the copyediting, typesetting, pagination and proofreading
 process, which may lead to differences between this version and the Version of
-Record. Please cite this article as doi: 10.1002/jmv.25766.
+Record. Please cite this article as doi: ./jmv..
 
 This article is protected by copyright. All rights reserved.
 
-COVID-19 epidemic is spreading in China and all over the world now. The
+COVID- epidemic is spreading in China and all over the world now. The
 purpose of this review is primarily to review the pathogen, clinical features,
-diagnosis, and treatment of COVID-19, but also to comment briefly on the
+diagnosis, and treatment of COVID-, but also to comment briefly on the
 
 Accepted Article
 
 epidemiology and pathology based on the current evidences.
-KeyWords: SARS-CoV-2; COVID-19; coronavirus
+KeyWords: SARS-CoV-; COVID-; coronavirus
 Conflict of interest
 The authors disclose no conflicts of interest.
 Introduction
-In late December 2019, an outbreak of an unknown disease called pneumonia of
-unknown cause occurred in Wuhan, Hubei Province, China1. The outbreak has
-spread substantial to infect 9720 people in China with 213 deaths and to infect 106
-people in 19 other countries up to January 31, 2020
-(https://www.who.int/docs/default-source/coronaviruse/situation-reports/2020013
-1-sitrep-11-ncov.pdf). A few days later, the causative agent of this mysterious
+In late December , an outbreak of an unknown disease called pneumonia of
+unknown cause occurred in Wuhan, Hubei Province, China. The outbreak has
+spread substantial to infect  people in China with  deaths and to infect 
+people in  other countries up to January , 
+(https://www.who.int/docs/default-source/coronaviruse/situation-reports/
+-sitrep--ncov.pdf). A few days later, the causative agent of this mysterious
 pneumonia was identified as a novel coronavirus by several independent
-laboratories2-4. The causative virus has been temporarily named as severe acute
-respiratory syndrome coronavirus 2 (SARS-CoV-2) and the relevant infected
-disease has been named as coronavirus disease 2019 (COVID-19) by the World
+laboratories-. The causative virus has been temporarily named as severe acute
+respiratory syndrome coronavirus  (SARS-CoV-) and the relevant infected
+disease has been named as coronavirus disease  (COVID-) by the World
 Health Organization respectively. According to the daily report of the World
-Health Organization, the epidemic of SARS-CoV-2 so far registered 78630 cases
-and 2747 deaths in China, spread to 46 other countries that reported a total of
-3664 cases by February 27, 2020
-(https://www.who.int/docs/default-source/coronaviruse/situation-reports/2020022
-7-sitrep-38-covid-19.pdf). COVID-19 epidemic has become a global health threat.
+Health Organization, the epidemic of SARS-CoV- so far registered  cases
+and  deaths in China, spread to  other countries that reported a total of
+ cases by February , 
+(https://www.who.int/docs/default-source/coronaviruse/situation-reports/
+-sitrep--covid-.pdf). COVID- epidemic has become a global health threat.
 
 This article is protected by copyright. All rights reserved.
 
 Coronaviruses are a group of highly diverse, enveloped, positive-sense,
-single-stranded RNA viruses5. They cause several diseases involving respiratory,
+single-stranded RNA viruses. They cause several diseases involving respiratory,
 enteric, hepatic and neurological systems with vary severity among humans and
 
 Accepted Article
 
-animals5,6. Human coronavirus (CoV) infections have traditionally caused a low
-percentage of annual respiratory infections. There are HCoV-OC43, HCoV-229E,
-HCoV-NL63 and HCoV-HKU1, which cause mild respiratory illness5,7. Over the
+animals,. Human coronavirus (CoV) infections have traditionally caused a low
+percentage of annual respiratory infections. There are HCoV-OC, HCoV-E,
+HCoV-NL and HCoV-HKU, which cause mild respiratory illness,. Over the
 past two decades, two novel coronaviruses, severe acute respiratory syndrome
 CoV (SARS-CoV) and Middle East respiratory syndrome CoV (MERS-CoV),
-have emerged and cause severe human diseases8,9. During the epidemic,
-SARS-CoV infect more than 8000 people worldwide with nearly 800 fatalities,
-representing its mortality rate around 10%. Whereas MERS-CoV infected over
-857 official cases and 334 deaths, making its mortality rate approximately
-35%10-12. So far, SARS-CoV-2 is the seventh member of the family of
-coronaviruses that infects humans. The main symptoms of COVID-19 included
+have emerged and cause severe human diseases,. During the epidemic,
+SARS-CoV infect more than  people worldwide with nearly  fatalities,
+representing its mortality rate around %. Whereas MERS-CoV infected over
+ official cases and  deaths, making its mortality rate approximately
+%-. So far, SARS-CoV- is the seventh member of the family of
+coronaviruses that infects humans. The main symptoms of COVID- included
 fever, fatigue, and cough, which are similar to that of SARS-CoV and
 MERS-CoV infected cases. There are some overlapping and discrete aspects of
 the pathology and pathogenesis of these coronaviruses which cause severe
-diseases in humans13.
+diseases in humans.
 Many literatures reported the clinical features, virology, pathology and radiology
-of COVID-19, but the comprehensive review is few. The purpose of this review is
+of COVID-, but the comprehensive review is few. The purpose of this review is
 primarily to review the pathogen, clinical features, diagnosis, and treatment of
-COVID-19, but also to comment briefly on the epidemiology and pathology based
+COVID-, but also to comment briefly on the epidemiology and pathology based
 on the current evidences.
 
 This article is protected by copyright. All rights reserved.
 
 The pathogen
-The pathogen that causes COVID-19 is a novel coronavirus that was first
-identified in the late January 2020, named SARS-CoV-2 (also known as
+The pathogen that causes COVID- is a novel coronavirus that was first
+identified in the late January , named SARS-CoV- (also known as
 
 Accepted Article
 
-2019-nCoV)2-4.
-SARS-CoV-2 is a novel member of coronaviruses, which are a large group of
-highly diverse, enveloped, positive-sense, single-stranded RNA viruses5. Recent
-research reported that SARS-CoV-2 likely originated in bats, based on the
-similarity of its genetic sequence to that of other coronaviruses14. The intermediate
-animal host of SARS-CoV-2 between a probable bat reservoir and humans is still
-unknown15. Although this novel coronavirus has genetic features that are
+-nCoV)-.
+SARS-CoV- is a novel member of coronaviruses, which are a large group of
+highly diverse, enveloped, positive-sense, single-stranded RNA viruses. Recent
+research reported that SARS-CoV- likely originated in bats, based on the
+similarity of its genetic sequence to that of other coronaviruses. The intermediate
+animal host of SARS-CoV- between a probable bat reservoir and humans is still
+unknown. Although this novel coronavirus has genetic features that are
 compatible with the family of coronavirus, nevertheless it has distinct gene
 sequences that are significantly different from previously sequenced coronaviruses
-(Table 1). The analysis of samples from seven SARS-CoV-2 infected patients
-suggested that SARS-CoV-2 shares 79.5% sequence identity to SARS-CoV3.
-Simplot analysis showed that SARS-CoV-2 share 96.2% overall genome sequence
-identity to RaTG13, which is a short RdRp region from a bat coronavirus3.
-Phylogenetic analysis revealed that SARS-CoV-2 falls into the subgenus
-Sarbecovirus of the genus Betacoronavirus and is distinct from SARS-CoV2,4.
-The envelope spike (S) protein is important for coronavirus16. The S protein
+(Table ). The analysis of samples from seven SARS-CoV- infected patients
+suggested that SARS-CoV- shares .% sequence identity to SARS-CoV.
+Simplot analysis showed that SARS-CoV- share .% overall genome sequence
+identity to RaTG, which is a short RdRp region from a bat coronavirus.
+Phylogenetic analysis revealed that SARS-CoV- falls into the subgenus
+Sarbecovirus of the genus Betacoronavirus and is distinct from SARS-CoV,.
+The envelope spike (S) protein is important for coronavirus. The S protein
 mediates receptor binding and membrane fusion and is crucial for determining
-host tropism and transmission capacity17-19. Generally, the S protein is
-functionally divided into the S1 domain, responsible for receptor binding, and S2
-domain, responsible for cell membrane fusion20. Structure analysis suggested that
-receptor-binding domain was composed of a core and an external subdomain16.
-Angiotensin converting enzyme II (ACE2) was known as cell receptor for
-SARS-CoV21-23. Similar to SARS-CoV, SARS-CoV-2 also use ACE2 as an entry
+host tropism and transmission capacity-. Generally, the S protein is
+functionally divided into the S domain, responsible for receptor binding, and S
+domain, responsible for cell membrane fusion. Structure analysis suggested that
+receptor-binding domain was composed of a core and an external subdomain.
+Angiotensin converting enzyme II (ACE) was known as cell receptor for
+SARS-CoV-. Similar to SARS-CoV, SARS-CoV- also use ACE as an entry
 This article is protected by copyright. All rights reserved.
 
-receptor in the ACE2-expressing cells3, indicating SARS-CoV-2 may share the
-same life cycle with SARS-CoV (Figure 1).
-The biophysical and structural analysis indicated that S protein of SARS-CoV-2
+receptor in the ACE-expressing cells, indicating SARS-CoV- may share the
+same life cycle with SARS-CoV (Figure ).
+The biophysical and structural analysis indicated that S protein of SARS-CoV-
 
 Accepted Article
 
-binds ACE2 with approximately10- to 20- fold higher affinity than S protein of
-SARS-CoV24. The high affinity of S protein for human ACE2 may facilitate the
-spread of SARS-CoV-2 in human populations. Meanwhile, SARS-CoV-2 does not
+binds ACE with approximately- to - fold higher affinity than S protein of
+SARS-CoV. The high affinity of S protein for human ACE may facilitate the
+spread of SARS-CoV- in human populations. Meanwhile, SARS-CoV- does not
 use other coronavirus receptors, such as aminopeptidase N and dipeptidyl
-peptidase 4 (DPP4) to enter cells3.
+peptidase  (DPP) to enter cells.
 Epidemiology
 Briefly, cases tend to be in clusters which arrive in waves, and develop into larger
 outbreaks all over the world. The first documented outbreak occurred primarily in
-Wuhan, China1. According to the daily report of the World Health Organization,
-the epidemic of SARS-CoV-2 so far registered 78630 cases and 2747 deaths in
-China, spread to 46 other countries that reported a total of 3664 cases by February
-27th, 2020.
-There are evidences suggest that transmission mode is human to human25,26. The
-major route of transmission of COVID-19 is droplet and close contact26. Whether
+Wuhan, China. According to the daily report of the World Health Organization,
+the epidemic of SARS-CoV- so far registered  cases and  deaths in
+China, spread to  other countries that reported a total of  cases by February
+th, .
+There are evidences suggest that transmission mode is human to human,. The
+major route of transmission of COVID- is droplet and close contact. Whether
 infection can occur through the oral or conjunctival routes is unknown, but
-SARS-CoV-2 has been detected in tears27, which is resemble to SARS-CoV28.
-Reproductive number (R0) was estimated by some studies. Based on the clinical
-data of patients in COVID-19 early outbreak, the mean R0 was ranging from 2.20
-to 3.58, meaning that each patient has been spreading infection to 2 or 3 other
-people25,29. It is still too early to develop an accurate R0 estimate or to assess the
+SARS-CoV- has been detected in tears, which is resemble to SARS-CoV.
+Reproductive number (R) was estimated by some studies. Based on the clinical
+data of patients in COVID- early outbreak, the mean R was ranging from .
+to ., meaning that each patient has been spreading infection to  or  other
+people,. It is still too early to develop an accurate R estimate or to assess the
 dynamics of transmission. More research is needed in the future.
 
 This article is protected by copyright. All rights reserved.
 
-The mean incubation period is about 5 days, ranging from 1-14 days and 95% of
-patients are likely to experience symptoms within 12.5 days of contact25,30. These
-data suggest a 14-day medical observation period or quarantine for exposed and
+The mean incubation period is about  days, ranging from - days and % of
+patients are likely to experience symptoms within . days of contact,. These
+data suggest a -day medical observation period or quarantine for exposed and
 
 Accepted Article
 
 close contact persons. However, an asymptomatic carrier was reported and the
-incubation period was 19 days, suggesting the complicated challenge to contain
-the outbreak31.
+incubation period was  days, suggesting the complicated challenge to contain
+the outbreak.
 Clinical features
-Most case patients were 30-79 years of age32. The median age is ranging from 49
-to 59 years25,26,33,34. There were few cases in children below 15 years of age. More
+Most case patients were - years of age. The median age is ranging from 
+to  years,,,. There were few cases in children below  years of age. More
 than half the patients were male. Nearly half the cases had one or more coexisting
 medical conditions, such as hypertension, diabetes and cardiovascular
-disease25,26,33,34. A large cases study indicated that the case-fatality rate was
-elevated among those patients with coexisting medical conditions32.
-The spectrum of clinical presentations of COVID-19 have been reported ranging
-from asymptomatic infection to severe respiratory failure25,26,30,32-34. The main
+disease,,,. A large cases study indicated that the case-fatality rate was
+elevated among those patients with coexisting medical conditions.
+The spectrum of clinical presentations of COVID- have been reported ranging
+from asymptomatic infection to severe respiratory failure,,,-. The main
 symptoms include a self-reported fever, fatigue, dry cough, myalgia, and dyspnea.
 The uncommon symptoms include sputum production, headache, hemoptysis and
-diarrhea25,26,30,32-34. Although pneumonia is present in most SARS-CoV-2 infected
-patients, few cases complained of pleuritic chest pain26,33.
+diarrhea,,,-. Although pneumonia is present in most SARS-CoV- infected
+patients, few cases complained of pleuritic chest pain,.
 According to the severity of symptoms, patients can be classified as mild, severe,
-and critical types32(Table 2). Mild patients had nonpneumonia or mild pneumonia.
+and critical types(Table ). Mild patients had nonpneumonia or mild pneumonia.
 Severe patients had several clinical findings, including dyspnea, respiratory
-frequency ≥ 30/min, blood oxygen saturation ≤ 93%, partial pressure of arterial
-oxygen to fraction of inspired oxygen ratio < 300, and/or lung infiltrates >50%
-within 24 to 48 hours. Critical patients had severe conditions, such as respiratory
+frequency ≥ /min, blood oxygen saturation ≤ %, partial pressure of arterial
+oxygen to fraction of inspired oxygen ratio < , and/or lung infiltrates >%
+within  to  hours. Critical patients had severe conditions, such as respiratory
 This article is protected by copyright. All rights reserved.
 
-failure, septic shock, and/or multiple organ dysfunction or failure32. If the disease
-progressed, the median duration period from illness onset to dyspnea was 8.0
-days, and to mechanical ventilation was 10.5 days34.
+failure, septic shock, and/or multiple organ dysfunction or failure. If the disease
+progressed, the median duration period from illness onset to dyspnea was .
+days, and to mechanical ventilation was . days.
 
 Accepted Article
 
 Common clinical laboratory findings include leucopenia and
-lymphopenia25,30,33,34. Lymphopenia is a cardinal feature of COVID-19. Lactate
+lymphopenia,,,. Lymphopenia is a cardinal feature of COVID-. Lactate
 dehydrogenase, and creatinine kinase are all elevated. Half of patients had
 abnormal liver function, with elevated alanine aminotransferase or aspartate
 aminotransferase. Most patients had abnormal myocardial zymogram, which
 showed the elevation of creatine kinase and lactate dehydrogenase. Most patients
 showed normal serum levels of procalcitonim, but the C-reactive protein was
 above the normal range. One third of patients had the elevation of
-D-dimer25,30,33,34.
+D-dimer,,,.
 One study investigated the changes of several cytokines in serum in the
-COVID-19 patients34. Initial plasma IL1B, IL1RA, IL7, IL8, IL9, IL10, basic
-FGF, GCSF, GMCSF, IFNγ, IP10, MCP1, MIP1A, MIP1B, PDGF, TNFα, and
+COVID- patients. Initial plasma ILB, ILRA, IL, IL, IL, IL, basic
+FGF, GCSF, GMCSF, IFNγ, IP, MCP, MIPA, MIPB, PDGF, TNFα, and
 VEGF concentrations were higher in patients than in healthy adults. Plasma levels
-of IL5, IL12p70, IL15, Eotaxin, and RANTES were similar between patients and
+of IL, ILp, IL, Eotaxin, and RANTES were similar between patients and
 healthy adults. Further comparison between intensive care unit (ICU) and
-non-ICU patients showed that plasma concentrations of IL2, IL7, IL10, GCSF,
-IP10, MCP1, MIP1A, and TNFα were higher in ICU patients than non-ICU
-patients34. These findings suggested that the initiation of the immune response
+non-ICU patients showed that plasma concentrations of IL, IL, IL, GCSF,
+IP, MCP, MIPA, and TNFα were higher in ICU patients than non-ICU
+patients. These findings suggested that the initiation of the immune response
 result in the production of chemokines and cytokines, which damage normal host
 lung.
-The radiologic manifestations of SARS-CoV-2 infected patients are diverse and
-progressing rapidly35-38. Two third of patients had at least two affected lobes,
-nearly half of patients had five affected lobes37,38. The most common
+The radiologic manifestations of SARS-CoV- infected patients are diverse and
+progressing rapidly-. Two third of patients had at least two affected lobes,
+nearly half of patients had five affected lobes,. The most common
 This article is protected by copyright. All rights reserved.
 
 manifestations are patchy ground glass opacities (GGO) and patchy consolidation
-which were mainly distributed in the middle and outer zone of the lung37,38
-(Figure 2). A little fibrous stripe may appear if the condition was improved37. One
+which were mainly distributed in the middle and outer zone of the lung,
+(Figure ). A little fibrous stripe may appear if the condition was improved. One
 
 Accepted Article
 
-report suggested that there are four stages defined on CT scan36. In early stage,
+report suggested that there are four stages defined on CT scan. In early stage,
 GGO was the main radiological demonstration distributed in the lower lobes
 unilaterally or bilaterally. In progressive stage, diffuse and bilateral GGO and
 consolidation in more than two lobes became the main manifestation. In peak
@@ -225,17 +225,17 @@ stage, the diffuse GGO and dense consolidation became more prevalent. In
 absorption stage, extensive GGO could be observed and the consolidation was
 gradually absorbed.
 Pathology
-The pathological findings of human SARS-CoV-2 infection have been limited due
+The pathological findings of human SARS-CoV- infection have been limited due
 to the rare number of biopsies or autopsies. In a case reported by Xu et al. a
-50-year old man died 14 days after admission due to respiratory failure and
-cardiac arrest39. The primary finding of biopsy at autopsy was bilateral diffuse
+-year old man died  days after admission due to respiratory failure and
+cardiac arrest. The primary finding of biopsy at autopsy was bilateral diffuse
 alveolar damage with cellular fibromyxoid exudates and interstitial mononuclear
 inflammatory infiltrates dominated by lymphocytes. Multinucleated syncytial cells
 with atypical enlarged pneumocytes characterized by large nuclei, amphophilic
 granular cytoplasm, and prominent nucleoli were identified in the intraalveolar
 spaces, showing viral cytopathic-like changes. No obvious intranuclear or
 intracytoplasmic viral inclusions were identified. These pathological features
-show great similarities to SARS-CoV and MERS-CoV infection40-42. In addition,
+show great similarities to SARS-CoV and MERS-CoV infection-. In addition,
 liver and heart were studied. There is moderate microvascular steatosis and mild
 lobular and portal activity in the liver tissue and a few interstitial mononuclear
 inflammatory infiltrates in the heart tissue.
@@ -249,87 +249,87 @@ pneumonia make the diagnosis likely, the laboratory diagnosis is more reliable.
 Accepted Article
 
 RT-PCR is routinely used to detect causative viruses from respiratory
-secretions43,44. During COVID-19 transmission events, RT-PCR has served as the
-primary clinical laboratory diagnostic test25,26,30,33. Success of these tests are very
-important to understand the viral kinetics and tissue tropism found in COVID-19
+secretions,. During COVID- transmission events, RT-PCR has served as the
+primary clinical laboratory diagnostic test,,,. Success of these tests are very
+important to understand the viral kinetics and tissue tropism found in COVID-
 cases. Several specific and sensitive assays targeting RdRP, N, and E genes of the
-SARS-CoV-2 genome were designed to detect viral RNA in clinical specimens44.
-Lower respiratory tract samples provide the higher viral loads45. The sampling
-source or operation may affect RT-PCR testing results43.
+SARS-CoV- genome were designed to detect viral RNA in clinical specimens.
+Lower respiratory tract samples provide the higher viral loads. The sampling
+source or operation may affect RT-PCR testing results.
 The positive rate of RT-PCR for throat swab samples was reported to be about
-60% in early stage of COVID-1946. These findings suggested that the result of
+% in early stage of COVID-. These findings suggested that the result of
 RT-PCR should be interpret with caution. One study investigated the diagnostic
-value and consistency of chest CT compared with RT-PCR test in 1014 patients
-with suspected SARS-CoV-2 infection. The results suggest that the sensitivity of
-chest CT in suspected patients was 97% based on positive RT-PCR result and
-75% based on negative RT-PCR results. These findings indicated that chest CT is
-a sensitive modality to detect SARS-CoV-2 infection.
-During the COVID-19 epidemic in China, 10567 patients were diagnosed as
+value and consistency of chest CT compared with RT-PCR test in  patients
+with suspected SARS-CoV- infection. The results suggest that the sensitivity of
+chest CT in suspected patients was % based on positive RT-PCR result and
+% based on negative RT-PCR results. These findings indicated that chest CT is
+a sensitive modality to detect SARS-CoV- infection.
+During the COVID- epidemic in China,  patients were diagnosed as
 clinical diagnosed cases. This designation is being used in Hubei Province, where
 is the worst affected area in China. In these cases, no RT-PCR test was performed
 but diagnosis was made based on typical symptoms, exposure history, and chest
-CT manifestations consistent with COVID-19 pneumonia. Under this criteria,
-10567 cases were diagnosed and isolated. This strategy quarantined a large
+CT manifestations consistent with COVID- pneumonia. Under this criteria,
+ cases were diagnosed and isolated. This strategy quarantined a large
 number of suspected people and protected the healthy people to the most extent.
 This article is protected by copyright. All rights reserved.
 
 Based on the experiences above, we strongly recommend that the criteria of
 clinical diagnosed cases based on the symptoms, exposure history and typical
-manifestations on chest CT imaging should be used in COVID-19 affected areas
+manifestations on chest CT imaging should be used in COVID- affected areas
 
 Accepted Article
 
-that are in shortage of RT-PCR testing kits to control the COVID-19 epidemic.
+that are in shortage of RT-PCR testing kits to control the COVID- epidemic.
 Treatment
-Until the diagnosis is confirmed, SARS-CoV-2 infected patients are treated in
-single rooms25,30.As SARS-CoV-2 is an emerging virus, an effective antiviral
-treatment has not been identified. The main treatment of COVID-19 is
+Until the diagnosis is confirmed, SARS-CoV- infected patients are treated in
+single rooms,.As SARS-CoV- is an emerging virus, an effective antiviral
+treatment has not been identified. The main treatment of COVID- is
 symptomatic treatment. The antiviral drugs, including oseltamivir, ribavirin,
 ganciclovir, lopinavir, and ritonavir have been used in attempts to reduce viral
 load and to prevent the likelihood of respiratory complications in several
-studies25,26,30,33,34. Remdesivir was reported in the treatment of a patient with
-COVID-19 in the United States and got an effective result47. However, the
-efficacy of these antiviral drugs for COVID-19 need to be verified by randomized,
+studies,,,,. Remdesivir was reported in the treatment of a patient with
+COVID- in the United States and got an effective result. However, the
+efficacy of these antiviral drugs for COVID- need to be verified by randomized,
 controlled clinical trials.
 The antibiotics used generally covered common pathogens and some atypical
 pathogens. When secondary bacterial infection occurred, medication was
-administered according to the results of bacterial culture and drug sensitivity33.
+administered according to the results of bacterial culture and drug sensitivity.
 Current evidence in patients with SARS and MERS suggests that receiving
 corticosteroids did not have a survival benefit, but rather delayed viral
-clearance48-50. Therefore, routine corticosteroids should be avoided unless they are
+clearance-. Therefore, routine corticosteroids should be avoided unless they are
 indicated for other reason. Arbidol is used empirically in China because of its
-direct antiviral effect on SARS-CoV in cell culture51. Chinese herbal medicine
-formulae are used to prevent SARS-CoV-2 infection in 23 provinces in China52.
+direct antiviral effect on SARS-CoV in cell culture. Chinese herbal medicine
+formulae are used to prevent SARS-CoV- infection in  provinces in China.
 
 This article is protected by copyright. All rights reserved.
 
 Noninvasive or mechanical ventilation should be considered in patients with
 hypoxia despite oxygen supplement and worsening shortness of breath.
-Extrcorporeal membrane oxygenation (ECMO) is used as a last resort30,33,34.
+Extrcorporeal membrane oxygenation (ECMO) is used as a last resort,,.
 
 Accepted Article
 
 Prognosis
-As of February 27, 2020, a total of 2747 deaths in China and 57 deaths outside of
+As of February , , a total of  deaths in China and  deaths outside of
 China have been reported. The number of laboratory-confirmed cases and deaths
-continues to rise. The current reported mortality for COVID-19 is approximately
-3.41% compared with 10% for SARS and 35% for MERS10-12,53. The mortality
-rate was higher than 3.41% in Iran and France, lower in Italy, Japan, Republic of
-Korea, and United States (Figure 3). Considering the quick spread of COVID-19,
+continues to rise. The current reported mortality for COVID- is approximately
+.% compared with % for SARS and % for MERS-,. The mortality
+rate was higher than .% in Iran and France, lower in Italy, Japan, Republic of
+Korea, and United States (Figure ). Considering the quick spread of COVID-,
 It is still too early to assess the mortality. All countries in the world should
-respond to the epidemic effectively. Approximately 20% to 25% SARS-CoV-2
-infected patients developed ARDS and required ICU care30,33,34. Current evidence
-indicated that older age and comorbidity may be risk factors for poor outcome30.
+respond to the epidemic effectively. Approximately % to % SARS-CoV-
+infected patients developed ARDS and required ICU care,,. Current evidence
+indicated that older age and comorbidity may be risk factors for poor outcome.
 Summary and outlook
-This review summarizes the current findings of SARS-CoV-2 along with the
+This review summarizes the current findings of SARS-CoV- along with the
 treatment for this severe coronavirus infection. The most common symptoms were
 addressed. Due to the only biopsy report, the pathological findings associated with
-SARS-CoV-2 infection have been limited. Autopsy is warranted and valuable for
+SARS-CoV- infection have been limited. Autopsy is warranted and valuable for
 future research.
 The WHO issued a public health emergency of international concern on January
-30, 2020. SARS-CoV-2 epidemic is becoming a global concern. At the moment
-there is no vaccine and no specific treatment for COVID-19. The best strategy to
-deal with SARS-CoV-2 epidemic includes controlling the sources of infection,
+, . SARS-CoV- epidemic is becoming a global concern. At the moment
+there is no vaccine and no specific treatment for COVID-. The best strategy to
+deal with SARS-CoV- epidemic includes controlling the sources of infection,
 protecting the susceptible people, and cutting off the transmission. The infected
 This article is protected by copyright. All rights reserved.
 
@@ -339,348 +339,348 @@ should be quarantined with follow-up. The healthy people should be aware of the
 
 Accepted Article
 
-severity of COVID-19 and take measures to protect themselves, such as staying at
+severity of COVID- and take measures to protect themselves, such as staying at
 home, limiting social contacts, and wearing protective mask in public. The
 authorities should encourage people to stay at home; discourage mass gathering;
 postpone or cancel public events; and close public institutions. These control
-measures will help COVID-19 infected countries to prevent the epidemic
+measures will help COVID- infected countries to prevent the epidemic
 effectively. Future research will focus on improving the accuracy of early
 diagnostic tests, developing the vaccine and identifying effective drugs. Therefore,
-elucidating the pathogenesis of SARS-CoV-2 infection is imperative for achieving
+elucidating the pathogenesis of SARS-CoV- infection is imperative for achieving
 such goals.
 Figures
-Figure 1 Schematic model of SARS-CoV-2 life cycle. S protein binds to the
-cellular receptor ACE2 to facilitate the entry of the virus. After the fusion of viral and
+Figure  Schematic model of SARS-CoV- life cycle. S protein binds to the
+cellular receptor ACE to facilitate the entry of the virus. After the fusion of viral and
 plasma membranes, virus RNA undergoes replication and transcription. The proteins are
 synthesized. Viral proteins and new RNA genome are subsequently assembled in the
 ER and Golgi, followed by budding into the lumen of the ERGIC. New virions are
-released through vesicles. ACE2, angiotensin-converting enzyme 2; ER, endoplasmic
+released through vesicles. ACE, angiotensin-converting enzyme ; ER, endoplasmic
 reticulum; ERGIC, endoplasmic reticulum/Golgi intermediate compartment.
 
 This article is protected by copyright. All rights reserved.
 
-Figure 2 Chest CT Manifestations of COVID-19. (a) single GGO; (b) diffuse
+Figure  Chest CT Manifestations of COVID-. (a) single GGO; (b) diffuse
 
 Accepted Article
 
 GGO; (c) consolidation; (c) both GGO and consolidation.
 
-Figure 3 Mortality rates of different countries or regions, 27 February 2020.
+Figure  Mortality rates of different countries or regions,  February .
 
 *A cruise ship currently in Japanese territorial waters.
 Acknowledgement
-We thank all the doctors and nurses who fight the virus during the COVID-19
+We thank all the doctors and nurses who fight the virus during the COVID-
 epidemic bravely.
 
 This article is protected by copyright. All rights reserved.
 
 Reference
-1.
+.
 
 Report of clustering pneumonia of unknown etiology in Wuhan City. Wuhan Municipal
 Health Commission.
-2019:(http://wjw.wuhan.gov.cn/front/web/showDetail/2019123108989).
+:(http://wjw.wuhan.gov.cn/front/web/showDetail/).
 
 Accepted Article
 
-2.
+.
 
-Lu R, Zhao X, Li J, et al. Genomic characterisation and epidemiology of 2019 novel
+Lu R, Zhao X, Li J, et al. Genomic characterisation and epidemiology of  novel
 coronavirus: implications for virus origins and receptor binding. Lancet.
-2020;395(10224):565-574.
+;():-.
 
-3.
+.
 
 Zhou P, Yang XL, Wang XG, et al. A pneumonia outbreak associated with a new
-coronavirus of probable bat origin. Nature. 2020.
+coronavirus of probable bat origin. Nature. .
 
-4.
+.
 
 Zhu N, Zhang D, Wang W, et al. A Novel Coronavirus from Patients with Pneumonia in
-China, 2019. N Engl J Med. 2020;382(8):727-733.
+China, . N Engl J Med. ;():-.
 
-5.
+.
 
 Zumla A, Chan JF, Azhar EI, Hui DS, Yuen KY. Coronaviruses - drug discovery and
-therapeutic options. Nat Rev Drug Discov. 2016;15(5):327-347.
+therapeutic options. Nat Rev Drug Discov. ;():-.
 
-6.
+.
 
 Chan JF, Lau SK, Woo PC. The emerging novel Middle East respiratory syndrome
-coronavirus: the "knowns" and "unknowns". J Formos Med Assoc. 2013;112(7):372-381.
+coronavirus: the "knowns" and "unknowns". J Formos Med Assoc. ;():-.
 
-7.
+.
 
 Channappanavar R, Zhao J, Perlman S. T cell-mediated immune response to respiratory
-coronaviruses. Immunol Res. 2014;59(1-3):118-128.
+coronaviruses. Immunol Res. ;(-):-.
 
-8.
+.
 
 Cheng VC, Lau SK, Woo PC, Yuen KY. Severe acute respiratory syndrome coronavirus
 as an agent of emerging and reemerging infection. Clin Microbiol Rev.
-2007;20(4):660-694.
+;():-.
 
-9.
+.
 
 Chan JF, Lau SK, To KK, Cheng VC, Woo PC, Yuen KY. Middle East respiratory
 syndrome coronavirus: another zoonotic betacoronavirus causing SARS-like disease. Clin
-Microbiol Rev. 2015;28(2):465-522.
+Microbiol Rev. ;():-.
 
-10.
+.
 
 Gretebeck LM, Subbarao K. Animal models for SARS and MERS coronaviruses. Curr
-Opin Virol. 2015;13:123-129.
+Opin Virol. ;:-.
 
-11.
+.
 
 Gralinski LE, Baric RS. Molecular pathology of emerging coronavirus infections. J
-Pathol. 2015;235(2):185-195.
+Pathol. ;():-.
 
-12.
+.
 
 Drosten C, Gunther S, Preiser W, et al. Identification of a novel coronavirus in patients
-with severe acute respiratory syndrome. N Engl J Med. 2003;348(20):1967-1976.
+with severe acute respiratory syndrome. N Engl J Med. ;():-.
 
 This article is protected by copyright. All rights reserved.
 
-13.
+.
 
 Liu J, Zheng X, Tong Q, et al. Overlapping and discrete aspects of the pathology and
 pathogenesis of the emerging human pathogenic coronaviruses SARS-CoV, MERS-CoV,
-and 2019-nCoV. J Med Virol. 2020.
+and -nCoV. J Med Virol. .
 
-14.
+.
 
 Zhou P, Yang X-L, Wang X-G, et al. Discovery of a novel coronavirus associated with
 the recent pneumonia outbreak in humans and its potential bat origin.
 
 Accepted Article
 
-2020:2020.2001.2022.914952.
-15.
+:....
+.
 
 Li X, Zai J, Zhao Q, et al. Evolutionary history, potential intermediate animal host, and
-cross-species analyses of SARS-CoV-2. J Med Virol. 2020.
+cross-species analyses of SARS-CoV-. J Med Virol. .
 
-16.
+.
 
 Du L, He Y, Zhou Y, Liu S, Zheng BJ, Jiang S. The spike protein of SARS-CoV--a target
-for vaccine and therapeutic development. Nat Rev Microbiol. 2009;7(3):226-236.
+for vaccine and therapeutic development. Nat Rev Microbiol. ;():-.
 
-17.
+.
 
 Wang Q, Wong G, Lu G, Yan J, Gao GF. MERS-CoV spike protein: Targets for vaccines
-and therapeutics. Antiviral Res. 2016;133:165-177.
+and therapeutics. Antiviral Res. ;:-.
 
-18.
+.
 
 Lu G, Wang Q, Gao GF. Bat-to-human: spike features determining 'host jump' of
 coronaviruses SARS-CoV, MERS-CoV, and beyond. Trends Microbiol.
-2015;23(8):468-478.
+;():-.
 
-19.
+.
 
 Li F. Structure, Function, and Evolution of Coronavirus Spike Proteins. Annu Rev Virol.
-2016;3(1):237-261.
+;():-.
 
-20.
+.
 
 He Y, Zhou Y, Liu S, et al. Receptor-binding domain of SARS-CoV spike protein
 induces highly potent neutralizing antibodies: implication for developing subunit vaccine.
-Biochem Biophys Res Commun. 2004;324(2):773-781.
+Biochem Biophys Res Commun. ;():-.
 
-21.
+.
 
-Oudit GY, Kassiri Z, Jiang C, et al. SARS-coronavirus modulation of myocardial ACE2
+Oudit GY, Kassiri Z, Jiang C, et al. SARS-coronavirus modulation of myocardial ACE
 expression and inflammation in patients with SARS. Eur J Clin Invest.
-2009;39(7):618-625.
+;():-.
 
-22.
+.
 
-Li W, Moore MJ, Vasilieva N, et al. Angiotensin-converting enzyme 2 is a functional
-receptor for the SARS coronavirus. Nature. 2003;426(6965):450-454.
+Li W, Moore MJ, Vasilieva N, et al. Angiotensin-converting enzyme  is a functional
+receptor for the SARS coronavirus. Nature. ;():-.
 
-23.
+.
 
-Kuba K, Imai Y, Rao S, et al. A crucial role of angiotensin converting enzyme 2 (ACE2)
-in SARS coronavirus-induced lung injury. Nat Med. 2005;11(8):875-879.
+Kuba K, Imai Y, Rao S, et al. A crucial role of angiotensin converting enzyme  (ACE)
+in SARS coronavirus-induced lung injury. Nat Med. ;():-.
 
-24.
+.
 
-Wrapp D, Wang N, Corbett KS, et al. Cryo-EM structure of the 2019-nCoV spike in the
-prefusion conformation. Science. 2020.
+Wrapp D, Wang N, Corbett KS, et al. Cryo-EM structure of the -nCoV spike in the
+prefusion conformation. Science. .
 
-25.
+.
 
 Li Q, Guan X, Wu P, et al. Early Transmission Dynamics in Wuhan, China, of Novel
-Coronavirus-Infected Pneumonia. N Engl J Med. 2020.
+Coronavirus-Infected Pneumonia. N Engl J Med. .
 
 This article is protected by copyright. All rights reserved.
 
-26.
+.
 
 Chan JF, Yuan S, Kok KH, et al. A familial cluster of pneumonia associated with the
-2019 novel coronavirus indicating person-to-person transmission: a study of a family
-cluster. Lancet. 2020;395(10223):514-523.
+ novel coronavirus indicating person-to-person transmission: a study of a family
+cluster. Lancet. ;():-.
 
-27.
+.
 
 Xia J, Tong J, Liu M, Shen Y, Guo D. Evaluation of coronavirus in tears and conjunctival
 
 Accepted Article
 
-secretions of patients with SARS-CoV-2 infection. J Med Virol. 2020.
-28.
+secretions of patients with SARS-CoV- infection. J Med Virol. .
+.
 
 Loon SC, Teoh SC, Oon LL, et al. The severe acute respiratory syndrome coronavirus in
-tears. Br J Ophthalmol. 2004;88(7):861-863.
+tears. Br J Ophthalmol. ;():-.
 
-29.
+.
 
 Zhao S, Lin Q, Ran J, et al. Preliminary estimation of the basic reproduction number of
-novel coronavirus (2019-nCoV) in China, from 2019 to 2020: A data-driven analysis in
-the early phase of the outbreak. Int J Infect Dis. 2020;92:214-217.
+novel coronavirus (-nCoV) in China, from  to : A data-driven analysis in
+the early phase of the outbreak. Int J Infect Dis. ;:-.
 
-30.
+.
 
-Wang D, Hu B, Hu C, et al. Clinical Characteristics of 138 Hospitalized Patients With
-2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. JAMA. 2020.
+Wang D, Hu B, Hu C, et al. Clinical Characteristics of  Hospitalized Patients With
+ Novel Coronavirus-Infected Pneumonia in Wuhan, China. JAMA. .
 
-31.
+.
 
-Bai Y, Yao L, Wei T, et al. Presumed Asymptomatic Carrier Transmission of COVID-19.
-JAMA. 2020.
+Bai Y, Yao L, Wei T, et al. Presumed Asymptomatic Carrier Transmission of COVID-.
+JAMA. .
 
-32.
+.
 
 Wu Z, McGoogan JM. Characteristics of and Important Lessons From the Coronavirus
-Disease 2019 (COVID-19) Outbreak in China: Summary of a Report of 72314 Cases
-From the Chinese Center for Disease Control and Prevention. JAMA. 2020.
+Disease  (COVID-) Outbreak in China: Summary of a Report of  Cases
+From the Chinese Center for Disease Control and Prevention. JAMA. .
 
-33.
+.
 
-Chen N, Zhou M, Dong X, et al. Epidemiological and clinical characteristics of 99 cases
-of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet.
-2020;395(10223):507-513.
+Chen N, Zhou M, Dong X, et al. Epidemiological and clinical characteristics of  cases
+of  novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet.
+;():-.
 
-34.
+.
 
-Huang C, Wang Y, Li X, et al. Clinical features of patients infected with 2019 novel
-coronavirus in Wuhan, China. Lancet. 2020;395(10223):497-506.
+Huang C, Wang Y, Li X, et al. Clinical features of patients infected with  novel
+coronavirus in Wuhan, China. Lancet. ;():-.
 
-35.
+.
 
 Ai T, Yang Z, Hou H, et al. Correlation of Chest CT and RT-PCR Testing in Coronavirus
-Disease 2019 (COVID-19) in China: A Report of 1014 Cases. Radiology. 2020:200642.
+Disease  (COVID-) in China: A Report of  Cases. Radiology. :.
 
-36.
+.
 
 Pan F, Ye T, Sun P, et al. Time Course of Lung Changes On Chest CT During Recovery
-From 2019 Novel Coronavirus (COVID-19) Pneumonia. Radiology. 2020:200370.
+From  Novel Coronavirus (COVID-) Pneumonia. Radiology. :.
 
-37.
+.
 
 Pan Y, Guan H, Zhou S, et al. Initial CT findings and temporal changes in patients with
-the novel coronavirus pneumonia (2019-nCoV): a study of 63 patients in Wuhan, China.
-Eur Radiol. 2020.
+the novel coronavirus pneumonia (-nCoV): a study of  patients in Wuhan, China.
+Eur Radiol. .
 
-38.
+.
 
-Shi H, Han X, Jiang N, et al. Radiological findings from 81 patients with COVID-19
-pneumonia in Wuhan, China: a descriptive study. Lancet Infect Dis. 2020.
+Shi H, Han X, Jiang N, et al. Radiological findings from  patients with COVID-
+pneumonia in Wuhan, China: a descriptive study. Lancet Infect Dis. .
 
 This article is protected by copyright. All rights reserved.
 
-39.
+.
 
-Xu Z, Shi L, Wang Y, et al. Pathological findings of COVID-19 associated with acute
-respiratory distress syndrome. Lancet Respir Med. 2020.
+Xu Z, Shi L, Wang Y, et al. Pathological findings of COVID- associated with acute
+respiratory distress syndrome. Lancet Respir Med. .
 
-40.
+.
 
 Hui DSC, Zumla A. Severe Acute Respiratory Syndrome: Historical, Epidemiologic, and
-Clinical Features. Infect Dis Clin North Am. 2019;33(4):869-889.
+Clinical Features. Infect Dis Clin North Am. ;():-.
 
 Accepted Article
 
-41.
+.
 
 van den Brand JM, Smits SL, Haagmans BL. Pathogenesis of Middle East respiratory
-syndrome coronavirus. J Pathol. 2015;235(2):175-184.
+syndrome coronavirus. J Pathol. ;():-.
 
-42.
+.
 
 Nassar MS, Bakhrebah MA, Meo SA, Alsuabeyl MS, Zaher WA. Middle East
 Respiratory Syndrome Coronavirus (MERS-CoV) infection: epidemiology, pathogenesis
-and clinical characteristics. Eur Rev Med Pharmacol Sci. 2018;22(15):4956-4961.
+and clinical characteristics. Eur Rev Med Pharmacol Sci. ;():-.
 
-43.
+.
 
-Binnicker MJ. Emergence of a Novel Coronavirus Disease (COVID-19) and the
+Binnicker MJ. Emergence of a Novel Coronavirus Disease (COVID-) and the
 Importance of Diagnostic Testing: Why Partnership between Clinical Laboratories, Public
-Health Agencies, and Industry Is Essential to Control the Outbreak. Clin Chem. 2020.
+Health Agencies, and Industry Is Essential to Control the Outbreak. Clin Chem. .
 
-44.
+.
 
-Corman VM, Landt O, Kaiser M, et al. Detection of 2019 novel coronavirus
-(2019-nCoV) by real-time RT-PCR. Euro Surveill. 2020;25(3).
+Corman VM, Landt O, Kaiser M, et al. Detection of  novel coronavirus
+(-nCoV) by real-time RT-PCR. Euro Surveill. ;().
 
-45.
+.
 
-Zou L, Ruan F, Huang M, et al. SARS-CoV-2 Viral Load in Upper Respiratory
-Specimens of Infected Patients. N Engl J Med. 2020.
+Zou L, Ruan F, Huang M, et al. SARS-CoV- Viral Load in Upper Respiratory
+Specimens of Infected Patients. N Engl J Med. .
 
-46.
+.
 
 Yang Y, Yang M, Shen C, et al. Evaluating the accuracy of different respiratory
-specimens in the laboratory diagnosis and monitoring the viral shedding of 2019-nCoV
-infections. 2020:2020.2002.2011.20021493.
+specimens in the laboratory diagnosis and monitoring the viral shedding of -nCoV
+infections. :....
 
-47.
+.
 
-Holshue ML, DeBolt C, Lindquist S, et al. First Case of 2019 Novel Coronavirus in the
-United States. N Engl J Med. 2020.
+Holshue ML, DeBolt C, Lindquist S, et al. First Case of  Novel Coronavirus in the
+United States. N Engl J Med. .
 
-48.
+.
 
 Arabi YM, Mandourah Y, Al-Hameed F, et al. Corticosteroid Therapy for Critically Ill
 Patients with Middle East Respiratory Syndrome. Am J Respir Crit Care Med.
-2018;197(6):757-767.
+;():-.
 
-49.
+.
 
 Lansbury L, Rodrigo C, Leonardi-Bee J, Nguyen-Van-Tam J, Lim WS. Corticosteroids as
 adjunctive therapy in the treatment of influenza. Cochrane Database Syst Rev.
-2019;2:CD010406.
+;:CD.
 
-50.
+.
 
 Stockman LJ, Bellamy R, Garner P. SARS: systematic review of treatment effects. PLoS
-Med. 2006;3(9):e343.
+Med. ;():e.
 
-51.
+.
 
 Khamitov RA, Loginova S, Shchukina VN, Borisevich SV, Maksimov VA, Shuster AM.
 [Antiviral activity of arbidol and its derivatives against the pathogen of severe acute
-respiratory syndrome in the cell cultures]. Vopr Virusol. 2008;53(4):9-13.
+respiratory syndrome in the cell cultures]. Vopr Virusol. ;():-.
 
 This article is protected by copyright. All rights reserved.
 
-52.
+.
 
 Luo H, Tang QL, Shang YX, et al. Can Chinese Medicine Be Used for Prevention of
-Corona Virus Disease 2019 (COVID-19)? A Review of Historical Classics, Research
-Evidence and Current Prevention Programs. Chin J Integr Med. 2020.
+Corona Virus Disease  (COVID-)? A Review of Historical Classics, Research
+Evidence and Current Prevention Programs. Chin J Integr Med. .
 
-53.
+.
 
-Wang W, Tang J, Wei F. Updated understanding of the outbreak of 2019 novel
+Wang W, Tang J, Wei F. Updated understanding of the outbreak of  novel
 
 Accepted Article
 
-coronavirus (2019-nCoV) in Wuhan, China. J Med Virol. 2020;92(4):441-447.
+coronavirus (-nCoV) in Wuhan, China. J Med Virol. ;():-.
 
-Table 1 Zoonotic coronaviruses that causes serious disease in human.
+Table  Zoonotic coronaviruses that causes serious disease in human.
 
 Coronavirus
 
@@ -716,25 +716,25 @@ Bat
 
 SARS
 
-ACE2
+ACE
 
-22
+
 
 Bat
 
 MERS
 
-DPP4
+DPP
 
-17
+
 
 NR
 
-COVID-19
+COVID-
 
-ACE2
+ACE
 
-24
+
 
 palm civet /
 racoon
@@ -746,7 +746,7 @@ Humans
 Dromedary
 camels
 
-SARS-CoV-2
+SARS-CoV-
 
 Humans
 
@@ -754,7 +754,7 @@ NR
 
 This article is protected by copyright. All rights reserved.
 
-Table 2 Clinical Symptoms associated with COVID-19.
+Table  Clinical Symptoms associated with COVID-.
 
 Accepted Article
 
@@ -769,10 +769,10 @@ nonpneumonia or mild pneumonia
 
 Severe type
 
-dyspnea, respiratory frequency ≥ 30/min, blood oxygen
-saturation ≤ 93%, partial pressure of arterial oxygen to fraction
-of inspired oxygen ratio < 300, and/or lung infiltrates >50%
-within 24 to 48 hours
+dyspnea, respiratory frequency ≥ /min, blood oxygen
+saturation ≤ %, partial pressure of arterial oxygen to fraction
+of inspired oxygen ratio < , and/or lung infiltrates >%
+within  to  hours
 
 Critical type
 

@@ -1,1293 +1,1293 @@
-AAC Accepted Manuscript Posted Online 9 March 2020
-Antimicrob. Agents Chemother. doi:10.1128/AAC.00399-20
-Copyright © 2020 American Society for Microbiology. All Rights Reserved.
+AAC Accepted Manuscript Posted Online  March 
+Antimicrob. Agents Chemother. doi:./AAC.-
+Copyright ©  American Society for Microbiology. All Rights Reserved.
 
-1
 
-Compounds with therapeutic potential against novel respiratory 2019 coronavirus
 
-2
-3
+Compounds with therapeutic potential against novel respiratory  coronavirus
+
+
+
 
 Miguel Angel Martinez
 
-4
+
 IrsiCaixa, Hospital Universitari Germans Trias i Pujol, Universitat Autònoma de Barcelona (UAB),
 
-6
+
 
 Badalona, Spain
 
-7
-8
-9
-10
+
+
+
+
 
 Address correspondence to Miguel Angel Martínez, Fundació irsiCaixa, Hospital Universitari Germans
 
-11
 
-Trias i Pujol, 08916 Badalona, Spain. Tel: +34 934656374; Fax: +34 934653968; E-mail address:
 
-12
+Trias i Pujol,  Badalona, Spain. Tel: + ; Fax: + ; E-mail address:
+
+
 
 mmartinez@irsicaixa.es
 
-13
 
-1
 
-Downloaded from http://aac.asm.org/ on March 28, 2020 by guest
 
-5
+
+Downloaded from http://aac.asm.org/ on March ,  by guest
+
+
 
 Abstract
 
-15
 
-Currently, the expansion of the novel human respiratory coronavirus (known as: SARS-CoV-2,
 
-16
+Currently, the expansion of the novel human respiratory coronavirus (known as: SARS-CoV-,
 
-COVID-2019, or 2019-nCoV) has stressed the need for therapeutic alternatives to alleviate and
 
-17
+
+COVID-, or -nCoV) has stressed the need for therapeutic alternatives to alleviate and
+
+
 
 stop this new epidemic. The previous epidemics of high-morbidity human coronaviruses, such
 
-18
 
-as the acute respiratory syndrome coronavirus (SARS-CoV) in 2003, and the Middle East
 
-19
+as the acute respiratory syndrome coronavirus (SARS-CoV) in , and the Middle East
 
-respiratory syndrome corona virus (MERS-CoV) in 2012, prompted the characterization of
 
-20
+
+respiratory syndrome corona virus (MERS-CoV) in , prompted the characterization of
+
+
 
 compounds that could be potentially active against the currently emerging novel coronavirus
 
-21
 
-SARS-CoV-2. The most promising compound is remdesivir (GS-5734), a nucleotide analog
 
-22
+SARS-CoV-. The most promising compound is remdesivir (GS-), a nucleotide analog
+
+
 
 prodrug currently in clinical trials for treating Ebola virus infections. Remdesivir inhibited the
 
-23
+
 
 replication of SARS-CoV and MERS-CoV in tissue cultures, and it displayed efficacy in non-
 
-24
 
-human animal models. In addition, a combination of the human immunodeficiency virus type 1
 
-25
+human animal models. In addition, a combination of the human immunodeficiency virus type 
 
-(HIV-1) protease inhibitors, lopinavir/ritonavir, and interferon beta (LPV/RTV-INFb) were shown
 
-26
+
+(HIV-) protease inhibitors, lopinavir/ritonavir, and interferon beta (LPV/RTV-INFb) were shown
+
+
 
 to be effective in patients infected with SARS-CoV. LPV/RTV-INFb also improved clinical
 
-27
+
 
 parameters in marmosets and mice infected with MERS-CoV. Remarkably, the therapeutic
 
-28
+
 
 efficacy of remdesivir appeared to be superior to that of LPV/RTV-INFb against MERS-CoV in a
 
-29
+
 
 transgenic humanized mice model. The relatively high mortality rates associated with these
 
-30
 
-three novel human coronavirus infections, SARS-CoV, MERS-CoV, and SARS-CoV-2, has
 
-31
+three novel human coronavirus infections, SARS-CoV, MERS-CoV, and SARS-CoV-, has
+
+
 
 suggested that pro-inflammatory responses might play a role in the pathogenesis. It remains
 
-32
+
 
 unknown whether the generated inflammatory state should be targeted. Therapeutics that
 
-33
+
 
 target the coronavirus alone might not be able to reverse highly pathogenic infections. This
 
-34
+
 
 minireview aimed to provide a summary of therapeutic compounds that showed potential in
 
-35
 
-fighting SARS-CoV-2 infections.
 
-2
+fighting SARS-CoV- infections.
 
-Downloaded from http://aac.asm.org/ on March 28, 2020 by guest
 
-14
 
-On December 30, 2019, a cluster of 27 pneumonia cases (including 7 severe cases) of unknown
+Downloaded from http://aac.asm.org/ on March ,  by guest
 
-37
+
+
+On December , , a cluster of  pneumonia cases (including  severe cases) of unknown
+
+
 
 origin emerged in Wuhan (Hubei, China) and were reported to the National Health Commission
 
-38
 
-of China (1). In the early stages of this pneumonia, patients developed severe acute respiratory
 
-39
+of China (). In the early stages of this pneumonia, patients developed severe acute respiratory
+
+
 
 infection symptoms, and some patients rapidly developed acute respiratory distress syndrome
 
-40
 
-(2). Real time RT-PCR and deep sequencing analysis from lower respiratory tract samples
 
-41
+(). Real time RT-PCR and deep sequencing analysis from lower respiratory tract samples
 
-identified a novel human coronavirus, now called SARS-CoV-2 (3–5). By the end of January,
 
-42
 
-2020, nearly 50,000 confirmed cases were reported in China, and the first confirmed cases were
+identified a novel human coronavirus, now called SARS-CoV- (–). By the end of January,
 
-43
+
+
+, nearly , confirmed cases were reported in China, and the first confirmed cases were
+
+
 
 reported in Thailand, Nepal, Republic of Korea, USA, Singapore, France, Viet Nam, Canada,
 
-44
+
 
 Australia, Malaysia, Germany, UAE, Finland, Italy, Cambodia, Sri Lanka, the Russian Federation,
 
-45
+
 
 Spain, Sweden, India, and the Philippines. Among the patients with confirmed cases, most were
 
-46
 
-aged 30–80 years and had mild infections (80%). The fatality rate was around 2% (6).
 
-47
-48
+aged – years and had mild infections (%). The fatality rate was around % ().
+
+
+
 
 Coronaviruses can cause different types of infections in diverse animals. In humans, they mainly
 
-49
 
-produce respiratory tract infections, as observed with SARS-CoV and MERS-Cov (7, 8).
 
-50
+produce respiratory tract infections, as observed with SARS-CoV and MERS-Cov (, ).
 
-Sequencing and phylogenetic analyses have shown that the novel SARSCoV-2 virus is closely
 
-51
 
-related to a group of human SARS-like coronaviruses and bat SARS-related coronaviruses (9–
+Sequencing and phylogenetic analyses have shown that the novel SARSCoV- virus is closely
 
-52
 
-11). The origin of SARSCoV-2 remains unclear; it is unknown how it was first transmitted to
 
-53
+related to a group of human SARS-like coronaviruses and bat SARS-related coronaviruses (–
+
+
+
+). The origin of SARSCoV- remains unclear; it is unknown how it was first transmitted to
+
+
 
 humans. The high prevalence of SARS-related coronaviruses in bats has suggested that a bat
 
-54
+
 
 coronavirus might have jumped into a civet or some other mammal, and from there to humans,
 
-55
 
-which started the former 2003 SARS epidemic. Initial confirmed cases of SARSCoV-2 were
 
-56
+which started the former  SARS epidemic. Initial confirmed cases of SARSCoV- were
+
+
 
 associated with Huanan seafood and live animal markets. However, no animal source has been
 
-57
+
 
 identified to date, and spillover events may continue to occur. Although bats might be the
 
-3
 
-Downloaded from http://aac.asm.org/ on March 28, 2020 by guest
 
-36
+Downloaded from http://aac.asm.org/ on March ,  by guest
 
-58
 
-source of SARSCoV-2, it is critical to identify the intermediate species to stop the current spread
 
-59
+
+
+source of SARSCoV-, it is critical to identify the intermediate species to stop the current spread
+
+
 
 and to prevent future human SARS-related coronavirus epidemics.
 
-60
 
-A key question is whether the current SARSCoV-2 epidemic is similar to other SARS outbreaks or
 
-62
+A key question is whether the current SARSCoV- epidemic is similar to other SARS outbreaks or
+
+
 
 whether it shows different features. The epidemiological and clinical characteristics of
 
-63
 
-SARSCoV-2 indicate that this new outbreak is different from the 2003-SARS. SARSCoV-2 displays
 
-64
+SARSCoV- indicate that this new outbreak is different from the -SARS. SARSCoV- displays
 
-higher transmissibility and lower mortality compared to the 2003-SARS (1, 3, 4). SARSCoV-2 has
 
-65
 
-shown efficient intra-familial spread (4). The asymptomatic period of SARSCoV-2 infections
+higher transmissibility and lower mortality compared to the -SARS (, , ). SARSCoV- has
 
-66
 
-oscillates between 2 and 14 days, and some individuals probably transmit the virus without
 
-67
+shown efficient intra-familial spread (). The asymptomatic period of SARSCoV- infections
+
+
+
+oscillates between  and  days, and some individuals probably transmit the virus without
+
+
 
 developing any disease symptoms. It remains to be elucidated whether this virus replicates
 
-68
+
 
 more readily in the upper airway than SARS-CoV and MEERS-CoV and whether it is similar to
 
-69
+
 
 other human coronaviruses (HCoV) that cause colds, but not pneumonia. It will be necessary to
 
-70
+
 
 identify molecular determinants that mediate transmission from animal to human, and from
 
-71
 
-human to human. Of note, in the novel SARS-CoV-2, the nucleotide sequence of the external
 
-72
+human to human. Of note, in the novel SARS-CoV-, the nucleotide sequence of the external
 
-ectodomain in the spike protein receptor-binding domain is different from that of the 2003
 
-73
+
+ectodomain in the spike protein receptor-binding domain is different from that of the 
+
+
 
 SARS-CoV. When individual bat coronavirus spike genes were introduced into SARS-CoV
 
-74
+
 
 infectious clones, the SARS-CoV/bat-CoV spike viruses could bind to the human, bat, or civet
 
-75
 
-angiotensin converting enzyme 2 (ACE2) cellular receptor (12). Understanding the interaction
 
-76
+angiotensin converting enzyme  (ACE) cellular receptor (). Understanding the interaction
 
-between this novel SARS-CoV-2 spike protein and the host ACE2 receptor might reveal how this
 
-77
+
+between this novel SARS-CoV- spike protein and the host ACE receptor might reveal how this
+
+
 
 virus overcame the species barrier between animals and humans. As discussed below, this
 
-78
+
 
 information might promote the design of effective antivirals.
 
-79
 
-4
 
-Downloaded from http://aac.asm.org/ on March 28, 2020 by guest
 
-61
+
+Downloaded from http://aac.asm.org/ on March ,  by guest
+
+
 
 To predict new zoonotic coronavirus jumps across species and to understand the rate of virus
 
-81
 
-spread among people, it is crucial to determine whether SARSCoV-2 is mutating to improve its
 
-82
+spread among people, it is crucial to determine whether SARSCoV- is mutating to improve its
 
-binding to human receptors for infection. As an RNA virus, SARS-CoV-2 has intrinsic genetic
 
-83
+
+binding to human receptors for infection. As an RNA virus, SARS-CoV- has intrinsic genetic
+
+
 
 variability, which results in a high mutation rate. Moreover, coronaviruses have the largest
 
-84
 
-genomes (∼30 kb) among RNA viruses. However, part of their sequence encodes a
 
-85
+genomes (∼ kb) among RNA viruses. However, part of their sequence encodes a
 
-proofreading 3' exonuclease that can increase replication fidelity (13). It has been suggested
 
-86
 
-that any adaptation in the SARS-CoV-2 sequence that might make it more efficient at
+proofreading ' exonuclease that can increase replication fidelity (). It has been suggested
 
-87
 
-transmitting from person to person might also increase its virulence (14). However, this
 
-88
+that any adaptation in the SARS-CoV- sequence that might make it more efficient at
+
+
+
+transmitting from person to person might also increase its virulence (). However, this
+
+
 
 mechanism could lead to a genetic bottleneck, known as Muller’s ratchet, which could
 
-89
 
-significantly decrease viral fitness, (15). Muller's ratchet predicts that, when mutation rates are
 
-90
+significantly decrease viral fitness, (). Muller's ratchet predicts that, when mutation rates are
+
+
 
 high and a significant proportion of mutations are deleterious, a type of irreversible ratchet
 
-91
+
 
 mechanism will gradually reduce the mean fitness of small populations of asexual organisms.
 
-92
+
 
 Because genetic bottlenecks for RNA viruses often occur during respiratory droplet
 
-93
 
-transmissions, the SARS-CoV-2 is expected to become less virulent through human to human
 
-94
+transmissions, the SARS-CoV- is expected to become less virulent through human to human
 
-transmissions (16).
 
-95
-96
+
+transmissions ().
+
+
+
 
 From the public health perspective, we urgently need to develop an effective vaccine and
 
-97
 
-antiviral therapeutics to stop the SARS-CoV-2 epidemic. Moreover, social and economic issues
 
-98
+antiviral therapeutics to stop the SARS-CoV- epidemic. Moreover, social and economic issues
+
+
 
 generated by this epidemic also call for rapid interventions. This review focuses on the
 
-99
+
 
 potential of repurposing preexisting compounds that might provide new opportunities for
 
-100
 
-treating people infected with SARS-CoV-2. Previous work with SARS-CoV and MERS-CoV has
 
-101
+treating people infected with SARS-CoV-. Previous work with SARS-CoV and MERS-CoV has
+
+
 
 provided an opportunity to accelerate the identification of meaningful therapies for fighting the
 
-5
 
-Downloaded from http://aac.asm.org/ on March 28, 2020 by guest
 
-80
+Downloaded from http://aac.asm.org/ on March ,  by guest
 
-102
 
-novel SARS-CoV-2 epidemic. Nevertheless, we must be aware that, currently, no compound
 
-103
+
 
-that targets SARS-CoV or MERS-CoV has moved beyond phase 1 trials.
+novel SARS-CoV- epidemic. Nevertheless, we must be aware that, currently, no compound
 
-104
 
-The most promising antiviral for fighting SARS-CoV-2 is remdesivir (GS-5734). Remdesivir is an
 
-106
+that targets SARS-CoV or MERS-CoV has moved beyond phase  trials.
+
+
+
+The most promising antiviral for fighting SARS-CoV- is remdesivir (GS-). Remdesivir is an
+
+
 
 adenosine nucleotide analogue prodrug with broad-spectrum antiviral activity against
 
-107
+
 
 filoviruses, paramyxoviruses, pneumoviruses, and pathogenic coronaviruses, like SARS-CoV and
 
-108
 
-MERS-CoV (17). Pharmacokinetic studies have been completed and clinical trials are ongoing
 
-109
+MERS-CoV (). Pharmacokinetic studies have been completed and clinical trials are ongoing
 
-for testing remdesivir efficacy in treating Ebola virus (18). Previous studies have indicated that
 
-110
+
+for testing remdesivir efficacy in treating Ebola virus (). Previous studies have indicated that
+
+
 
 nucleotide analogues generally show low efficacy against coronaviruses, due to the virus
 
-111
+
 
 exonuclease proofreading enzyme. Nevertheless, remdesivir was effective against SARS-CoV,
 
-112
 
-MERS-CoV, and bat-CoV strains (17). In tissue cultures, remdesivir displayed half-maximum
 
-113
+MERS-CoV, and bat-CoV strains (). In tissue cultures, remdesivir displayed half-maximum
 
-effective concentrations (EC50s) of 0.069 for SARS-CoV and 0.074 μM for MERS-CoV. Of note,
 
-114
 
-tissue culture studies have shown that remdesivir is also active in the submicromolar EC50
+effective concentrations (ECs) of . for SARS-CoV and . μM for MERS-CoV. Of note,
 
-115
+
+
+tissue culture studies have shown that remdesivir is also active in the submicromolar EC
+
+
 
 range against a number of highly divergent coronaviruses, including the endemic human CoVs,
 
-116
 
-OC43 (HCoV-OC43) and 229E (HCoV-229E). Thus, remdesivir has broad-spectrum anti-CoV
 
-117
+OC (HCoV-OC) and E (HCoV-E). Thus, remdesivir has broad-spectrum anti-CoV
 
-activity (19). In a mouse model of SARS-CoV pathogenesis, prophylactic and early therapeutic
 
-118
+
+activity (). In a mouse model of SARS-CoV pathogenesis, prophylactic and early therapeutic
+
+
 
 administration of remdesivir significantly reduced the lung viral load. Viral titers were reduced
 
-119
 
-by >2 orders of magnitude on day 4 or 5 post infection. Remdesivir improved the clinical signs
 
-120
+by > orders of magnitude on day  or  post infection. Remdesivir improved the clinical signs
 
-of disease and respiratory function compared to untreated control animals (17). Comparable
 
-121
+
+of disease and respiratory function compared to untreated control animals (). Comparable
+
+
 
 results were obtained with MERS-CoV in prophylactic studies carried out with a MERS-CoV
 
-122
+
 
 mouse transgenic model. In that model, a humanized MERS-CoV receptor (dipeptidyl peptidase
 
-123
 
-4, hDPP4) was expressed and carboxylesterase 1c (Ces1c) was deleted to improve the
 
-6
+, hDPP) was expressed and carboxylesterase c (Cesc) was deleted to improve the
 
-Downloaded from http://aac.asm.org/ on March 28, 2020 by guest
 
-105
 
-pharmacokinetics of nucleotide prodrugs (20). Remdesivir specificity for coronavirus was
+Downloaded from http://aac.asm.org/ on March ,  by guest
 
-125
 
-demonstrated by propagating the virus in tissue culture. After 23 passages in the presence of
 
-126
+pharmacokinetics of nucleotide prodrugs (). Remdesivir specificity for coronavirus was
 
-drug, two mutations were identified (F276L and V553L) in the viral RNA-dependent RNA
 
-127
+
+demonstrated by propagating the virus in tissue culture. After  passages in the presence of
+
+
+
+drug, two mutations were identified (FL and VL) in the viral RNA-dependent RNA
+
+
 
 polymerase gene. These mutations increased the replication capacity of the virus in the
 
-128
 
-presence of remdesivir (21). However, these amino acid changes decreased the viral fitness and
 
-129
+presence of remdesivir (). However, these amino acid changes decreased the viral fitness and
 
-attenuated SARS-CoV pathogenesis in mice (21). The efficacy of prophylactic and therapeutic
 
-130
+
+attenuated SARS-CoV pathogenesis in mice (). The efficacy of prophylactic and therapeutic
+
+
 
 remdesivir treatment was recently tested in a nonhuman primate ( rhesus macaque) model of
 
-131
 
-MERS-CoV infection (22). When prophylactic remdesivir treatment was initiated 24 h prior to
 
-132
+MERS-CoV infection (). When prophylactic remdesivir treatment was initiated  h prior to
+
+
 
 inoculation, MERS-CoV was prevented from inducing clinical disease and inhibited from
 
-133
+
 
 replicating in respiratory tissues, which prevented the formation of lung lesions. Similar results
 
-134
 
-were obtained when therapeutic remdesivir treatment was initiated at 12 h after virus
 
-135
+were obtained when therapeutic remdesivir treatment was initiated at  h after virus
 
-inoculation (22). Human safety data are available for remdesivir (18); thus, human trials can be
 
-136
+
+inoculation (). Human safety data are available for remdesivir (); thus, human trials can be
+
+
 
 initiated for testing the efficacy of this compound against novel coronaviruses.
 
-137
-138
+
+
 
 Therapies that are approved by the Food and Drug Administration (FDA) have been evaluated
 
-139
+
 
 for antiviral activity against SARS-CoV and MERS-CoV. For example, lopinavir (LPV), a human
 
-140
 
-immunodeficiency virus 1 (HIV-1) protease inhibitor, was combined with ritonavir (RTV) to
 
-141
+immunodeficiency virus  (HIV-) protease inhibitor, was combined with ritonavir (RTV) to
+
+
 
 increase the LPV half-life. LPV/RTV was shown to be effective against SARS-CoV in patients and
 
-142
 
-in tissue culture. The estimated EC50 in fetal rhesus kidney-4 cells was 4 µg/ml (23). LPV/RTV
 
-143
+in tissue culture. The estimated EC in fetal rhesus kidney- cells was  µg/ml (). LPV/RTV
+
+
 
 also reduced weight loss, clinical scores, viral titers, and disease progression in marmosets
 
-144
 
-infected with MERS-CoV (24). Nevertheless, the antiviral activity of LPV against MERS-CoV in
 
-7
+infected with MERS-CoV (). Nevertheless, the antiviral activity of LPV against MERS-CoV in
 
-Downloaded from http://aac.asm.org/ on March 28, 2020 by guest
 
-124
 
-145
+Downloaded from http://aac.asm.org/ on March ,  by guest
 
-tissue culture remains controversial. No optimal EC50 was found in Vero cells (25), but an EC50
 
-146
 
-of 8 µM was reported in Huh7 cells (26).
+
 
-147
+tissue culture remains controversial. No optimal EC was found in Vero cells (), but an EC
+
+
+
+of  µM was reported in Huh cells ().
+
+
 
 Clinical observations in animals and humans showed that MERS-CoV infections were mediated
 
-149
+
 
 by both virus replication and host inflammatory responses. Those findings led to explorations of
 
-150
+
 
 combination therapies that included types I and II interferons (IFN I and II). Interferon beta
 
-151
 
-(IFNb) displayed the best efficacy, with EC50s of 1.37-17 IU/ml, for reducing MERS-CoV
 
-152
+(IFNb) displayed the best efficacy, with ECs of .- IU/ml, for reducing MERS-CoV
 
-replication in tissue culture (25, 27). Similar to LPV/RTV, clinical improvements with IFNb were
 
-153
 
-observed in common marmosets infected with MERS-CoV (24). In the Kingdom of South Arabia,
+replication in tissue culture (, ). Similar to LPV/RTV, clinical improvements with IFNb were
 
-154
+
+
+observed in common marmosets infected with MERS-CoV (). In the Kingdom of South Arabia,
+
+
 
 an ongoing randomized control trial (MIRACLE Trial) was initiated to determine whether the
 
-155
 
-combination of LPV/RTV and IFNb could improve clinical outcomes in MERS-CoV infections (28).
 
-156
+combination of LPV/RTV and IFNb could improve clinical outcomes in MERS-CoV infections ().
+
+
 
 Importantly, another controlled trial was launched in China to test the efficacy of LPV/RTV and
 
-157
 
-IFNα-2b in hospitalized patients with SARS-CoV-2 infections (ChiCTR2000029308).
 
-158
-159
+IFNα-b in hospitalized patients with SARS-CoV- infections (ChiCTR).
+
+
+
 
 The prophylactic and therapeutic properties of remdesivir and LPV/RTV-IFNb were compared in
 
-160
 
-a humanized transgenic mouse MERS-CoV infection model (29). Remdesivir improved
 
-161
+a humanized transgenic mouse MERS-CoV infection model (). Remdesivir improved
+
+
 
 pulmonary function, reduced lung viral loads, and ameliorated severe lung pathology. In
 
-162
+
 
 contrast, prophylactic LPV/RTV-IFNb only slightly reduced viral loads and did not impact other
 
-163
+
 
 disease parameters, and therapeutic LPV/RTV-IFNb improved pulmonary function, but did not
 
-164
 
-reduce virus replication or severe lung pathology (29). Overall, these results indicated that
 
-165
+reduce virus replication or severe lung pathology (). Overall, these results indicated that
+
+
 
 remdesivir showed more potential than LPV/RTV-IFNb for treating MERS-CoV infections.
 
-166
 
-8
 
-Downloaded from http://aac.asm.org/ on March 28, 2020 by guest
 
-148
+
+Downloaded from http://aac.asm.org/ on March ,  by guest
+
+
 
 Ribavirin, a guanosine analogue, is an antiviral compound used to treat several virus infections,
 
-168
+
 
 including respiratory syncytial virus, hepatitis C virus, and some viral hemorrhagic fevers. In
 
-169
 
-most cases, ribavirin is combined with IFN. Ribavirin was first marketed in 1980 for the
 
-170
+most cases, ribavirin is combined with IFN. Ribavirin was first marketed in  for the
+
+
 
 treatment of respiratory syncytial virus in children. Although promising results were obtained
 
-171
 
-with ribavirin and IFNα-2b in a MERS-CoV rhesus macaque model (30), data have been
 
-172
+with ribavirin and IFNα-b in a MERS-CoV rhesus macaque model (), data have been
+
+
 
 conflicting on patients with MERS-CoV infections that were treated with a combination of
 
-173
 
-ribavirin and IFN (either α2a or β1) (31). However, ribavirin reduces hemoglobin
 
-174
+ribavirin and IFN (either αa or β) (). However, ribavirin reduces hemoglobin
+
+
 
 concentrations, an undesirable side effect in patients with respiratory disorders. This feature
 
-175
 
-reduces its potential as an antiviral against SARS-CoV-2.
 
-176
-177
+reduces its potential as an antiviral against SARS-CoV-.
+
+
+
 
 Work with influenza virus has shown that monoclonal and polyclonal antibodies can be useful
 
-178
+
 
 prophylactic and therapeutic tools. Several antibodies have been shown to bind influenza virus
 
-179
 
-hemagglutinin and inhibit virus replication (12). For example, human immunoglobulin G1 (IgG1)
 
-180
+hemagglutinin and inhibit virus replication (). For example, human immunoglobulin G (IgG)
 
-monoclonal antibody (MHAA4549A) binds to a highly conserved epitope on the stalk of
 
-181
 
-influenza A hemagglutinin. In a phase 2 human influenza A virus challenge study, MHAA4549A
+monoclonal antibody (MHAAA) binds to a highly conserved epitope on the stalk of
 
-182
 
-significantly reduced the clinical symptoms and viral burden relative to placebo (32). Another
 
-183
+influenza A hemagglutinin. In a phase  human influenza A virus challenge study, MHAAA
 
-example is VIS410, a monoclonal antibody engineered to target all known influenza A strains. A
 
-184
 
-phase 2a trial showed that VIS410 had some clinical benefits (33). Current development efforts
+significantly reduced the clinical symptoms and viral burden relative to placebo (). Another
 
-185
+
+
+example is VIS, a monoclonal antibody engineered to target all known influenza A strains. A
+
+
+
+phase a trial showed that VIS had some clinical benefits (). Current development efforts
+
+
 
 in monoclonal and polyclonal antibodies against coronaviruses are mainly targeting MERS-CoV.
 
-186
 
-In a phase 1 clinical trial, a human polyclonal antibody, SAB-301, which is generated in trans-
 
-187
+In a phase  clinical trial, a human polyclonal antibody, SAB-, which is generated in trans-
 
-chromosomic cattle, was found to be safe and well tolerated in healthy participants. (34).
 
-188
+
+chromosomic cattle, was found to be safe and well tolerated in healthy participants. ().
+
+
 
 However, therapeutic treatment with human monoclonal antibodies did not protect against the
 
-9
 
-Downloaded from http://aac.asm.org/ on March 28, 2020 by guest
 
-167
+Downloaded from http://aac.asm.org/ on March ,  by guest
 
-severe disease or the loss of lung function induced by MERS-CoV in animal models (20). The
 
-190
+
+severe disease or the loss of lung function induced by MERS-CoV in animal models (). The
+
+
 
 lack of viral sequence homology among different human coronaviruses suggests that current
 
-191
+
 
 investigational antibody-based therapeutics will not be effective against novel virus variants.
 
-192
+
 
 Nevertheless, immune-based therapies should be not discarded, when considering future
 
-193
+
 
 treatments for novel coronaviruses.
 
-194
-195
+
+
 
 Another potential treatment option could be the use of novel coronavirus sera prepared from
 
-196
+
 
 the blood of patients in convalescence (convalescent sera). Passive immunization is well
 
-197
+
 
 established for viral infection prophylaxis. Polyclonal antibody products have been licensed that
 
-198
+
 
 target cytomegalovirus, hepatitis B virus, and varicella-zoster virus. A meta-analysis of reports
 
-199
 
-on the 1918 influenza A (H1N1) epidemic concluded that early administration of convalescent
 
-200
+on the  influenza A (HN) epidemic concluded that early administration of convalescent
 
-blood products reduced the absolute risk of pneumonia-related death from 37% to 16% (35).
 
-201
+
+blood products reduced the absolute risk of pneumonia-related death from % to % ().
+
+
 
 Nevertheless, the appropriate titer of convalescent sera antibody that is required for
 
-202
 
-therapeutic efficacy against SARS-CoV-2 remains to be determined. Moreover, additional
 
-203
+therapeutic efficacy against SARS-CoV- remains to be determined. Moreover, additional
+
+
 
 studies performed with influenza virus have produced controversial results regarding the
 
-204
 
-clinical benefit of administering high titers of anti-influenza immunoglobulins (36). Finally, it
 
-205
+clinical benefit of administering high titers of anti-influenza immunoglobulins (). Finally, it
+
+
 
 remains unclear whether a sufficient pool of potential donors is feasible. Work carried out with
 
-206
+
 
 MERS-CoV showed that sera from patients recovering from infections did not contain sufficient
 
-207
 
-antibody titers for therapeutic use (37).
 
-208
-209
+antibody titers for therapeutic use ().
+
+
+
 
 Another interesting therapeutic alternative that was previously explored with influenza virus is
 
-210
+
 
 to target cellular components involved in the host inflammatory response to the infection. For
 
-10
 
-Downloaded from http://aac.asm.org/ on March 28, 2020 by guest
 
-189
+Downloaded from http://aac.asm.org/ on March ,  by guest
+
+
 
 example, the activation of the inflammatory response to an infection can induce a cytokine
 
-212
+
 
 outburst that results in an acute lung injury. An example of a therapy for this type of infection
 
-213
 
-has been to target the cellular toll-like receptor 4 (TLR4) with specific antibodies. TLR4 is a
 
-214
+has been to target the cellular toll-like receptor  (TLR) with specific antibodies. TLR is a
+
+
 
 transmembrane protein that belongs to the pattern recognition receptor (PRR) family. The
 
-215
 
-prototype pathogen-associated molecular pattern (PAMP) that TLR4 recognizes is the gram-
 
-216
+prototype pathogen-associated molecular pattern (PAMP) that TLR recognizes is the gram-
 
-negative bacteria, endotoxin, lipopolysaccharide (LPS). TLR4 has been implicated in the
 
-217
+
+negative bacteria, endotoxin, lipopolysaccharide (LPS). TLR has been implicated in the
+
+
 
 pathology associated with other infections and with tissue damage caused by non-infectious
 
-218
 
-insults. TLR4 activation leads to the NF-κB intracellular signaling pathway and inflammatory
 
-219
+insults. TLR activation leads to the NF-κB intracellular signaling pathway and inflammatory
 
-cytokine production, which activate the innate immune system. Interestingly, TLR4-null mice
 
-220
 
-were highly resistant to infection by the mouse-adapted influenza A virus (38). Thus, protection
+cytokine production, which activate the innate immune system. Interestingly, TLR-null mice
 
-221
 
-against influenza infections was achieved by targeting TLR4 with small molecule antagonists,
 
-222
+were highly resistant to infection by the mouse-adapted influenza A virus (). Thus, protection
 
-like TAK-242, or with anti-TLR4-specific antibodies (39, 40). Indeed, targeting a cellular protein
 
-223
+
+against influenza infections was achieved by targeting TLR with small molecule antagonists,
+
+
+
+like TAK-, or with anti-TLR-specific antibodies (, ). Indeed, targeting a cellular protein
+
+
 
 would overcome the drawbacks associated with virus or coronavirus genetic heterogeneity.
 
-224
-225
+
+
 
 The high mortally rates observed in some emerging respiratory diseases induced by viruses like
 
-226
 
-MERS-CoV, SARS-CoV, and novel influenza A strains (H5N1) has given rise to the hypothesis that
 
-227
+MERS-CoV, SARS-CoV, and novel influenza A strains (HN) has given rise to the hypothesis that
+
+
 
 the pro-inflammatory response might be involved in the disease pathogenesis. Consequently,
 
-228
+
 
 immunosuppressants (e.g., corticosteroids) might be used as an adjunct for treating severe
 
-229
+
 
 forms of the disease. However, the therapeutic use of immunosuppressants is not free of
 
-230
+
 
 controversy. To date, no conclusive results have been found for the effects of
 
-231
 
-immunosuppressants in severe influenza virus infections (12). Furthermore, the use of
 
-232
+immunosuppressants in severe influenza virus infections (). Furthermore, the use of
+
+
 
 corticosteroids to treat influenza virus has been associated with an increased risk of
 
-11
 
-Downloaded from http://aac.asm.org/ on March 28, 2020 by guest
 
-211
+Downloaded from http://aac.asm.org/ on March ,  by guest
 
-superinfection, prolonged viral replication, and an increased risk of death (41). In contrast,
 
-234
+
+superinfection, prolonged viral replication, and an increased risk of death (). In contrast,
+
+
 
 corticosteroid treatment for MERS-CoV infections was not significantly associated with
 
-235
 
-mortality, although a delay in MERS-CoV RNA clearance was observed (42). Further studies
 
-236
+mortality, although a delay in MERS-CoV RNA clearance was observed (). Further studies
+
+
 
 should be performed to clarify the potential clinical benefit of prescribing immunosuppressants
 
-237
+
 
 for coronavirus infections.
 
-238
-239
+
+
 
 To end this minireview, we will discuss an interesting potential antiviral strategy. The spike
 
-240
+
 
 protein of SARS-CoV mediates viral entry into target cells. Intriguingly, the cleavage and
 
-241
+
 
 activation of the SARS-CoV spike protein by a host cell protease is essential for infectious viral
 
-242
 
-entry (43). This host protease could be a type II transmembrane serine protease, TMPRSS2,
 
-243
+entry (). This host protease could be a type II transmembrane serine protease, TMPRSS,
+
+
 
 which was shown to cleave and activate SARS-CoV spike protein in cell cultures. Therefore,
 
-244
 
-TMPRSS2 is a potential a target for antiviral interventions. For example, the serine protease
 
-245
+TMPRSS is a potential a target for antiviral interventions. For example, the serine protease
 
-inhibitor, camostat mesylate, inhibits the enzymatic activity of TMPRSS2 (44). Recently, K11777,
 
-246
+
+inhibitor, camostat mesylate, inhibits the enzymatic activity of TMPRSS (). Recently, K,
+
+
 
 a cysteine protease inhibitor, was shown in tissue cultures to inhibit SARS-CoV and MERS-CoV
 
-247
 
-replication in the sub-nanomolar range (45). Future tissue culture and animal model studies
 
-248
+replication in the sub-nanomolar range (). Future tissue culture and animal model studies
 
-should be conducted to clarify the potential antiviral activity of targeting TMPRSS2.
 
-249
-250
 
-By the end of February 2020, two months after the first cases of SARS-CoV-2 were reported in
+should be conducted to clarify the potential antiviral activity of targeting TMPRSS.
 
-251
+
+
+
+By the end of February , two months after the first cases of SARS-CoV- were reported in
+
+
 
 China, several hundreds of new infection cases had been registered, mainly in other Asian
 
-252
 
-regions and Europe. This news has strongly suggested that we are in the thick of a SARS-CoV-2
 
-253
+regions and Europe. This news has strongly suggested that we are in the thick of a SARS-CoV-
+
+
 
 pandemic. Social alarm and health authorities have called for the development of therapeutic
 
-254
+
 
 alternatives for fighting the current, and possibly new, coronavirus epidemics. Animal models
 
-12
 
-Downloaded from http://aac.asm.org/ on March 28, 2020 by guest
 
-233
+Downloaded from http://aac.asm.org/ on March ,  by guest
 
-255
+
+
+
 
 and clinical studies are urgently needed for evaluating the effectiveness and safety of promising
 
-256
+
 
 antiviral compounds that target the virus and/or the immunopathology involved in the host
 
-257
+
 
 responses. The identification and characterization of novel compounds and therapeutic
 
-258
+
 
 alternatives will be required to better control this probable pandemic outbreak.
 
-260
 
-Funding. This work was supported by the Spanish Ministry of Science and Innovation [SAF2016–
 
-261
+Funding. This work was supported by the Spanish Ministry of Science and Innovation [SAF–
 
-75277-R].
 
-262
-263
+
+-R].
+
+
+
 
 Conflicts of interest. The author declares no conflict of interest.
 
-264
 
-13
 
-Downloaded from http://aac.asm.org/ on March 28, 2020 by guest
 
-259
+
+Downloaded from http://aac.asm.org/ on March ,  by guest
+
+
 
 References
-1.
-WHO. 2020. Novel coronavirus (2019-nCoV) situation reports. World Health
-Organisation. https//www.who.int/emergencies/diseases/novel-coronavirus2019/situation-reports/.
-2.
+.
+WHO. . Novel coronavirus (-nCoV) situation reports. World Health
+Organisation. https//www.who.int/emergencies/diseases/novel-coronavirus/situation-reports/.
+.
 Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, Zhang L, Fan G, Xu J, Gu X, Cheng Z, Yu T, Xia J,
 Wei Y, Wu W, Xie X, Yin W, Li H, Liu M, Xiao Y, Gao H, Guo L, Xie J, Wang G, Jiang R, Gao
-Z, Jin Q, Wang J, Cao B. 2020. Clinical features of patients infected with 2019 novel
-coronavirus in Wuhan, China. Lancet 395:497–506.
-3.
+Z, Jin Q, Wang J, Cao B. . Clinical features of patients infected with  novel
+coronavirus in Wuhan, China. Lancet :–.
+.
 Chen N, Zhou M, Dong X, Qu J, Gong F, Han Y, Qiu Y, Wang J, Liu Y, Wei Y, Xia J, Yu T,
-Zhang X, Zhang L. 2020. Epidemiological and clinical characteristics of 99 cases of 2019
-novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet 395:507–513.
-4.
+Zhang X, Zhang L. . Epidemiological and clinical characteristics of  cases of 
+novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet :–.
+.
 Chan JFW, Yuan S, Kok KH, To KKW, Chu H, Yang J, Xing F, Liu J, Yip CCY, Poon RWS, Tsoi
 HW, Lo SKF, Chan KH, Poon VKM, Chan WM, Ip JD, Cai JP, Cheng VCC, Chen H, Hui CKM,
-Yuen KY. 2020. A familial cluster of pneumonia associated with the 2019 novel
+Yuen KY. . A familial cluster of pneumonia associated with the  novel
 coronavirus indicating person-to-person transmission: a study of a family cluster. Lancet
-395:514–523.
-5.
-Gorbalenya AE. 2020. Severe acute respiratory syndrome-related coronavirus – The
+:–.
+.
+Gorbalenya AE. . Severe acute respiratory syndrome-related coronavirus – The
 species and its viruses, a statement of the Coronavirus Study Group. bioRxiv
-2020.02.07.937862.
-6.
-Team TNCPERE. 2020. The Epidemiological Characteristics of an Outbreak of 2019 Novel
-Coronavirus Diseases (COVID-19) — China, 2020. China CDC Wkly 2.
-7.
-Zaki AM, Van Boheemen S, Bestebroer TM, Osterhaus ADME, Fouchier RAM. 2012.
+....
+.
+Team TNCPERE. . The Epidemiological Characteristics of an Outbreak of  Novel
+Coronavirus Diseases (COVID-) — China, . China CDC Wkly .
+.
+Zaki AM, Van Boheemen S, Bestebroer TM, Osterhaus ADME, Fouchier RAM. .
 Isolation of a novel coronavirus from a man with pneumonia in Saudi Arabia. N Engl J
-Med 367:1814–1820.
-8.
+Med :–.
+.
 Drosten C, Günther S, Preiser W, Van der Werf S, Brodt HR, Becker S, Rabenau H, Panning
 M, Kolesnikova L, Fouchier RAM, Berger A, Burguière AM, Cinatl J, Eickmann M, Escriou
 N, Grywna K, Kramme S, Manuguerra JC, Müller S, Rickerts V, Stürmer M, Vieth S, Klenk
-HD, Osterhaus ADME, Schmitz H, Doerr HW. 2003. Identification of a novel coronavirus in
-patients with severe acute respiratory syndrome. N Engl J Med 348:1967–1976.
-9.
+HD, Osterhaus ADME, Schmitz H, Doerr HW. . Identification of a novel coronavirus in
+patients with severe acute respiratory syndrome. N Engl J Med :–.
+.
 Zhou P, Yang X-L, Wang X-G, Hu B, Zhang L, Zhang W, Si H-R, Zhu Y, Li B, Huang C-L, Chen
 H-D, Chen J, Luo Y, Guo H, Jiang R-D, Liu M-Q, Chen Y, Shen X-R, Wang X, Zheng X-S, Zhao
-K, Chen Q-J, Deng F, Liu L-L, Yan B, Zhan F-X, Wang Y-Y, Xiao G-F, Shi Z-L. 2020. A
+K, Chen Q-J, Deng F, Liu L-L, Yan B, Zhan F-X, Wang Y-Y, Xiao G-F, Shi Z-L. . A
 pneumonia outbreak associated with a new coronavirus of probable bat origin. Nature
-Feb 3[Online ahead of print].
-10. Lu R, Zhao X, Li J, Niu P, Yang B, Wu H, Wang W, Song H, Huang B, Zhu N, Bi Y, Ma X, Zhan
+Feb [Online ahead of print].
+. Lu R, Zhao X, Li J, Niu P, Yang B, Wu H, Wang W, Song H, Huang B, Zhu N, Bi Y, Ma X, Zhan
 F, Wang L, Hu T, Zhou H, Hu Z, Zhou W, Zhao L, Chen J, Meng Y, Wang J, Lin Y, Yuan J, Xie
-Z, Ma J, Liu WJ, Wang D, Xu W, Holmes EC, Gao GF, Wu G, Chen W, Shi W, Tan W. 2020.
-Genomic characterisation and epidemiology of 2019 novel coronavirus: implications for
-virus origins and receptor binding. Lancet 395:565-574.
-11. Zhu N, Zhang D, Wang W, Li X, Yang B, Song J, Zhao X, Huang B, Shi W, Lu R, Niu P, Zhan F,
-Ma X, Wang D, Xu W, Wu G, Gao GF, Tan W. 2020. A Novel Coronavirus from Patients
-with Pneumonia in China, 2019. N Engl J Med 382:727-733.
-12. Beigel JH, Nam HH, Adams PL, Krafft A, Ince WL, El-Kamary SS, Sims AC. 2019. Advances
-in respiratory virus therapeutics – A meeting report from the 6th isirv Antiviral Group
-14
+Z, Ma J, Liu WJ, Wang D, Xu W, Holmes EC, Gao GF, Wu G, Chen W, Shi W, Tan W. .
+Genomic characterisation and epidemiology of  novel coronavirus: implications for
+virus origins and receptor binding. Lancet :-.
+. Zhu N, Zhang D, Wang W, Li X, Yang B, Song J, Zhao X, Huang B, Shi W, Lu R, Niu P, Zhan F,
+Ma X, Wang D, Xu W, Wu G, Gao GF, Tan W. . A Novel Coronavirus from Patients
+with Pneumonia in China, . N Engl J Med :-.
+. Beigel JH, Nam HH, Adams PL, Krafft A, Ince WL, El-Kamary SS, Sims AC. . Advances
+in respiratory virus therapeutics – A meeting report from the th isirv Antiviral Group
 
-Downloaded from http://aac.asm.org/ on March 28, 2020 by guest
 
-265
-266
-267
-268
-269
-270
-271
-272
-273
-274
-275
-276
-277
-278
-279
-280
-281
-282
-283
-284
-285
-286
-287
-288
-289
-290
-291
-292
-293
-294
-295
-296
-297
-298
-299
-300
-301
-302
-303
-304
-305
-306
-307
-308
+Downloaded from http://aac.asm.org/ on March ,  by guest
 
-13.
 
-14.
-15.
-16.
 
-17.
 
-18.
 
-19.
 
-20.
 
-21.
 
-22.
 
-23.
 
-24.
 
-conference. Antiviral Res 167:45-67.
-Bradwell K, Combe M, Domingo-Calap P, Sanjuán R. 2013. Correlation between mutation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+
+.
+.
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+conference. Antiviral Res :-.
+Bradwell K, Combe M, Domingo-Calap P, Sanjuán R. . Correlation between mutation
 rate and genome size in riboviruses: Mutation rate of bacteriophage Qβ. Genetics
-195:243–251.
-Wang C, Horby PW, Hayden FG, Gao GF. 2020. A novel coronavirus outbreak of global
-health concern. Lancet 395:470-473.
-Chao L. 1990. Fitness of RNA virus decreased by Muller’s ratchet. Nature 348:454–455.
-Duarte E, Clarke D, Moya A, Domingo E, Holland J. 1992. Rapid fitness losses in
-mammalian RNA virus clones due to Muller’s ratchet. Proc Natl Acad Sci U S A 89:6015–
-6019.
+:–.
+Wang C, Horby PW, Hayden FG, Gao GF. . A novel coronavirus outbreak of global
+health concern. Lancet :-.
+Chao L. . Fitness of RNA virus decreased by Muller’s ratchet. Nature :–.
+Duarte E, Clarke D, Moya A, Domingo E, Holland J. . Rapid fitness losses in
+mammalian RNA virus clones due to Muller’s ratchet. Proc Natl Acad Sci U S A :–
+.
 Sheahan TP, Sims AC, Graham RL, Menachery VD, Gralinski LE, Case JB, Leist SR, Pyrc K,
 Feng JY, Trantcheva I, Bannister R, Park Y, Babusis D, Clarke MO, MacKman RL, Spahn JE,
-Palmiotti CA, Siegel D, Ray AS, Cihlar T, Jordan R, Denison MR, Baric RS. 2017. Broadspectrum antiviral GS-5734 inhibits both epidemic and zoonotic coronaviruses. Sci Transl
-Med 9.
+Palmiotti CA, Siegel D, Ray AS, Cihlar T, Jordan R, Denison MR, Baric RS. . Broadspectrum antiviral GS- inhibits both epidemic and zoonotic coronaviruses. Sci Transl
+Med .
 Mulangu S, Dodd LE, Davey RT, Mbaya OT, Proschan M, Mukadi D, Manzo ML, Nzolo D,
 Oloma AT, Ibanda A, Ali R, Coulibaly S, Levine AC, Grais R, Diaz J, Clifford Lane H,
 Muyembe-Tamfum JJ, Sivahera B, Camara M, Kojan R, Walker R, Dighero-Kemp B, Cao H,
 Mukumbayi P, Mbala-Kingebeni P, Ahuka S, Albert S, Bonnett T, Crozier I, Duvenhage M,
 Proffitt C, Teitelbaum M, Moench T, Aboulhab J, Barrett K, Cahill K, Cone K, Eckes R,
 Hensley L, Herpin B, Higgs E, Ledgerwood J, Pierson J, Smolskis M, Sow Y, Tierney J,
-Sivapalasingam S, Holman W, Gettinger N, Vallée D, Nordwall J. 2019. A randomized,
-controlled trial of Ebola virus disease therapeutics. N Engl J Med 381:2293–2303.
+Sivapalasingam S, Holman W, Gettinger N, Vallée D, Nordwall J. . A randomized,
+controlled trial of Ebola virus disease therapeutics. N Engl J Med :–.
 Brown AJ, Won JJ, Graham RL, Dinnon KH, Sims AC, Feng JY, Cihlar T, Denison MR, Baric
-RS, Sheahan TP. 2019. Broad spectrum antiviral remdesivir inhibits human endemic and
+RS, Sheahan TP. . Broad spectrum antiviral remdesivir inhibits human endemic and
 zoonotic deltacoronaviruses with a highly divergent RNA dependent RNA polymerase.
-Antiviral Res 169:104541.
+Antiviral Res :.
 Cockrell AS, Yount BL, Scobey T, Jensen K, Douglas M, Beall A, Tang XC, Marasco WA,
-Heise MT, Baric RS. 2016. A mouse model for MERS coronavirus-induced acute
-respiratory distress syndrome. Nat Microbiol 2:16226.
+Heise MT, Baric RS. . A mouse model for MERS coronavirus-induced acute
+respiratory distress syndrome. Nat Microbiol :.
 Agostini ML, Andres EL, Sims AC, Graham RL, Sheahan TP, Lu X, Smith EC, Case JB, Feng
 JY, Jordan R, Ray AS, Cihlar T, Siegel D, Mackman RL, Clarke MO, Baric RS, Denison MR.
-2018. Coronavirus susceptibility to the antiviral remdesivir (GS-5734) is mediated by the
-viral polymerase and the proofreading exoribonuclease. MBio 9:e00221-18.
+. Coronavirus susceptibility to the antiviral remdesivir (GS-) is mediated by the
+viral polymerase and the proofreading exoribonuclease. MBio :e-.
 de Wit E, Feldmann F, Cronin J, Jordan R, Okumura A, Thomas T, Scott D, Cihlar T,
-Feldmann H. 2020. Prophylactic and therapeutic remdesivir (GS-5734) treatment in the
-rhesus macaque model of MERS-CoV infection. Proc Natl Acad Sci 201922083.
+Feldmann H. . Prophylactic and therapeutic remdesivir (GS-) treatment in the
+rhesus macaque model of MERS-CoV infection. Proc Natl Acad Sci .
 Chu CM, Cheng VCC, Hung IFN, Wong MML, Chan KH, Chan KS, Kao RYT, Poon LLM, Wong
-CLP, Guan Y, Peiris JSM, Yuen KY. 2004. Role of lopinavir/ritonavir in the treatment of
-SARS: Initial virological and clinical findings. Thorax 59:252–256.
+CLP, Guan Y, Peiris JSM, Yuen KY. . Role of lopinavir/ritonavir in the treatment of
+SARS: Initial virological and clinical findings. Thorax :–.
 Chan JFW, Yao Y, Yeung ML, Deng W, Bao L, Jia L, Li F, Xiao C, Gao H, Yu P, Cai JP, Chu H,
-Zhou J, Chen H, Qin C, Yuen KY. 2015. No TitleTreatment With Lopinavir/Ritonavir or
-Interferon-β1b Improves Outcome of MERS-CoV Infection in a Nonhuman Primate Model
-of Common Marmoset. J Infect Dis 212:1904–1913.
-15
+Zhou J, Chen H, Qin C, Yuen KY. . No TitleTreatment With Lopinavir/Ritonavir or
+Interferon-βb Improves Outcome of MERS-CoV Infection in a Nonhuman Primate Model
+of Common Marmoset. J Infect Dis :–.
 
-Downloaded from http://aac.asm.org/ on March 28, 2020 by guest
 
-309
-310
-311
-312
-313
-314
-315
-316
-317
-318
-319
-320
-321
-322
-323
-324
-325
-326
-327
-328
-329
-330
-331
-332
-333
-334
-335
-336
-337
-338
-339
-340
-341
-342
-343
-344
-345
-346
-347
-348
-349
-350
-351
-352
+Downloaded from http://aac.asm.org/ on March ,  by guest
 
-25.
 
-26.
 
-27.
 
-28.
 
-29.
 
-30.
 
-31.
 
-32.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
 
 Chan JFW, Chan KH, Kao RYT, To KKW, Zheng BJ, Li CPY, Li PTW, Dai J, Mok FKY, Chen H,
-Hayden FG, Yuen KY. 2013. Broad-spectrum antivirals for the emerging Middle East
-respiratory syndrome coronavirus. J Infect 67:606–616.
+Hayden FG, Yuen KY. . Broad-spectrum antivirals for the emerging Middle East
+respiratory syndrome coronavirus. J Infect :–.
 De Wilde AH, Jochmans D, Posthuma CC, Zevenhoven-Dobbe JC, Van Nieuwkoop S,
-Bestebroer TM, Van Den Hoogen BG, Neyts J, Snijder EJ. 2014. Screening of an FDAapproved compound library identifies four small-molecule inhibitors of Middle East
+Bestebroer TM, Van Den Hoogen BG, Neyts J, Snijder EJ. . Screening of an FDAapproved compound library identifies four small-molecule inhibitors of Middle East
 respiratory syndrome coronavirus replication in cell culture. Antimicrob Agents
-Chemother 58:4875–4884.
+Chemother :–.
 Hart BJ, Dyall J, Postnikova E, Zhou H, Kindrachuk J, Johnson RF, Olinger GG, Frieman MB,
-Holbrook MR, Jahrling PB, Hensley L. 2014. Interferon-β and mycophenolic acid are
+Holbrook MR, Jahrling PB, Hensley L. . Interferon-β and mycophenolic acid are
 potent inhibitors of middle east respiratory syndrome coronavirus in cell-based assays. J
-Gen Virol 95:571–577.
+Gen Virol :–.
 Arabi YM, Alothman A, Balkhy HH, Al-Dawood A, AlJohani S, Al Harbi S, Kojan S, Al Jeraisy
 M, Deeb AM, Assiri AM, Al-Hameed F, AlSaedi A, Mandourah Y, Almekhlafi GA, Sherbeeni
 NM, Elzein FE, Memon J, Taha Y, Almotairi A, Maghrabi KA, Qushmaq I, Al Bshabshe A,
@@ -1298,219 +1298,219 @@ M Al, Mady A, Ahmad A, Ghaleb A Almekhlafi, Muhammed R, Samirrai S Al, Awad S,
 Cabal RC, Onazi B Al, Aljuhani M, Vince M, Enani M Al, Alqurashi A, Alenezi F, Alkhani N,
 Thaqafi A, Oraabi O Al, Rifai J, Elsamadisi P, Medhat SH, Basher SAB, Abduldhaher M,
 Bajhamoum W, Alahsa SS, Bashir S, Al-Dossary I, Al-Muhainy Dammam B, Khobar SS Al,
-Alshahrani MS, Al Jabri A, Farid M, Alaidarous A, Alseraihi W, Shahada H, Taif JS. 2018.
-Treatment of Middle East Respiratory Syndrome with a combination of lopinavirritonavir and interferon-β1b (MIRACLE trial): Study protocol for a randomized controlled
-trial. Trials 19:81.
+Alshahrani MS, Al Jabri A, Farid M, Alaidarous A, Alseraihi W, Shahada H, Taif JS. .
+Treatment of Middle East Respiratory Syndrome with a combination of lopinavirritonavir and interferon-βb (MIRACLE trial): Study protocol for a randomized controlled
+trial. Trials :.
 Sheahan TP, Sims AC, Leist SR, Schäfer A, Won J, Brown AJ, Montgomery SA, Hogg A,
 Babusis D, Clarke MO, Spahn JE, Bauer L, Sellers S, Porter D, Feng JY, Cihlar T, Jordan R,
-Denison MR, Baric RS. 2020. Comparative therapeutic efficacy of remdesivir and
+Denison MR, Baric RS. . Comparative therapeutic efficacy of remdesivir and
 combination lopinavir, ritonavir, and interferon beta against MERS-CoV. Nat Commun
-11:222.
+:.
 Falzarano D, De Wit E, Rasmussen AL, Feldmann F, Okumura A, Scott DP, Brining D,
 Bushmaker T, Martellaro C, Baseler L, Benecke AG, Katze MG, Munster VJ, Feldmann H.
-2013. Treatment with interferon-α2b and ribavirin improves outcome in MERS-CoVinfected rhesus macaques. Nat Med 19:1313–1317.
+. Treatment with interferon-αb and ribavirin improves outcome in MERS-CoVinfected rhesus macaques. Nat Med :–.
 Arabi, YM, Shalhoub, S, Omari, AA, Mandourah, Y, Al-Hameed, F, Sindi A, Alraddadi, B,
 Motairi, AA, Khatib, KA, Mommin, AA, Qushmaq, IA, Mady A, Solaiman, O, Aithan, AA,
 Balkhy, HH, Al-Raddadi, R, Rajab, A, Mekhlafi G, Harthy, AA, Kharaba, A, Al-Jabbary, A,
 Pinto, R, Sadat, M, Mutairi, HA Q, EA, Jose, J, Deeb, AM, Merson, L, Hayden, FG, Fowler,
-R, Aldawood A. 2017. Effect of ribavirin and interferon on the outcome of critically ill
-patients with MERS. Am J Respir Crit Care Med 195:A6067.
+R, Aldawood A. . Effect of ribavirin and interferon on the outcome of critically ill
+patients with MERS. Am J Respir Crit Care Med :A.
 McBride JM, Lim JJ, Burgess T, Deng R, Derby MA, Maia M, Horn P, Siddiqui O, Sheinson
-D, Chen-Harris H, Newton EM, Fillos D, Nazzal D, Rosenberger CM, Ohlson MB, LambkinWilliams R, Fathi H, Harris JM, Tavela JA. 2017. Phase 2 randomized trial of the safety and
-16
+D, Chen-Harris H, Newton EM, Fillos D, Nazzal D, Rosenberger CM, Ohlson MB, LambkinWilliams R, Fathi H, Harris JM, Tavela JA. . Phase  randomized trial of the safety and
 
-Downloaded from http://aac.asm.org/ on March 28, 2020 by guest
 
-353
-354
-355
-356
-357
-358
-359
-360
-361
-362
-363
-364
-365
-366
-367
-368
-369
-370
-371
-372
-373
-374
-375
-376
-377
-378
-379
-380
-381
-382
-383
-384
-385
-386
-387
-388
-389
-390
-391
-392
-393
-394
-395
-396
+Downloaded from http://aac.asm.org/ on March ,  by guest
 
-33.
 
-34.
 
-35.
 
-36.
 
-37.
 
-38.
 
-39.
 
-40.
 
-41.
 
-42.
 
-43.
 
-efficacy of MHAA4549A, a broadly neutralizing monoclonal antibody, in a human
-influenza a virus challenge model. Antimicrob Agents Chemother 61: e01154-17.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+efficacy of MHAAA, a broadly neutralizing monoclonal antibody, in a human
+influenza a virus challenge model. Antimicrob Agents Chemother : e-.
 Hershberger E, Sloan S, Narayan K, Hay CA, Smith P, Engler F, Jeeninga R, Smits S, Trevejo
-J, Shriver Z, Oldach D. 2019. Safety and efficacy of monoclonal antibody VIS410 in adults
+J, Shriver Z, Oldach D. . Safety and efficacy of monoclonal antibody VIS in adults
 with uncomplicated influenza A infection: Results from a randomized, double-blind,
-phase-2, placebo-controlled study. EBioMedicine 40:574–582.
+phase-, placebo-controlled study. EBioMedicine :–.
 Beigel JH, Voell J, Kumar P, Raviprakash K, Wu H, Jiao JA, Sullivan E, Luke T, Davey RT.
-2018. Safety and tolerability of a novel, polyclonal human anti-MERS coronavirus
-antibody produced from transchromosomic cattle: a phase 1 randomised, double-blind,
-single-dose-escalation study. Lancet Infect Dis 18:410–418.
-Luke TC, Kilbane EM, Jackson JL, Hoffman SL. 2006. Meta-analysis: Convalescent blood
-products for Spanish influenza pneumonia: A future H5N1 treatment? Ann Intern Med.
-American College of Physicians 145:599-609.
+. Safety and tolerability of a novel, polyclonal human anti-MERS coronavirus
+antibody produced from transchromosomic cattle: a phase  randomised, double-blind,
+single-dose-escalation study. Lancet Infect Dis :–.
+Luke TC, Kilbane EM, Jackson JL, Hoffman SL. . Meta-analysis: Convalescent blood
+products for Spanish influenza pneumonia: A future HN treatment? Ann Intern Med.
+American College of Physicians :-.
 Hung IFN, To KKW, Lee CK, Lee KL, Yan WW, Chan K, Chan WM, Ngai CW, Law KI, Chow
-FL, Liu R, Lai KY, Candy CC, Liu SH, Chan KH, Lin CK, Yuen KY. 2013. Hyperimmune IV
+FL, Liu R, Lai KY, Candy CC, Liu SH, Chan KH, Lin CK, Yuen KY. . Hyperimmune IV
 immunoglobulin treatment: A multicenter double-blind randomized controlled trial for
-patients with severe 2009 influenza A(H1N1) infection. Chest 144:464–473.
+patients with severe  influenza A(HN) infection. Chest :–.
 Arabi Y, Balkhy H, Hajeer AH, Bouchama A, Hayden FG, Al-Omari A, Al-Hameed FM, Taha
 Y, Shindo N, Whitehead J, Merson L, AlJohani S, Al-Khairy K, Carson G, Luke TC, Hensley L,
-Al-Dawood A, Al-Qahtani S, Modjarrad K, Sadat M, Rohde G, Leport C, Fowler R. 2015.
+Al-Dawood A, Al-Qahtani S, Modjarrad K, Sadat M, Rohde G, Leport C, Fowler R. .
 Feasibility, safety, clinical, and laboratory effects of convalescent plasma therapy for
 patients with Middle East respiratory syndrome coronavirus infection: a study protocol.
-Springerplus 4:1–8.
+Springerplus :–.
 Shirey KA, Lai W, Scott AJ, Lipsky M, Mistry P, Pletneva LM, Karp CL, McAlees J, Gioannini
-TL, Weiss J, Chen WH, Ernst RK, Rossignol DP, Gusovsky F, Blanco JCG, Vogel SN. 2013.
-The TLR4 antagonist Eritoran protects mice from lethal influenza infection. Nature
-497:498–502.
+TL, Weiss J, Chen WH, Ernst RK, Rossignol DP, Gusovsky F, Blanco JCG, Vogel SN. .
+The TLR antagonist Eritoran protects mice from lethal influenza infection. Nature
+:–.
 Perrin-Cocon L, Aublin-Gex A, Sestito SE, Shirey KA, Patel MC, André P, Blanco JC, Vogel
-SN, Peri F, Lotteau V. 2017. TLR4 antagonist FP7 inhibits LPS-induced cytokine production
+SN, Peri F, Lotteau V. . TLR antagonist FP inhibits LPS-induced cytokine production
 and glycolytic reprogramming in dendritic cells, and protects mice from lethal influenza
-infection. Sci Rep 7:40791.
+infection. Sci Rep :.
 Piao W, Shirey KA, Ru LW, Lai W, Szmacinski H, Snyder GA, Sundberg EJ, Lakowicz JR,
-Vogel SN, Toshchakov VY. 2015. A Decoy Peptide that Disrupts TIRAP Recruitment to
-TLRs Is Protective in a Murine Model of Influenza. Cell Rep 11:1941–1952.
-Rodrigo C, Leonardi-Bee J, Nguyen-Van-Tam J, Lim WS. 2016. Corticosteroids as
+Vogel SN, Toshchakov VY. . A Decoy Peptide that Disrupts TIRAP Recruitment to
+TLRs Is Protective in a Murine Model of Influenza. Cell Rep :–.
+Rodrigo C, Leonardi-Bee J, Nguyen-Van-Tam J, Lim WS. . Corticosteroids as
 adjunctive therapy in the treatment of influenza. Cochrane Database Syst Rev. John
-Wiley and Sons Ltd 3:CD010406.
+Wiley and Sons Ltd :CD.
 Arabi YM, Mandourah Y, Al-Hameed F, Sindi AA, Almekhlafi GA, Hussein MA, Jose J, Pinto
 R, Al-Omari A, Kharaba A, Almotairi A, Al Khatib K, Alraddadi B, Shalhoub S, Abdulmomen
 A, Qushmaq I, Mady A, Mady O, Al-Aithan AM, Al-Raddadi R, Ragab A, Balkhy HH, Balkhy
-A, Deeb AM, Al Mutairi H, Al-Dawood A, Merson L, Hayden FG, Fowler RA. 2018.
+A, Deeb AM, Al Mutairi H, Al-Dawood A, Merson L, Hayden FG, Fowler RA. .
 Corticosteroid therapy for critically ill patients with middle east respiratory syndrome.
-Am J Respir Crit Care Med 197:757–767.
+Am J Respir Crit Care Med :–.
 Glowacka I, Bertram S, Muller MA, Allen P, Soilleux E, Pfefferle S, Steffen I, Tsegaye TS,
-17
 
-Downloaded from http://aac.asm.org/ on March 28, 2020 by guest
 
-397
-398
-399
-400
-401
-402
-403
-404
-405
-406
-407
-408
-409
-410
-411
-412
-413
-414
-415
-416
-417
-418
-419
-420
-421
-422
-423
-424
-425
-426
-427
-428
-429
-430
-431
-432
-433
-434
-435
-436
-437
-438
-439
-440
+Downloaded from http://aac.asm.org/ on March ,  by guest
 
-44.
 
-45.
 
-He Y, Gnirss K, Niemeyer D, Schneider H, Drosten C, Pohlmann S. 2011. Evidence that
-TMPRSS2 Activates the Severe Acute Respiratory Syndrome Coronavirus Spike Protein for
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+
+.
+
+He Y, Gnirss K, Niemeyer D, Schneider H, Drosten C, Pohlmann S. . Evidence that
+TMPRSS Activates the Severe Acute Respiratory Syndrome Coronavirus Spike Protein for
 Membrane Fusion and Reduces Viral Control by the Humoral Immune Response. J Virol
-85:4122–4134.
-Kawase M, Shirato K, van der Hoek L, Taguchi F, Matsuyama S. 2012. Simultaneous
+:–.
+Kawase M, Shirato K, van der Hoek L, Taguchi F, Matsuyama S. . Simultaneous
 Treatment of Human Bronchial Epithelial Cells with Serine and Cysteine Protease
 Inhibitors Prevents Severe Acute Respiratory Syndrome Coronavirus Entry. J Virol
-86:6537–6545.
+:–.
 Zhou Y, Vedantham P, Lu K, Agudelo J, Carrion R, Nunneley JW, Barnard D, Pöhlmann S,
-McKerrow JH, Renslo AR, Simmons G. 2015. Protease inhibitors targeting coronavirus
-and filovirus entry. Antiviral Res 116:76–84.
+McKerrow JH, Renslo AR, Simmons G. . Protease inhibitors targeting coronavirus
+and filovirus entry. Antiviral Res :–.
 
-18
 
-Downloaded from http://aac.asm.org/ on March 28, 2020 by guest
 
-441
-442
-443
-444
-445
-446
-447
-448
-449
-450
-451
+Downloaded from http://aac.asm.org/ on March ,  by guest
+
+
+
+
+
+
+
+
+
+
+
+
 
 

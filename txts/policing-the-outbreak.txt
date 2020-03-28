@@ -3,14 +3,14 @@ Disorder
 
 Clifford Stott, Professor of Psychology, University of Keele. c.stott@keele.a.cuk
 
-C The Author(s) 2020. Published by Oxford University Press. All rights reserved.
+C The Author(s) . Published by Oxford University Press. All rights reserved.
 V
 
 For permissions please e-mail: journals.permissions@oup.com
 
-1
 
-Downloaded from https://academic.oup.com/policing/advance-article-abstract/doi/10.1093/police/paaa014/5812788 by guest on 28 March 2020
+
+Downloaded from https://academic.oup.com/policing/advance-article-abstract/doi/./police/paaa/ by guest on  March 
 
 Stephen Reicher, Wardlaw Professor of Psychology, University of St. Andrews. sdr@st-andrews.ac.uk
 
@@ -19,7 +19,7 @@ Disorder
 
 How riots start
 Contrary to common opinion, riots rarely start simply because people are frustrated or because
-they do not get what they want or need. Rather, contemporary research1 suggests that three factors
+they do not get what they want or need. Rather, contemporary research suggests that three factors
 are necessary to create the potential for major rioting:
 
 
@@ -35,18 +35,18 @@ source of grievance (e.g. government, army, police). Rioting requires a ‘them�
 
 It is important to stress that these conditions do not necessarily pre-exist riots. They can develop
 during collective events especially where the intervention of authority is seen as indiscriminate and
-excessive, particularly if it involves the use of force by police2.
+excessive, particularly if it involves the use of force by police.
 It is equally important to recognise that, even when these three conditions are in place, it is not
 that any confrontational incident will generate widespread conflict (as implied by the familiar
 metaphor of ‘tinder’ and ‘spark’). Rather the incident is precipitating because it encapsulates a more
-generalised sense of ‘our’ grievances against ‘them’3.
+generalised sense of ‘our’ grievances against ‘them’.
 It follows from this, that avoiding the possibility of riots during the coronavirus outbreak requires
 an understanding of both (a) the general way in which people represent and understand what
 groups are involved and the relations between these groups, and (b) the ways in which specific
 situations involving these groups are handled by the authorities.
 ‘Us’ and ‘them’ in the coronavirus outbreak
 A core risk factor governing the emergence of social tension/conflict during the outbreak of
-Covid-19 will be the extent to which there is a widespread sense that some sections of the
+Covid- will be the extent to which there is a widespread sense that some sections of the
 community are being treated unfairly as a consequence of policy measures. This may be because
 different measures taken by the authorities apply to different groups or because the same measure
 impacts differently on different groups. For instance, if quarantining measures (e.g. self isolation)
@@ -57,15 +57,15 @@ are then seen as agents of privileged groups rather than neutral guardians of la
 circumstances there is a danger of these enforcement agencies becoming seen as the illegitimate
 agent of the ‘other’ and for a loss of trust and conflict to emerge. In such contexts, minor
 confrontations in one location can then be seen by others in different locations as indicative of
-wider illegitimacies in their relationship to authority and disorder can begin to escalate and spread4.
+wider illegitimacies in their relationship to authority and disorder can begin to escalate and spread.
 In order to mitigate against these possibilities and risks, two general approaches are critical. The
 first concerns the overall framing of the outbreak by Government and media. The virus affects
 the whole community and therefore the outbreak needs to be seen in collective terms, with policies
 
-2
+
 http://mc.manuscriptcentral.com/police
 
-Downloaded from https://academic.oup.com/policing/advance-article-abstract/doi/10.1093/police/paaa014/5812788 by guest on 28 March 2020
+Downloaded from https://academic.oup.com/policing/advance-article-abstract/doi/./police/paaa/ by guest on  March 
 
 This briefing is divided into three parts. First, we outline the factors which lead to incidents of
 collective disorder (or riots). Second, we consider how the overall response to the coronavirus
@@ -78,7 +78,7 @@ able to self-isolate, those most at risk from infection).
 
 The science and theory underpinning these recommendations are already incorporated into
 national police guidance in the UK for policing public order. This depends upon applying the four
-principles of facilitative policing7.
+principles of facilitative policing.
 
 
 
@@ -103,7 +103,7 @@ the diverse array of community perspectives.
 Specific scenarios
 The need for the police to work with and for the community is why, during a crisis such as the
 present one, the maintenance and indeed the extension of community dialogue and
-neighbourhood policing become more urgent than ever8. In this regard it is important to consider
+neighbourhood policing become more urgent than ever. In this regard it is important to consider
 what police resources will be available (e.g. PSUs via Mutual Aid) and how they will be mobilised
 from one place to another in ways that support local neighbourhood policing operations,
 community relations and goals. Following the guidelines given to Behavioural Science group, we
@@ -117,21 +117,21 @@ demanding resources, then any anger from individuals and their families who are 
 unlikely to generalise. Moreover, other members of the community are more likely to support
 police action.
 
-3
+
 http://mc.manuscriptcentral.com/police
 
-Downloaded from https://academic.oup.com/policing/advance-article-abstract/doi/10.1093/police/paaa014/5812788 by guest on 28 March 2020
+Downloaded from https://academic.oup.com/policing/advance-article-abstract/doi/./police/paaa/ by guest on  March 
 
 When seen in such terms, both evidence and theory suggest that people will be more willing to
 accept the actions of the authorities as ‘procedurally fair,’ even if the outcome of these actions
-means that some will experience negative outcomes and personal sacrifices5. As a result, people
+means that some will experience negative outcomes and personal sacrifices. As a result, people
 and communities will be more likely to self-regulate (for instance, complying with the instructions
 of authority figures, spontaneously challenging those who act against the communal interest) and
 to be more positive towards external regulation by the police and other agencies. From this
 perspective the public are potentially the most powerful resource the authorities have to deal with
 emergencies. The role of the police and other authorities, then, is to work with citizens to scaffold,
 rather than substitute for (or, at worst, suppress) community ‘self-regulation’. Moreover, insofar as
-they are able to act in this way, the police come to be seen as ‘of us’ and ‘for us’6.
+they are able to act in this way, the police come to be seen as ‘of us’ and ‘for us’.
 
 In operational terms, such a scenario means that the police should set up local command structures
 that involve input from community members and that they should work with community
@@ -161,16 +161,16 @@ sense of common endeavour and hence to draw on the community as a key resource i
 with the crisis. The two keys are to build a sense of ‘us-ness’ –- of shared identity and shared fate
 - at every decision point and to be especially sensitive to any fault lines in the community which
 could lead particular groups (including the authorities) to be seen as ‘them’ rather than ‘us’.
-1
 
-Thompson, E. P. (1971). The moral economy of the English crowd in the eighteenth century. Past & present, 50,
-76-136.
-Reicher, S.D. & Stott, C. (2011) Mad Mobs and Englishmen. London: Constable & Robinson.
 
-4
+Thompson, E. P. (). The moral economy of the English crowd in the eighteenth century. Past & present, ,
+-.
+Reicher, S.D. & Stott, C. () Mad Mobs and Englishmen. London: Constable & Robinson.
+
+
 http://mc.manuscriptcentral.com/police
 
-Downloaded from https://academic.oup.com/policing/advance-article-abstract/doi/10.1093/police/paaa014/5812788 by guest on 28 March 2020
+Downloaded from https://academic.oup.com/policing/advance-article-abstract/doi/./police/paaa/ by guest on  March 
 
 b) Anger arises at those who refuse to self-isolate and are seen to act in ways that spread disease: This is the
 potential ‘dark side’ of creating strong norms of acting for the communal good and of collective
@@ -188,50 +188,50 @@ again, the success of these interventions depends upon the active involvement of
 of community representatives with the police at a local level both in the framing and the delivery
 of policy.
 
-2
+
 
-HMIC (2009) Adapting to protest: Nurturing the British model of policing. London: HMIC – see especially
-chapter 4. Available at: https://www.justiceinspectorates.gov.uk/hmicfrs/media/adapting-to-protest-nurturing-thebritish-model-of-policing-20091125.pdf
-3
+HMIC () Adapting to protest: Nurturing the British model of policing. London: HMIC – see especially
+chapter . Available at: https://www.justiceinspectorates.gov.uk/hmicfrs/media/adapting-to-protest-nurturing-thebritish-model-of-policing-.pdf
 
-Stott, C., Drury, J., & Reicher, S.D. (2017). On the role of a social identity analysis in articulating structure and
-collective action: The 2011 riots in Tottenham and Hackney. British Journal of Criminology, 57, 964-981.
+
+Stott, C., Drury, J., & Reicher, S.D. (). On the role of a social identity analysis in articulating structure and
+collective action: The  riots in Tottenham and Hackney. British Journal of Criminology, , -.
 Drury, J., Stott, C., Ball, R., Reicher, S., Neville, F., Bell, L., Biddlestone, M., Choudhury, S., Lovell, M. & Ryan, C.
-(2019) A social identity model of riot diffusion: From injustice to empowerment in the 2011 London riots. European
-Journal of Social Psychology. https://doi.org/10.1002/ejsp.2650
-Ball, R., Stott, C., Drury, J., Neville, F., Reicher, S. & Choudhury, S. (2019) Who controls the city? A microhistorical case study of the spread of rioting across North London in August 2011. City.
-https://doi.org/10.1080/13604813.2019.1685283.
-Stott, C., Ball, R., Drury, J., Neville, F., Reicher, S., Boardman, A. & Choudhury, S. (2018) The evolving normative
+() A social identity model of riot diffusion: From injustice to empowerment in the  London riots. European
+Journal of Social Psychology. https://doi.org/./ejsp.
+Ball, R., Stott, C., Drury, J., Neville, F., Reicher, S. & Choudhury, S. () Who controls the city? A microhistorical case study of the spread of rioting across North London in August . City.
+https://doi.org/./...
+Stott, C., Ball, R., Drury, J., Neville, F., Reicher, S., Boardman, A. & Choudhury, S. () The evolving normative
 dimensions of “riot”: toward an elaborated social identity explanation. European Journal of Social Psychology. DOI:
-10.1002/ejsp.2376
-5
+./ejsp.
 
-Radburn, M., & Stott, C. (2019). The social psychological processes of ‘procedural justice’: Concepts, critiques and
-opportunities. Criminology & Criminal Justice, 19, 421-438.
-Radburn, M., Stott, C., Bradford, B., & Robinson, M. (2018). When is policing fair? Groups, identity and judgements
-of the procedural justice of coercive crowd policing. Policing and Society, 28(6), 647-664.
-6
 
-Reicher, S., Stott, C., Cronin, P. and Adang, O. (2004), "An integrated approach to crowd psychology and public
-order policing", Policing: An International Journal, Vol. 27 No. 4, pp. 558-572.
-Stott, C., Adang, O., Livingstone, A., & Schreiber, M. (2008). Tackling football hooliganism: A quantitative study of
-public order, policing and crowd psychology. Psychology, Public Policy, and Law, 14(2), 115-141. doi:10.1037/a0013419.
-Reicher, S., Stott, C., Drury, J., Adang, O., Cronin, P., & Livingstone, A. (2007). Knowledge-based public order
-policing: principles and practice. Policing: A Journal of Policy and Practice, 1, 403-415.
-7
+Radburn, M., & Stott, C. (). The social psychological processes of ‘procedural justice’: Concepts, critiques and
+opportunities. Criminology & Criminal Justice, , -.
+Radburn, M., Stott, C., Bradford, B., & Robinson, M. (). When is policing fair? Groups, identity and judgements
+of the procedural justice of coercive crowd policing. Policing and Society, (), -.
+
+
+Reicher, S., Stott, C., Cronin, P. and Adang, O. (), "An integrated approach to crowd psychology and public
+order policing", Policing: An International Journal, Vol.  No. , pp. -.
+Stott, C., Adang, O., Livingstone, A., & Schreiber, M. (). Tackling football hooliganism: A quantitative study of
+public order, policing and crowd psychology. Psychology, Public Policy, and Law, (), -. doi:./a.
+Reicher, S., Stott, C., Drury, J., Adang, O., Cronin, P., & Livingstone, A. (). Knowledge-based public order
+policing: principles and practice. Policing: A Journal of Policy and Practice, , -.
+
 
 https://www.app.college.police.uk/app-content/public-order/?s=
 
-8
 
-Gorringe, H., Stott, C., & Rosie, M. (2012). Dialogue police, decision making, and the management of public order
-during protest crowd events. Journal of investigative psychology and offender profiling, 9(2), 111-125.
 
-5
+Gorringe, H., Stott, C., & Rosie, M. (). Dialogue police, decision making, and the management of public order
+during protest crowd events. Journal of investigative psychology and offender profiling, (), -.
+
+
 http://mc.manuscriptcentral.com/police
 
-Downloaded from https://academic.oup.com/policing/advance-article-abstract/doi/10.1093/police/paaa014/5812788 by guest on 28 March 2020
+Downloaded from https://academic.oup.com/policing/advance-article-abstract/doi/./police/paaa/ by guest on  March 
 
-4
+
 
 

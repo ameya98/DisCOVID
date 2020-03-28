@@ -1,18 +1,18 @@
 Editorial
 
-Over the past 2 weeks, the coronavirus disease 2019
-(COVID-19) pandemic has marched relentlessly west­
-ward. On March 13, WHO said that Europe was now
+Over the past  weeks, the coronavirus disease 
+(COVID-) pandemic has marched relentlessly west­
+ward. On March , WHO said that Europe was now
 the centre of the pandemic. A few days later, deaths
 in Italy surpassed those in China. Iran and Spain had
-also reported over 1000 deaths as of March 23, and
+also reported over  deaths as of March , and
 many other European countries and the USA reported
 increasing numbers of cases, heralding an imminent
-wave of fatalities. Following the sweep of COVID-19 is a
+wave of fatalities. Following the sweep of COVID- is a
 series of dramatic containment measures that reflect the
 scale of the threat posed by the pandemic. Lockdowns
 that seemed draconian when instigated in Wuhan
-only 2 months ago are now becoming commonplace.
+only  months ago are now becoming commonplace.
 However, many countries are still not following WHO’s
 clear recommendations on containment (widespread
 testing, quarantine of cases, contact tracing, and social
@@ -30,7 +30,7 @@ denial and misplaced optimism, to passive acceptance
 of large-scale deaths, was justified by words such as
 unprecedented. But this belies the damage wrought by
 SARS, Middle East respiratory syndrome, Ebola virus,
-Zika virus, the 2009 H1N1 influenza pandemic, and a
+Zika virus, the  HN influenza pandemic, and a
 widespread acceptance among scientists that a pandemic
 would one day occur. Hong Kong and South Korea were
 tested by these previous emerging infections, leaving
@@ -45,7 +45,7 @@ challenging and sometimes dangerous conditions.
 Neigh­bours have organised to support vulnerable people;
 businesses and national governments have stepped up
 to provide support for those who need it and strengthen
-www.thelancet.com Vol 395 March 28, 2020	
+www.thelancet.com Vol  March , 	
 
 social security and health services. The pandemic has also
 brought examples of international solidarity, with the
@@ -55,7 +55,7 @@ results in controlling the spread. China’s experience will
 be crucial to understanding how to lift restrictions safely.
 Inevitably, the next wave of infections will hit Africa
 and Latin America. The Africa CDC has reported cases in
-41 countries; Brazil, Mexico, and Peru have all reported
+ countries; Brazil, Mexico, and Peru have all reported
 hundreds or thousands of cases. Most African or Latin
 American countries have only tens or hundreds of
 ventilators, and many health facilities do not have
@@ -65,13 +65,13 @@ spread widely. People living in poor, overcrowded, urban
 areas are especially vulnerable; many do not have basic
 sanitation, could not self-isolate, and have no paid sick
 leave or social security. In response to the threat, WHO
-has launched the COVID-19 Solidarity Response Fund,
-which has raised more than US$70 million, and some
+has launched the COVID- Solidarity Response Fund,
+which has raised more than US$ million, and some
 regional organisations have taken strong proactive action,
 sharing information and receiving donations of testing
 kits and medical supplies. Many national governments
 have responded swiftly, but many are yet to take the
-threat of COVID-19 seriously—eg, ignoring WHO’s
+threat of COVID- seriously—eg, ignoring WHO’s
 recommendation on avoiding mass gatherings. Brazil’s
 President Jair Bolsonaro has been strongly criticised by
 health experts and faces an intensifying public backlash
@@ -95,10 +95,10 @@ to support WHO in these efforts. n The Lancet
 
 Reuters/Baz Ratner
 
-COVID-19: learning from experience
+COVID-: learning from experience
 
-See World Report page 1024
+See World Report page 
 
-1011
+
 
 

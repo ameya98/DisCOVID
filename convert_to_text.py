@@ -2,6 +2,7 @@
 
 import os
 import argparse
+import string
 
 if __name__ == "__main__":
 
@@ -34,3 +35,10 @@ if __name__ == "__main__":
 
         if force or not os.path.exists(text_file_full_path):
             os.system('pdftotext %s - > %s' % (pdf_file_full_path, text_file_full_path))
+
+            # Remove numbers from text.
+            with open(text_file_full_path, 'r') as f:
+                text = f.read()
+                text = text.translate({ord(val): None for val in string.digits})
+            with open(text_file_full_path, 'w') as f:
+                f.write(text)

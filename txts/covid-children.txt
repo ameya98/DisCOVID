@@ -1,24 +1,24 @@
 Spotlight
 
 With rates of hospitalisation and mortality from novel
-coronavirus disease 2019 (COVID-19) increasing, there
+coronavirus disease  (COVID-) increasing, there
 is understandable concern across the UK for medical
 professionals and the general public. We hope to
 highlight the challenges faced by children and healthcare professionals involved in their care, and propose key
 strategies to address these challenges.
-Severe COVID-19 in children is rare. To date, the largest
-review of children with COVID-19 included 2143 children in
-China. Only 112 (5·6%) of 2143 children had severe disease
-(defined as hypoxia) and 13 (0·6%) children developed
+Severe COVID- in children is rare. To date, the largest
+review of children with COVID- included  children in
+China. Only  (·%) of  children had severe disease
+(defined as hypoxia) and  (·%) children developed
 respiratory or multiorgan failure or acute respiratory distress
 syndrome (ARDS). At the time of writing, there have
 been two reported deaths in children testing positive for
-COVID-19 in China, and no deaths in Italy. We are waiting
+COVID- in China, and no deaths in Italy. We are waiting
 for formal reports of outcomes in children from other
 countries but to date, no deaths have been reported in
 the published literature. These figures are in stark contrast
-to the 4% global mortality rate in adults with COVID-19.
-Although the death rate from COVID-19 in children is low,
+to the % global mortality rate in adults with COVID-.
+Although the death rate from COVID- in children is low,
 medical professionals and parents are concerned about the
 health of children in the UK.
 One concern is that even though most infected children
@@ -32,7 +32,7 @@ are consistently worse in the UK than other countries, and
 levels of obesity and antenatal smoking (both associated
 with severe viral infection) are comparatively high. Adults
 with cardiorespiratory comorbidities are at increased risk
-of mortality from COVID-19; therefore, children with preexisting conditions are of specific concern to health-care
+of mortality from COVID-; therefore, children with preexisting conditions are of specific concern to health-care
 professionals. While it is necessary to highlight this risk,
 many parents of and children with pre-existing conditions
 are worried, not least because they hear terms like vulnerable
@@ -44,7 +44,7 @@ their families, have invested years of hard work to maintain
 good respiratory health; to hear constantly that people with
 underlying conditions are at increased risk can therefore
 be alarming. No comprehensive data are available on the
-impact of COVID-19 on children who are well, with an
+impact of COVID- on children who are well, with an
 underlying condition, but it is reasonable to consider they
 might be at increased risk of severe disease. Statements by
 organisations, such as charities, Royal Colleges, and parent
@@ -53,13 +53,13 @@ providing reassurance but also clear direction. Essentially,
 
 families with children with chronic respiratory illness have
 been encouraged to be more proactive with measures that
-reduce the chances of acquiring COVID-19, but decisions
+reduce the chances of acquiring COVID-, but decisions
 to undertake social distancing are complex and difficult
 with profound implications for the family (employment)
 and the young person if they are removed from education
 unnecessarily.
 Parents and health-care professionals are rightly con­
-cerned because COVID-19 is a novel disease, with a weak
+cerned because COVID- is a novel disease, with a weak
 evidence-base on which to formulate clinical decisions.
 Most literature relates to adult disease, but these findings
 are not always transferrable to children. For example, in
@@ -81,7 +81,7 @@ has led to rapid development of randomised controlled
 trials with harmonised protocols, and the first report of a
 high-quality trial has already been published. Furthermore,
 the world’s leading medical publishing groups have made
-COVID-19-related manuscripts free to access, enabling
+COVID--related manuscripts free to access, enabling
 people globally to access information that would usually not
 be available to everyone. Constant updates on the status of
 the pandemic, available through Public Health England and
@@ -104,57 +104,57 @@ news has led to a reduction in checking of integrity of
 facts before reports are published, and due to the nature
 of social media, political and personal viewpoints can drive
 
-www.thelancet.com/respiratory Published online March 27, 2020 https://doi.org/10.1016/S2213-2600(20)30152-1	
+www.thelancet.com/respiratory Published online March ,  https://doi.org/./S-()-	
 
 John Birdsall Social Issues Photo Library/Science Photo Library
 
-COVID-19 infection in children
+COVID- infection in children
 
-Lancet Respir Med 2020
+Lancet Respir Med 
 Published Online
-March 27, 2020
-https://doi.org/10.1016/
-S2213-2600(20)30152-1
+March , 
+https://doi.org/./
+S-()-
 For the review see Pediatrics
-2020; published online March 1.
-DOI:10.1542/peds.2020-0702
+; published online March .
+DOI:./peds.-
 For reports on child deaths due
-to COVID-19 see review (above)
-and N Engl J Med 2020; published
-online March 18. DOI:10.1056/
-NEJMc2005073
+to COVID- see review (above)
+and N Engl J Med ; published
+online March . DOI:./
+NEJMc
 For child deaths in Italy see
-JAMA 2020; published online
-March 17. DOI:10.1001/
-jama.2020.4344
+JAMA ; published online
+March . DOI:./
+jama..
 For the latest WHO report on
-COVID-19 see https://www.who.
+COVID- see https://www.who.
 int/docs/default-source/
-coronaviruse/situationreports/20200316-sitrep-56covid-19.pdf?sfvrsn=9fda7db2_2
+coronaviruse/situationreports/-sitrep-covid-.pdf?sfvrsn=fdadb_
 For child health comparisons
-see BMJ 2019;
-3 (suppl 1): A1–A34
+see BMJ ;
+ (suppl ): A–A
 For clinical characteristics of
-adults with COVID-19 see
-Articles Lancet 2020;
-395: 507–13
+adults with COVID- see
+Articles Lancet ;
+: –
 For characteristics of adults
 with severe infection see
-Comment Lancet 2020;
-published online March 17.
-https://doi.org/10.1016/S01406736(20)30633-4
+Comment Lancet ;
+published online March .
+https://doi.org/./S()-
 For the first randomised trial
-see N Engl J Med 2020; published
-online March 18. DOI:10.1056/
-NEJMoa2001282
+see N Engl J Med ; published
+online March . DOI:./
+NEJMoa
 
-1
+
 
 Spotlight
 
 For the PHE programme see
 https://www.england.nhs.uk/
-coronavirus/publication/lettercovid-19-hospitalisation-inengland-surveillance-systemchess-daily-reporting/
+coronavirus/publication/lettercovid--hospitalisation-inengland-surveillance-systemchess-daily-reporting/
 For the Clinical Characterisation
 Protocol see https://isaric.tghn.
 org/UK-CCP/
@@ -166,9 +166,9 @@ see https//www.covidinchildren.
 co.uk
 For the RCPCH national
 guidelines see https://www.
-rcpch.ac.uk/resources/covid-19guidance-paediatric-services
+rcpch.ac.uk/resources/covid-guidance-paediatric-services
 
-2	
+	
 
 a narrative that undermines public health efforts or cause
 confusion.
@@ -180,31 +180,31 @@ children with severe or life-threatening disease? The answer
 is we need to get the basics right—thankfully, mechanisms
 are in place to enable this.
 As a community we need to learn, rapidly, how to manage
-COVID-19; we need to use data, from the right sources, in
+COVID-; we need to use data, from the right sources, in
 the right way, at the right time. There are four ongoing data
 collection processes: the Public Health England programme
 uses detailed information for crucial surveillance purposes.
 In the Clinical Characterisation Protocol, funded by the
 National Institute of Health Research, data from all adults
-and children admitted to hospital with proven COVID-19
+and children admitted to hospital with proven COVID-
 are collected, to enable rapid and robust understanding
 of the disease. The National Child Mortality Database are
 working to analyse possible emerging patterns of child
-deaths that might be linked to COVID-19. Finally, NHS
+deaths that might be linked to COVID-. Finally, NHS
 England have funded and developed a secure webtool for
 collecting minimal granular data from children admitted
-with suspected and proven COVID-19, to feed this into a
+with suspected and proven COVID-, to feed this into a
 real-time dashboard for paediatricians on the front-line,
 and to enable clinically relevant understanding of disease
 progression. All these endeavours are important if we are
-to learn how to manage COVID-19.
+to learn how to manage COVID-.
 We must try and manage children in an evidence-based
 way, despite having very little evidence at our disposal. A
 national guideline for the management of children with
-COVID-19 is hosted and maintained by the Royal College
+COVID- is hosted and maintained by the Royal College
 of Paediatrics and Child Health. These guidelines will be
 updated as we learn more about the epidemiology and
-treatment of COVID-19 in children. The challenge will be to
+treatment of COVID- in children. The challenge will be to
 strike the right balance between doing this in a pragmatic,
 
 timely way and yet maintaining scientific rigour to ensure
@@ -212,12 +212,12 @@ the most evidence-based approach to care.
 We need to communicate well with children and families
 in hospital. Personal Protective Equipment will look strange
 to us, but it will be absolutely terrifying for children, many
-of whom will have heard about COVID-19 in the news or
+of whom will have heard about COVID- in the news or
 might even know of an adult with the disease. We need to
 be compassionate and precise with our language and move
 from classifying children as high-risk to children with preexisting conditions, in guidelines, the media, or in scientific
 publications. Parents may believe that there is no treatment
-for COVID-19, but we must help them understand that
+for COVID-, but we must help them understand that
 supportive therapy is likely to be all that is needed. We also
 need to communicate well at a wider level. Policy makers
 and leaders will need to be honest when communicating the
@@ -237,7 +237,7 @@ Daniel B Hawcutt, Rebecca Thursfield, Omendra Narayan,
 Simon E Kenny, Russell Viner, Simon Langton Hewer,
 Kevin W Southern
 iansinha@liv.ac.uk
-Alder Hey Children’s Hospital, Liverpool L14 5AP, UK (IPS, RH, MGS, RT, SEK);
+Alder Hey Children’s Hospital, Liverpool L AP, UK (IPS, RH, MGS, RT, SEK);
 Division of Child Health (IPS, DBH KWS), and Health Protection Research Unit in
 Emerging and Zoonotic Infections, Faculty of Health and Life Science (MGS),
 University of Liverpool, Liverpool, UK; Royal Manchester Children’s Hospital,
@@ -245,6 +245,6 @@ Manchester, UK (ON); NHS England, London, UK (SEK); Royal College of
 Paediatrics and Child Health, London, UK (RV); British Paediatric Respiratory
 Society, London, UK (SLH)
 
-www.thelancet.com/respiratory Published online March 27, 2020 https://doi.org/10.1016/S2213-2600(20)30152-1
+www.thelancet.com/respiratory Published online March ,  https://doi.org/./S-()-
 
 

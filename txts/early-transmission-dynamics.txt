@@ -2,11 +2,11 @@ new england
 journal of medicine
 The
 
-established in 1812	
+established in 	
 
-March 26, 2020	
+March , 	
 
-vol. 382  no. 13
+vol.   no. 
 
 Early Transmission Dynamics in Wuhan, China,
 of Novel Coronavirus–Infected Pneumonia
@@ -23,63 +23,63 @@ Benjamin J. Cowling, Ph.D., Bo Yang, M.Sc., Gabriel M. Leung, M.D., and Zijian
 a bs t r ac t
 BACKGROUND
 
-The initial cases of novel coronavirus (2019-nCoV)–infected pneumonia (NCIP)
-occurred in Wuhan, Hubei Province, China, in December 2019 and January 2020.
-We analyzed data on the first 425 confirmed cases in Wuhan to determine the
+The initial cases of novel coronavirus (-nCoV)–infected pneumonia (NCIP)
+occurred in Wuhan, Hubei Province, China, in December  and January .
+We analyzed data on the first  confirmed cases in Wuhan to determine the
 epidemiologic characteristics of NCIP.
 METHODS
 
 We collected information on demographic characteristics, exposure history, and
 illness timelines of laboratory-confirmed cases of NCIP that had been reported by
-January 22, 2020. We described characteristics of the cases and estimated the key
+January , . We described characteristics of the cases and estimated the key
 epidemiologic time-delay distributions. In the early period of exponential growth,
 we estimated the epidemic doubling time and the basic reproductive number.
 RESULTS
 
-Among the first 425 patients with confirmed NCIP, the median age was 59 years
-and 56% were male. The majority of cases (55%) with onset before January 1, 2020,
-were linked to the Huanan Seafood Wholesale Market, as compared with 8.6% of
-the subsequent cases. The mean incubation period was 5.2 days (95% confidence
-interval [CI], 4.1 to 7.0), with the 95th percentile of the distribution at 12.5 days.
-In its early stages, the epidemic doubled in size every 7.4 days. With a mean
-serial interval of 7.5 days (95% CI, 5.3 to 19), the basic reproductive number was
-estimated to be 2.2 (95% CI, 1.4 to 3.9).
+Among the first  patients with confirmed NCIP, the median age was  years
+and % were male. The majority of cases (%) with onset before January , ,
+were linked to the Huanan Seafood Wholesale Market, as compared with .% of
+the subsequent cases. The mean incubation period was . days (% confidence
+interval [CI], . to .), with the th percentile of the distribution at . days.
+In its early stages, the epidemic doubled in size every . days. With a mean
+serial interval of . days (% CI, . to ), the basic reproductive number was
+estimated to be . (% CI, . to .).
 
 The authors' affiliations are listed in the
 Appendix. Address reprint requests to Dr.
 Feng at the Chinese Center for Disease
-Control and Prevention, No. 155 Changbai Rd., Changping District, Beijing, ­China,
+Control and Prevention, No.  Changbai Rd., Changping District, Beijing, ­China,
 or at ­fengzj@​­chinacdc​.­cn; to Dr. G.M.
 Leung or Dr. Cowling at the School of
-Public Health, Li Ka Shing Faculty of Medicine, University of Hong Kong, 21 Sassoon Rd., Pokfulam, Hong Kong, China, or
+Public Health, Li Ka Shing Faculty of Medicine, University of Hong Kong,  Sassoon Rd., Pokfulam, Hong Kong, China, or
 at ­gmleung@​­hku​.­hk or ­bcowling@​­hku​.­hk,
-respectively; or to Dr. B. Yang at the Hubei Center for Disease Control and Prevention, No. 35 Zhuodaoquan North Rd.,
+respectively; or to Dr. B. Yang at the Hubei Center for Disease Control and Prevention, No.  Zhuodaoquan North Rd.,
 Hongshan District, Wuhan, Hubei, China,
-or at ­49205957@​­qq​.­com.
+or at ­@​­qq​.­com.
 Drs. Q. Li, X. Guan, P. Wu, and X. Wang and
 Drs. B. Cowling, B. Yang, M. Leung, and
 Z. Feng contributed equally to this article.
-This article was published on January 29,
-2020, and last updated on January 31, 2020,
+This article was published on January ,
+, and last updated on January , ,
 at NEJM.org.
-N Engl J Med 2020;382:1199-207.
-DOI: 10.1056/NEJMoa2001316
-Copyright © 2020 Massachusetts Medical Society.
+N Engl J Med ;:-.
+DOI: ./NEJMoa
+Copyright ©  Massachusetts Medical Society.
 
 CONCLUSIONS
 
-On the basis of this information, there is evidence that human-to-human transmission has occurred among close contacts since the middle of December 2019.
+On the basis of this information, there is evidence that human-to-human transmission has occurred among close contacts since the middle of December .
 Considerable efforts to reduce transmission will be required to control outbreaks
 if similar dynamics apply elsewhere. Measures to prevent or reduce transmission
 should be implemented in populations at risk. (Funded by the Ministry of Science
 and Technology of China and others.)
-n engl j med 382;13  nejm.org  March 26, 2020
+n engl j med ;  nejm.org  March , 
 
 The New England Journal of Medicine
-Downloaded from nejm.org on March 28, 2020. For personal use only. No other uses without permission.
-Copyright © 2020 Massachusetts Medical Society. All rights reserved.
+Downloaded from nejm.org on March , . For personal use only. No other uses without permission.
+Copyright ©  Massachusetts Medical Society. All rights reserved.
 
-1199
+
 
 The
 
@@ -87,22 +87,22 @@ n e w e ng l a n d j o u r na l
 
 S
 
-ince December 2019, an increasing
+ince December , an increasing
 number of cases of novel coronavirus
-(2019-nCoV)–infected pneumonia (NCIP)
-have been identified in Wuhan, a large city of 11
-million people in central China.1-3 On December
-29, 2019, the first 4 cases reported, all linked to
+(-nCoV)–infected pneumonia (NCIP)
+have been identified in Wuhan, a large city of 
+million people in central China.- On December
+, , the first  cases reported, all linked to
 the Huanan (Southern China) Seafood Wholesale Market, were identified by local hospitals
 using a surveillance mechanism for “pneumonia
 of unknown etiology” that was established in
-the wake of the 2003 severe acute respiratory
+the wake of the  severe acute respiratory
 syndrome (SARS) outbreak with the aim of allowing timely identification of novel pathogens
-such as 2019-nCoV.4 In recent days, infections
+such as -nCoV. In recent days, infections
 have been identified in other Chinese cities and
 in more than a dozen countries around the
-world.5 Here, we provide an analysis of data on
-the first 425 laboratory-confirmed cases in Wuhan to describe the epidemiologic characteristics
+world. Here, we provide an analysis of data on
+the first  laboratory-confirmed cases in Wuhan to describe the epidemiologic characteristics
 and transmission dynamics of NCIP.
 
 Me thods
@@ -110,14 +110,14 @@ Sources of Data
 
 The earliest cases were identified through the
 “pneumonia of unknown etiology” surveillance
-mechanism.4 Pneumonia of unknown etiology is
+mechanism. Pneumonia of unknown etiology is
 defined as an illness without a causative pathogen identified that fulfills the following criteria:
-fever (≥38°C), radiographic evidence of pneumonia, low or normal white-cell count or low lymphocyte count, and no symptomatic improvement
-after antimicrobial treatment for 3 to 5 days
+fever (≥°C), radiographic evidence of pneumonia, low or normal white-cell count or low lymphocyte count, and no symptomatic improvement
+after antimicrobial treatment for  to  days
 following standard clinical guidelines. In response to the identification of pneumonia cases
 and in an effort to increase the sensitivity for
 early detection, we developed a tailored surveillance protocol to identify potential cases on
-January 3, 2020, using the case definitions described below.1 Once a suspected case was identified, the joint field epidemiology team comprising members from the Chinese Center for
+January , , using the case definitions described below. Once a suspected case was identified, the joint field epidemiology team comprising members from the Chinese Center for
 Disease Control and Prevention (China CDC)
 together with provincial, local municipal CDCs
 and prefecture CDCs would be informed to initiate detailed field investigations and collect respiratory specimens for centralized testing at the
@@ -125,8 +125,8 @@ National Institute for Viral Disease Control and
 Prevention, China CDC, in Beijing. A joint team
 comprising staff from China CDC and local
 CDCs conducted detailed field investigations for
-all suspected and confirmed 2019-nCoV cases.
-1200
+all suspected and confirmed -nCoV cases.
+
 
 of
 
@@ -137,7 +137,7 @@ through interviews of infected persons, relatives,
 close contacts, and health care workers. We collected information on the dates of illness onset,
 visits to clinical facilities, hospitalization, and
 clinical outcomes. Epidemiologic data were collected through interviews and field reports. Investigators interviewed each patient with infection and their relatives, where necessary, to
-determine exposure histories during the 2 weeks
+determine exposure histories during the  weeks
 before the illness onset, including the dates,
 times, frequency, and patterns of exposures to
 any wild animals, especially those purportedly
@@ -148,7 +148,7 @@ All epidemiologic information collected during
 field investigations, including exposure history,
 timelines of events, and close contact identification, was cross-checked with information from
 multiple sources. Households and places known to
-have been visited by the patients in the 2 weeks
+have been visited by the patients in the  weeks
 before the onset of illness were also investigated
 to assess for possible animal and environmental
 exposures. Data were entered into a central database, in duplicate, and were verified with EpiData
@@ -158,34 +158,34 @@ Case Definitions
 The initial working case definitions for suspected
 NCIP were based on the SARS and Middle East
 respiratory syndrome (MERS) case definitions,
-as recommended by the World Health Organization (WHO) in 2003 and 2012.6-8 A suspected
+as recommended by the World Health Organization (WHO) in  and .- A suspected
 NCIP case was defined as a pneumonia that either fulfilled all the following four criteria —
 fever, with or without recorded temperature; radiographic evidence of pneumonia; low or normal
 white-cell count or low lymphocyte count; and
 no reduction in symptoms after antimicrobial
-treatment for 3 days, following standard clinical
+treatment for  days, following standard clinical
 guidelines — or fulfilled the abovementioned
 first three criteria and had an epidemiologic link
 to the Huanan Seafood Wholesale Market or
-contact with other patients with similar symptoms. The epidemiologic criteria to define a suspected case were updated on January 18, 2020,
+contact with other patients with similar symptoms. The epidemiologic criteria to define a suspected case were updated on January , ,
 once new information on identified cases became available. The criteria were the following:
 a travel history to Wuhan or direct contact with
 
-n engl j med 382;13  nejm.org  March 26, 2020
+n engl j med ;  nejm.org  March , 
 
 The New England Journal of Medicine
-Downloaded from nejm.org on March 28, 2020. For personal use only. No other uses without permission.
-Copyright © 2020 Massachusetts Medical Society. All rights reserved.
+Downloaded from nejm.org on March , . For personal use only. No other uses without permission.
+Copyright ©  Massachusetts Medical Society. All rights reserved.
 
 Early Tr ansmission Dynamics of NCIP
 
-patients from Wuhan who had fever or respiratory symptoms, within 14 days before illness
-onset.9 A confirmed case was defined as a case
+patients from Wuhan who had fever or respiratory symptoms, within  days before illness
+onset. A confirmed case was defined as a case
 with respiratory specimens that tested positive
-for the 2019-nCoV by at least one of the following three methods: isolation of 2019-nCoV or at
+for the -nCoV by at least one of the following three methods: isolation of -nCoV or at
 least two positive results by real-time reversetranscription–polymerase-chain-reaction (RT-PCR)
-assay for 2019-nCoV or a genetic sequence that
-matches 2019-nCoV.
+assay for -nCoV or a genetic sequence that
+matches -nCoV.
 Laboratory Testing
 
 able. Onset-to-first-medical-visit and onset-toadmission distributions were estimated by fitting a Weibull distribution on the dates of
@@ -194,48 +194,48 @@ admission in a subset of cases with detailed information available. We fitted a 
 the delay between illness onset dates in successive cases in chains of transmission.
 We estimated the epidemic growth rate by
 analyzing data on the cases with illness onset
-between December 10 and January 4, because we
+between December  and January , because we
 expected the proportion of infections identified
-would increase soon after the formal announcement of the outbreak in Wuhan on December 31.
+would increase soon after the formal announcement of the outbreak in Wuhan on December .
 We fitted a transmission model (formulated with
 the use of renewal equations) with zoonotic infections to onset dates that were not linked to
 the Huanan Seafood Wholesale Market, and we
 used this model to derive the epidemic growth
 rate, the epidemic doubling time, and the basic
-reproductive number (R0), which is defined as
+reproductive number (R), which is defined as
 the expected number of additional cases that
 one case will generate, on average, over the
 course of its infectious period in an otherwise
 uninfected population. We used an informative
 prior distribution for the serial interval based on
-the serial interval of SARS with a mean of 8.4
-and a standard deviation of 3.8.11
-Analyses of the incubation period, serial interval, growth rate, and R0 were performed with
+the serial interval of SARS with a mean of .
+and a standard deviation of ..
+Analyses of the incubation period, serial interval, growth rate, and R were performed with
 the use of MATLAB software (MathWorks). Other
 analyses were performed with the use of SAS
 software (SAS Institute) and R software (R Foundation for Statistical Computing).
 
-The 2019-nCoV laboratory test assays were based
-on the previous WHO recommendation.10 Upper
+The -nCoV laboratory test assays were based
+on the previous WHO recommendation. Upper
 and lower respiratory tract specimens were obtained from patients. RNA was extracted and
-tested by real-time RT-PCR with 2019-nCoV–specific primers and probes. Tests were carried out
-in biosafety level 2 facilities at the Hubei (provincial) CDC and then at the National Institute
+tested by real-time RT-PCR with -nCoV–specific primers and probes. Tests were carried out
+in biosafety level  facilities at the Hubei (provincial) CDC and then at the National Institute
 for Viral Disease Control at China CDC. If two
-targets (open reading frame 1a or 1b, nucleocapsid protein) tested positive by specific real-time
+targets (open reading frame a or b, nucleocapsid protein) tested positive by specific real-time
 RT-PCR, the case would be considered to be
 laboratory-confirmed. A cycle threshold value
-(Ct-value) less than 37 was defined as a positive
-test, and a Ct-value of 40 or more was defined
+(Ct-value) less than  was defined as a positive
+test, and a Ct-value of  or more was defined
 as a negative test. A medium load, defined as a
-Ct-value of 37 to less than 40, required confirmation by retesting. If the repeated Ct-value was
-less than 40 and an obvious peak was observed,
-or if the repeated Ct-value was less than 37, the
+Ct-value of  to less than , required confirmation by retesting. If the repeated Ct-value was
+less than  and an obvious peak was observed,
+or if the repeated Ct-value was less than , the
 retest was deemed positive. The genome was
 identified in samples of bronchoalveolar-lavage
 fluid from the patient by one of three methods:
 Sanger sequencing, Illumina sequencing, or nanopore sequencing. Respiratory specimens were
 inoculated in cells for viral isolation in enhanced Ethics Approval
-biosafety laboratory 3 facilities at the China CDC.3 Data collection and analysis of cases and close
+biosafety laboratory  facilities at the China CDC. Data collection and analysis of cases and close
 contacts were determined by the National Health
 Statistical Analysis
 Commission of the People’s Republic of China to
@@ -247,13 +247,13 @@ were described, including demographic characR e sult s
 teristics, exposures, and health care worker status. The incubation period distribution (i.e., the The development of the epidemic follows an extime delay from infection to illness onset) was ponential growth in cases, and a decline in the
 estimated by fitting a log-normal distribution to most recent days is likely to be due to underdata on exposure histories and onset dates in a ascertainment of cases with recent onset and
 subset of cases with detailed information avail- delayed identification and reporting rather than
-n engl j med 382;13  nejm.org  March 26, 2020
+n engl j med ;  nejm.org  March , 
 
 The New England Journal of Medicine
-Downloaded from nejm.org on March 28, 2020. For personal use only. No other uses without permission.
-Copyright © 2020 Massachusetts Medical Society. All rights reserved.
+Downloaded from nejm.org on March , . For personal use only. No other uses without permission.
+Copyright ©  Massachusetts Medical Society. All rights reserved.
 
-1201
+
 
 The
 
@@ -279,14 +279,14 @@ PCR diagnostic reagents provided to Wuhan
 First confirmed case from Wuhan
 reported outside China (in Thailand)
 
-China CDC Level 2 emergency
+China CDC Level  emergency
 response activated
 
 China CDC emergency response level
-upgraded to Level 1 (the highest level);
-national technical protocols for 2019nCoV released by NHC
+upgraded to Level  (the highest level);
+national technical protocols for nCoV released by NHC
 
-50
+
 Emergency monitoring, case investigation,
 close contact management, and market
 investigation initiated, technical protocols
@@ -294,18 +294,18 @@ for Wuhan released; NHC notified WHO
 and relevant countries and regions; gene
 sequencing completed by China CDC
 
-45
-40
+
+
 
 No. of Cases
 
-35
+
 
 Huanan Seafood Wholesale
 Market closed
 
-30
-25
+
+
 
 First confirmed case reported in another
 province in China (in a person who
@@ -317,7 +317,7 @@ Outbreak announced by WHC;
 NHC and China CDC involved
 in investigation and response
 
-20
+
 
 NCIP incorporated as a notifiable
 disease in the Infectious Disease
@@ -326,80 +326,80 @@ Law in China
 
 Case-finding activated
 
-15
+
 
 Pneumonia cases linked
 to the Huanan Seafood
 Wholesale Market
 
-10
-5
-0
+
+
+
 
 Strict exit screening measures activated
 in Wuhan, people with body temperature
-≥37.3ºC were restricted from leaving
+≥.ºC were restricted from leaving
 
-27
 
-30
 
-3
 
-6
 
-9
 
-12
+
+
+
+
+
+
 
 Reagent probes and primers
 shared with the public by
 China CDC
-15
+
 
 Nov.
 
-18
 
-21
 
-24
 
-27
 
-30
 
-2
+
+
+
+
+
+
 
 Dec.
 
-2019
 
-5
 
-8
 
-11
 
-14
 
-17
 
-20
+
+
+
+
+
+
+
 
 Jan.
 
 Outbreak Period
 
-2020
 
-Figure 1. Onset of Illness among the First 425 Confirmed Cases of Novel Coronavirus (2019-nCoV)–Infected Pneumonia (NCIP) in Wuhan,
+
+Figure . Onset of Illness among the First  Confirmed Cases of Novel Coronavirus (-nCoV)–Infected Pneumonia (NCIP) in Wuhan,
 China.
-The decline in incidence after January 8 is likely to be due to delays in diagnosis and laboratory confirmation. China CDC denotes Chinese
+The decline in incidence after January  is likely to be due to delays in diagnosis and laboratory confirmation. China CDC denotes Chinese
 Center for Disease Control and Prevention, NHC National Health Commission of the People’s Republic of China, PCR polymerase chain
 reaction, WHC Wuhan Health Commission, and WHO World Health Organization.
 
-a true turning point in incidence (Fig. 1). Specifically, the latter part of the curve does not
+a true turning point in incidence (Fig. ). Specifically, the latter part of the curve does not
 indicate a decrease in the number of incident
 cases but is due to delayed case ascertainment at
 the cutoff date. Care should be taken in interpreting the speed of growth in cases in January,
@@ -408,137 +408,137 @@ testing kits as time has progressed. The majority of the earliest cases included
 but there was an exponential increase in the
 number of nonlinked cases beginning in late
 December.
-The median age of the patients was 59 years
-(range, 15 to 89), and 240 of the 425 patients
-(56%) were male. There were no cases in children below 15 years of age. We examined char1202
+The median age of the patients was  years
+(range,  to ), and  of the  patients
+(%) were male. There were no cases in children below  years of age. We examined char
 
 acteristics of cases in three time periods: the
 first period was for patients with illness onset
-before January 1, which was the date the Huanan
+before January , which was the date the Huanan
 Seafood Wholesale Market was closed; the second period was for those with onset between
-January 1 and January 11, which was the date
+January  and January , which was the date
 when RT-PCR reagents were provided to Wuhan;
 and the third period was those with illness onset
-on or after January 12 (Table 1). The patients
+on or after January  (Table ). The patients
 with earlier onset were slightly younger, more
 likely to be male, and much more likely to report
 exposure to the Huanan Seafood Wholesale
 Market. The proportion of cases in health care
 workers gradually increased across the three
-periods (Table 1).
-We examined data on exposures among 10
+periods (Table ).
+We examined data on exposures among 
 confirmed cases, and we estimated the mean
 
-n engl j med 382;13  nejm.org  March 26, 2020
+n engl j med ;  nejm.org  March , 
 
 The New England Journal of Medicine
-Downloaded from nejm.org on March 28, 2020. For personal use only. No other uses without permission.
-Copyright © 2020 Massachusetts Medical Society. All rights reserved.
+Downloaded from nejm.org on March , . For personal use only. No other uses without permission.
+Copyright ©  Massachusetts Medical Society. All rights reserved.
 
 Early Tr ansmission Dynamics of NCIP
 
-Table 1. Characteristics of Patients with Novel Coronavirus–Infected Pneumonia in Wuhan as of January 22, 2020.*
+Table . Characteristics of Patients with Novel Coronavirus–Infected Pneumonia in Wuhan as of January , .*
 Characteristic
 Median age (range) — yr
 
-Before January 1
-(N = 47)
+Before January 
+(N = )
 
-January 1 –January 11
-(N = 248)
+January  –January 
+(N = )
 
-January 12 –January 22
-(N = 130)
+January  –January 
+(N = )
 
-56 (26–82)
+ (–)
 
-60 (21–89)
+ (–)
 
-61 (15–89)
+ (–)
 
 Age group — no./total no. (%)
-<15 yr
+< yr
 
-0/47
+/
 
-0/248
+/
 
-12/47 (26)
+/ ()
 
-45–64 yr
+– yr
 
-24/47 (51)
+/ ()
 
-106/248 (43)
+/ ()
 
-49/130 (38)
+/ ()
 
-≥65 yr
+≥ yr
 
-11/47 (23)
+/ ()
 
-103/248 (42)
+/ ()
 
-48/130 (37)
+/ ()
 
-31/47 (66)
+/ ()
 
-147/248 (59)
+/ ()
 
-62/130 (48)
+/ ()
 
 Male sex — no./total no. (%)
 
-39/248 (16)
+/ ()
 
-0/130
+/
 
-15–44 yr
+– yr
 
-33/130 (25)
+/ ()
 
 Exposure history — no./total no. (%)
 Wet market exposure
 
-30/47 (64)
+/ ()
 
-32/196 (16)
+/ ()
 
-5/81 (6)
+/ ()
 
-26/47 (55)
+/ ()
 
-19/196 (10)
+/ ()
 
-5/81 (6)
+/ ()
 
-4/47 (9)
+/ ()
 
-13/196 (7)
+/ ()
 
-0/81
+/
 
 Contact with another person with respiratory
 symptoms
 
-14/47 (30)
+/ ()
 
-30/196 (15)
+/ ()
 
-21/83 (25)
+/ ()
 
 No exposure to either market or person with
 respiratory symptoms
 
-12/47 (26)
+/ ()
 
-141/196 (72)
+/ ()
 
-59/81 (73)
+/ ()
 
-7/248 (3)
+/ ()
 
-8/122 (7)
+/ ()
 
 Huanan Seafood Wholesale Market
 Other wet market but not Huanan Seafood
@@ -546,38 +546,38 @@ Wholesale Market
 
 Health care worker — no./total no. (%)
 
-0/47
+/
 
-*	Reduced denominators indicate missing data. Percentages may not total 100 because of rounding.
+*	Reduced denominators indicate missing data. Percentages may not total  because of rounding.
 
-incubation period to be 5.2 days (95% confidence interval [CI], 4.1 to 7.0); the 95th percentile of the distribution was 12.5 days (95% CI,
-9.2 to 18) (Fig. 2A). We obtained information on
-5 clusters of cases, shown in Figure 3. On the
-basis of the dates of illness onset of 6 pairs of
+incubation period to be . days (% confidence interval [CI], . to .); the th percentile of the distribution was . days (% CI,
+. to ) (Fig. A). We obtained information on
+ clusters of cases, shown in Figure . On the
+basis of the dates of illness onset of  pairs of
 cases in these clusters, we estimated that the
 serial interval distribution had a mean (±SD) of
-7.5±3.4 days (95% CI, 5.3 to 19) (Fig. 2B).
-In the epidemic curve up to January 4, 2020, the
-epidemic growth rate was 0.10 per day (95% CI,
-0.050 to 0.16) and the doubling time was 7.4 days
-(95% CI, 4.2 to 14). Using the serial interval
-distribution above, we estimated that R0 was 2.2
-(95% CI, 1.4 to 3.9).
+.±. days (% CI, . to ) (Fig. B).
+In the epidemic curve up to January , , the
+epidemic growth rate was . per day (% CI,
+. to .) and the doubling time was . days
+(% CI, . to ). Using the serial interval
+distribution above, we estimated that R was .
+(% CI, . to .).
 The duration from illness onset to first
-medical visit for 45 patients with illness onset
-before January 1 was estimated to have a mean
-of 5.8 days (95% CI, 4.3 to 7.5), which was
-similar to that for 207 patients with illness onset
-between January 1 and January 11, with a mean
-of 4.6 days (95% CI, 4.1 to 5.1) (Fig. 2C). The
+medical visit for  patients with illness onset
+before January  was estimated to have a mean
+of . days (% CI, . to .), which was
+similar to that for  patients with illness onset
+between January  and January , with a mean
+of . days (% CI, . to .) (Fig. C). The
 mean duration from onset to hospital admission
-was estimated to be 12.5 days (95% CI, 10.3 to
-14.8) among 44 cases with illness onset before
-January 1, which was longer than that among
-189 patients with illness onset between January 1
+was estimated to be . days (% CI, . to
+.) among  cases with illness onset before
+January , which was longer than that among
+ patients with illness onset between January 
 
-and 11 (mean, 9.1 days; 95% CI, 8.6 to 9.7) (Fig.
-2D). We did not plot these distributions for patients with onset on or after January 12, because
+and  (mean, . days; % CI, . to .) (Fig.
+D). We did not plot these distributions for patients with onset on or after January , because
 those with recent onset and longer durations to
 presentation would not yet have been detected.
 
@@ -590,18 +590,18 @@ that the epidemic has been gradually growing in
 recent weeks. Our findings provide important
 parameters for further analyses, including evaluations of the impact of control measures and
 predictions of the future spread of infection.
-We estimated an R0 of approximately 2.2,
+We estimated an R of approximately .,
 meaning that on average each patient has been
-spreading infection to 2.2 other people. In general, an epidemic will increase as long as R0 is
-greater than 1, and control measures aim to reduce the reproductive number to less than 1. The
+spreading infection to . other people. In general, an epidemic will increase as long as R is
+greater than , and control measures aim to reduce the reproductive number to less than . The
 
-n engl j med 382;13  nejm.org  March 26, 2020
+n engl j med ;  nejm.org  March , 
 
 The New England Journal of Medicine
-Downloaded from nejm.org on March 28, 2020. For personal use only. No other uses without permission.
-Copyright © 2020 Massachusetts Medical Society. All rights reserved.
+Downloaded from nejm.org on March , . For personal use only. No other uses without permission.
+Copyright ©  Massachusetts Medical Society. All rights reserved.
 
-1203
+
 
 The
 
@@ -614,111 +614,111 @@ of
 m e dic i n e
 
 B
-0.20
+.
 
-0.20
-
-Relative Frequency
+.
 
 Relative Frequency
 
-0.25
+Relative Frequency
 
-0.15
-0.10
-0.05
-0.00
+.
 
-0.15
+.
+.
+.
+.
 
-0.10
+.
 
-0.05
+.
 
-0.00
-0
+.
 
-7
+.
 
-14
 
-21
 
-0
 
-7
+
+
+
+
+
+
+
 
 Days from Infection to Symptom Onset
 
-14
 
-21
+
+
 
 Serial Interval (days)
 
 C
 
 D
-0.15
-Onset before January 1
-Onset during January 1− 11
+.
+Onset before January 
+Onset during January − 
 
-0.20
-0.15
-0.10
-0.05
-0.00
+.
+.
+.
+.
+.
 
-Onset before January 1
-Onset during January 1− 11
-
-Relative Frequency
+Onset before January 
+Onset during January − 
 
 Relative Frequency
 
-0.25
+Relative Frequency
 
-0
+.
 
-3
 
-6
 
-9
 
-12
+
+
+
+
+
+
 
 Days from Illness Onset to First Medical Visit
 
-0.10
+.
 
-0.05
+.
 
-0.00
+.
 
-0
 
-10
 
-20
 
-30
+
+
+
+
 
 Days from Illness Onset to Hospitalization
 
-Figure 2. Key Time-to-Event Distributions.
+Figure . Key Time-to-Event Distributions.
 The estimated incubation period distribution (i.e., the time from infection to illness onset) is shown in Panel A. The
 estimated serial interval distribution (i.e., the time from illness onset in successive cases in a transmission chain) is
 shown in Panel B. The estimated distributions of times from illness onset to first medical visit are shown in Panel C.
 The estimated distributions of times from illness onset to hospital admission are shown in Panel D.
 
-R0 of SARS was estimated to be around 3,12 and
+R of SARS was estimated to be around , and
 SARS outbreaks were successfully controlled by
-isolation of patients and careful infection control.13 In the case of NCIP, challenges to control
-include the apparent presence of many mild infections14 and limited resources for isolation of
+isolation of patients and careful infection control. In the case of NCIP, challenges to control
+include the apparent presence of many mild infections and limited resources for isolation of
 cases and quarantine of their close contacts. Our
-estimate of R0 was limited to the period up to
-January 4 because increases in awareness of the
+estimate of R was limited to the period up to
+January  because increases in awareness of the
 outbreak and greater availability and use of tests
 in more recent weeks will have increased the
 proportions of infections ascertained. It is possible that subsequent control measures in Wuhan,
@@ -726,17 +726,17 @@ and more recently elsewhere in the country as
 well as overseas, have reduced transmissibility,
 but the detection of an increasing number of
 cases in other domestic locations and around
-the world suggest that the epidemic has contin1204
+the world suggest that the epidemic has contin
 
 ued to increase in size. Although the population
 quarantine of Wuhan and neighboring cities
-since January 23 should reduce the exportation
+since January  should reduce the exportation
 of cases to the rest of the country and overseas,
 it is now a priority to determine whether local
 transmission at a similar intensity is occurring
 in other locations.
-It is notable that few of the early cases occurred in children, and almost half the 425 cases
-were in adults 60 years of age or older, although
+It is notable that few of the early cases occurred in children, and almost half the  cases
+were in adults  years of age or older, although
 our case definition specified severe enough illness to require medical attention, which may
 vary according to the presence of coexisting
 conditions. Furthermore, children might be less
@@ -744,114 +744,114 @@ likely to become infected or, if infected, may
 show milder symptoms, and either of these situations would account for underrepresentation in
 the confirmed case count. Serosurveys after the
 
-n engl j med 382;13  nejm.org  March 26, 2020
+n engl j med ;  nejm.org  March , 
 
 The New England Journal of Medicine
-Downloaded from nejm.org on March 28, 2020. For personal use only. No other uses without permission.
-Copyright © 2020 Massachusetts Medical Society. All rights reserved.
+Downloaded from nejm.org on March , . For personal use only. No other uses without permission.
+Copyright ©  Massachusetts Medical Society. All rights reserved.
 
 Early Tr ansmission Dynamics of NCIP
 
-Cluster 1 (December 2019)
+Cluster  (December )
 
-Cluster 5 (January 2020)
-
-Onset
-Case 1.1. M61
-index 20
+Cluster  (January )
 
 Onset
-Case 5.1. M32
-4
+Case .. M
+index 
+
+Onset
+Case .. M
+
 index
 
 Onset
-25
 
-Case 1.2. F57
+
+Case .. F
 
 Onset
-29
 
-Case 1.3. F31
 
-Cluster 2 (December 2019–January 2020)
+Case .. F
+
+Cluster  (December –January )
 Onset
-Case 2.1. F62
-27
+Case .. F
+
 index
 
-Case 3.2. F48
+Case .. F
 
-Data from the 5 Clusters Used in
+Data from the  Clusters Used in
 the Estimation of Serial Interval
 
 Onset
-15
-Onset
-19
-
-Case 3.3. M78
 
 Onset
-20
 
-Case 3.4. M50
+
+Case .. M
 
 Onset
-16
 
-Case 5.4. F
 
-Cluster 3 (December 2019)
+Case .. M
+
 Onset
-Case 3.1. M49
-12
+
+
+Case .. F
+
+Cluster  (December )
+Onset
+Case .. M
+
 index
 
 Onset
-13
 
-Case 5.3. M57
 
-Onset
-3
-
-Case 2.2. M64
+Case .. M
 
 Onset
-11
 
-Case 5.2. F28
+
+Case .. M
+
+Onset
+
+
+Case .. F
 
 Case
 
 Serial Interval
 (days)
 
-1.2
-1.3
-2.2
-3.3
-4.3
-5.2
+.
+.
+.
+.
+.
+.
 
-5
-9
-7
-7
-3
-7
 
-Cluster 4 (December 2019)
+
+
+
+
+
+
+Cluster  (December )
 Onset
-Case 4.1. F52
-21
+Case .. F
+
 index
 Onset
-Case 4.2. M51
-22
-Case 4.3. F25
+Case .. M
+
+Case .. F
 
 Exposure to wet market
 Exposure to other cases
@@ -859,26 +859,26 @@ Exposure to wet market and other cases
 Exposure not determined
 
 Onset
-24
 
-Figure 3. Detailed Information on Exposures and Dates of Illness Onset in Five Clusters Including 16 Cases.
-Numbers in boxes are calendar dates in December 2019 and January 2020. Data from the 5 secondary cases (patients who had clear exposure to only one index case and had no other potential source of infection) were used to estimate the serial interval distribution. The
+
+Figure . Detailed Information on Exposures and Dates of Illness Onset in Five Clusters Including  Cases.
+Numbers in boxes are calendar dates in December  and January . Data from the  secondary cases (patients who had clear exposure to only one index case and had no other potential source of infection) were used to estimate the serial interval distribution. The
 first four clusters were identified in Wuhan, and the fifth cluster was identified in Huanggang.
 
 first wave of the epidemic would clarify this question. Although infections in health care workers
 have been detected, the proportion has not been
-as high as during the SARS and MERS outbreaks.15 One of the features of SARS and MERS
+as high as during the SARS and MERS outbreaks. One of the features of SARS and MERS
 outbreaks is heterogeneity in transmissibility,
-and in particular the occurrence of super-spreading events, particularly in hospitals.16 Superspreading events have not yet been identified for
+and in particular the occurrence of super-spreading events, particularly in hospitals. Superspreading events have not yet been identified for
 NCIP, but they could become a feature as the
 epidemic progresses.
 Although delays between the onset of illness
 and seeking medical attention were generally
-short, with 27% of patients seeking attention
-within 2 days after onset, delays to hospitalization were much longer, with 89% of patients not
-being hospitalized until at least day 5 of illness
+short, with % of patients seeking attention
+within  days after onset, delays to hospitalization were much longer, with % of patients not
+being hospitalized until at least day  of illness
 
-(Fig. 2). This indicates the difficulty in identifying and isolating cases at an earlier stage of
+(Fig. ). This indicates the difficulty in identifying and isolating cases at an earlier stage of
 disease. It may be necessary to commit considerable resources to testing in outpatient clinics
 and emergency departments for proactive case
 finding, both as part of the containment strategy
@@ -889,18 +889,18 @@ information on the subclinical infections for a
 better assessment of severity.
 Our preliminary estimate of the incubation
 period distribution provides important evidence
-to support a 14-day medical observation period
+to support a -day medical observation period
 or quarantine for exposed persons. Our estimate
-was based on information from 10 cases and is
+was based on information from  cases and is
 somewhat imprecise; it would be important for
 
-n engl j med 382;13  nejm.org  March 26, 2020
+n engl j med ;  nejm.org  March , 
 
 The New England Journal of Medicine
-Downloaded from nejm.org on March 28, 2020. For personal use only. No other uses without permission.
-Copyright © 2020 Massachusetts Medical Society. All rights reserved.
+Downloaded from nejm.org on March , . For personal use only. No other uses without permission.
+Copyright ©  Massachusetts Medical Society. All rights reserved.
 
-1205
+
 
 The
 
@@ -922,21 +922,21 @@ and has been continually modified once more
 information has become available. Confirmed
 cases could more easily be identified after the
 PCR diagnostic reagents were made available to
-Wuhan on January 11, which helped us shorten
+Wuhan on January , which helped us shorten
 the time for case confirmation. Furthermore, the
 initial focus of case detection was on patients
 with pneumonia, but we now understand that
 some patients can present with gastrointestinal
 symptoms, and an asymptomatic infection in a
-child has also been reported.17 Early infections
+child has also been reported. Early infections
 with atypical presentations may have been missed,
 and it is likely that infections of mild clinical
 severity have been under-ascertained among the
-confirmed cases.18 We did not have detailed information on disease severity for inclusion in this
+confirmed cases. We did not have detailed information on disease severity for inclusion in this
 analysis.
 In conclusion, we found that cases of NCIP
 have been doubling in size approximately every
-7.4 days in Wuhan at this stage. Human-to-human
+. days in Wuhan at this stage. Human-to-human
 transmission among close contacts has occurred
 since the middle of December and spread out
 gradually within a month after that. Urgent next
@@ -951,21 +951,21 @@ The characteristics of cases should continue to
 be monitored to identify any changes in epidemiology — for example, increases in infections
 among persons in younger age groups or health
 care workers. Future studies could include forecasts of the epidemic dynamics and special studies of person-to-person transmission in households or other locations, and serosurveys to
-determine the incidence of the subclinical infections would be valuable.14 These initial inferences
+determine the incidence of the subclinical infections would be valuable. These initial inferences
 have been made on a “line list” that includes
 detailed individual information on each confirmed case, but there may soon be too many
 cases to sustain this approach to surveillance,
-and other approaches may be required.19
+and other approaches may be required.
 The views expressed in this article are those of the authors
 and do not represent the official policy of the China CDC. All
 the authors have declared no relationships or activities that
 could appear to have influenced this work.
 Supported by the Ministry of Science and Technology of China,
 the National Science and Technology Major Projects of China
-(2018ZX10201-002-008-002, 2018ZX10101002-003), the China–U.S.
+(ZX---, ZX-), the China–U.S.
 Collaborative Program on Emerging and Re-emerging Infectious Disease, and National Mega-Projects for Infectious Disease
-(2018ZX10201002-008-002), the National Natural Science Foundation (71934002), the National Institute of Allergy and Infectious Diseases (Centers of Excellence for Influenza Research and
-Surveillance [CEIRS] contract number HHSN272201400006C),
+(ZX--), the National Natural Science Foundation (), the National Institute of Allergy and Infectious Diseases (Centers of Excellence for Influenza Research and
+Surveillance [CEIRS] contract number HHSNC),
 and the Health and Medical Research Fund (Hong Kong). None
 of the funders had any role in the study design and the collection, analysis, and interpretation of data or in the writing of the
 article and the decision to submit it for publication. The researchers confirm their independence from funders and sponsors.
@@ -986,106 +986,106 @@ the Nanchang Center for Disease Control and Prevention, Nanchang, Jiangxi (Z.D.)
 Disease Control and Prevention, Hohhot, Inner Mongolia (B.L.), and the Baoshan District Center for Disease Control and Prevention,
 Shanghai (Z.M.) — all in China.
 
-1206
 
-n engl j med 382;13  nejm.org  March 26, 2020
+
+n engl j med ;  nejm.org  March , 
 
 The New England Journal of Medicine
-Downloaded from nejm.org on March 28, 2020. For personal use only. No other uses without permission.
-Copyright © 2020 Massachusetts Medical Society. All rights reserved.
+Downloaded from nejm.org on March , . For personal use only. No other uses without permission.
+Copyright ©  Massachusetts Medical Society. All rights reserved.
 
 Early Tr ansmission Dynamics of NCIP
 
 References
-1.	 The 2019-nCoV Outbreak Joint Field
+.	 The -nCoV Outbreak Joint Field
 Epidemiology Investigation Team, Li Q.
 Notes from the field: an outbreak of NCIP
-(2019-nCoV) infection in China — Wuhan, Hubei Province, 2019–2020. China
-CDC Weekly 2020;​2:​79-80.
-2.	 Tan WJ, Zhao X, Ma XJ, et al. A novel
+(-nCoV) infection in China — Wuhan, Hubei Province, –. China
+CDC Weekly ;​:​-.
+.	 Tan WJ, Zhao X, Ma XJ, et al. A novel
 coronavirus genome identified in a cluster of pneumonia cases — Wuhan, China
-2019–2020. China CDC Weekly 2020;​2:​61-2.
-3.	 Zhu N, Zhang D, Wang W, et al. A
+–. China CDC Weekly ;​:​-.
+.	 Zhu N, Zhang D, Wang W, et al. A
 novel coronavirus from patients with
-pneumonia in China, 2019. N Engl J Med
-2020;382:727-33.
-4.	 Xiang N, Havers F, Chen T, et al. Use
-of national pneumonia surveillance to describe influenza A(H7N9) virus epidemiology, China, 2004–2013. Emerg Infect
-Dis 2013;​19:​1784-90.
-5.	 Munster VJ, Koopmans M, van Dore­
+pneumonia in China, . N Engl J Med
+;:-.
+.	 Xiang N, Havers F, Chen T, et al. Use
+of national pneumonia surveillance to describe influenza A(HN) virus epidemiology, China, –. Emerg Infect
+Dis ;​:​-.
+.	 Munster VJ, Koopmans M, van Dore­
 malen N, van Riel D, de Wit E. A novel
 coronavirus emerging in China — key
 questions for impact assessment. N Engl J
-Med 2020;​382:692-4.
-6.	 WHO guidelines for the global surveillance of severe acute respiratory syndrome (SARS). 2004 (https://www​.who​.int/​
+Med ;​:-.
+.	 WHO guidelines for the global surveillance of severe acute respiratory syndrome (SARS).  (https://www​.who​.int/​
 csr/​resources/​publications/​WHO_CDS_CSR
-_ARO_2004_1​.pdf?ua=1).
-7.	 Middle East respiratory syndrome
+_ARO__​.pdf?ua=).
+.	 Middle East respiratory syndrome
 
 case definition for reporting to WHO.
-2017 (https://www​.who​.int/​c sr/​d isease/​
+ (https://www​.who​.int/​c sr/​d isease/​
 coronavirus_infections/​mers​-­interim​-­case​
--­definition​.pdf?ua=1).
-8.	 Azhar EI, El-Kafrawy SA, Farraj SA,
+-­definition​.pdf?ua=).
+.	 Azhar EI, El-Kafrawy SA, Farraj SA,
 et al. Evidence for camel-to-human transmission of MERS coronavirus. N Engl J
-Med 2014;​370:​2499-505.
-9.	 New coronavirus pneumonia prevention and control program (2nd ed.)
-(in Chinese). 2020 (http://www​.nhc​.gov​
-.cn/​jkj/​s3577/​202001/​c67cfe29ecf1470e8c7fc
-47d3b751e88​.shtml).
-10.	 Laboratory diagnostics for novel coronavirus. WHO 2020 (https://www​
+Med ;​:​-.
+.	 New coronavirus pneumonia prevention and control program (nd ed.)
+(in Chinese).  (http://www​.nhc​.gov​
+.cn/​jkj/​s/​/​ccfeecfecfc
+dbe​.shtml).
+.	 Laboratory diagnostics for novel coronavirus. WHO  (https://www​
 .who​
 .int/​health​-­t opics/​coronavirus/​laboratory​
 -­diagnostics​-­for​-­novel​-­coronavirus).
-11.	 Lipsitch M, Cohen T, Cooper B, et al.
+.	 Lipsitch M, Cohen T, Cooper B, et al.
 Transmission dynamics and control of severe acute respiratory syndrome. Science
-2003;​300:​1966-70.
-12.	 Bauch CT, Lloyd-Smith JO, Coffee MP,
+;​:​-.
+.	 Bauch CT, Lloyd-Smith JO, Coffee MP,
 Galvani AP. Dynamically modeling SARS
-and other newly emerging respiratory illnesses: past, present, and future. Epidemiology 2005;​16:​791-801.
-13.	Paules CI, Marston HD, Fauci AS.
+and other newly emerging respiratory illnesses: past, present, and future. Epidemiology ;​:​-.
+.	Paules CI, Marston HD, Fauci AS.
 Coronavirus infections — more than just
-the common cold. JAMA 2020 January 23
+the common cold. JAMA  January 
 (Epub ahead of print).
 
-14.	Perlman S. Another decade, another
+.	Perlman S. Another decade, another
 
-coronavirus. N Engl J Med 2020;​382:760-2.
+coronavirus. N Engl J Med ;​:-.
 
-15.	 de Wit E, van Doremalen N, Falzarano
+.	 de Wit E, van Doremalen N, Falzarano
 
 D, Munster VJ. SARS and MERS: recent
 insights into emerging coronaviruses.
-Nat Rev Microbiol 2016;​14:​523-34.
-16.	Wong G, Liu W, Liu Y, Zhou B, Bi Y,
+Nat Rev Microbiol ;​:​-.
+.	Wong G, Liu W, Liu Y, Zhou B, Bi Y,
 Gao GF. MERS, SARS, and Ebola: the role
 of super-spreaders in infectious disease.
-Cell Host Microbe 2015;​18:​398-401.
-17.	 Chan JF, Yuan S, Kok KH, et al. A familial cluster of pneumonia associated
-with the 2019 novel coronavirus indicating person-to-person transmission: a study
-of a family cluster. Lancet 2020 January 24
+Cell Host Microbe ;​:​-.
+.	 Chan JF, Yuan S, Kok KH, et al. A familial cluster of pneumonia associated
+with the  novel coronavirus indicating person-to-person transmission: a study
+of a family cluster. Lancet  January 
 (Epub ahead of print).
-18.	Wu P, Hao X, Lau EHY, et al. Realtime tentative assessment of the epidemiological characteristics of novel coronavirus infections in Wuhan, China, as
-at January 2020. Eurosurveillance 2020;​
-25(3):​pii=2000044.
-19.	Lipsitch M, Hayden FG, Cowling BJ,
+.	Wu P, Hao X, Lau EHY, et al. Realtime tentative assessment of the epidemiological characteristics of novel coronavirus infections in Wuhan, China, as
+at January . Eurosurveillance ;​
+():​pii=.
+.	Lipsitch M, Hayden FG, Cowling BJ,
 Leung GM. How to maintain surveillance
-for novel influenza A H1N1 when there
-are too many cases to count. Lancet 2009;​
-374:​1209-11.
-Copyright © 2020 Massachusetts Medical Society.
+for novel influenza A HN when there
+are too many cases to count. Lancet ;​
+:​-.
+Copyright ©  Massachusetts Medical Society.
 
 TRACK THIS ARTICLE’S IMPACT AND REACH
 Visit the article page at NEJM.org and click on Metrics for a dashboard
 that logs views, citations, media references, and commentary.
 NEJM.org/about-nejm/article-metrics.
 
-n engl j med 382;13  nejm.org  March 26, 2020
+n engl j med ;  nejm.org  March , 
 
 The New England Journal of Medicine
-Downloaded from nejm.org on March 28, 2020. For personal use only. No other uses without permission.
-Copyright © 2020 Massachusetts Medical Society. All rights reserved.
+Downloaded from nejm.org on March , . For personal use only. No other uses without permission.
+Copyright ©  Massachusetts Medical Society. All rights reserved.
 
-1207
+
 
 

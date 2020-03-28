@@ -1,6 +1,6 @@
 Comment
 
-Offline: COVID-19 and the NHS—“a national scandal”
+Offline: COVID- and the NHS—“a national scandal”
 
 Ian Vogler/Pool/AFP/Getty Images
 
@@ -10,7 +10,7 @@ Tolga Akmen/AFP/Getty Images
 resign in their entirety.” So wrote one National Health
 Service (NHS) health worker last weekend. The scale
 of anger and frustration is unprecedented, and
-coronavirus disease 2019 (COVID-19) is the cause. The
+coronavirus disease  (COVID-) is the cause. The
 UK Government’s Contain–Delay–Mitigate–Research
 strategy failed. It failed, in part, because ministers didn’t
 follow WHO’s advice to “test, test, test” every suspected
@@ -47,13 +47,13 @@ We feel completely helpless.”
 Ollie Millington/Getty Images
 
 England’s Deputy Chief Medical Officer, Jenny Harries, said
-on March 20, 2020: “The country has a perfectly adequate
+on March , : “The country has a perfectly adequate
 supply of PPE.” She claimed that supply pressures had
 now been “completely resolved”. I am sure Dr Harries
 believed what she said. But she was wrong and she should
 apologise to the thousands of health workers who still
 have no access to WHO-standard PPE. I receive examples
-1022	
+	
 
 daily of doctors having to assess patients with respiratory
 symptoms but who do so without the necessary PPE to
@@ -62,20 +62,20 @@ if they ask for face masks. Even where there is PPE, there
 may be no training. WHO standards are not being met.
 Proper testing of masks is being omitted. Stickers with
 new expiry dates are being put on PPE that expired in
-2016. Doctors have been forced to go to hardware stores
+. Doctors have been forced to go to hardware stores
 to buy their own face masks. Patients with suspected
-COVID-19 are mixing with non-COVID-19 patients. The
+COVID- are mixing with non-COVID- patients. The
 situation is so dire that staff are frequently breaking down
 in tears. As one physician wrote, “The utter failure of
 sound clinical leadership will lead to an absolute explosion
-of nosocomial COVID-19 infection.” Front-line staff are
+of nosocomial COVID- infection.” Front-line staff are
 already contracting and dying from the disease.
 *
 The NHS has been wholly unprepared for this pandemic.
 It’s impossible to understand why. Based on their
-modelling of the Wuhan outbreak of COVID-19,
+modelling of the Wuhan outbreak of COVID-,
 Joseph Wu and his colleagues wrote in The Lancet on
-Jan 31, 2020: “On the present trajectory, 2019-nCoV
+Jan , : “On the present trajectory, -nCoV
 could be about to become a global epidemic...for
 health protection within China and internationally...
 preparedness plans should be readied for deployment
@@ -99,6 +99,6 @@ of that scandal has yet to be understood.
 Richard Horton
 richard.horton@lancet.com
 
-www.thelancet.com Vol 395 March 28, 2020
+www.thelancet.com Vol  March , 
 
 

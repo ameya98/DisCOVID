@@ -1,72 +1,72 @@
-Received: 21 January 2020
+Received:  January 
 
 |
 
-Accepted: 22 January 2020
+Accepted:  January 
 
-DOI: 10.1002/jmv.25685
+DOI: ./jmv.
 
 REVIEW
 
 Coronavirus infections and immune responses
-Geng Li1,2
+Geng Li,
 
-| Yaohua Fan3
-1
+| Yaohua Fan
+
 
 Peiwen Zhou
-Xiaohong Liu5
+Xiaohong Liu
 
-| Yanni Lai3
+| Yanni Lai
 
-2
 
-| Tiantian Han3
 
-| Zonghui Li2
+| Tiantian Han
 
-1
+| Zonghui Li
 
-4
+
+
+
 
 | Pan Pan
 | Wenbiao Wang
 | Dingwen Hu
-| Qiwei Zhang1,6
-| Jianguo Wu1,4
+| Qiwei Zhang,
+| Jianguo Wu,
 
-1
+
 Guangdong Provincial Key Laboratory of
 Virology, Institute of Medical Microbiology,
 Jinan University, Guangzhou, China
-2
+
 
 Laboratory Animal Center, Guangzhou
 University of Chinese Medicine, Guangzhou,
 China
-3
+
 
 The First Clinical Medical College, Guangzhou
 University of Chinese Medicine, Guangzhou,
 China
-4
+
 
 State Key Laboratory of Virology, College of
 Life Sciences, Wuhan University, Wuhan, China
-5
+
 The First Affiliated Hospital, Guangzhou
 University of Chinese Medicine, Guangzhou,
 China
-6
+
 
 School of Pubic Health, Southern Medical
 University, Guangzhou, China
 Correspondence
 Jianguo Wu, Guangdong Provincial Key
 Laboratory of Virology, Institute of Medical
-Microbiology, Jinan University, 510632
+Microbiology, Jinan University, 
 Guangzhou, China.
-Email: jwu898@jnu.edu.cn
+Email: jwu@jnu.edu.cn
 
 |
 
@@ -90,17 +90,17 @@ chemokine, coronavirus, cytokines, inflammation, interferon
 
 Funding information
 National Natural Science Foundation of China,
-Grant/Award Numbers: 81730061, 81902066,
-81471942
+Grant/Award Numbers: , ,
 
-1 | INTRODUCTION
+
+ | INTRODUCTION
 
 respiratory syndrome coronavirus (MERS‐CoV) was first identified in
-2012, bringing a total of 1401 MERS‐CoV infections, and 543 (~39%) of
+, bringing a total of  MERS‐CoV infections, and  (~%) of
 
-During the end of 2019 and the beginning of 2020, multiple human cases
+During the end of  and the beginning of , multiple human cases
 
-which died.3‐5 All the infection cases and recent epidemics show that
+which died.‐ All the infection cases and recent epidemics show that
 
 of novel coronavirus infection were reported in relation to the Huanan
 
@@ -110,29 +110,29 @@ Seafood Wholesale Market (South China Seafood City Food Market) in
 
 economy as they emerge unexpectedly, spread easily, and lead to cata-
 
-Wuhan, China. At 9 O'clock, 7 January 2020, the virus was identified as a
+Wuhan, China. At  O'clock,  January , the virus was identified as a
 
 strophic consequences.
 
-novel coronavirus and officially named by the WHO as 2019‐nCoV, the
+novel coronavirus and officially named by the WHO as ‐nCoV, the
 
 Coronaviruses are enveloped, nonsegmented, positive‐sense
 
-new coronavirus in 2019.1 On 22 January 2020, a total of 314 confirmed
+new coronavirus in . On  January , a total of  confirmed
 
-single‐stranded RNA virus genomes in the size ranging from 26 to
+single‐stranded RNA virus genomes in the size ranging from  to
 
-case have been reported, and 6 patients were reported to have died.2 On
+case have been reported, and  patients were reported to have died. On
 
-32 kilobases, the largest known viral RNA genome. The virion has a
+ kilobases, the largest known viral RNA genome. The virion has a
 
-13, 16, and 21 January, respectively, Thailand, Japan, and Korea con-
+, , and  January, respectively, Thailand, Japan, and Korea con-
 
 nucleocapsid composed of genomic RNA and phosphorylated
 
-2
 
-firmed the detection of a human infection with 2019‐nCoV from China.
+
+firmed the detection of a human infection with ‐nCoV from China.
 
 nucleocapsid (N) protein, which is buried inside phospholipid bilayers
 
@@ -144,23 +144,23 @@ areas around the world. Severe acute respiratory syndrome coronavirus
 
 glycoprotein trimmer (S) that can be found in all CoVs, and
 
-(SARS‐CoV) occurred in 2002, which reportedly infected 8422 people
+(SARS‐CoV) occurred in , which reportedly infected  people
 
 the hemagglutinin‐esterase (HE) that exists in some CoVs. The mem-
 
-and caused 916 deaths worldwide during the epidemic. Middle East
+and caused  deaths worldwide during the epidemic. Middle East
 
 brane (M) protein (a type III transmembrane glycoprotein) and the
 
-424
+
 
 |
 
-© 2020 Wiley Periodicals, Inc.
+©  Wiley Periodicals, Inc.
 
 wileyonlinelibrary.com/journal/jmv
 
-J Med Virol. 2020;92:424–432.
+J Med Virol. ;:–.
 
 LI
 
@@ -168,7 +168,7 @@ J Med Virol. 2020;92:424–432.
 
 ET AL.
 
-425
+
 
 Although the pathologies of SARS and MERS are not yet fully understood, viral and host factors play a key role in SARS‐CoV and MERS‐
 CoV infections. During virus infection, host factors trigger an immune
@@ -181,17 +181,17 @@ contrast, overactive immune responses may induce immunopathological
 conditions. In this review article, we provide an analysis of the role of
 cytokines secreted upon CoV infections and their potentially detrimental
 contribution to the damages of the respiratory tract and other tissues.
-F I G U R E 1 Coronavirus particle. Coronaviruses are enveloped,
+F I G U R E  Coronavirus particle. Coronaviruses are enveloped,
 nonsegmented, positive‐sense single‐stranded RNA virus genomes in the
-size ranging from 26 to 32 kilobases. The virion has a nucleocapsid
+size ranging from  to  kilobases. The virion has a nucleocapsid
 composed of genomic RNA and phosphorylated nucleocapsid (N) protein,
 which is buried inside phospholipid bilayers and covered by the spike
 glycoprotein trimmer (S). The membrane (M) protein (a type III
 transmembrane glycoprotein) and the envelope (E) protein are located
 among the S proteins in the virus envelope
 
-2 | IN NA TE IMMU NE RESP ONSE
-2.1 | Pathogen‐recognition receptors
+ | IN NA TE IMMU NE RESP ONSE
+. | Pathogen‐recognition receptors
 The host innate immune system detects viral infections by using pattern recognition receptors (PRRs) to recognize pathogen‐associated
 molecular patterns (PAMPs). At present, the known PRRs mainly in-
 
@@ -205,15 +205,15 @@ receptor (NLR), C‐type lectin‐like receptors (CLmin), and free‐molecule
 
 crown‐like appearance. The structure of CoV virion is shown in
 
-receptors in the cytoplasm, such as cGAS, IFI16, STING, DAI, and so on.
+receptors in the cytoplasm, such as cGAS, IFI, STING, DAI, and so on.
 
-Figure 1.
+Figure .
 The coronavirus subfamily is genotypically and serologically divided into four genera, the α, β, ɣ, and δ coronaviruses. The
 
-2.2 | Toll‐like receptors
+. | Toll‐like receptors
 
 β‐coronavirus can be further classified into four viral lineages, namely
-lineage A‐D. There are nearly 30 recognized CoVs that infect humans,
+lineage A‐D. There are nearly  recognized CoVs that infect humans,
 
 PAMPs recognized by Toll‐like receptors (TLRs) include lipids, lipopro-
 
@@ -221,17 +221,17 @@ mammals, fowl, and other animals. Human CoV infections are caused
 
 teins, proteins, and nucleic acids of the bacterial, viral, parasite, and
 
-by α‐ and β‐CoVs. CoVs are common human pathogens, and 30% to
+by α‐ and β‐CoVs. CoVs are common human pathogens, and % to
 
-fungal origins.6 The recognition of PAMPs by TLRs also occurs in cell
+fungal origins. The recognition of PAMPs by TLRs also occurs in cell
 
-60% of the Chinese population is positive for anti‐CoV antibodies. The
+% of the Chinese population is positive for anti‐CoV antibodies. The
 
 membranes, endosomes, lysosomes, and endocytolysosomes and other
 
 viral infections are generally associated with upper respiratory tract
 
-locations in cells.6 Different TLRs can induce different biological re-
+locations in cells. Different TLRs can induce different biological re-
 
 infections, of which the signs and symptoms commonly include fever,
 
@@ -239,19 +239,19 @@ sponses via subsequent activation of varied adapter proteins, such as
 
 headache, and cough; some patients may have lower respiratory tract
 
-MyD88, TIRAP, TRIP, and TRAM, but these adapter proteins all share
+MyD, TIRAP, TRIP, and TRAM, but these adapter proteins all share
 
 infections. In contrast, SARS‐CoV and MERS‐CoV infections may
 
-the Toll/Interleukin‐1 receptor (TIR) structure.7 MyD88 is the first
+the Toll/Interleukin‐ receptor (TIR) structure. MyD is the first
 
 remain asymptomatic in the early stage until severe pneumonia, dys-
 
 identified TIR family member, which acts as an adapter protein by almost
 
-pnea, renal insufficiency, and even death (Figure 2).
+pnea, renal insufficiency, and even death (Figure ).
 
-all TLRs except TLR3. It mainly activates the transcription factors NF‐kB
+all TLRs except TLR. It mainly activates the transcription factors NF‐kB
 
 Histopathological observations of pulmonary lesions in SARS
 
@@ -259,11 +259,11 @@ and mitogen‐activated protein kinases (MAPKs) pathways to induce in-
 
 cases not only show nonspecific inflammatory responses such as
 
-flammatory factors' expression.6 Unlike MyD88, TRIF is an adapter
+flammatory factors' expression. Unlike MyD, TRIF is an adapter
 
 edema and inflammatory cell infiltration but also exhibit severe ex-
 
-protein of TLR3 and TLR4, which activates the transcription factors IRF3
+protein of TLR and TLR, which activates the transcription factors IRF
 
 foliation of alveolar epithelial cells, alveolar septal widening, damage
 
@@ -275,7 +275,7 @@ inflammatory factors. The function of TRAM and TIRAP is to recruit
 
 nized manner. Pathologically, inflammation includes degeneration
 
-TRIF molecules to the TLR4 receptor and MyD88 to the TLR2 and TLR4
+TRIF molecules to the TLR receptor and MyD to the TLR and TLR
 
 (necrosis), infiltration, and hyperplasia. Thus, SARS‐CoV infection can
 
@@ -283,7 +283,7 @@ receptors. Therefore, the TLR signaling pathways are classified as the
 
 cause pathological changes, degeneration, infiltration, and hyperpla-
 
-MyD88‐dependent pathway, which functions to activate immune‐
+MyD‐dependent pathway, which functions to activate immune‐
 
 sia. Damage to the pulmonary interstitial arteriolar walls indicates
 
@@ -291,13 +291,13 @@ inflammatory factors, and the TRIF‐dependent pathway, which functions
 
 that inflammatory response plays an important role throughout the
 
-to activate the type I interferons and inflammatory factors.6 After a TLR
+to activate the type I interferons and inflammatory factors. After a TLR
 
 course of disease in spites of the pathogenic effect of CoVs.
 
-is activated by the corresponding PAMP, MyD88 recruits the busy‐1
+is activated by the corresponding PAMP, MyD recruits the busy‐
 
-426
+
 
 |
 
@@ -305,63 +305,63 @@ LI
 
 ET AL.
 
-F I G U R E 2 The innate immune response and adaptive immune responses of Coronaviruses (CoV) infection during an infection. A, CoV infects
+F I G U R E  The innate immune response and adaptive immune responses of Coronaviruses (CoV) infection during an infection. A, CoV infects
 macrophages, and then macrophages present CoV antigens to T cells. This process leads to T cell activation and differentiation, including the
-production of cytokines associated with the different T cell subsets (ie, Th17), followed by a massive release of cytokines for immune response
-amplification. The continued production of these mediators due to viral persistence has a negative effect on NK, and CD8 T cell activation. However,
-CD8 T cells produce very effective mediators to clear CoV. B, Attachment of CoV to DPP4R on the host cell through S protein leads to the
-appearance of genomic RNA in the cytoplasm. An immune response to dsRNA can be partially generated during CoV replication. TLR‐3 sensitized by
+production of cytokines associated with the different T cell subsets (ie, Th), followed by a massive release of cytokines for immune response
+amplification. The continued production of these mediators due to viral persistence has a negative effect on NK, and CD T cell activation. However,
+CD T cells produce very effective mediators to clear CoV. B, Attachment of CoV to DPPR on the host cell through S protein leads to the
+appearance of genomic RNA in the cytoplasm. An immune response to dsRNA can be partially generated during CoV replication. TLR‐ sensitized by
 dsRNA and cascades of signaling pathways (IRFs and NF‐κB activation, respectively) are activated to produce type I IFNs and proinflammatory
 cytokines. The production of type I IFNs is important to enhance the release of antiviral proteins for the protection of uninfected cells. Sometimes,
-accessory proteins of CoV can interfere with TLR‐3 signaling and bind the dsRNA of CoV during replication to prevent TLR‐3 activation and evade the
-immune response. TLR‐4 might recognize S protein and lead to the activation of proinflammatory cytokines through the MyD88‐dependent signaling
+accessory proteins of CoV can interfere with TLR‐ signaling and bind the dsRNA of CoV during replication to prevent TLR‐ activation and evade the
+immune response. TLR‐ might recognize S protein and lead to the activation of proinflammatory cytokines through the MyD‐dependent signaling
 pathway. Virus‐cell interactions lead to the strong production of immune mediators. The secretion of large quantities of chemokines and cytokines
-(IL‐1, IL‐6, IL‐8, IL‐21, TNF‐β, and MCP‐1) is promoted in infected cells in response to CoV infection. These chemokines and cytokines, in turn, recruit
+(IL‐, IL‐, IL‐, IL‐, TNF‐β, and MCP‐) is promoted in infected cells in response to CoV infection. These chemokines and cytokines, in turn, recruit
 lymphocytes and leukocytes to the site of infection. Red lines refer to inhibitory effects. Green lines refer to activating effects
-receptor‐related kinases IRAK4, IRAKI, IRAK2, and IRAK‐M. IRAK4
+receptor‐related kinases IRAK, IRAKI, IRAK, and IRAK‐M. IRAK
 
-of RNA viruses.12,13 They have a DExD/H‐box RNA helicase struc-
+of RNA viruses., They have a DExD/H‐box RNA helicase struc-
 
 plays an important role in activating NF‐kB and MAPKs downstream of
 
 ture and a C‐terminal termination structure (CTD), while RIG‐I and
 
-MyD88. IRAK interacts with TRAF6, which causes its K‐63 ubiquitina-
+MyD. IRAK interacts with TRAF, which causes its K‐ ubiquitina-
 
-MDA5 have an N‐terminal caspase recruitment structure (CARD), to
+MDA have an N‐terminal caspase recruitment structure (CARD), to
 
 tion, and facilitates NEMO ubiquitination to activate NF‐kB. TRIF‐
 
 interact with the downstream adapter MAVS. The C‐terminal RNA
 
-8,9
+,
 
 In addition to acti-
 
 helicase and CTD structure are considered to recognize RNA, and its
 
-vating NF‐kB, TRIF‐dependent pathways, they also activate IRF3 and
+vating NF‐kB, TRIF‐dependent pathways, they also activate IRF and
 
 conformational change requires ATP to make the CARD structure
 
-interferon‐β.10,11
+interferon‐β.,
 
-interact with MAVS.14
+interact with MAVS.
 
-dependent pathways activate IRF3 and NF‐kB.
+dependent pathways activate IRF and NF‐kB.
 
 RIG‐I is activated by a variety of RNA viruses' infections, including Influenza A virus (IAV), Newcastle disease virus (NDV),
 
-2.3 | RIG‐I‐like receptors
+. | RIG‐I‐like receptors
 
 Sendai virus (SeV), and Vesicular stomatitis virus (VSV), Measles virus
-(MV), and Hepatitis C virus (HCV).15,16 The common features of the
+(MV), and Hepatitis C virus (HCV)., The common features of the
 
 RIG‐I‐like receptors (RLRs), including the H family members RIG‐I
 
 viral RNAs are short double‐stranded with a triphosphate structure,
 
-(DDX58), MDA5 (IFIH), and LGP2, primarily recognize nucleic acids
+(DDX), MDA (IFIH), and LGP, primarily recognize nucleic acids
 
 and complementary ends and/or poly‐U/UC‐rich structure. The viral
 
@@ -371,21 +371,21 @@ and complementary ends and/or poly‐U/UC‐rich structure. The viral
 
 ET AL.
 
-427
 
-nucleocapsid proteins containing triphosphine RNA at the 5′‐end can
+
+nucleocapsid proteins containing triphosphine RNA at the ′‐end can
 
 complex formation. At the same time, apoptosis‐related granule‐like
 
-be recognized by RIG‐I.17 The double‐stranded RNA with double‐
+be recognized by RIG‐I. The double‐stranded RNA with double‐
 
-proteins, including ASC, is acidified by SyK and JNK,30 and PKCS is
+proteins, including ASC, is acidified by SyK and JNK, and PKCS is
 
 When the viral
 
-also a key essential element in the pathway.31 The signaling pathways
+also a key essential element in the pathway. The signaling pathways
 
-5′‐terminal triphosphate end is recognized by the CTD structure, the
+′‐terminal triphosphate end is recognized by the CTD structure, the
 
 activate downstream molecules, including NF‐kB and MAPKs, and
 
@@ -395,103 +395,103 @@ trigger a variety of cellular responses, including cell phagocytosis,
 
 form a complex with the double‐stranded RNA, and the CARD
 
-maturation of DC cells, and chemotaxis of cells.31
+maturation of DC cells, and chemotaxis of cells.
 
-basic acid at the 5′‐end can be recognized by RIG‐I.
+basic acid at the ′‐end can be recognized by RIG‐I.
 
-18
+
 
 structure is then released from its self‐inhibition and interacts with
-MAVS.19
-MDA5 recognizes RNAs of picornaviruses, including poliovirus
+MAVS.
+MDA recognizes RNAs of picornaviruses, including poliovirus
 
-2.6 | Cytoplasmic DNA receptor
+. | Cytoplasmic DNA receptor
 
 (PV) and Encephalomyocarditis virus (EMCV). MDAS‐recognized
-RNA is characterized by long double‐stranded RNA more than 1
+RNA is characterized by long double‐stranded RNA more than 
 
 Exogenous microbial DNAs are recognized by host DNA receptors. In
 
 kbp. Crystal structure analysis shows that the helicase and CTD
 
-addition to TLR9 in the TLR family, Cytoplasmic DNA receptor (CDR)
+addition to TLR in the TLR family, Cytoplasmic DNA receptor (CDR)
 
-structure of MDA5 are also surrounded by double‐stranded RNA, the
+structure of MDA are also surrounded by double‐stranded RNA, the
 
-can recognizes DNA CpG islands.32 More than 10 CDRs distributed
+can recognizes DNA CpG islands. More than  CDRs distributed
 
-same as RIG‐I. However, the CTD structure of MDA5 does not have a
+same as RIG‐I. However, the CTD structure of MDA does not have a
 
-in the cytoplasm have been identified, including AIM2‐like receptors
+in the cytoplasm have been identified, including AIM‐like receptors
 
 hat structure,
 
-20
+
 
 and the hat structure is necessary to have a tri-
 
 (ALRs), DNA‐dependent activator of IFN‐regulatory factor (DAI), in-
 
-phosphate RNA interaction at the 5′‐end. The CTD structure of
+phosphate RNA interaction at the ′‐end. The CTD structure of
 
 terference stimulator of interferon gene (STING), leucine‐rich repeat
 
-MDA5 directly interacts with the double‐stranded RNA, so that the
+MDA directly interacts with the double‐stranded RNA, so that the
 
-flightless‐interacting protein 1 (LRRFIP1), DExD/H‐box RNA helicase
+flightless‐interacting protein  (LRRFIP), DExD/H‐box RNA helicase
 
-5′‐end RNA can be freely released.21
+′‐end RNA can be freely released.
 
-(DDX), Meiotic recombinant protein 11 Homolog A (MRE11), RNA
+(DDX), Meiotic recombinant protein  Homolog A (MRE), RNA
 polymerase III (Pol III), DNA dependent protein kinase (DNA‐PK),
-DNA repair‐related proteins Rad50, cyclic GMP‐AMP synthase
+DNA repair‐related proteins Rad, cyclic GMP‐AMP synthase
 
-2.4 | Nucleotide‐binding and oligomerization
+. | Nucleotide‐binding and oligomerization
 domain‐like receptors
 
-(cGAS), and Sry‐related HMG box 2 (Sox2).4,32,33 DAI recognizes
+(cGAS), and Sry‐related HMG box  (Sox).,, DAI recognizes
 Z‐type DNA and B‐type DNA, which does not depend on sequence
-specificity, but on the length of DNA.34,35 AIM2 is mainly involved in
+specificity, but on the length of DNA., AIM is mainly involved in
 
 Nucleotide‐binding and oligomerization domain (NOD)‐like receptors
 
 the recognition of double‐stranded DNA. Exogenous microbial DNAs
 
-(NLRs) are a class of pattern recognition receptors,22 which re-
+(NLRs) are a class of pattern recognition receptors, which re-
 
-are also recognized by host DNA receptors. IFI16 and cGAS are re-
+are also recognized by host DNA receptors. IFI and cGAS are re-
 
 cognize components of pathogens and contain a conserved NOD
 
 ported to be novel DNA receptors that mediate cytosolic DNA re-
 
-structure.23 NLR receptor family members are divided into three
+structure. NLR receptor family members are divided into three
 
-cognition and induce type I interferon.36
+cognition and induce type I interferon.
 
 subclasses according to their functions. The first NLR subclass forms
 complexes with a variety of proteins and these complexes are defined as inflammasome that contains at least eight NLR proteins,
 
-2.7 | Type I interferons
+. | Type I interferons
 
-including NLRP1, NLRP3, NLRP6, NLRC4, NLRC5W, and AY2.24–26
+including NLRP, NLRP, NLRP, NLRC, NLRCW, and AY.–
 The second subclass is essential to reproduction and embryo re-
 
 When a virus invades the host, PRRs initially recognize the viral
 
-generation.27 The third subclass is comprised of regulatory NLRs.
+generation. The third subclass is comprised of regulatory NLRs.
 
-nucleic acid, collect the specific signal adapter protein, activate IRF3
+nucleic acid, collect the specific signal adapter protein, activate IRF
 
 These NLRs are positive or negative conditioned inflammatory sig-
 
-and IRF7 before being translocated to the nucleus and promote the
+and IRF before being translocated to the nucleus and promote the
 
 naling cascade pathways.
 
-synthesis of type I interferons (IFNs). Type I IFNs subsequently activate the downstream JAK‐STAT signal pathway, promote the expression of IFN‐stimulated genes (ISGs).37,38
+synthesis of type I interferons (IFNs). Type I IFNs subsequently activate the downstream JAK‐STAT signal pathway, promote the expression of IFN‐stimulated genes (ISGs).,
 
-2.5 | C‐type lectin‐like receptor
+. | C‐type lectin‐like receptor
 
 As the host's major antiviral molecules, IFNs limit virus spread,
 and play an immunomodulatory role to promote macrophage pha-
@@ -500,21 +500,21 @@ C‐type lectin‐like receptor (CLRs) are a large family of soluble, trans-
 
 gocytosis of antigens, as well as NK cells restriction of infected target
 
-membrane pattern recognition receptors with more than 1000 mem-
+membrane pattern recognition receptors with more than  mem-
 
 cells and T/B cells. Thus, blocking the production of IFNs has a direct
 
 bers, which are widely expressed in myeloid cells. Due to its motif
 
-effect on the survival of the virus in the host.39,40 So far, PRRs are
+effect on the survival of the virus in the host., So far, PRRs are
 
 structure in the intracellular region with multiple signaling pathways,
 
-divided into three types according to their forms of existence41: the
+divided into three types according to their forms of existence: the
 
 the CLR receptor has a wide range of functions, including cell adhe-
 
-membrane type includes TLR2, TLR4, mannose receptor (MR), sca-
+membrane type includes TLR, TLR, mannose receptor (MR), sca-
 
 sion, induction of endocytosis, phage, tissue repair, platelet activation,
 
@@ -526,33 +526,33 @@ lectin (MBL) and C‐reactive protein (CRP); the cytoplasmic type
 
 ceptor activation in the cells. The first type is direct activation, such as
 
-consists of TLR3, TLR7/8, and NLRs. Among them, the IFN
+consists of TLR, TLR/, and NLRs. Among them, the IFN
 
-macrophage‐induced Mincle and CLEC4E receptors, and Dectin‐2
+macrophage‐induced Mincle and CLECE receptors, and Dectin‐
 
 production‐related PRRs mainly include TLRs, RLRs, and NLRs. The
 
-(CLEC6A) receptors. The second type is to activate the receptor by
+(CLECA) receptors. The second type is to activate the receptor by
 
-signaling pathways induce downstream IFNs production.42 Upon in-
+signaling pathways induce downstream IFNs production. Upon in-
 
 activating HAM‐like motifs in the intracellular tail of the receptor, such
 
 fecting plasma‐like dendritic cells (pDCs), the viral nucleic acids are
 
-as Dectin‐1 (CLEC7A) and DNGR‐1 (CLEC9A).28,29 Both mechanisms
+as Dectin‐ (CLECA) and DNGR‐ (CLECA)., Both mechanisms
 
-recognized by TLR7/TLR9 to induce the production of inflammatory
+recognized by TLR/TLR to induce the production of inflammatory
 
 involve the recruitment of acidified spleen tyrosine kinases, which in
 
-cytokines and type I IFNs mediated by NF‐κB and IRF7.43,44 VSV
+cytokines and type I IFNs mediated by NF‐κB and IRF., VSV
 
-turn promotes CARD9, B‐cell lymphoid tissue 10 (BcL10), and Maltl
+turn promotes CARD, B‐cell lymphoid tissue  (BcL), and Maltl
 
-infection induces miR‐146a expression in macrophages through the
+infection induces miR‐a expression in macrophages through the
 
-428
+
 
 |
 
@@ -560,13 +560,13 @@ LI
 
 ET AL.
 
-RIG‐I/NF‐κB‐dependent pathway45 and the disorder of the JAK‐
+RIG‐I/NF‐κB‐dependent pathway and the disorder of the JAK‐
 
 defensins have killing effects on bacteria, fungi, mycoplasma, chla-
 
-STAT signaling pathway directly affects the spread of virus.46
+STAT signaling pathway directly affects the spread of virus.
 
-mydia, spirochetes, tumor cells, and viruses.60,61
+mydia, spirochetes, tumor cells, and viruses.,
 
 Although SARS‐CoV and other coronaviruses are sensitive to
 
@@ -578,49 +578,49 @@ eosinophilic granules of neutrophils. They are small molecular cationic
 
 protein of SARS‐CoV acts as an antagonist of immune escape protein
 
-polypeptides composed of 29 to 34 amino acid residues, with a relative
+polypeptides composed of  to  amino acid residues, with a relative
 
-and host interferon response.47–49 It is reported that EV71 infection
+and host interferon response.– It is reported that EV infection
 
-molecular weight of 3500 to 4000 dolt and three intramolecular disulfide
+molecular weight of  to  dolt and three intramolecular disulfide
 
-downregulates JAK1, p‐JAK1, and p‐TYK2, inhibits p‐STAT1/2, and
+downregulates JAK, p‐JAK, and p‐TYK, inhibits p‐STAT/, and
 
 bonds. They are main components of the neutrophils independent of
 
 blocks the JAK‐STAT signaling pathway mediated by type I IFNs,
 
-oxygen sterilization.62,63 Human α‐defensin HNP‐1 inactivates herpes
+oxygen sterilization., Human α‐defensin HNP‐ inactivates herpes
 
-thereby hindering the function of IFNs and promoting EV71
+thereby hindering the function of IFNs and promoting EV
 
-simplex virus type I and type II (HSV‐1 and HSV‐2), cytomegalovirus
+simplex virus type I and type II (HSV‐ and HSV‐), cytomegalovirus
 
-replication and proliferation in host cells.50 Ebola virus (EBOV)
+replication and proliferation in host cells. Ebola virus (EBOV)
 
-(CMV), VSV, and IAV.64,65 Purified defensins of guinea pigs, rabbits, and
+(CMV), VSV, and IAV., Purified defensins of guinea pigs, rabbits, and
 
-promotes cytokine signal inhibitory factor‐1 (SOCS1) and blocks the
+promotes cytokine signal inhibitory factor‐ (SOCS) and blocks the
 
-rats have weak anti‐HIV‐1 activity.66,67
+rats have weak anti‐HIV‐ activity.,
 
 JAK‐STAT signal pathway by directly binding to phosphorylated JAK,
 
 However, some studies showed that purified human neutrophil
 
-resulting in the inhibition of JAK activation.51 In addition, influenza A
+resulting in the inhibition of JAK activation. In addition, influenza A
 
-defensin (HNP1‐3) and rabbit neutrophil defensins (RNP1–5) could
+defensin (HNP‐) and rabbit neutrophil defensins (RNP–) could
 
 virus can inhibit the IFN‐I downstream pathway by inducing the
 
-neither inhibit nor kill SARS‐CoV.68,69
+neither inhibit nor kill SARS‐CoV.,
 
-expression of SOCS3.52
+expression of SOCS.
 
-3 | ADAP TIVE IMMUNE RE SP ONSES
-2.8 | Dendritic cells
-3.1 | Immune response of T cells
+ | ADAP TIVE IMMUNE RE SP ONSES
+. | Dendritic cells
+. | Immune response of T cells
 Dendritic cells (DCs) play a key role in innate immune and adaptive
 immune responses. As the strongest antigen‐presenting cells in the or-
 
@@ -628,11 +628,11 @@ MERS‐CoV and SARS‐CoV are β‐coronaviruses that can cause fatal lower
 
 ganism, they effectively stimulate the activation of T‐lymphocytes and
 
-respiratory tract infections and extrapulmonary manifestations.70–72
+respiratory tract infections and extrapulmonary manifestations.–
 
 B‐lymphocytes, thus combining innate and adaptive immunity. Immature
 
-T cells, CD4+ T cells, and CD8+ T cells particularly play a significant
+T cells, CD+ T cells, and CD+ T cells particularly play a significant
 
 DCs have strong migration ability, and mature DCs can effectively
 
@@ -640,7 +640,7 @@ antiviral role by balancing the combat against pathogens and the risk of
 
 activate T cells in the central link of start‐up, regulation, and maintenance
 
-developing autoimmunity or overwhelming inflammation.73 CD4+
+developing autoimmunity or overwhelming inflammation. CD+
 
 of immune responses. Thus, once the maturation process of DCs is
 
@@ -648,37 +648,37 @@ T cells promote the production of virus‐specific antibodies by activating
 
 blocked, it directly affects the initiation of subsequent adaptive immune
 
-T‐dependent B cells. However, CD8+ T cells are cytotoxic and can kill
+T‐dependent B cells. However, CD+ T cells are cytotoxic and can kill
 
-53–55
+–
 
 DC precursor cells differentiate into DCs by adding such
 
-viral infected cells. CD8+ T cells account for about 80% of total in-
+viral infected cells. CD+ T cells account for about % of total in-
 
-inducers as GM‐CSF, IL‐4, and TNF‐α.56 However, DC precursor cells
+inducers as GM‐CSF, IL‐, and TNF‐α. However, DC precursor cells
 
 filtrative inflammatory cells in the pulmonary interstitium in SARS‐CoV‐
 
-cannot differentiate into DCs if transfected with HIV‐1 Nef protein in the
+cannot differentiate into DCs if transfected with HIV‐ Nef protein in the
 
 infected patients and play a vital role in clearing CoVs in infected cells
 
 presence of the inducers, indicating that Nef blocks the differentiation of
 
-and inducing immune injury.74 In addition, by comparing T‐cell‐deficient
+and inducing immune injury. In addition, by comparing T‐cell‐deficient
 
-DC precursor cells into mature DCs. Both the core protein and NS3
+DC precursor cells into mature DCs. Both the core protein and NS
 
-BALB/c mice (transduced by ad5‐hdp4) with controls and B‐cell‐deficient
+BALB/c mice (transduced by ad‐hdp) with controls and B‐cell‐deficient
 
-protein of HCV inhibit the expression of CD1a, CD1b, and DC‐SIGN
+protein of HCV inhibit the expression of CDa, CDb, and DC‐SIGN
 
 mice, some researchers determined that T cells could survive in the in-
 
 molecules on human peripheral blood mononuclear precursor cells
 
-fected lungs and destroy the infected cells.75 It emphasizes the important
+fected lungs and destroy the infected cells. It emphasizes the important
 
 (PBMCs), which play an important role in the development of peripheral
 
@@ -686,43 +686,43 @@ role of T cells rather than B cells in the control of pathogenesis of MERS‐
 
 responses.
 
-57
 
-In addition, HIV‐1 attenu-
+
+In addition, HIV‐ attenu-
 
 CoV infection. A cross‐reactive T cell response leads to a decrease in
 
 ates the major histocompatibility antigen I (MHC I) on the surface of DCs,
 
-MERS‐CoV.76 However, CD4+ T cells are more susceptible to MERS‐CoV
+MERS‐CoV. However, CD+ T cells are more susceptible to MERS‐CoV
 
-thereby reducing the ability of DCs to present the viral antigens. HIV‐1
+thereby reducing the ability of DCs to present the viral antigens. HIV‐
 
-infection. The depletion of CD8+ T cells do not affect and delay viral
+infection. The depletion of CD+ T cells do not affect and delay viral
 
 infection enhances the expression of DC‐specific intercellular adhesion
 
-replication at the time of infection with SARS‐CoV.77,78 Depletion of
+replication at the time of infection with SARS‐CoV., Depletion of
 
-molecule‐3‐grabbing nonintegrity (DC‐SIGN), thus inhibiting CC chemo-
+molecule‐‐grabbing nonintegrity (DC‐SIGN), thus inhibiting CC chemo-
 
-CD4+ T cells is associated with reduced pulmonary recruitment of lym-
+CD+ T cells is associated with reduced pulmonary recruitment of lym-
 
-kine receptor 7 (CCR7) and MHC‐II, which are important receptors of DC
+kine receptor  (CCR) and MHC‐II, which are important receptors of DC
 
 phocytes and neutralizing antibody and cytokine production, resulting in
 
-homing.58,59 These results indicate that virus infection interferes with
+homing., These results indicate that virus infection interferes with
 
 a strong immune‐mediated interstitial pneumonitis and delayed clearance
 
 the differentiation and function of DCs, hinders the subsequent adaptive
 
-of SARS‐CoV from lungs.79 Additionally, T helper cells produce proin-
+of SARS‐CoV from lungs. Additionally, T helper cells produce proin-
 
 immune response mediated by DCs, and makes the virus evade the
 
-flammatory cytokines via the NF‐kB signaling pathway.80 IL‐17 cytokines
+flammatory cytokines via the NF‐kB signaling pathway. IL‐ cytokines
 
 adaptive immune response of the host successfully.
 
@@ -731,11 +731,11 @@ recruit monocytes and neutrophils to the site of infection with in-
 blood mononuclear precursor cells to DCs.
 
 flammation and activate other downstream cytokine and chemokine
-cascades, such as IL‐1, LL‐6, IL‐8, IL‐21, TNF‐β, and MCP‐1.81,82
+cascades, such as IL‐, LL‐, IL‐, IL‐, TNF‐β, and MCP‐.,
 
-2.9 | Defensins
+. | Defensins
 
-On the other hand, MERS‐CoV induces T cell apoptosis by activating the intrinsic and extrinsic apoptosis pathways. A novel BH3‐like
+On the other hand, MERS‐CoV induces T cell apoptosis by activating the intrinsic and extrinsic apoptosis pathways. A novel BH‐like
 
 Defensins are a family of endogenous antibiotic peptide molecules,
 
@@ -743,7 +743,7 @@ region located in the C‐terminal cytosolic domain of SARS‐CoV protein
 
 which widely exist in human, animals, and plants, and are important
 
-mediates its binding to Bcl‐xL and induced T‐cell apoptosis.83 During the
+mediates its binding to Bcl‐xL and induced T‐cell apoptosis. During the
 
 for the host's innate defense system. Defensins have broad‐spectrum
 
@@ -751,7 +751,7 @@ later stage of infection, depletion of T cells having antiviral effects may
 
 antimicrobial activities. In vitro inhibition experiments show that
 
-prolong the infection and promote viral survival.84
+prolong the infection and promote viral survival.
 
 LI
 
@@ -759,7 +759,7 @@ prolong the infection and promote viral survival.84
 
 ET AL.
 
-429
+
 
 The reappearance of SARS‐CoV is still a noteworthy problem.
 
@@ -771,9 +771,9 @@ adaptive immune responses to MERS‐CoV infection. Research from
 
 patients. All the detected memory T cell responses are directed at
 
-all over the world have described more than 20 kinds of monoclonal
+all over the world have described more than  kinds of monoclonal
 
-SARS‐CoV structural proteins. Two CD8+T cell responses to SARS‐
+SARS‐CoV structural proteins. Two CD+T cell responses to SARS‐
 
 antibodies, most of which are human or humanized antibodies. The
 
@@ -783,17 +783,17 @@ virus uses its spike proteins as an adhesion factor to facilitate host
 
 by measuring their HLA restriction and minimal T cell epitope re-
 
-entry through a special receptor called dipeptidyl peptidase‐4
+entry through a special receptor called dipeptidyl peptidase‐
 
-gions. Further, these reactions are found to last up to 11 years after
+gions. Further, these reactions are found to last up to  years after
 
-(DPP4). This receptor is considered a key factor in the signal trans-
+(DPP). This receptor is considered a key factor in the signal trans-
 
-infection. Absence of cross‐reactivity of these CD8+T cell responses
+infection. Absence of cross‐reactivity of these CD+T cell responses
 
 mission and activation of acquired and innate immune responses in
 
-against the MERS‐CoV is also demonstrated.78
+against the MERS‐CoV is also demonstrated.
 
 infected patients. Thus, compared with the time‐consuming vaccine
 
@@ -804,7 +804,7 @@ preparation, the design of monoclonal antibodies against these proteins has a be
 
 teins) is long‐lasting and persistent. This provides evidence for the
 
-Human monoclonal antibody (m336) isolated from the phage
+Human monoclonal antibody (m) isolated from the phage
 
 design of the SARS vaccine composed of viral structural proteins,
 
@@ -816,14 +816,14 @@ coronavirus spike protein and displays strong neutralization activity
 
 responses against the virus.
 
-to MES‐CoV in vitro.93 Human monoclonal antibody m336 shows
-high neutralization activity to MERS‐CoV in vitro. m336 reduces the
-RNA titer of lung by 40 000 to 90 000 folds.94 After infection with
+to MES‐CoV in vitro. Human monoclonal antibody m shows
+high neutralization activity to MERS‐CoV in vitro. m reduces the
+RNA titer of lung by   to   folds. After infection with
 
-3.2 | Humoral immune responses
+. | Humoral immune responses
 
 MERS‐CoV, monkeys were treated with high‐titer hyperimmune
-plasma or monoclonal antibody m336. Both groups had relieved
+plasma or monoclonal antibody m. Both groups had relieved
 
 B cell subsets with phenotypes characteristic of naive, non‐isotype‐
 
@@ -833,21 +833,21 @@ switched, memory cells and antibody‐secreting cells accumulate in
 
 load was only found in the hyperimmune plasma group. Although
 
-CoVs.85 The antigen stimulation of MERS‐CoV infection was clarified
+CoVs. The antigen stimulation of MERS‐CoV infection was clarified
 
-both super immune plasma and m336 therapy show to mitigate the
+both super immune plasma and m therapy show to mitigate the
 
-by using the specific 9‐mer peptide “CYSSLILDY”, which located at
+by using the specific ‐mer peptide “CYSSLILDY”, which located at
 
 disease of the common marmoset, neither has the ability to prevent
 
-position 437 to 445 within the region of the S glycoprotein.
+position  to  within the region of the S glycoprotein.
 
-85
+
 
 The
 
-the disease completely.95 Yet, HMab m336 is found to significantly
+the disease completely. Yet, HMab m is found to significantly
 
 sequence has the highest B cell antigenicity plot and has the ability to
 
@@ -855,25 +855,25 @@ reduce the viral RNA titers and viral‐associated pathological changes
 
 form the greatest number of interactions with MHCI alleles in a
 
-in rabbit lung tissue.94 Mice inoculated with S nanoparticles pro-
+in rabbit lung tissue. Mice inoculated with S nanoparticles pro-
 
-computerized simulation.86 Reports show that humoral immunity is
+computerized simulation. Reports show that humoral immunity is
 
 duced high‐level neutralizing antibodies against homologous viruses,
 
 essential to control the persistent phase of CoV infection. More
 
-and these antibodies have no cross‐protection with heteroviruses.96
+and these antibodies have no cross‐protection with heteroviruses.
 
 antibodies isolated from patients who have survived MERS‐CoV in-
 
 After being stimulated by SARS‐CoV, immunized ferrets produced
 
-fection have been described, including MCA1, CDC‐C2, CSC‐C5,
+fection have been described, including MCA, CDC‐C, CSC‐C,
 
 more rapid and stronger neutralizing antibody reaction than the
 
-CDC‐A2, CDC‐A10, MERS‐GD27, and MERS‐GD33.87–89
+CDC‐A, CDC‐A, MERS‐GD, and MERS‐GD.–
 
 control animals; however, the strong inflammatory reaction is ob-
 
@@ -883,7 +883,7 @@ served in liver tissue. All this suggests that the expression of SARS‐
 
 sponse to CoV infection. Primitively identified as a host‐sensitive and
 
-CoV S protein is associated with enhanced hepatitis.97 On the other
+CoV S protein is associated with enhanced hepatitis. On the other
 
 nonspecific complement to adaptive immune pathways, the complement
 
@@ -891,15 +891,15 @@ hand, the time course of SARS‐CoV viremia and antibody response
 
 system provides a way for the innate immune system to detect and
 
-has been studied.98 SARS‐CoV viremia is not detected in the blood
+has been studied. SARS‐CoV viremia is not detected in the blood
 
-respond to foreign antigens.90 Given its potential to damage the host
+respond to foreign antigens. Given its potential to damage the host
 
-samples of convalescent patients. In the peak period of viremia, 75%
+samples of convalescent patients. In the peak period of viremia, %
 
 tissues, the complement system is tightly controlled by inhibiting proteins
 
-of the blood samples of patients diagnosed as SARS in the first 1 to 2
+of the blood samples of patients diagnosed as SARS in the first  to 
 
 in the serum. Virus encoded proteins help them evade the detection of
 
@@ -909,7 +909,7 @@ the complement system, suggesting that complements are vital to the
 
 IgG production may indicate the significance of IgG in both humoral
 
-antiviral response. C3a and C5a have potent proinflammatory properties
+antiviral response. Ca and Ca have potent proinflammatory properties
 
 immune response to acute SARS‐CoV infection and clearance of the
 
@@ -917,23 +917,23 @@ and can trigger inflammatory cell recruitment and neutrophil activation.
 
 remaining virus sources during recovery. This is an important subject
 
-C3a and C5a blockade acts as a treatment for acute lung injury, and anti‐
+Ca and Ca blockade acts as a treatment for acute lung injury, and anti‐
 
 that needs further study.
 
-C5a antibody shows to protect mice from infection with MERS‐CoV.91
+Ca antibody shows to protect mice from infection with MERS‐CoV.
 SARA‐CoV infection activates the complement pathway and complement
-signaling contributes to disease.92
+signaling contributes to disease.
 
-4 | CON CLUSIONS
+ | CON CLUSIONS
 
-3.3 | Antibody responses to coronaviruses'
+. | Antibody responses to coronaviruses'
 infections
 
-32 countries and areas, the world has experienced the outbreak of
+ countries and areas, the world has experienced the outbreak of
 
-Since the emergence of SARS‐CoV in 2002 and its spread throughout
-MERS‐CoV and now, the 2019‐nCoV. All these viruses belong to the
+Since the emergence of SARS‐CoV in  and its spread throughout
+MERS‐CoV and now, the ‐nCoV. All these viruses belong to the
 subfamily Coronavirinae in the family Coronaviridae. Since CoVs
 The antibody response in vivo is a dynamic and complex mixture of
 
@@ -947,7 +947,7 @@ ferent antigenic domains on the envelope glycoprotein of the virus. It
 
 man health. This is especially true when there are no approved
 
-430
+
 
 |
 
@@ -965,13 +965,13 @@ In recent years, profound understandings of the innate immune re-
 
 Xiaohong Liu
 
-http://orcid.org/0000-0003-4795-3039
+http://orcid.org/---
 
 sponse to viruses have been made. This type of immune response
 
 Qiwei Zhang
 
-http://orcid.org/0000-0003-0134-1985
+http://orcid.org/---
 
 inhibits virus replication, promotes virus clearance, induces tissue
 
@@ -979,10 +979,10 @@ Jianguo Wu
 
 ET AL.
 
-http://orcid.org/0000-0003-4944-764X
-http://orcid.org/0000-0001-5062-459X
+http://orcid.org/---X
+http://orcid.org/---X
 
-http://orcid.org/0000-0002-8326-2895
+http://orcid.org/---
 
 repair, and triggers a prolonged adaptive immune response against
 the viruses. In most cases, pulmonary and systemic inflammatory
@@ -993,7 +993,7 @@ virus spread, vaccine development can be time‐consuming. To fulfill
 the pressing need, we should propose effective therapeutic measures
 using the accumulated knowledge of the innate immune response
 system. Targeted immunotherapy is a good alternative to some antivirals that have narrow treatment windows and meet with drug
-resistance easily. In 2003, glucocorticoid was widely used in SARS
+resistance easily. In , glucocorticoid was widely used in SARS
 treatment to control pulmonary infection by regulating inflammatory
 responses. Except for viral pathogenicity, the inflammatory response
 of the body also plays a crucial role in SARS‐induced lung injury
@@ -1006,369 +1006,369 @@ However, accomplishing this is not impossible. Notable
 achievements have been made in analyzing detrimental and protective mechanisms. For instance, completely blocking a proximal event
 in the immune response (eg, activation of IFN response‐related PRRs)
 seems unwise considering its general role in regulating the host defense. In contrast, more limited and specific effector arms, such as
-controlled production of oxygen radicals, NET formation, IL‐1, IL‐4, IL
-‐6, IL‐8, and IL‐21 production, are probably practicable targets. At
+controlled production of oxygen radicals, NET formation, IL‐, IL‐, IL
+‐, IL‐, and IL‐ production, are probably practicable targets. At
 last, further research is needed to improve the understanding of the
 temporal features of CoV‐induced inflammatory response in relation
 to the timing of therapeutic interventions.
 A C K N O W L E D GM E N T S
 This work was supported by research grants from the National
-Natural Science Foundation of China (81902066, 81730061, and
-81471942).
+Natural Science Foundation of China (, , and
+).
 CO NFLICT OF I NTERE STS
 The authors declare that there are no conflict of interests.
 OR CID
 Geng Li
 
-http://orcid.org/0000-0002-2441-2427
+http://orcid.org/---
 
 Yaohua Fan
 
-http://orcid.org/0000-0002-1287-3760
+http://orcid.org/---
 
 Yanni Lai
 
-http://orcid.org/0000-0002-9715-5871
+http://orcid.org/---
 
 Tiantian Han
 Zonghui Li
 Peiwen Zhou
 Pan Pan
 
-http://orcid.org/0000-0002-4635-7174
-http://orcid.org/0000-0003-3703-3634
-http://orcid.org/0000-0002-3755-4037
+http://orcid.org/---
+http://orcid.org/---
+http://orcid.org/---
 
-http://orcid.org/0000-0003-1457-7057
+http://orcid.org/---
 
 R E F E R E N CE S
-1. World Health Organization. Laboratory testing of human suspected
+. World Health Organization. Laboratory testing of human suspected
 cases of novel coronavirus (nCoV) infection [published online ahead
-of print January 21, 2020]. https://apps.who.int/iris/bitstream/
-handle/10665/330374/WHO‐2019‐nCoV‐laboratory‐2020.1‐eng.pdf
-2. World Health Organization. Novel Coronavirus (2019‐nCoV) situation report‐2 [published online ahead of print January 21, 2020].
+of print January , ]. https://apps.who.int/iris/bitstream/
+handle///WHO‐‐nCoV‐laboratory‐.‐eng.pdf
+. World Health Organization. Novel Coronavirus (‐nCoV) situation report‐ [published online ahead of print January , ].
 https://www.who.int/docs/default‐source/coronaviruse/situation‐
-reports/20200122‐sitrep‐2‐2019‐ncov.pdf
-3. World Health Organization. Middle East respiratory syndrome coronavirus (MERS‐CoV) [published online ahead of print January 21,
-2020]. https://www.who.int/emergencies/mers‐cov/en/
-4. World Health Organization. WHO MERS global summary
+reports/‐sitrep‐‐‐ncov.pdf
+. World Health Organization. Middle East respiratory syndrome coronavirus (MERS‐CoV) [published online ahead of print January ,
+]. https://www.who.int/emergencies/mers‐cov/en/
+. World Health Organization. WHO MERS global summary
 and assessment of risk [published online ahead of print
-January 21, 2020]. https://www.who.int/csr/disease/coronavirus_
-infections/risk‐assessment‐august‐2018.pdf?ua=1
-5. Koh D, Sng J. Lessons from the past: perspectives on severe acute respiratory syndrome. Asia Pac J Public Health. 2010;22(3 Suppl):132s‐136s.
-6. Akira S, Uematsu S, Takeuchi O. Pathogen recognition and innate
-immunity. Cell. 2006;124(4):783‐801.
-7. Kawai T, Akira S. The role of pattern‐recognition receptors in innate
-immunity: update on Toll‐like receptors. Nature Immunol. 2010;11(5):
-373‐384.
-8. Pobezinskaya YL, Kim YS, Choksi S, et al. The function of TRADD in
-signaling through tumor necrosis factor receptor 1 and TRIF‐
-dependent Toll‐like receptors. Nature Immunol. 2008;9(9):1047‐1054.
-9. Ermolaeva MA, Michallet MC, Papadopoulou N, et al. Function of TRADD
-in tumor necrosis factor receptor 1 signaling and in TRIF‐dependent inflammatory responses. Nature Immunol. 2008;9(9):1037‐1046.
-10. Hacker H, Karin M. Regulation and function of IKK and IKK‐related
-kinases. Sci STKE. 2006;2006(357):re13.
-11. Häcker H, Redecke V, Blagoev B, et al. Specificity in Toll‐like receptor
-signalling through distinct effector functions of TRAF3 and TRAF6.
-Nature. 2006;439(7073):204‐207.
-12. Kell AM, Gale M Jr. RIG‐I in RNA virus recognition. Virology. 2015;479
-‐480:110‐121.
-13. Yoneyama M, Fujita T. RNA recognition and signal transduction by
-RIG‐I‐like receptors. Immunol Rev. 2009;227(1):54‐65.
-14. Yoneyama M, Onomoto K, Jogi M, Akaboshi T, Fujita T. Viral RNA
-detection by RIG‐I‐like receptors. Curr Opin Immunol. 2015;32:48‐53.
-15. Yoneyama M, Fujita T. Recognition of viral nucleic acids in innate
-immunity. Rev Med Virol. 2010;20(1):4‐22.
-16. Takeuchi O, Akira S. Pattern recognition receptors and inflammation.
-Cell. 2010;140(6):805‐820.
-17. Weber M, Gawanbacht A, Habjan M, et al. Incoming RNA virus nucleocapsids containing a 5′‐triphosphorylated genome activate RIG‐I
-and antiviral signaling. Cell Host Microbe. 2013;13(3):336‐346.
-18. Goubau D, Schlee M, Deddouche S, et al. Antiviral immunity via RIG‐
-I‐mediated recognition of RNA bearing 5'‐diphosphates. Nature. 2014;
-514(7522):372‐375.
-19. Civril F, Bennett M, Moldt M, et al. The RIG‐I ATPase domain structure reveals insights into ATP‐dependent antiviral signalling. EMBO
-Rep. 2011;12(11):1127‐1134.
-20. Takahasi K, Kumeta H, Tsuduki N, et al. Solution structures of cytosolic RNA sensor MDA5 and LGP2 C‐terminal domains: identification
-of the RNA recognition loop in RIG‐I‐like receptors. J Biol Chem. 2009;
-284(26):17465‐17474.
+January , ]. https://www.who.int/csr/disease/coronavirus_
+infections/risk‐assessment‐august‐.pdf?ua=
+. Koh D, Sng J. Lessons from the past: perspectives on severe acute respiratory syndrome. Asia Pac J Public Health. ;( Suppl):s‐s.
+. Akira S, Uematsu S, Takeuchi O. Pathogen recognition and innate
+immunity. Cell. ;():‐.
+. Kawai T, Akira S. The role of pattern‐recognition receptors in innate
+immunity: update on Toll‐like receptors. Nature Immunol. ;():
+‐.
+. Pobezinskaya YL, Kim YS, Choksi S, et al. The function of TRADD in
+signaling through tumor necrosis factor receptor  and TRIF‐
+dependent Toll‐like receptors. Nature Immunol. ;():‐.
+. Ermolaeva MA, Michallet MC, Papadopoulou N, et al. Function of TRADD
+in tumor necrosis factor receptor  signaling and in TRIF‐dependent inflammatory responses. Nature Immunol. ;():‐.
+. Hacker H, Karin M. Regulation and function of IKK and IKK‐related
+kinases. Sci STKE. ;():re.
+. Häcker H, Redecke V, Blagoev B, et al. Specificity in Toll‐like receptor
+signalling through distinct effector functions of TRAF and TRAF.
+Nature. ;():‐.
+. Kell AM, Gale M Jr. RIG‐I in RNA virus recognition. Virology. ;
+‐:‐.
+. Yoneyama M, Fujita T. RNA recognition and signal transduction by
+RIG‐I‐like receptors. Immunol Rev. ;():‐.
+. Yoneyama M, Onomoto K, Jogi M, Akaboshi T, Fujita T. Viral RNA
+detection by RIG‐I‐like receptors. Curr Opin Immunol. ;:‐.
+. Yoneyama M, Fujita T. Recognition of viral nucleic acids in innate
+immunity. Rev Med Virol. ;():‐.
+. Takeuchi O, Akira S. Pattern recognition receptors and inflammation.
+Cell. ;():‐.
+. Weber M, Gawanbacht A, Habjan M, et al. Incoming RNA virus nucleocapsids containing a ′‐triphosphorylated genome activate RIG‐I
+and antiviral signaling. Cell Host Microbe. ;():‐.
+. Goubau D, Schlee M, Deddouche S, et al. Antiviral immunity via RIG‐
+I‐mediated recognition of RNA bearing '‐diphosphates. Nature. ;
+():‐.
+. Civril F, Bennett M, Moldt M, et al. The RIG‐I ATPase domain structure reveals insights into ATP‐dependent antiviral signalling. EMBO
+Rep. ;():‐.
+. Takahasi K, Kumeta H, Tsuduki N, et al. Solution structures of cytosolic RNA sensor MDA and LGP C‐terminal domains: identification
+of the RNA recognition loop in RIG‐I‐like receptors. J Biol Chem. ;
+():‐.
 
 LI
 
 ET AL.
 
-21. Wu B, Peisley A, Richards C, et al. Structural basis for dsRNA recognition, filament formation, and antiviral signal activation by MDA5.
-Cell. 2013;152(1‐2):276‐289.
-22. Inohara Chamaillard, McDonald C, Nunez G. NOD‐LRR proteins: role
+. Wu B, Peisley A, Richards C, et al. Structural basis for dsRNA recognition, filament formation, and antiviral signal activation by MDA.
+Cell. ;(‐):‐.
+. Inohara Chamaillard, McDonald C, Nunez G. NOD‐LRR proteins: role
 in host‐microbial interactions and inflammatory disease. Annu Rev
-Biochem. 2005;74:355‐383.
-23. Inohara N, Nunez G. The NOD: a signaling module that regulates
-apoptosis and host defense against pathogens. Oncogene. 2001;
-20(44):6473‐6481.
-24. Agostini L, Martinon F, Burns K, McDermott MF, Hawkins PN,
-Tschopp J. NALP3 forms an IL‐1beta‐processing inflammasome with
-increased activity in Muckle‐Wells autoinflammatory disorder. Immunity. 2004;20(3):319‐325.
-25. Davis BK, Roberts RA, Huang MT, et al. Cutting edge: NLRC5‐
-dependent activation of the inflammasome. J Immunol. 2011;186(3):
-1333‐1337.
-26. Hornung V, Ablasser A, Charrel‐Dennis M, et al. AIM2 recognizes
-cytosolic dsDNA and forms a caspase‐1‐activating inflammasome with
-ASC. Nature. 2009;458(7237):514‐518.
-27. Van Gorp H, Kuchmiy A, Van Hauwermeiren F, Lamkanfi M. NOD‐like
+Biochem. ;:‐.
+. Inohara N, Nunez G. The NOD: a signaling module that regulates
+apoptosis and host defense against pathogens. Oncogene. ;
+():‐.
+. Agostini L, Martinon F, Burns K, McDermott MF, Hawkins PN,
+Tschopp J. NALP forms an IL‐beta‐processing inflammasome with
+increased activity in Muckle‐Wells autoinflammatory disorder. Immunity. ;():‐.
+. Davis BK, Roberts RA, Huang MT, et al. Cutting edge: NLRC‐
+dependent activation of the inflammasome. J Immunol. ;():
+‐.
+. Hornung V, Ablasser A, Charrel‐Dennis M, et al. AIM recognizes
+cytosolic dsDNA and forms a caspase‐‐activating inflammasome with
+ASC. Nature. ;():‐.
+. Van Gorp H, Kuchmiy A, Van Hauwermeiren F, Lamkanfi M. NOD‐like
 receptors interfacing the immune and reproductive systems. FEBS J.
-2014;281(20):4568‐4582.
-28. Rogers NC, Slack EC, Edwards AD, et al. Syk‐dependent cytokine induction by Dectin‐1 reveals a novel pattern recognition pathway for C
-type lectins. Immunity. 2005;22(4):507‐517.
-29. Geijtenbeek TB, Gringhuis SI. Signalling through C‐type lectin receptors: shaping immune responses. Nat Rev Immunol. 2009;9(7):
-465‐479.
-30. Hara H, Tsuchiya K, Kawamura I, et al. Phosphorylation of the adaptor
+;():‐.
+. Rogers NC, Slack EC, Edwards AD, et al. Syk‐dependent cytokine induction by Dectin‐ reveals a novel pattern recognition pathway for C
+type lectins. Immunity. ;():‐.
+. Geijtenbeek TB, Gringhuis SI. Signalling through C‐type lectin receptors: shaping immune responses. Nat Rev Immunol. ;():
+‐.
+. Hara H, Tsuchiya K, Kawamura I, et al. Phosphorylation of the adaptor
 ASC acts as a molecular switch that controls the formation of speck‐
-like aggregates and inflammasome activity. Nature Immunol. 2013;
-14(12):1247‐1255.
-31. Strasser D, Neumann K, Bergmann H, et al. Syk kinase‐coupled C‐type
-lectin receptors engage protein kinase C‐sigma to elicit Card9 adaptor
-‐mediated innate immunity. Immunity. 2012;36(1):32‐42.
-32. Hemmi H, Takeuchi O, Kawai T, et al. A Toll‐like receptor recognizes
-bacterial DNA. Nature. 2000;408(6813):740‐745.
-33. Chiu YH, Macmillan JB, Chen ZJ. RNA polymerase III detects cytosolic
+like aggregates and inflammasome activity. Nature Immunol. ;
+():‐.
+. Strasser D, Neumann K, Bergmann H, et al. Syk kinase‐coupled C‐type
+lectin receptors engage protein kinase C‐sigma to elicit Card adaptor
+‐mediated innate immunity. Immunity. ;():‐.
+. Hemmi H, Takeuchi O, Kawai T, et al. A Toll‐like receptor recognizes
+bacterial DNA. Nature. ;():‐.
+. Chiu YH, Macmillan JB, Chen ZJ. RNA polymerase III detects cytosolic
 DNA and induces type I interferons through the RIG‐I pathway. Cell.
-2009;138(3):576‐591.
-34. Sun L, Wu J, Du F, Chen X, Chen ZJ. Cyclic GMP‐AMP synthase is a
+;():‐.
+. Sun L, Wu J, Du F, Chen X, Chen ZJ. Cyclic GMP‐AMP synthase is a
 cytosolic DNA sensor that activates the type I interferon pathway.
-Science (New York, NY). 2013;339(6121):786‐791.
-35. Gallego‐Marin C, Schrum JE, Andrade WA, et al. Cyclic GMP‐AMP
+Science (New York, NY). ;():‐.
+. Gallego‐Marin C, Schrum JE, Andrade WA, et al. Cyclic GMP‐AMP
 synthase is the cytosolic sensor of plasmodium falciparum genomic
-DNA and activates type I IFN in malaria. J Immunol. 2018;200(2):
-768‐774.
-36. Jensen S, Thomsen AR. Sensing of RNA viruses: a review of innate
+DNA and activates type I IFN in malaria. J Immunol. ;():
+‐.
+. Jensen S, Thomsen AR. Sensing of RNA viruses: a review of innate
 immune receptors involved in recognizing RNA virus invasion. J Virol.
-2012;86(6):2900‐2910.
-37. Ma DY, Suthar MS. Mechanisms of innate immune evasion in re‐
-emerging RNA viruses. Current opinion in virology. 2015;12:26‐37.
-38. Nelemans T, Kikkert M. Viral innate immune evasion and the
-pathogenesis of emerging RNA virus infections. Viruses. 2019;
-11(10):961.
-39. Ivashkiv LB, Donlin LT. Regulation of type I interferon responses. Nat
-Rev Immunol. 2014;14(1):36‐49.
-40. Cao L, Ji Y, Zeng L, et al. P200 family protein IFI204 negatively regulates type I interferon responses by targeting IRF7 in nucleus. PLOS
-Pathog. 2019;15(10):e1008079.
-41. Gordon S. Pattern recognition receptors: doubling up for the innate
-immune response. Cell. 2002;111(7):927‐930.
-42. Baccala R, Gonzalez‐Quintial R, Lawson BR, et al. Sensors of the innate immune system: their mode of action. Nat Rev Rheumatol. 2009;
-5(8):448‐456.
+;():‐.
+. Ma DY, Suthar MS. Mechanisms of innate immune evasion in re‐
+emerging RNA viruses. Current opinion in virology. ;:‐.
+. Nelemans T, Kikkert M. Viral innate immune evasion and the
+pathogenesis of emerging RNA virus infections. Viruses. ;
+():.
+. Ivashkiv LB, Donlin LT. Regulation of type I interferon responses. Nat
+Rev Immunol. ;():‐.
+. Cao L, Ji Y, Zeng L, et al. P family protein IFI negatively regulates type I interferon responses by targeting IRF in nucleus. PLOS
+Pathog. ;():e.
+. Gordon S. Pattern recognition receptors: doubling up for the innate
+immune response. Cell. ;():‐.
+. Baccala R, Gonzalez‐Quintial R, Lawson BR, et al. Sensors of the innate immune system: their mode of action. Nat Rev Rheumatol. ;
+():‐.
 
 |
 
-431
 
-43. Phadwal K, Alegre‐Abarrategui J, Watson AS, et al. A novel method
-for autophagy detection in primary cells: impaired levels of macroautophagy in immunosenescent T cells. Autophagy. 2012;8(4):
-677‐689.
-44. Seranova E, Ward C, Chipara M, Rosenstock TR, Sarkar S. In vitro
-screening platforms for identifying autophagy modulators in mammalian cells. Methods Mol Biol. 2019;1880:389‐428.
-45. Hou J, Wang P, Lin L, et al. MicroRNA‐146a feedback inhibits RIG‐
+
+. Phadwal K, Alegre‐Abarrategui J, Watson AS, et al. A novel method
+for autophagy detection in primary cells: impaired levels of macroautophagy in immunosenescent T cells. Autophagy. ;():
+‐.
+. Seranova E, Ward C, Chipara M, Rosenstock TR, Sarkar S. In vitro
+screening platforms for identifying autophagy modulators in mammalian cells. Methods Mol Biol. ;:‐.
+. Hou J, Wang P, Lin L, et al. MicroRNA‐a feedback inhibits RIG‐
 I‐dependent Type I IFN production in macrophages by targeting
-TRAF6, IRAK1, and IRAK2. J Immunol. 2009;183(3):2150‐2158.
-46. Schneider WM, Chevillotte MD, Rice CM. Interferon‐stimulated
-genes: a complex web of host defenses. Annu Rev Immunol. 2014;32:
-513‐545.
-47. Spiegel M, Pichlmair A, Martinez‐Sobrido L, et al. Inhibition of beta
-interferon induction by severe acute respiratory syndrome coronavirus suggests a two‐step model for activation of interferon regulatory factor 3. J Virol. 2005;79(4):2079‐2086.
-48. Kopecky‐Bromberg SA, Martinez‐Sobrido L, Frieman M, Baric RA,
+TRAF, IRAK, and IRAK. J Immunol. ;():‐.
+. Schneider WM, Chevillotte MD, Rice CM. Interferon‐stimulated
+genes: a complex web of host defenses. Annu Rev Immunol. ;:
+‐.
+. Spiegel M, Pichlmair A, Martinez‐Sobrido L, et al. Inhibition of beta
+interferon induction by severe acute respiratory syndrome coronavirus suggests a two‐step model for activation of interferon regulatory factor . J Virol. ;():‐.
+. Kopecky‐Bromberg SA, Martinez‐Sobrido L, Frieman M, Baric RA,
 Palese P. Severe acute respiratory syndrome coronavirus open
-reading frame (ORF) 3b, ORF 6, and nucleocapsid proteins function as
-interferon antagonists. J Virol. 2007;81(2):548‐557.
-49. Lu X, Pan J, Tao J, Guo D. SARS‐CoV nucleocapsid protein antagonizes IFN‐beta response by targeting initial step of IFN‐beta induction pathway, and its C‐terminal region is critical for the antagonism.
-Virus Genes. 2011;42(1):37‐45.
-50. Liu Y, Zhang Z, Zhao X, et al. Enterovirus 71 inhibits cellular type I
-interferon signaling by downregulating JAK1 protein expression. Viral
-Immunol. 2014;27(6):267‐276.
-51. Okumura A, Pitha PM, Yoshimura A, Harty RN. Interaction between
-Ebola virus glycoprotein and host toll‐like receptor 4 leads to induction of proinflammatory cytokines and SOCS1. J Virol. 2010;84(1):
-27‐33.
-52. Pauli EK, Schmolke M, Wolff T, et al. Influenza A virus inhibits type I
-IFN signaling via NF‐kappaB‐dependent induction of SOCS‐3 expression. PLOS Pathog. 2008;4(11):e1000196.
-53. Kaewraemruaen C, Ritprajak P, Hirankarn N. Dendritic cells as key
+reading frame (ORF) b, ORF , and nucleocapsid proteins function as
+interferon antagonists. J Virol. ;():‐.
+. Lu X, Pan J, Tao J, Guo D. SARS‐CoV nucleocapsid protein antagonizes IFN‐beta response by targeting initial step of IFN‐beta induction pathway, and its C‐terminal region is critical for the antagonism.
+Virus Genes. ;():‐.
+. Liu Y, Zhang Z, Zhao X, et al. Enterovirus  inhibits cellular type I
+interferon signaling by downregulating JAK protein expression. Viral
+Immunol. ;():‐.
+. Okumura A, Pitha PM, Yoshimura A, Harty RN. Interaction between
+Ebola virus glycoprotein and host toll‐like receptor  leads to induction of proinflammatory cytokines and SOCS. J Virol. ;():
+‐.
+. Pauli EK, Schmolke M, Wolff T, et al. Influenza A virus inhibits type I
+IFN signaling via NF‐kappaB‐dependent induction of SOCS‐ expression. PLOS Pathog. ;():e.
+. Kaewraemruaen C, Ritprajak P, Hirankarn N. Dendritic cells as key
 players in systemic lupus erythematosus. Asian Pac J Allergy Immunol.
-2019. https://doi.org/10.12932/AP‐070919‐0639
-54. Wu L, Dakic A. Development of dendritic cell system. Cell Mol Immunol. 2004;1(2):112‐118.
-55. Nouri‐Shirazi M, Guinet E. Exposure to nicotine adversely affects the
+. https://doi.org/./AP‐‐
+. Wu L, Dakic A. Development of dendritic cell system. Cell Mol Immunol. ;():‐.
+. Nouri‐Shirazi M, Guinet E. Exposure to nicotine adversely affects the
 dendritic cell system and compromises host response to vaccination.
-J Immunol. 2012;188(5):2359‐2370.
-56. Guo Y, Xu WW, Song J, Deng W, Liu DQ, Zhang HT. Intracellular
-overexpression of HIV‐1 Nef impairs differentiation and maturation
-of monocytic precursors towards dendritic cells. PLOS One. 2012;7(7):
-e40179.
-57. Tu Z, Hamalainen‐Laanaya HK, Nishitani C, Kuroki Y, Crispe IN,
-Orloff MS. HCV core and NS3 proteins manipulate human blood‐
-derived dendritic cell development and promote Th 17 differentiation.
-Int Immunol. 2012;24(2):97‐106.
-58. Fairman P, Angel JB. The effect of human immunodeficiency virus‐1
+J Immunol. ;():‐.
+. Guo Y, Xu WW, Song J, Deng W, Liu DQ, Zhang HT. Intracellular
+overexpression of HIV‐ Nef impairs differentiation and maturation
+of monocytic precursors towards dendritic cells. PLOS One. ;():
+e.
+. Tu Z, Hamalainen‐Laanaya HK, Nishitani C, Kuroki Y, Crispe IN,
+Orloff MS. HCV core and NS proteins manipulate human blood‐
+derived dendritic cell development and promote Th  differentiation.
+Int Immunol. ;():‐.
+. Fairman P, Angel JB. The effect of human immunodeficiency virus‐
 on monocyte‐derived dendritic cell maturation and function. Clin Exp
-Immunol. 2012;170(1):101‐113.
-59. Cardone M, Ikeda KN, Varano B, Gessani S, Conti L. HIV‐1‐induced
-impairment of dendritic cell cross talk with gammadelta T lymphocytes. J Virol. 2015;89(9):4798‐4808.
-60. White MR, Tecle T, Crouch EC, Hartshorn KL. Impact of neutrophils
+Immunol. ;():‐.
+. Cardone M, Ikeda KN, Varano B, Gessani S, Conti L. HIV‐‐induced
+impairment of dendritic cell cross talk with gammadelta T lymphocytes. J Virol. ;():‐.
+. White MR, Tecle T, Crouch EC, Hartshorn KL. Impact of neutrophils
 on antiviral activity of human bronchoalveolar lavage fluid. Am
-J Physiol. 2007;293(5):L1293‐L1299.
-61. Campbell O, Gagnon J, Rubin JE. Antibacterial activity of chemotherapeutic drugs against Escherichia coli and Staphylococcus
-pseudintermedius. Lett Appl Microbiol. 2019;69(5):353‐357.
-62. Zharkova MS, Orlov DS, Golubeva OY, et al. Application of antimicrobial peptides of the innate immune system in combination with
+J Physiol. ;():L‐L.
+. Campbell O, Gagnon J, Rubin JE. Antibacterial activity of chemotherapeutic drugs against Escherichia coli and Staphylococcus
+pseudintermedius. Lett Appl Microbiol. ;():‐.
+. Zharkova MS, Orlov DS, Golubeva OY, et al. Application of antimicrobial peptides of the innate immune system in combination with
 
-432
+
 
-63.
+.
 
-64.
+.
 
-65.
-66.
-67.
+.
+.
+.
 
-68.
+.
 
-69.
+.
 
-70.
+.
 
-71.
+.
 
-72.
+.
 
-73.
+.
 
-74.
+.
 
-75.
+.
 
-76.
+.
 
-77.
+.
 
-78.
+.
 
-79.
+.
 
-80.
+.
 
-81.
+.
 
-82.
+.
 
 |
 conventional antibiotics‐A novel way to combat antibiotic resistance?
-Front Cell Infect Microbiol. 2019;9:128.
+Front Cell Infect Microbiol. ;:.
 Lehrer RI, Lichtenstein AK, Ganz T. Defensins: antimicrobial and
-cytotoxic peptides of mammalian cells. Annu Rev Immunol. 1993;11:
-105‐128.
+cytotoxic peptides of mammalian cells. Annu Rev Immunol. ;:
+‐.
 Li SZ, Shu QP, Song Y, et al. Phosphorylation of MAVS/VISA by Nemo‐
-like kinase (NLK) for degradation regulates the antiviral innate immune response. Nat Commun. 2019;10(1):3233.
+like kinase (NLK) for degradation regulates the antiviral innate immune response. Nat Commun. ;():.
 Daher KA, Selsted ME, Lehrer RI. Direct inactivation of viruses by
-human granulocyte defensins. J Virol. 1986;60(3):1068‐1074.
+human granulocyte defensins. J Virol. ;():‐.
 Nakashima H, Yamamoto N, Masuda M, Fujii N. Defensins inhibit HIV
-replication in vitro. AIDS. 1993;7(8):1129.
+replication in vitro. AIDS. ;():.
 Zapata W, Aguilar‐Jiménez W, Feng Z, et al. Identification of innate
 immune antiretroviral factors during in vivo and in vitro exposure to
-HIV‐1. Microb Infect. 2016;18(3):211‐219.
+HIV‐. Microb Infect. ;():‐.
 Yasui F, Kai C, Kitabatake M, et al. Prior immunization with severe
 acute respiratory syndrome (SARS)‐associated coronavirus (SARS‐
 CoV) nucleocapsid protein causes severe pneumonia in mice infected
-with SARS‐CoV. J Immunol. 2008;181(9):6337‐6348.
+with SARS‐CoV. J Immunol. ;():‐.
 Zhu X, Wang Y, Zhang H, et al. Genetic variation of the human alpha‐
-2‐Heremans‐Schmid glycoprotein (AHSG) gene associated with the
-risk of SARS‐CoV infection. PLOS One. 2011;6(8):e23730.
+‐Heremans‐Schmid glycoprotein (AHSG) gene associated with the
+risk of SARS‐CoV infection. PLOS One. ;():e.
 Chan JF, Lau SK, To KK, Cheng VC, Woo PC, Yuen KY. Middle East
 respiratory syndrome coronavirus: another zoonotic betacoronavirus
-causing SARS‐like disease. Clin Microbiol Rev. 2015;28(2):465‐522.
+causing SARS‐like disease. Clin Microbiol Rev. ;():‐.
 Cheng VC, Lau SK, Woo PC, Yuen KY. Severe acute respiratory syndrome coronavirus as an agent of emerging and reemerging infection.
-Clin Microbiol Rev. 2007;20(4):660‐694.
+Clin Microbiol Rev. ;():‐.
 Sato K, Misawa N, Takeuchi JS, et al. Experimental adaptive evolution
-of simian immunodeficiency virus sivcpz to pandemic human immunodeficiency virus type 1 by using a humanized mouse model.
-J Virol. 2018;92(4):e01905‐17.
+of simian immunodeficiency virus sivcpz to pandemic human immunodeficiency virus type  by using a humanized mouse model.
+J Virol. ;():e‐.
 Cecere TE, Todd SM, Leroith T. Regulatory T cells in arterivirus and
 coronavirus infections: do they protect against disease or enhance it?
-Viruses. 2012;4(5):833‐846.
+Viruses. ;():‐.
 Maloir Q, Ghysen K, von Frenckell C, Louis R, Guiot J. [Acute respiratory distress revealing antisynthetase syndrome]. Rev Med Liege.
-2018;73(7‐8):370‐375.
+;(‐):‐.
 Zhao J, Li K, Wohlford‐Lenane C, et al. Rapid generation of a mouse
 model for Middle East respiratory syndrome. Proc Natl Acad Sci USA.
-2014;111(13):4970‐4975.
+;():‐.
 Pascal KE, Coleman CM, Mujica AO, et al. Pre‐ and postexposure
 efficacy of fully human antibodies against Spike protein in a novel
 humanized mouse model of MERS‐CoV infection. Proc Natl Acad Sci
-USA. 2015;112(28):8738‐8743.
+USA. ;():‐.
 Channappanavar R, Fett C, Zhao J, Meyerholz DK, Perlman S. Virus‐
-specific memory CD8 T cells provide substantial protection from lethal severe acute respiratory syndrome coronavirus infection. J Virol.
-2014;88(19):11034‐11044.
+specific memory CD T cells provide substantial protection from lethal severe acute respiratory syndrome coronavirus infection. J Virol.
+;():‐.
 Ng OW, Chia A, Tan AT, et al. Memory T cell responses targeting the
-SARS coronavirus persist up to 11 years post‐infection. Vaccine. 2016;
-34(17):2008‐2014.
+SARS coronavirus persist up to  years post‐infection. Vaccine. ;
+():‐.
 Chen J, Lau YF, Lamirande EW, et al. Cellular immune responses to
 severe acute respiratory syndrome coronavirus (SARS‐CoV) infection
-in senescent BALB/c mice: CD4+ T cells are important in control of
-SARS‐CoV infection. J Virol. 2010;84(3):1289‐1301.
-Manni ML, Robinson KM, Alcorn JF. A tale of two cytokines: IL‐17 and
-IL‐22 in asthma and infection. Expert review of respiratory medicine.
-2014;8(1):25‐42.
-Bunte K, Beikler T. Th17 Cells and the IL‐23/IL‐17 axis in the pathogenesis of periodontitis and immune‐mediated inflammatory diseases. Int J Mol Sci. 2019;20(14):3394.
-Dutzan N, Abusleme L. T helper 17 cells as pathogenic drivers of
-periodontitis. Adv Exp Med Biol. 2019;1197:107‐117.
+in senescent BALB/c mice: CD+ T cells are important in control of
+SARS‐CoV infection. J Virol. ;():‐.
+Manni ML, Robinson KM, Alcorn JF. A tale of two cytokines: IL‐ and
+IL‐ in asthma and infection. Expert review of respiratory medicine.
+;():‐.
+Bunte K, Beikler T. Th Cells and the IL‐/IL‐ axis in the pathogenesis of periodontitis and immune‐mediated inflammatory diseases. Int J Mol Sci. ;():.
+Dutzan N, Abusleme L. T helper  cells as pathogenic drivers of
+periodontitis. Adv Exp Med Biol. ;:‐.
 
 LI
 
 ET AL.
 
-83. Yang Y, Xiong Z, Zhang S, et al. Bcl‐xL inhibits T‐cell apoptosis induced
+. Yang Y, Xiong Z, Zhang S, et al. Bcl‐xL inhibits T‐cell apoptosis induced
 by expression of SARS coronavirus E protein in the absence of growth
-factors. Biochem J. 2005;392(Pt 1):135‐143.
-84. Mubarak A, Alturaiki W, Hemida MG. Middle East respiratory
+factors. Biochem J. ;(Pt ):‐.
+. Mubarak A, Alturaiki W, Hemida MG. Middle East respiratory
 syndrome coronavirus (MERS‐CoV): infection, immunological
-response, and vaccine development. J Immunol Res. 2019;2019:
-6491738‐11.
-85. Ababneh M, Alrwashdeh M, Khalifeh M. Recombinant adenoviral
-vaccine encoding the spike 1 subunit of the Middle East Respiratory
+response, and vaccine development. J Immunol Res. ;:
+‐.
+. Ababneh M, Alrwashdeh M, Khalifeh M. Recombinant adenoviral
+vaccine encoding the spike  subunit of the Middle East Respiratory
 Syndrome Coronavirus elicits strong humoral and cellular immune
-responses in mice. Vet World. 2019;12(10):1554‐1562.
-86. Tuhin ali M, Morshed MM, Musa MA, et al. Computer aided prediction
+responses in mice. Vet World. ;():‐.
+. Tuhin ali M, Morshed MM, Musa MA, et al. Computer aided prediction
 and identification of potential epitopes in the receptor binding domain (RBD) of spike (S) glycoprotein of MERS‐CoV. Bioinformation.
-2014;10(8):533‐538.
-87. Niu P, Zhang S, Zhou P, et al. Ultrapotent human neutralizing antibody
+;():‐.
+. Niu P, Zhang S, Zhou P, et al. Ultrapotent human neutralizing antibody
 repertoires against Middle East Respiratory syndrome coronavirus from a
-recovered patient. J Infect Dis. 2018;218(8):1249‐1260.
-88. Chen Z, Bao L, Chen C, et al. Human neutralizing monoclonal antibody inhibition of Middle East Respiratory Syndrome coronavirus
-replication in the common marmoset. J Infect Dis. 2017;215(12):
-1807‐1815.
-89. Niu P, Zhao G, Deng Y, et al. A novel human mAb (MERS‐GD27)
-provides prophylactic and postexposure efficacy in MERS‐CoV susceptible mice. Science China Life sciences. 2018;61(10):1280‐1282.
-90. Baker S, Kessler E, Darville‐Bowleg L, Merchant M. Different mechanisms of serum complement activation in the plasma of common
+recovered patient. J Infect Dis. ;():‐.
+. Chen Z, Bao L, Chen C, et al. Human neutralizing monoclonal antibody inhibition of Middle East Respiratory Syndrome coronavirus
+replication in the common marmoset. J Infect Dis. ;():
+‐.
+. Niu P, Zhao G, Deng Y, et al. A novel human mAb (MERS‐GD)
+provides prophylactic and postexposure efficacy in MERS‐CoV susceptible mice. Science China Life sciences. ;():‐.
+. Baker S, Kessler E, Darville‐Bowleg L, Merchant M. Different mechanisms of serum complement activation in the plasma of common
 (Chelydra serpentina) and alligator (Macrochelys temminckii) snapping
-turtles. PLOS One. 2019;14(6):e0217626.
-91. Sun S, Zhao G, Liu C, et al. Inhibition of complement activation alleviates acute lung injury induced by highly pathogenic avian influenza H5N1 virus infection. Am J Respir Cell Mol Biol. 2013;49(2):
-221‐230.
-92. Gralinski LE, Sheahan TP, Morrison TE, et al. Complement activation
-contributes to severe acute respiratory syndrome coronavirus pathogenesis. mBio. 2018;9(5):e01753‐18.
-93. Ying T, Du L, Ju TW, et al. Exceptionally potent neutralization of
+turtles. PLOS One. ;():e.
+. Sun S, Zhao G, Liu C, et al. Inhibition of complement activation alleviates acute lung injury induced by highly pathogenic avian influenza HN virus infection. Am J Respir Cell Mol Biol. ;():
+‐.
+. Gralinski LE, Sheahan TP, Morrison TE, et al. Complement activation
+contributes to severe acute respiratory syndrome coronavirus pathogenesis. mBio. ;():e‐.
+. Ying T, Du L, Ju TW, et al. Exceptionally potent neutralization of
 Middle East respiratory syndrome coronavirus by human monoclonal
-antibodies. J Virol. 2014;88(14):7796‐7805.
-94. Houser KV, Gretebeck L, Ying T, et al. Prophylaxis with a Middle East
+antibodies. J Virol. ;():‐.
+. Houser KV, Gretebeck L, Ying T, et al. Prophylaxis with a Middle East
 Respiratory Syndrome Coronavirus (MERS‐CoV)‐specific human
 monoclonal antibody protects rabbits from MERS‐CoV Infection.
-J Infect Dis. 2016;213(10):1557‐1561.
-95. van Doremalen N, Falzarano D, Ying T, et al. Efficacy of antibody‐based
+J Infect Dis. ;():‐.
+. van Doremalen N, Falzarano D, Ying T, et al. Efficacy of antibody‐based
 therapies against Middle East respiratory syndrome coronavirus (MERS‐
-CoV) in common marmosets. Antiviral Res. 2017;143:30‐37.
-96. Coleman CM, Liu YV, Mu H, et al. Purified coronavirus spike protein
+CoV) in common marmosets. Antiviral Res. ;:‐.
+. Coleman CM, Liu YV, Mu H, et al. Purified coronavirus spike protein
 nanoparticles induce coronavirus neutralizing antibodies in mice.
-Vaccine. 2014;32(26):3169‐3174.
-97. Weingartl H, Czub M, Czub S, et al. Immunization with modified
+Vaccine. ;():‐.
+. Weingartl H, Czub M, Czub S, et al. Immunization with modified
 vaccinia virus Ankara‐based recombinant vaccine against severe
 acute respiratory syndrome is associated with enhanced hepatitis in
-ferrets. J Virol. 2004;78(22):12672‐12676.
-98. Chen W. Antibody response and viraemia during the course of severe
+ferrets. J Virol. ;():‐.
+. Chen W. Antibody response and viraemia during the course of severe
 acute respiratory syndrome (SARS)‐associated coronavirus infection.
-J Med Microbiol. 2004;53(Pt 5):435‐438.
+J Med Microbiol. ;(Pt ):‐.
 
 How to cite this article: Li G, Fan Y, Lai Y, et al. Coronavirus
-infections and immune responses. J Med Virol. 2020;92:
-424–432. https://doi.org/10.1002/jmv.25685
+infections and immune responses. J Med Virol. ;:
+–. https://doi.org/./jmv.
 
 

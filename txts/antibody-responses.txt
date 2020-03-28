@@ -1,44 +1,44 @@
-Antibody responses to SARS-CoV-2 in patients of novel coronavirus disease 2019
+Antibody responses to SARS-CoV- in patients of novel coronavirus disease 
 
-Juanjuan Zhao,1,* Quan Yuan,2,4,* Haiyan Wang,1,* Wei Liu,2,4,* Xuejiao Liao1,*, Yingying
-Su,2,4,* Xin Wang,1 Jing Yuan,3 Tingdong Li,2,4 Jinxiu Li,5 Shen Qian1, Congming Hong, 2,4
-Zhang,2,4 Yang Fu,7 Shengxiang Ge,2,4,† Lei Liu,1,6,†, Jun Zhang,2,4,† Ningshao Xia,2,4 Zheng
-Zhang1,6,†
+Juanjuan Zhao,,* Quan Yuan,,,* Haiyan Wang,,* Wei Liu,,,* Xuejiao Liao,*, Yingying
+Su,,,* Xin Wang, Jing Yuan, Tingdong Li,, Jinxiu Li, Shen Qian, Congming Hong, ,
+Zhang,, Yang Fu, Shengxiang Ge,,,† Lei Liu,,,†, Jun Zhang,,,† Ningshao Xia,, Zheng
+Zhang,,†
 
-1
+
 
 Institute of Hepatology, National Clinical Research Center for Infectious Disease, Shenzhen
 
-Third People’s Hospital, Shenzhen 518112, Guangdong Province, China
-2
+Third People’s Hospital, Shenzhen , Guangdong Province, China
+
 
 The State Key Laboratory of Molecular Vaccinology and Molecular Diagnostics, National
 
 Institute of Diagnostics and Vaccine Development in Infectious Diseases, Collaborative
 Innovation Center of Biologic Products, School of Public Health & School of Life Science,
-Xiamen University, Xiamen 361102, Fujian, China
-3
+Xiamen University, Xiamen , Fujian, China
 
-Department for Infectious Diseases, Shenzhen Third People’s Hospital, Shenzhen 518112,
 
-Guangdong Province, China
-4
-
-School of Public Health, Xiamen University, Xiamen 361102, Fujian, China
-
-5
-
-Department of Critical Care Medicine，Shenzhen Third People’s Hospital, Shenzhen 518112,
+Department for Infectious Diseases, Shenzhen Third People’s Hospital, Shenzhen ,
 
 Guangdong Province, China
-6
+
+
+School of Public Health, Xiamen University, Xiamen , Fujian, China
+
+
+
+Department of Critical Care Medicine，Shenzhen Third People’s Hospital, Shenzhen ,
+
+Guangdong Province, China
+
 
 The Second Affiliated Hospital, School of Medicine, Southern University of Science and
 
-Technology, Shenzhen 518112, Guangdong Province, China
-7
+Technology, Shenzhen , Guangdong Province, China
 
-School of Medicine, Southern University of Science and Technology, Shenzhen 518112,
+
+School of Medicine, Southern University of Science and Technology, Shenzhen ,
 
 Guangdong Province, China
 * Drs. Zhao, Yuan, Wang, Liu, Liao and Su contributed equally to this article.
@@ -47,170 +47,170 @@ Guangdong Province, China
 Joint corresponding authors
 
 Corresponding Authors:
-Prof. Zheng Zhang, PhD, MD. Institute of Hepatology, Shenzhen 3rd People’s Hospital,
-Shenzhen 518112, Guangdong Province, China; Phone: 86-755-81238983; Fax: 86-75581238983; Email: zhangzheng1975@aliyun.com.
-© The Author(s) 2020. Published by Oxford University Press for the Infectious Diseases Society of America. All rights
+Prof. Zheng Zhang, PhD, MD. Institute of Hepatology, Shenzhen rd People’s Hospital,
+Shenzhen , Guangdong Province, China; Phone: --; Fax: -; Email: zhangzheng@aliyun.com.
+© The Author(s) . Published by Oxford University Press for the Infectious Diseases Society of America. All rights
 reserved. For permissions, e-mail: journals.permissions@oup.com.
 
-Downloaded from https://academic.oup.com/cid/advance-article-abstract/doi/10.1093/cid/ciaa344/5812996 by guest on 28 March 2020
+Downloaded from https://academic.oup.com/cid/advance-article-abstract/doi/./cid/ciaa/ by guest on  March 
 
-Fuxiang Wang,3 Yingxia Liu,3,6 Zhaoqin Wang,6 Qing He,6 Zhiyong Li,4 Bin He,2,4 Tianying
+Fuxiang Wang, Yingxia Liu,, Zhaoqin Wang, Qing He, Zhiyong Li, Bin He,, Tianying
 
 Summary: Combining RNA and antibody detections significantly improved the sensitivity of
-Downloaded from https://academic.oup.com/cid/advance-article-abstract/doi/10.1093/cid/ciaa344/5812996 by guest on 28 March 2020
+Downloaded from https://academic.oup.com/cid/advance-article-abstract/doi/./cid/ciaa/ by guest on  March 
 
-pathogenic diagnosis for COVID-19 in the early phase of infection. A higher titer of Ab was
+pathogenic diagnosis for COVID- in the early phase of infection. A higher titer of Ab was
 independently associated with a worse clinical classification.
 
-2
+
 
 Abstract
 Background
-The novel coronavirus SARS-CoV-2 is a newly emerging virus. The antibody response in
+The novel coronavirus SARS-CoV- is a newly emerging virus. The antibody response in
 infected patient remains largely unknown, and the clinical values of antibody testing have not
 been fully demonstrated.
 
-A total of 173 patients with SARS-CoV-2 infection were enrolled. Their serial plasma
-samples (n=535) collected during the hospitalization were tested for total antibodies (Ab),
-IgM and IgG against SARS-CoV-2. The dynamics of antibodies with the disease progress
+A total of  patients with SARS-CoV- infection were enrolled. Their serial plasma
+samples (n=) collected during the hospitalization were tested for total antibodies (Ab),
+IgM and IgG against SARS-CoV-. The dynamics of antibodies with the disease progress
 was analyzed.
 Results
-Among 173 patients, the seroconversion rate for Ab, IgM and IgG was 93.1%, 82.7% and
-64.7%, respectively. The reason for the negative antibody findings in 12 patients might due
+Among  patients, the seroconversion rate for Ab, IgM and IgG was .%, .% and
+.%, respectively. The reason for the negative antibody findings in  patients might due
 to the lack of blood samples at the later stage of illness. The median seroconversion time for
-Ab, IgM and then IgG were day-11, day-12 and day-14, separately. The presence of
-antibodies was <40% among patients within 1-week since onset, and rapidly increased to
-100.0% (Ab), 94.3% (IgM) and 79.8% (IgG) since day-15 after onset. In contrast, RNA
-detectability decreased from 66.7% (58/87) in samples collected before day-7 to 45.5%
-(25/55) during day 15-39. Combining RNA and antibody detections significantly improved the
-sensitivity of pathogenic diagnosis for COVID-19 (p<0.001), even in early phase of 1-week
-since onset (p=0.007). Moreover, a higher titer of Ab was independently associated with a
-worse clinical classification (p=0.006).
+Ab, IgM and then IgG were day-, day- and day-, separately. The presence of
+antibodies was <% among patients within -week since onset, and rapidly increased to
+.% (Ab), .% (IgM) and .% (IgG) since day- after onset. In contrast, RNA
+detectability decreased from .% (/) in samples collected before day- to .%
+(/) during day -. Combining RNA and antibody detections significantly improved the
+sensitivity of pathogenic diagnosis for COVID- (p<.), even in early phase of -week
+since onset (p=.). Moreover, a higher titer of Ab was independently associated with a
+worse clinical classification (p=.).
 Conclusions
-The antibody detection offers vital clinical information during the course of SARS-CoV-2
+The antibody detection offers vital clinical information during the course of SARS-CoV-
 infection. The findings provide strong empirical support for the routine application of
-serological testing in the diagnosis and management of COVID-19 patients.
+serological testing in the diagnosis and management of COVID- patients.
 
-Keywords: antibody, SARS-CoV-2, COVID-19
+Keywords: antibody, SARS-CoV-, COVID-
 
-3
 
-Downloaded from https://academic.oup.com/cid/advance-article-abstract/doi/10.1093/cid/ciaa344/5812996 by guest on 28 March 2020
+
+Downloaded from https://academic.oup.com/cid/advance-article-abstract/doi/./cid/ciaa/ by guest on  March 
 
 Methods
 
 Introduction
-Since early December of 2019 and up to March 22, 2020, over 260,000 cases of coronavirus
-disease 2019 (COVID-19) caused by novel coronavirus (SARS-CoV-2) infection, with over
-11,000 deaths have been reported in 184 countries.1 The World Health Organization
+Since early December of  and up to March , , over , cases of coronavirus
+disease  (COVID-) caused by novel coronavirus (SARS-CoV-) infection, with over
+, deaths have been reported in  countries. The World Health Organization
 
-to recent reports, most of COVID-19 patients have an incubation period of 3 to 7 days.2
+to recent reports, most of COVID- patients have an incubation period of  to  days.
 Fever, cough and fatigue are the most common symptoms, whereas nasal congestion, runny
-and diarrhea are only noted in a small part of the patients.3 Severe cases might rapidly
+and diarrhea are only noted in a small part of the patients. Severe cases might rapidly
 progress to acute respiratory distress syndrome (ARDS), septic shock and difficult-to-tackle
-metabolic acidosis and bleeding and coagulation dysfunction.4 It should be noted that some
-of COVID-19 patients only had mild atypical symptoms initially, even for severe and critical
-cases.5 The chest computed tomography of COVID-19 patients were characterized by the
-ground-glass opacity and bilateral patchy shadowing.6 For laboratory test, it was reported
-that most of patients had lymphopenia and elevated C-reactive protein.7 However, the
+metabolic acidosis and bleeding and coagulation dysfunction. It should be noted that some
+of COVID- patients only had mild atypical symptoms initially, even for severe and critical
+cases. The chest computed tomography of COVID- patients were characterized by the
+ground-glass opacity and bilateral patchy shadowing. For laboratory test, it was reported
+that most of patients had lymphopenia and elevated C-reactive protein. However, the
 above-mentioned clinical and laboratory characteristics are not easily distinguishable from
 pneumonia induced by infection with other common respiratory tract pathogens.
-The timely and accurate diagnosis of the SARS-CoV-2 infection is the cornerstone of the
+The timely and accurate diagnosis of the SARS-CoV- infection is the cornerstone of the
 efforts to provide appropriated treatment for patients, to limit further spread of the virus and
 ultimately to eliminate the virus from human society. Currently, PCR-based viral RNA
-detection is almost the only way to confirm the diagnosis of SARS-CoV-2 infection in
+detection is almost the only way to confirm the diagnosis of SARS-CoV- infection in
 practice. On the other hand, RNA testing based on throat or nasopharyngeal swabs brought
-out negligible false-negative risk.8 The reported positive rate varied for different swab
-specimens in COVID-19 patients. 3,9 Many cases that were strongly epidemiologically linked
-to SARS-CoV-2 exposure and with typical lung radiological findings remained RNA negative
+out negligible false-negative risk. The reported positive rate varied for different swab
+specimens in COVID- patients. , Many cases that were strongly epidemiologically linked
+to SARS-CoV- exposure and with typical lung radiological findings remained RNA negative
 in their upper respiratory tract samples. The performance of RT-PCR depends on many
-factors such as the sample types9, different stage of infection in patients,10 the skill of sample
+factors such as the sample types, different stage of infection in patients, the skill of sample
 collection, and the quality and consistency of the PCR assays being used. These problems
 
-4
 
-Downloaded from https://academic.oup.com/cid/advance-article-abstract/doi/10.1093/cid/ciaa344/5812996 by guest on 28 March 2020
 
-declared that COVID-19 can be characterized as a pandemic on March 11, 2020. According
+Downloaded from https://academic.oup.com/cid/advance-article-abstract/doi/./cid/ciaa/ by guest on  March 
+
+declared that COVID- can be characterized as a pandemic on March , . According
 
 lead to a noteworthy delay of early diagnosis and following management and propose
 serious challenge to providing timely life support treatment and preventive quarantine.
 Comparing to PCR, serological testing is advantageous with faster turn-around time, highthroughput and less workload. However, the clinical value of antibodies largely depends on
 
-newly emerging virus, the antibody response in COVID-19 patients remains largely
+newly emerging virus, the antibody response in COVID- patients remains largely
 unknown. This study investigates the dynamics of total antibody (Ab), IgM and IgG antibody
-against SARS-CoV-2 in serial blood samples collected from 173 confirmed COVID-19
+against SARS-CoV- in serial blood samples collected from  confirmed COVID-
 patients and provides discussion on the clinical value of antibody testing.
 Methods
 Patients
-A confirmed COVID-19 case and the clinical classification was defined based on the New
-Coronavirus Pneumonia Prevention and Control Program (4th edition) published by the
+A confirmed COVID- case and the clinical classification was defined based on the New
+Coronavirus Pneumonia Prevention and Control Program (th edition) published by the
 National Health Commission of China. Briefly, patient with acute respiratory infection
-syndromes and/or abnormalities in chest CT images accompanied by detectable SARSCoV-2 RNA in respiratory sample since illness onset for at least one time was confirmed as
-COVID-19 case. Patients were classified as in critical illness condition with ARDS or oxygen
-saturation <93% who required mechanical ventilation either invasively or non-invasively.
-This study enrolls a total of 173 cases of COVID-19, where all patients were admitted to the
-Shenzhen Third People’s Hospital between Jan 11 and Feb 9, 2020, and were willing to
-donate their blood samples. All enrolled cases were confirmed to be infected with SARSCoV-2 by use of real-time RT-PCR (rRT-PCR) on samples from the respiratory tract. For all
+syndromes and/or abnormalities in chest CT images accompanied by detectable SARSCoV- RNA in respiratory sample since illness onset for at least one time was confirmed as
+COVID- case. Patients were classified as in critical illness condition with ARDS or oxygen
+saturation <% who required mechanical ventilation either invasively or non-invasively.
+This study enrolls a total of  cases of COVID-, where all patients were admitted to the
+Shenzhen Third People’s Hospital between Jan  and Feb , , and were willing to
+donate their blood samples. All enrolled cases were confirmed to be infected with SARSCoV- by use of real-time RT-PCR (rRT-PCR) on samples from the respiratory tract. For all
 enrolled patients, the date of illness onset, clinical classification, RNA testing results during
 the hospitalization period, and the personal demographic information were obtained from the
 clinical records. This study was reviewed and approved by the Medical Ethical Committee of
 
-5
 
-Downloaded from https://academic.oup.com/cid/advance-article-abstract/doi/10.1093/cid/ciaa344/5812996 by guest on 28 March 2020
 
-the understanding of host antibody responses during infection. Given that SARS-CoV-2 is a
+Downloaded from https://academic.oup.com/cid/advance-article-abstract/doi/./cid/ciaa/ by guest on  March 
 
-Shenzhen Third People’s Hospital (2020-0018). Written informed consent was obtained from
+the understanding of host antibody responses during infection. Given that SARS-CoV- is a
+
+Shenzhen Third People’s Hospital (-). Written informed consent was obtained from
 each enrolled patient.
 Antibody measurement
-The Ab, IgM antibody and IgG antibody against SARS-CoV-2 in plasma samples were
+The Ab, IgM antibody and IgG antibody against SARS-CoV- in plasma samples were
 
 Biological Pharmacy Enterprise Co.,Ltd, according to the manufacturer’s instructions. Briefly,
 the ELISA for total antibodies detection was developed based on double-antigens sandwich
 immunoassay (Ab-ELISA), using mammalian cell expressed recombinant antigens contained
-the receptor binding domain (RBD) of the spike protein of SARS-CoV-2 as the immobilized
+the receptor binding domain (RBD) of the spike protein of SARS-CoV- as the immobilized
 and HRP-conjugated antigen. The IgM μ-chain capture method (IgM-ELISA) was used to
 detect the IgM antibodies, using the same HRP-conjugate RBD antigen as the Ab-ELISA.
 The IgG antibodies were tested using indirect ELISA kit (IgG-ELISA) based on a
 recombinant nucleoprotein. The specificity of the assays for Ab, IgM and IgG was
-determined as 99.1% (211/213), 98.6% (210/213) and 99.0% (195/197) by testing of
-samples collected from healthy individuals before the outbreak of SARS-CoV-2.
+determined as .% (/), .% (/) and .% (/) by testing of
+samples collected from healthy individuals before the outbreak of SARS-CoV-.
 Statistical analysis
 For continue variables description, mean with standard deviation was used for normal
 distribution data and median with interquartile range (IQR) was used for non-normal
 distribution data. Cumulative seroconversion rates were calculated by Kaplan-Meier method.
 The association between antibody level and severity of illness were estimated by
 generalized estimating equations (GEE) model with logit link function. All statistical analysis
-was conducted by SAS 9.4 (SAS Institute, Cary, NC, USA).
+was conducted by SAS . (SAS Institute, Cary, NC, USA).
 
-6
 
-Downloaded from https://academic.oup.com/cid/advance-article-abstract/doi/10.1093/cid/ciaa344/5812996 by guest on 28 March 2020
+
+Downloaded from https://academic.oup.com/cid/advance-article-abstract/doi/./cid/ciaa/ by guest on  March 
 
 tested using enzyme linked immunosorbent assay (ELISA) kits supplied by Beijing Wantai
 
 Results
 The characterization of patients
-Among totally 368 COVID-19 patients admitted in the hospital (before Feb 9, 2020), 173 of
-them (47%) were enrolled in the study (Table 1). The median age of the studied patients was
+Among totally  COVID- patients admitted in the hospital (before Feb , ),  of
+them (%) were enrolled in the study (Table ). The median age of the studied patients was
 
-epidemiological travel/residence history in Wuhan. Among them, 32 (18.5%) were in critical
-illness condition. By February 19, a total of 62 patients (35.8%) were recovered and
-discharged from hospital and 2 (1.1%) patients died with underlying chronic disease.
-Seroconversion of antibodies against SARS-CoV-2 in COVID-19 patients
-A total of 535 plasma samples collected during the hospitalization period of the 173 patients
-were tested for antibodies against SARS-CoV-2. The seroconversion rate for Ab, IgM and
-IgG was 93.1% (161/173), 82.7% (143/173) and 64.7% (112/173), respectively (Table 1).
+epidemiological travel/residence history in Wuhan. Among them,  (.%) were in critical
+illness condition. By February , a total of  patients (.%) were recovered and
+discharged from hospital and  (.%) patients died with underlying chronic disease.
+Seroconversion of antibodies against SARS-CoV- in COVID- patients
+A total of  plasma samples collected during the hospitalization period of the  patients
+were tested for antibodies against SARS-CoV-. The seroconversion rate for Ab, IgM and
+IgG was .% (/), .% (/) and .% (/), respectively (Table ).
 Twelve patients who remained seronegative for Ab testing possibly due to that their samples
-involved were all collected at the early stage of illness (10 earlier than day-10, the other two
-on day-11 and-13 after onset). The cumulative seroconversion curve showed that the rate
-for Ab and IgM reached 100% around 1-month after onset. The seroconversion was
-sequential appeared for Ab, IgM and then IgG (Figure 1A). The median time to Ab, IgM and
-IgG seroconversion was 11-, 12- and 14-day, separately. One of two patients tested on the
+involved were all collected at the early stage of illness ( earlier than day-, the other two
+on day- and- after onset). The cumulative seroconversion curve showed that the rate
+for Ab and IgM reached % around -month after onset. The seroconversion was
+sequential appeared for Ab, IgM and then IgG (Figure A). The median time to Ab, IgM and
+IgG seroconversion was -, - and -day, separately. One of two patients tested on the
 onset day was seropositive. Overall, the seroconversion of Ab was significantly quicker than
-that of IgM (p = 0.012) and IgG (p<0.001), that possibly attributed to the double-antigen
+that of IgM (p = .) and IgG (p<.), that possibly attributed to the double-antigen
 sandwich form of the assay used which usually show much higher sensitivity than capture
 assay (IgM) and indirect assay (IgG). Moreover, all isotypes of viral specific antibodies,
 including IgM, IgA and IgG, can be detected by double-sandwich assay, which may also
@@ -218,127 +218,127 @@ contribute to the superior performance of Ab test. In comparisons of seroconvers
 antibodies between critical and non-critical patients, none of the three markers showed
 significant difference (data not shown).
 
-7
 
-Downloaded from https://academic.oup.com/cid/advance-article-abstract/doi/10.1093/cid/ciaa344/5812996 by guest on 28 March 2020
 
-48 years (IQR, 35-61) and 51.4% were females. There were 116 (67%) patients had clear
+Downloaded from https://academic.oup.com/cid/advance-article-abstract/doi/./cid/ciaa/ by guest on  March 
+
+ years (IQR, -) and .% were females. There were  (%) patients had clear
 
 The diagnosis value of antibody assays for patients in different time after onset
-In the early phase of illness within 7-day since onset, the RNA test had the highest sensitivity
-of 66.7%, whereas the antibody assays only presented a positive rate of 38.3% (Table 2).
-However, the sensitivity of Ab overtook that of RNA test since day 8 after onset and reached
+In the early phase of illness within -day since onset, the RNA test had the highest sensitivity
+of .%, whereas the antibody assays only presented a positive rate of .% (Table ).
+However, the sensitivity of Ab overtook that of RNA test since day  after onset and reached
 
-after onset, the sensitivities of Ab (89.6%), IgM (73.3%) and IgG (54.1%) were all higher
-than that of RNA test (54.0%, Table 2). Among samples from patients in later phase (day 1539 since onset), the sensitivities of Ab, IgM and IgG were 100.0%, 94.3% and 79.8%,
-respectively. In contrast, RNA was only detectable in 45.5% of samples of day 15-39.
+after onset, the sensitivities of Ab (.%), IgM (.%) and IgG (.%) were all higher
+than that of RNA test (.%, Table ). Among samples from patients in later phase (day  since onset), the sensitivities of Ab, IgM and IgG were .%, .% and .%,
+respectively. In contrast, RNA was only detectable in .% of samples of day -.
 Further analyses demonstrated that in patients with undetectable RNA in their respiratory
-tract samples collected during day 1-3, day 4-7, day 8-14 and day 15-39 since onset, there
-were 28.6% (2/7), 53.6% (15/28), 98.2% (56/57) and 100% (30/30) had detectable antibody
-in total Ab assay, respectively (Table S1). Whatever, combined use of the tests of RNA and
-Ab improved markedly the sensitivities of pathogenic-diagnosis for COVID-19 patients in
-different phases (Table 2).
+tract samples collected during day -, day -, day - and day - since onset, there
+were .% (/), .% (/), .% (/) and % (/) had detectable antibody
+in total Ab assay, respectively (Table S). Whatever, combined use of the tests of RNA and
+Ab improved markedly the sensitivities of pathogenic-diagnosis for COVID- patients in
+different phases (Table ).
 The dynamics of antibody levels with the progress and severity of disease
 To investigate the dynamics of antibody level according disease course, the antibody levels
 were expressed using the relative binding signals compared to the cutoff value of each
-assay (S/CO). The longitudinal changes of antibody and RNA in 9 representative patients,
-including 6 in non-critical group (Figure 2A) and 3 in critical group (Figure 2B), were
-presented in Figure 3. The first positive time point of RNA tests appeared earlier than that of
-Ab in 7 of 9 patients, except for the case 185 (Ab was detectable 2 days earlier than RNA)
-and the case 111 (at the same day). It should be noted that the risings of antibodies were
-not always accompanied by RNA clearance, particularly in the 3 critical patients. This finding
+assay (S/CO). The longitudinal changes of antibody and RNA in  representative patients,
+including  in non-critical group (Figure A) and  in critical group (Figure B), were
+presented in Figure . The first positive time point of RNA tests appeared earlier than that of
+Ab in  of  patients, except for the case  (Ab was detectable  days earlier than RNA)
+and the case  (at the same day). It should be noted that the risings of antibodies were
+not always accompanied by RNA clearance, particularly in the  critical patients. This finding
 suggested that antibodies may not be sufficient to clear the virus. In the pooled analyses on
-all involved patients, the average antibody levels showed a marked increase since about 1-
+all involved patients, the average antibody levels showed a marked increase since about -
 
-8
 
-Downloaded from https://academic.oup.com/cid/advance-article-abstract/doi/10.1093/cid/ciaa344/5812996 by guest on 28 March 2020
 
-over 90% across day 12 after onset (Figure 1B). In samples from patients during day 8-14
+Downloaded from https://academic.oup.com/cid/advance-article-abstract/doi/./cid/ciaa/ by guest on  March 
 
-week after onset and continuously elevated during the next 2 weeks (Figure 3A). Further
+over % across day  after onset (Figure B). In samples from patients during day -
+
+week after onset and continuously elevated during the next  weeks (Figure A). Further
 analyses suggested that there was no significant difference on the average S/CO value of
-Ab tests between critical and non-critical patients before day 12 after onset (Figure 3B).
+Ab tests between critical and non-critical patients before day  after onset (Figure B).
 However, critical patients showed significantly higher Ab S/CO values than non-critical cases
 
 IgG tests (data not shown). For further exploration, we determined the relative Ab titer of
 these samples (expressed as relative optical density, rOD) by serial dilution measurements
 of each sample. The quantitative data of Ab titers also revealed a significant difference
-(p=0.004) between patients in critical and non-critical groups (Figure 3C). Multivariate
-longitudinal GEE analyses suggested that age (β=0.139, p <0.001), gender (β=1.415,
-p=0.006) and Ab titer (β=0.336, p=0.006) were the independent factors strongly associated
-with the clinical classification based on the severity (Table S2).
+(p=.) between patients in critical and non-critical groups (Figure C). Multivariate
+longitudinal GEE analyses suggested that age (β=., p <.), gender (β=.,
+p=.) and Ab titer (β=., p=.) were the independent factors strongly associated
+with the clinical classification based on the severity (Table S).
 Discussion
 The present data demonstrated that typical antibody responses to acute viral infection are
-wildly induced in COVID-19 patients. To be expected, the total antibody was first detected,
+wildly induced in COVID- patients. To be expected, the total antibody was first detected,
 followed by IgM and IgG. The seroconversion rate and the antibody levels increased rapidly
-during the first two weeks, the cumulative seropositive rate reached 50% on the 11th-day and
-100% on the 39th-day. The seroconversion time of Ab, IgM and IgG antibodies appeared
-consequently (p<0.05) with a median seroconversion day of 11, 12 and 14, respectively.
+during the first two weeks, the cumulative seropositive rate reached % on the th-day and
+% on the th-day. The seroconversion time of Ab, IgM and IgG antibodies appeared
+consequently (p<.) with a median seroconversion day of ,  and , respectively.
 Due to the lack of blood samples collected from patients in the later stage of illness, how
 long the antibodies could last remain unknown. Our results demonstrated an excellent
-sensitivity of Ab test in detections of patient’s samples since 1-week after onset. Notably,
-even in the early stages of the illness within 1-week, some patients with undetectable RNA
+sensitivity of Ab test in detections of patient’s samples since -week after onset. Notably,
+even in the early stages of the illness within -week, some patients with undetectable RNA
 could be screened out through Ab testing. Combining RNA and antibody tests significantly
-raised the sensitivity for detecting patients (p<0.001). These findings indicate that serological
+raised the sensitivity for detecting patients (p<.). These findings indicate that serological
 test be an important supplement to RNA detection during the illness course.
 
-9
 
-Downloaded from https://academic.oup.com/cid/advance-article-abstract/doi/10.1093/cid/ciaa344/5812996 by guest on 28 March 2020
 
-in about 2-week after onset (p=0.02) and this association was not significant in either IgM or
+Downloaded from https://academic.oup.com/cid/advance-article-abstract/doi/./cid/ciaa/ by guest on  March 
 
-Up to date, the confirm diagnosis of SARS-CoV-2 infection entirely depend on the viral RNA
+in about -week after onset (p=.) and this association was not significant in either IgM or
+
+Up to date, the confirm diagnosis of SARS-CoV- infection entirely depend on the viral RNA
 testing. Even though with high analytical sensitivity, the real-world performance of RNA test
 is unsatisfied. Many suspected patients had to be tested for several days with multiple
 samples before confirm diagnosis were made, and during the waiting time they might have
 
-problems make the timely diagnosis of SARS-CoV-2 infection one of the bottlenecks for
+problems make the timely diagnosis of SARS-CoV- infection one of the bottlenecks for
 adapting relevant actions to limit the damage of current outbreak. Our study provided robust
-evidences that: 1) the acute antibody response in SARS-CoV-2 infection patient is very
-similar to many other acute viral infections; 2) the serological testing can be a powerful
-approach in achieving timely diagnosis; and 3) the total antibody is more sensitive than IgM
-and IgG for detecting SARS-CoV-2 infection.
-Thus, the antibody testing might play vital roles in the following settings: 1) for the suspected
+evidences that: ) the acute antibody response in SARS-CoV- infection patient is very
+similar to many other acute viral infections; ) the serological testing can be a powerful
+approach in achieving timely diagnosis; and ) the total antibody is more sensitive than IgM
+and IgG for detecting SARS-CoV- infection.
+Thus, the antibody testing might play vital roles in the following settings: ) for the suspected
 patients under the initial visit or clinically diagnosed patients has not been confirmed by RNA
-testing, the positive result of antibody increases the confidence to make a COVID-19
-diagnosis; 2) for healthy close contact who is in the quarantine period, he/she should be
+testing, the positive result of antibody increases the confidence to make a COVID-
+diagnosis; ) for healthy close contact who is in the quarantine period, he/she should be
 deemed as a probable carriers if antibody positive, then the RNA should be tested more
-frequently and the close contacts of him/her should be observed; 3) for the RNA confirmed
+frequently and the close contacts of him/her should be observed; ) for the RNA confirmed
 patient, seropositive indicates that the specific antibodies had been induced. Besides,
 epidemiological studies could be conducted using immunoassays. Additional, it can play an
-important role in searching potential animal hosts for SARS-CoV-2 using Ab-ELISA because
+important role in searching potential animal hosts for SARS-CoV- using Ab-ELISA because
 the double-sandwich method makes it free from species restriction. It has been less than
-three months since the SARS-CoV-2 first invaded humans, and the prevalence of antibody
-against SARS-CoV-2 is nearly zero. Therefore, at least during the current outbreak which is
-likely to continue to May or June 2020, seropositive individuals could be a probably
+three months since the SARS-CoV- first invaded humans, and the prevalence of antibody
+against SARS-CoV- is nearly zero. Therefore, at least during the current outbreak which is
+likely to continue to May or June , seropositive individuals could be a probably
 preceding infector. During this short-period, the total antibody could be considered as a
 recent infection marker similar as IgM. As the higher sensitivity than IgM and IgG, the Ab
 detection should be given high priority to be implemented in current clinical and public health
 
-10
 
-Downloaded from https://academic.oup.com/cid/advance-article-abstract/doi/10.1093/cid/ciaa344/5812996 by guest on 28 March 2020
 
-not enough priority to receive relevant treatments and quarantine managements.3 These
+Downloaded from https://academic.oup.com/cid/advance-article-abstract/doi/./cid/ciaa/ by guest on  March 
 
-practice. If, unfortunately, SARS-CoV-2 become a common respiratory transmission
+not enough priority to receive relevant treatments and quarantine managements. These
+
+practice. If, unfortunately, SARS-CoV- become a common respiratory transmission
 pathogen lasting in humans, like influenzas or other less-pathogenic coronaviruses, rather
-than be completely eradicated as SARS-CoV-1, the serological diagnosis of acute SARSCoV-2 infection will more depend on the detection of IgM in post-epidemic areas in the
+than be completely eradicated as SARS-CoV-, the serological diagnosis of acute SARSCoV- infection will more depend on the detection of IgM in post-epidemic areas in the
 
-epidemiology of SARS-CoV-2 infection and to assist in determining the level of humoral
+epidemiology of SARS-CoV- infection and to assist in determining the level of humoral
 immunity in patients. Even then, the Ab will be a more sensitive marker for sentinel
 monitoring of imported cases in naive community.
 In addition to the diagnosis value, our study revealed a strong positive correlation between
-clinical severity and Ab titer since 2-week after illness onset, for the first time in COVID-19
+clinical severity and Ab titer since -week after illness onset, for the first time in COVID-
 patients. The results suggested that a high Ab titer may be considered as a risk factor of
-critical illness, independently from older age, male gender and comorbidities (Table S2).
+critical illness, independently from older age, male gender and comorbidities (Table S).
 Although it was still unclear how the causal relation between hormonal response and illness
 severity, the results raise a possible usage of the high Ab titer as a surrogate marker for
-worse clinical prognosis. Furthermore, it might be an evidence for the possibility of antibodydependent disease enhancement effects, which was commonly found in SARS-CoV-1
-patients.11-13 Whatsoever, our finding suggested that the clinical meanings of the level of
-antibody against SARS-CoV-2 during the acute phase of infection warrant further study.
+worse clinical prognosis. Furthermore, it might be an evidence for the possibility of antibodydependent disease enhancement effects, which was commonly found in SARS-CoV-
+patients.- Whatsoever, our finding suggested that the clinical meanings of the level of
+antibody against SARS-CoV- during the acute phase of infection warrant further study.
 It should be noted that there were some limitations of this study. First, for most of RNA tests
 of the patients were based on upper respiratory tract specimens, the positive rate may be
 higher in detection using lower respiratory tract specimens, such as bronchoalveolar lavage
@@ -348,9 +348,9 @@ respiratory samples. Untypical patients with lower respiratory viral load might 
 Besides, the performance of RT-PCR depends on many factors such as the quality and
 consistency of the PCR assays being used, the skill of sample collection, and the sample
 types. Also, RT-PCR cannot distinguish the viable replicating virus and simply residual RNA,
-11
 
-Downloaded from https://academic.oup.com/cid/advance-article-abstract/doi/10.1093/cid/ciaa344/5812996 by guest on 28 March 2020
+
+Downloaded from https://academic.oup.com/cid/advance-article-abstract/doi/./cid/ciaa/ by guest on  March 
 
 subsequent epidemic seasons. The Ab and IgG could be used to understand the
 
@@ -360,11 +360,11 @@ shown good specificity in healthy people, the cross-reactivity of the assay to o
 coronaviruses should be further assessed.
 
 addition to RNA tests. These findings provide strong evidence for the routine application of
-serological antibody assays in the diagnosis and clinical management of COVID-19 patients.
+serological antibody assays in the diagnosis and clinical management of COVID- patients.
 
-12
 
-Downloaded from https://academic.oup.com/cid/advance-article-abstract/doi/10.1093/cid/ciaa344/5812996 by guest on 28 March 2020
+
+Downloaded from https://academic.oup.com/cid/advance-article-abstract/doi/./cid/ciaa/ by guest on  March 
 
 In conclusion, the findings demonstrate that antibody tests have important diagnosis value in
 
@@ -373,7 +373,7 @@ In conclusion, the findings demonstrate that antibody tests have important diagn
 Acknowledgements: We acknowledge the work and contribution of all the health providers
 from Shenzhen Third People's Hospital. We sincerely thanked the Shan Qiao, Xue-Rong Jia,
 Dong Wang and Bao-Liang Jia from Beijing Wantai Biological Pharmacy Company for their
-Downloaded from https://academic.oup.com/cid/advance-article-abstract/doi/10.1093/cid/ciaa344/5812996 by guest on 28 March 2020
+Downloaded from https://academic.oup.com/cid/advance-article-abstract/doi/./cid/ciaa/ by guest on  March 
 
 helpful technical assistance.
 
@@ -381,192 +381,192 @@ Funding: This work was supported by Bill & Melinda Gates Foundation.
 
 Conflict of interests: We declare no competing interests.
 
-13
+
 
 References
-1 WHO. Coronavirus disease (COVID-2019) situation reports. Feb 21, 2020.
-https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports
-(accessed Feb 21, 2020).
-2 Guan WJ, Ni ZY, Hu Y, et al. Clinical characteristics of 2019 novel coronavirus infection in
+ WHO. Coronavirus disease (COVID-) situation reports. Feb , .
+https://www.who.int/emergencies/diseases/novel-coronavirus-/situation-reports
+(accessed Feb , ).
+ Guan WJ, Ni ZY, Hu Y, et al. Clinical characteristics of  novel coronavirus infection in
 
-3 Wang M, Wu Q, Xu WZ, et al. Clinical diagnosis of 8274 samples with 2019-novel
-coronavirus in Wuhan. medRxiv 2020; published online Feb 18.
-DOI:10.1101/2020.02.12.20022327.
-4 Chen NS, Zhou M, Dong X, et al. Epidemiological and clinical characteristics of 99 cases
-of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet 2020.
-published online Jan 29. https://doi.org/10.1016/ S0140-6736(20)30211-7.
-5 Huang CL, Wang YM, Li XW, et al. Clinical features of patients infected with 2019 novel
-coronavirus in Wuhan, China. Lancet 2020. published online Jan 24.
-https://doi.org/10.1016/ S0140-6736(20)30183-5.
-6 Wang DW, Hu B, Hu C, et al. Clinical Characteristics of 138 Hospitalized Patients With
-2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. JAMA 2020. published
-online Feb 7. https://doi.org/ 10.1001/jama.2020.1585.
-7 Wan SX, Yi QJ, Fan SB, et al. Characteristics of lymphocyte subsets and cytokines in
-peripheral blood of 123 hospitalized patients with 2019 novel coronavirus pneumonia
-(NCP). medRxiv 2020; published online Feb 12. DOI: 10.1101/2020.02.10.20021832.
-8 Yang Y, Yang M-, Shen CG, et al. Evaluating the accuracy of different respiratory
-specimens in the laboratory diagnosis and monitoring the viral shedding of 2019-nCoV
-infections. medRxiv 2020; published online Feb 17. DOI: 10.1101/2020.02.11.20021493.
-9 Chan JF, Yuan SF, Kok KH, et al. A familial cluster of pneumonia associated with the
-2019 novel coronavirus indicating person-to-person transmission: a study of a family
-cluster. Lancet 2020; published online Jan 24. https://doi.org/10.1016/S01406736(20)30154-9.
-10 Zou LR, Ruan F, Huang MX, et al. SARS-CoV-2 viral load in upper respiratory
-specimens of infected patients. N Engl J Med 2020; published online Feb 19.
-https://doi.org/ 10.1056/NEJMc2001737.
+ Wang M, Wu Q, Xu WZ, et al. Clinical diagnosis of  samples with -novel
+coronavirus in Wuhan. medRxiv ; published online Feb .
+DOI:./....
+ Chen NS, Zhou M, Dong X, et al. Epidemiological and clinical characteristics of  cases
+of  novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet .
+published online Jan . https://doi.org/./ S-()-.
+ Huang CL, Wang YM, Li XW, et al. Clinical features of patients infected with  novel
+coronavirus in Wuhan, China. Lancet . published online Jan .
+https://doi.org/./ S-()-.
+ Wang DW, Hu B, Hu C, et al. Clinical Characteristics of  Hospitalized Patients With
+ Novel Coronavirus-Infected Pneumonia in Wuhan, China. JAMA . published
+online Feb . https://doi.org/ ./jama...
+ Wan SX, Yi QJ, Fan SB, et al. Characteristics of lymphocyte subsets and cytokines in
+peripheral blood of  hospitalized patients with  novel coronavirus pneumonia
+(NCP). medRxiv ; published online Feb . DOI: ./....
+ Yang Y, Yang M-, Shen CG, et al. Evaluating the accuracy of different respiratory
+specimens in the laboratory diagnosis and monitoring the viral shedding of -nCoV
+infections. medRxiv ; published online Feb . DOI: ./....
+ Chan JF, Yuan SF, Kok KH, et al. A familial cluster of pneumonia associated with the
+ novel coronavirus indicating person-to-person transmission: a study of a family
+cluster. Lancet ; published online Jan . https://doi.org/./S()-.
+ Zou LR, Ruan F, Huang MX, et al. SARS-CoV- viral load in upper respiratory
+specimens of infected patients. N Engl J Med ; published online Feb .
+https://doi.org/ ./NEJMc.
 
-14
 
-Downloaded from https://academic.oup.com/cid/advance-article-abstract/doi/10.1093/cid/ciaa344/5812996 by guest on 28 March 2020
 
-China. N Engl J Med. DOI: 10.1056/NEJMoa2002032
+Downloaded from https://academic.oup.com/cid/advance-article-abstract/doi/./cid/ciaa/ by guest on  March 
 
-11 Peiris JS, Chu CM, Cheng VC et al. Clinical progression and viral load in a community
-outbreak of coronavirus-associated SARS pneumonia: a prospective study. Lancet. 2003;
-361:1767-1772.
-12 Liu L, Wei Q, Lin Q, et al. Anti-spike IgG causes severe acute lung injury by skewing
-macrophage responses during acute SARS-CoV infection. JCI Insight. 2019; 4:e123158.
-Downloaded from https://academic.oup.com/cid/advance-article-abstract/doi/10.1093/cid/ciaa344/5812996 by guest on 28 March 2020
+China. N Engl J Med. DOI: ./NEJMoa
 
-15
+ Peiris JS, Chu CM, Cheng VC et al. Clinical progression and viral load in a community
+outbreak of coronavirus-associated SARS pneumonia: a prospective study. Lancet. ;
+:-.
+ Liu L, Wei Q, Lin Q, et al. Anti-spike IgG causes severe acute lung injury by skewing
+macrophage responses during acute SARS-CoV infection. JCI Insight. ; :e.
+Downloaded from https://academic.oup.com/cid/advance-article-abstract/doi/./cid/ciaa/ by guest on  March 
 
-Table 1. Demographics and clinical characteristics of patients and sample cohort with
-COVID-19 in this study.
+
+
+Table . Demographics and clinical characteristics of patients and sample cohort with
+COVID- in this study.
 Total
 
 Non-critical
 
 Critical
 
-173
 
-141
 
-32
+
+
+
 
 Male
 
-84 (49)
+ ()
 
-63 (45)
+ ()
 
-21 (66)
+ ()
 
 Female
 
-89 (51)
+ ()
 
-78 (55)
+ ()
 
-11 (34)
+ ()
 
-48 (35-61)
+ (-)
 
-41 (33-56)
+ (-)
 
-64 (58-66)
+ (-)
 
 Been to Wuhan
 
-116 (67)
+ ()
 
-92 (65)
+ ()
 
-24 (75)
+ ()
 
 Unclear or others
 
-57 (33)
+ ()
 
-49 (35)
+ ()
 
-8 (25)
+ ()
 
-41 (24)
+ ()
 
-26 (18)
+ ()
 
-15 (47)
+ ()
 
 Recovery
 
-62 (36)
+ ()
 
-54 (38)
+ ()
 
-8 (25)
+ ()
 
 Still in hospital
 
-109 (63)
+ ()
 
-89 (62)
+ ()
 
-22 (69)
+ ()
 
-2 (1.2)
+ (.)
 
-0
 
-2 (6.3)
 
-4 (3-6)
+ (.)
 
-4 (3-6)
+ (-)
 
-6 (4-10)
+ (-)
 
-7 (5-10)
+ (-)
 
-7 (5-9)
+ (-)
 
-10 (6-16)
+ (-)
+
+ (-)
 
 positive, n(%)
 
-89 (51)
+ ()
 
-73 (52)
+ ()
 
-16 (50)
+ ()
 
 negative, n(%)
 
-65 (38)
+ ()
 
-55 (39)
+ ()
 
-10 (31)
+ ()
 
 no data, n(%)
 
-19 (11)
+ ()
 
-13 (9.2)
+ (.)
 
-6 (19)
+ ()
 
-29 (25-31)
+ (-)
 
-29 (24-32)
+ (-)
 
-29 (28-31)
+ (-)
 
-3 (2-4)
+ (-)
 
-3 (2-4)
+ (-)
 
-4 (3-5)
+ (-)
 
-535
 
-404
 
-131
+
+
+
 
 Number
 Gender, n(%)
 
-Epidemiological exposure (1 month)
+Epidemiological exposure ( month)
 
 Comorbidities, n(%)*
 Clinical outcome, n(%)
@@ -574,9 +574,9 @@ Clinical outcome, n(%)
 Death
 RNA confirmed time since onset, days,
 median(IQR) †
-Days since onset of 1st sample for antibody
+Days since onset of st sample for antibody
 test, median(IQR) ‡
-RNA (TS/NS) at the involved 1st sample
+RNA (TS/NS) at the involved st sample
 
 rRT-PCR CT, median(IQR)
 No. of antibody tested samples
@@ -584,17 +584,17 @@ Of each case, median(IQR)
 Total
 
 Data are presented as medians (interquartile ranges, IQR) and n(%). TS, throat swabs; NS,
-nasal swabs. * The comorbidities included hypertension (n=20), diabetes (n=11), coronary
-heart disease (n=3), chronic hepatitis B infection (n=5), tumors (n=2), obstructive sleep
-apnea syndrome (n=1), chronic bronchitis (n=1), hyperlipidemia (n=1), renal insufficiency
-(n=1), tuberculosis (cured, n=1) and fatty liver disease (n=1). † The data indicated the time of
-confirmation for positive for 2019-nCoV infection by using rRT-PCR on respiratory sample
+nasal swabs. * The comorbidities included hypertension (n=), diabetes (n=), coronary
+heart disease (n=), chronic hepatitis B infection (n=), tumors (n=), obstructive sleep
+apnea syndrome (n=), chronic bronchitis (n=), hyperlipidemia (n=), renal insufficiency
+(n=), tuberculosis (cured, n=) and fatty liver disease (n=). † The data indicated the time of
+confirmation for positive for -nCoV infection by using rRT-PCR on respiratory sample
 since illness onset. ‡ The data indicated the time since illness onset of the first plasma
 sample of patients involved for serological test in this study.
 
-16
 
-Downloaded from https://academic.oup.com/cid/advance-article-abstract/doi/10.1093/cid/ciaa344/5812996 by guest on 28 March 2020
+
+Downloaded from https://academic.oup.com/cid/advance-article-abstract/doi/./cid/ciaa/ by guest on  March 
 
 Age, median(IQR)
 
@@ -620,116 +620,116 @@ Total
 
 Sensitivity
 
-173
+
 
 Sensitivity
 n(+)
 
-8-14
+-
 
-15-39
+-
 
-135
 
-90
+
+
 
 n(+)
 
-(%, 95%CI)
+(%, %CI)
 
-(%, 95%CI)
+(%, %CI)
 
-(%, 95%CI)
+(%, %CI)
 
-67.1
+.
 
-93.1
+.
 
-82.7
+.
 
-64.7
+.
 
-99.4
-
-$
-
-112
-
-161
-
-58$
-
-143
-(88.2, 96.4)
-
-112
-(76.2, 88)
-
-38.3
-36
-
-28.7
-27
-
-172
-(57.1, 71.8)
-
-(96.8, 100.0)
-
-19.1
-18
-
-78.7
-74
-
-(55.7, 76.4)
-
-(28.5, 48.9)
-
-(19.9, 39.0)
-
-(11.8, 28.6)
-
-(69.1, 86.5)
-
-54.0
-
-89.6
-
-73.3
-
-54.1
-
-97.0
+.
 
 $
 
-67
 
-121
 
-99
 
-73
-
-(44.8, 63.0)
-
-(83.2, 94.2)
-
-(65.0, 80.6)
-
-45.5
-
-100.0
-
-94.3
 
 $
 
-25
 
-90
-(32.0, 59.5)
+(., .)
+
+
+(., )
+
+.
+
+
+.
+
+
+
+(., .)
+
+(., .)
+
+.
+
+
+.
+
+
+(., .)
+
+(., .)
+
+(., .)
+
+(., .)
+
+(., .)
+
+.
+
+.
+
+.
+
+.
+
+.
+
+$
+
+
+
+
+
+
+
+
+
+(., .)
+
+(., .)
+
+(., .)
+
+.
+
+.
+
+.
+
+$
+
+
+
+
+(., .)
 
 *
 
@@ -737,105 +737,105 @@ n(+)
 
 Sensitivity
 
-(%, 95%CI)
+(%, %CI)
 
-66.7
-94
+.
+
 
 n(+)
 
 Sensitivity
 
-(%, 95%CI)
+(%, %CI)
 
-(59.4, 74.1)
+(., .)
 
-1-7
+-
 
 Sensitivity
 
-(92.6, 99.2)
+(., .)
 
-79.8
+.
 
-100.0
+.
 
 #
 
-83*
-(96.0, 100.0)
+*
+(., .)
 
-131
-(45.3, 62.7)
 
-71
-(87.2, 98.1)
+(., .)
 
-90
-(69.9, 87.6)
 
-(96.0, 100.0)
+(., .)
+
+
+(., .)
+
+(., .)
 
 Two patients missed IgM tests due to inadequate plasma samples. # One patient missed IgG tests due to inadequate plasma samples. $ There
 
-were 7, 11 and 35 patients had not been performed RNA testing during the 1-7 onset day, 8-14 onset day and 15-39 onset day, respectively.
+were ,  and  patients had not been performed RNA testing during the - onset day, - onset day and - onset day, respectively.
 
-17
 
-Downloaded from https://academic.oup.com/cid/advance-article-abstract/doi/10.1093/cid/ciaa344/5812996 by guest on 28 March 2020
 
-Table 2. Performance of different detections in samples at different time since onset of patients.
+Downloaded from https://academic.oup.com/cid/advance-article-abstract/doi/./cid/ciaa/ by guest on  March 
+
+Table . Performance of different detections in samples at different time since onset of patients.
 
 Figure Legends
-Figure 1. Cumulative incidence of seroconversion of antibodies against SARSCoV-2 among COVID-19 patients during the acute phase since illness onset. (A)
-Cumulative incidence of seroconversion of Ab, IgM and IgG among 173 patients of
+Figure . Cumulative incidence of seroconversion of antibodies against SARSCoV- among COVID- patients during the acute phase since illness onset. (A)
+Cumulative incidence of seroconversion of Ab, IgM and IgG among  patients of
 
 (B) Profiling of sensitivity performances of RNA, Ab, IgM and IgG in time series since
-illness onset. A heat-map of detection of SARS-CoV-2 infection according to the time
+illness onset. A heat-map of detection of SARS-CoV- infection according to the time
 (days) since onset by a single RNA or antibody test.
 
-Figure 2. Dynamic profiling of viral RNA and antibodies in representative
-COVID-19 patients since onset of disease. The changes of the levels of RNA in in
+Figure . Dynamic profiling of viral RNA and antibodies in representative
+COVID- patients since onset of disease. The changes of the levels of RNA in in
 upper respiratory specimens (nasal and/or throat swabs) and antibodies (total Ab,
-IgM and IgG) in plasma of 9 patients were presented. Among these cases, 6 were in
-normal to moderate illness condition (A) and 3 were in critical condition (B). The
-cutoff values for antibody tests were S/CO=1 (plotted to left-Y axis) and was CT=40
+IgM and IgG) in plasma of  patients were presented. Among these cases,  were in
+normal to moderate illness condition (A) and  were in critical condition (B). The
+cutoff values for antibody tests were S/CO= (plotted to left-Y axis) and was CT=
 for RNA detection (plotted to right-Y axis). RNA negative samples are denoted with a
-CT of 45. The blue area indicated the antibody seronegative zone, whereas the
+CT of . The blue area indicated the antibody seronegative zone, whereas the
 purple area indicated undetectable RNA zone. Meanwhile, a purple broken line was
 used to indicate the first time point with detectable RNA and a red broken line was
 used to indicate the first antibody seroconversion (total Ab) time point.
 
-Figure 3. The average levels of antibodies against SARS-CoV-2 among COVID19 patients since illness onset. (A) Comparison of the average S/CO value of in
+Figure . The average levels of antibodies against SARS-CoV- among COVID patients since illness onset. (A) Comparison of the average S/CO value of in
 between total Ab, IgG and IgM. Comparison of the average S/CO value (B) and
 relative quantitative titer (C) of Ab test between critical and non-critical patients. The
 medians of antibody detection value (S/CO for tests of Ab, IgM and IgG, for panel A
 and B) and of total Ab titer (rOD, for panel C) of samples at the same time point since
-onset was used to plot the graph. Patient’s samples collected from day 1-3, 4-6, 7-9,
-18
+onset was used to plot the graph. Patient’s samples collected from day -, -, -,
 
-Downloaded from https://academic.oup.com/cid/advance-article-abstract/doi/10.1093/cid/ciaa344/5812996 by guest on 28 March 2020
+
+Downloaded from https://academic.oup.com/cid/advance-article-abstract/doi/./cid/ciaa/ by guest on  March 
 
 this study. P values were determined by Log-Rank test to compare different markers.
 
-10-12, 13-15, 16-18, 19-21, 22-39 since illness onset were pooled for analysis. Four
-parameter logistic (4PL) fitting curves were used to show the rising trend of
+-, -, -, -, - since illness onset were pooled for analysis. Four
+parameter logistic (PL) fitting curves were used to show the rising trend of
 antibodies (total Ab, IgG, IgM).
 
-Downloaded from https://academic.oup.com/cid/advance-article-abstract/doi/10.1093/cid/ciaa344/5812996 by guest on 28 March 2020
+Downloaded from https://academic.oup.com/cid/advance-article-abstract/doi/./cid/ciaa/ by guest on  March 
 
-19
 
-Downloaded from https://academic.oup.com/cid/advance-article-abstract/doi/10.1093/cid/ciaa344/5812996 by guest on 28 March 2020
 
-20
+Downloaded from https://academic.oup.com/cid/advance-article-abstract/doi/./cid/ciaa/ by guest on  March 
 
-Downloaded from https://academic.oup.com/cid/advance-article-abstract/doi/10.1093/cid/ciaa344/5812996 by guest on 28 March 2020
 
-21
 
-Downloaded from https://academic.oup.com/cid/advance-article-abstract/doi/10.1093/cid/ciaa344/5812996 by guest on 28 March 2020
+Downloaded from https://academic.oup.com/cid/advance-article-abstract/doi/./cid/ciaa/ by guest on  March 
 
-22
+
+
+Downloaded from https://academic.oup.com/cid/advance-article-abstract/doi/./cid/ciaa/ by guest on  March 
+
+
 
 

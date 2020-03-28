@@ -9,31 +9,31 @@ MEDICINE
 Perspective
 ﻿
 
-Facing Covid-19 in Italy — Ethics, Logistics,
+Facing Covid- in Italy — Ethics, Logistics,
 and Therapeutics on the Epidemic’s Front Line
 Lisa Rosenbaum, M.D.​​
-Facing Covid-19 in Italy
+Facing Covid- in Italy
 
 A
 
 few weeks ago, Dr. D., a middle-aged chief
 of cardiology at one of the biggest hospitals
 in northern Italy, developed a fever. Fearing
-he might have Covid-19, he sought confirmatory
+he might have Covid-, he sought confirmatory
 testing but was told there weren’t
 enough tests available for those
 who hadn’t had demonstrated exposure to an infected person. He
 was therefore advised to stay home
-until the fever resolved. He returned to work 6 days later, but
-5 days after that, a mild fever recurred, and soon he developed a
+until the fever resolved. He returned to work  days later, but
+ days after that, a mild fever recurred, and soon he developed a
 cough. He again quarantined himself in the basement of his home
 so as not to expose his family.
-With half his hospital’s 1000
+With half his hospital’s 
 beds occupied by patients with
-Covid-19, Dr. D., who finally received a positive test result on
-March 10, knows he’s fortunate.
-About 60 to 90 patients with
-symptoms suggestive of Covid-19
+Covid-, Dr. D., who finally received a positive test result on
+March , knows he’s fortunate.
+About  to  patients with
+symptoms suggestive of Covid-
 were presenting to his hospital’s
 emergency department daily. Noninvasive ventilation was attempted
 in as many as possible, but the
@@ -51,7 +51,7 @@ Italy, which has borne the brunt
 of the country’s thousands of
 confirmed coronavirus infections
 and, as of mid-March, more than
-1000 deaths. Though the catastrophic nature of Lombardy’s outbreak has since been widely publicized,1 when we spoke, all three
+ deaths. Though the catastrophic nature of Lombardy’s outbreak has since been widely publicized, when we spoke, all three
 requested anonymity, in accor-
 
 dance with the guidance they’d
@@ -67,8 +67,8 @@ said, “unless you tell them the
 truth.”
 That truth is rather grim.
 Though Italy’s health system is
-highly regarded and has 3.2 hospital beds per 1000 people (as
-compared with 2.8 in the United
+highly regarded and has . hospital beds per  people (as
+compared with . in the United
 States), it has been impossible to
 meet the needs of so many critically ill patients simultaneously.
 Elective surgeries have been cancelled, semielective procedures
@@ -83,12 +83,12 @@ How to treat these patients?
 n engl j med﻿﻿  nejm.org ﻿
 
 The New England Journal of Medicine
-Downloaded from nejm.org on March 28, 2020. For personal use only. No other uses without permission.
-Copyright © 2020 Massachusetts Medical Society. All rights reserved.
+Downloaded from nejm.org on March , . For personal use only. No other uses without permission.
+Copyright ©  Massachusetts Medical Society. All rights reserved.
 
-1
 
-Facing Covid-19 in Italy
+
+Facing Covid- in Italy
 
 PERS PE C T IV E
 
@@ -98,17 +98,17 @@ empirical, though lopinavir–ritonavir, chloroquine, and sometimes
 high-dose steroids are all being
 tried.
 And how to care for patients
-presenting with unrelated illnesses? Though hospitals are attempting to create Covid-19 units, it’s
+presenting with unrelated illnesses? Though hospitals are attempting to create Covid- units, it’s
 been difficult to protect other patients from exposure. Dr. D. told
 me, for instance, that at least five
 patients who’d been admitted to
 his hospital for myocardial infarction were presumed to have
-been infected with Covid-19 while
+been infected with Covid- while
 hospitalized.
 If protecting patients is difficult, so is protecting health care
 workers, including nurses, respiratory therapists, and those tasked
 to clean the rooms between patients. When we spoke, Dr. D. was
-one of six physicians in his division to have suspected Covid-19
+one of six physicians in his division to have suspected Covid-
 infection. Given testing lags and
 the proportion of infected people
 who remain asymptomatic, it’s
@@ -119,14 +119,14 @@ difficult. “The infection is everywhere in the hospital,” Dr. D.
 told me. “Although you wear protective gear and do the best you
 can, you cannot control it.”
 The challenge, he suggested,
-had less to do with caring for patients with Covid-19–related critical illness, in whose rooms clinicians are shielded in protective
+had less to do with caring for patients with Covid-–related critical illness, in whose rooms clinicians are shielded in protective
 gear, than with caregivers’ many
 other daily activities: touching
 computers, riding elevators, seeing
 outpatients, eating lunch. Mandatory quarantine of infected workers, even those with mild illness,
 seems critical to infection control. But not all caregivers are
 equally vulnerable to severe illness,
-2
+
 
 and workforce shortages will have
 to be managed somehow. One junior attending, Dr. S., told me that
@@ -145,9 +145,9 @@ constraints limited the availability
 of ventilatory support. So aversive
 was this rationing that they hesitated to describe how these decisions were being made. Dr. S.
 offered a hypothetical scenario
-involving two patients with respiratory failure, one 65 and the
-other 85 with coexisting conditions. With only one ventilator,
-you intubate the 65-year-old. Dr. D.
+involving two patients with respiratory failure, one  and the
+other  with coexisting conditions. With only one ventilator,
+you intubate the -year-old. Dr. D.
 told me his hospital was also considering, in addition to the number of comorbidities, the severity
 of respiratory failure and probability of surviving prolonged intubation, aiming to dedicate its limited resources to those who both
 stand to benefit most and have
@@ -156,9 +156,9 @@ But though approaches vary
 even within a single hospital, I
 sensed that age was often given
 the most weight. I heard one story,
-for instance, about an 80-year-old
+for instance, about an -year-old
 who was “perfect physically” until
-he developed Covid-19–related respiratory failure. He died because
+he developed Covid-–related respiratory failure. He died because
 mechanical ventilation could not
 be offered. Though Lombardy’s
 richly resourced health care system has expanded critical care capacity as much as possible, there
@@ -169,15 +169,15 @@ an exception,” Dr. L. told me.
 “We have to decide who must die
 and whom we shall keep alive.”
 Contributing to the resource
-scarcity is the prolonged intubation many of these patients require as they recover from pneumonia — often 15 to 20 days of
+scarcity is the prolonged intubation many of these patients require as they recover from pneumonia — often  to  days of
 mechanical ventilation, with several hours spent in the prone position and then, typically, a very
 slow weaning. In the midst of the
 outbreak’s peak in northern Italy,
 as physicians struggled to wean
 patients off ventilators while others developed severe respiratory
 decompensation, hospitals had to
-lower the age cutoff — from 80
-to 75 at one hospital, for instance.
+lower the age cutoff — from 
+to  at one hospital, for instance.
 Though the physicians I spoke
 with were clearly not responsible
 for the crisis in capacity, all
@@ -200,7 +200,7 @@ to seek ethical counsel. In response, the Italian College of Anesthesia, Analges
 and Intensive Care (SIAARTI) issued recommendations under the
 direction of Marco Vergano, an
 anesthesiologist and chair of the
-SIAARTI’s Ethics Section.2 Vergano, who worked on the recommendations between caring for
+SIAARTI’s Ethics Section. Vergano, who worked on the recommendations between caring for
 critically ill patients in the ICU,
 said that the committee urged
 “clinical reasonableness” as well
@@ -208,10 +208,10 @@ said that the committee urged
 n engl j med﻿﻿  nejm.org ﻿
 
 The New England Journal of Medicine
-Downloaded from nejm.org on March 28, 2020. For personal use only. No other uses without permission.
-Copyright © 2020 Massachusetts Medical Society. All rights reserved.
+Downloaded from nejm.org on March , . For personal use only. No other uses without permission.
+Copyright ©  Massachusetts Medical Society. All rights reserved.
 
-Facing Covid-19 in Italy
+Facing Covid- in Italy
 
 PE R S PE C T IV E
 
@@ -223,7 +223,7 @@ age limit for ICU admission may
 ultimately need to be set.
 Explaining the recommendations’ rationale, Vergano described
 how difficult it was for the frail
-and elderly to survive the prolonged intubation required to recover from Covid-19–related pneumonia. As excruciating as it was
+and elderly to survive the prolonged intubation required to recover from Covid-–related pneumonia. As excruciating as it was
 to admit, about a week into the
 epidemic’s peak, it became clear
 that ventilating patients who were
@@ -234,7 +234,7 @@ even under the direst circumstances, rationing is often better
 tolerated when done silently. Indeed, the ethical guidance was
 widely criticized. Committee members were accused of ageism, and
 critics suggested that the gravity
-of the situation had been exaggerated and that Covid-19 was no
+of the situation had been exaggerated and that Covid- was no
 worse than influenza.
 Though ethical dilemmas, by
 definition, have no right answer,
@@ -246,17 +246,17 @@ resource allocation reflecting society’s priorities, Lee Biddison, an
 intensivist at Johns Hopkins, led
 focus groups around Maryland
 to discuss community members’
-preferences. The resultant document, published in 2019 and entitled “Too Many Patients . . . A
+preferences. The resultant document, published in  and entitled “Too Many Patients . . . A
 Framework to Guide Statewide
 Allocation of Scarce Mechanical
 Ventilation during Disasters” —
-noting that “an influenza pandemic similar to that of 1918
+noting that “an influenza pandemic similar to that of 
 would require ICU and mechanical ventilation capacity that is
 
 significantly greater than what is
 available” — emphasizes ethical
 principles similar to those of the
-Italian committee.3
+Italian committee.
 Participants seemed to value
 most saving people with the
 greatest chance of short-term
@@ -277,7 +277,7 @@ a rocky course, for instance, to
 give it to another in the throes of
 an initial decompensation? Would
 you preferentially intubate a
-healthy 55-year-old over a young
+healthy -year-old over a young
 mother with breast cancer whose
 prognosis is unknown? In an effort to address such quandaries,
 Biddison and colleagues also offered three process-related principles that seemed as imperative
@@ -299,9 +299,9 @@ triage algorithm should also be
 reviewed regularly as knowledge
 about the disease evolves. If we
 decided not to intubate patients
-with Covid-19 for longer than 10
+with Covid- for longer than 
 days, for example, but then learned
-that these patients need 15 days
+that these patients need  days
 to recover, we would need to
 change our algorithms.
 Unifying all these principles,
@@ -323,37 +323,37 @@ Disclosure forms provided by the author
 are available at NEJM.org.
 Dr. Rosenbaum is a national correspondent
 for the Journal.
-This article was published on March 18,
-2020, at NEJM.org.
-1.	 Horowitz J. Italy’s health care system
+This article was published on March ,
+, at NEJM.org.
+.	 Horowitz J. Italy’s health care system
 groans under coronavirus — a warning to
-the world. New York Times. March 12, 2020
-(https://www​.nytimes​.com/​2020/​03/​12/​
-world/​europe/​12italy​-­coronavirus​-­health
+the world. New York Times. March , 
+(https://www​.nytimes​.com/​/​/​/​
+world/​europe/​italy​-­coronavirus​-­health
 ​-­care​.html).
-2.	 Società Italiana di Anestesia Analgesia
+.	 Società Italiana di Anestesia Analgesia
 Rianimazione e Terapia Intensiva. Clinical
 ethics recommendations for the allocation
 of intensive care treatments, in exceptional,
 resource-limited circumstances (http://www​
-.siaarti​.it/​SiteAssets/​News/​COVID19%20​
--­%20documenti%20SIAARTI/​SIAARTI%20​
--­%20Covid​-­19%20​-­%20Clinical%20
-Ethics%20Reccomendations​.pdf).
-3.	 Daugherty Biddison EL, Faden R, Gwon
+.siaarti​.it/​SiteAssets/​News/​COVID%​
+-­%documenti%SIAARTI/​SIAARTI%​
+-­%Covid​-­%​-­%Clinical%
+Ethics%Reccomendations​.pdf).
+.	 Daugherty Biddison EL, Faden R, Gwon
 HS, et al. Too many patients…a framework
 to guide statewide allocation of scarce mechanical ventilation during disasters. Chest
-2019;​155:​848-54.
-DOI: 10.1056/NEJMp2005492
-Copyright © 2020 Massachusetts Medical Society.
-Facing Covid-19 in Italy
+;​:​-.
+DOI: ./NEJMp
+Copyright ©  Massachusetts Medical Society.
+Facing Covid- in Italy
 
 n engl j med﻿﻿  nejm.org ﻿
 
 The New England Journal of Medicine
-Downloaded from nejm.org on March 28, 2020. For personal use only. No other uses without permission.
-Copyright © 2020 Massachusetts Medical Society. All rights reserved.
+Downloaded from nejm.org on March , . For personal use only. No other uses without permission.
+Copyright ©  Massachusetts Medical Society. All rights reserved.
 
-3
+
 
 

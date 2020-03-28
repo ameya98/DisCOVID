@@ -1,6 +1,6 @@
 Articles
 
-Clinical and virological data of the first cases of COVID-19
+Clinical and virological data of the first cases of COVID-
 in Europe: a case series
 Francois-Xavier Lescure*, Lila Bouadma*, Duc Nguyen, Marion Parisey, Paul-Henri Wicky, Sylvie Behillil, Alexandre Gaymard,
 Maude Bouscambert-Duchamp, Flora Donati, Quentin Le Hingrat, Vincent Enouf, Nadhira Houhou-Fidouh, Martine Valette, Alexandra Mailles,
@@ -9,47 +9,47 @@ Yazdan Yazdanpanah*
 
 Summary
 
-Background On Dec 31, 2019, China reported a cluster of cases of pneumonia in people at Wuhan, Hubei Province.
-The responsible pathogen is a novel coronavirus, named severe acute respiratory syndrome coronavirus 2
-(SARS-CoV-2). We report the relevant features of the first cases in Europe of confirmed infection, named coronavirus
-disease 2019 (COVID-19), with the first patient diagnosed with the disease on Jan 24, 2020.
+Background On Dec , , China reported a cluster of cases of pneumonia in people at Wuhan, Hubei Province.
+The responsible pathogen is a novel coronavirus, named severe acute respiratory syndrome coronavirus 
+(SARS-CoV-). We report the relevant features of the first cases in Europe of confirmed infection, named coronavirus
+disease  (COVID-), with the first patient diagnosed with the disease on Jan , .
 Methods In this case series, we followed five patients admitted to Bichat-Claude Bernard University Hospital (Paris,
-France) and Pellegrin University Hospital (Bordeaux, France) and diagnosed with COVID-19 by semi-quantitative
+France) and Pellegrin University Hospital (Bordeaux, France) and diagnosed with COVID- by semi-quantitative
 RT-PCR on nasopharyngeal swabs. We assessed patterns of clinical disease and viral load from different samples
-(nasopharyngeal and blood, urine, and stool samples), which were obtained once daily for 3 days from hospital admission,
-and once every 2 or 3 days until patient discharge. All samples were refrigerated and shipped to laboratories in the
+(nasopharyngeal and blood, urine, and stool samples), which were obtained once daily for  days from hospital admission,
+and once every  or  days until patient discharge. All samples were refrigerated and shipped to laboratories in the
 National Reference Center for Respiratory Viruses (The Institut Pasteur, Paris, and Hospices Civils de Lyon, Lyon,
 France), where RNA extraction, real-time RT-PCR, and virus isolation and titration procedures were done.
-Findings The patients were three men (aged 31 years, 48 years, and 80 years) and two women (aged 30 years and
-46 years), all of Chinese origin, who had travelled to France from China around mid-January, 2020. Three different
-clinical evolutions are described: (1) two paucisymptomatic women diagnosed within a day of exhibiting symptoms,
-with high nasopharyngeal titres of SARS-CoV-2 within the first 24 h of the illness onset (5·2 and 7·4 log10 copies per
-1000 cells, respectively) and viral RNA detection in stools; (2) a two-step disease progression in two young men,
-with a secondary worsening around 10 days after disease onset despite a decreasing viral load in nasopharyngeal
-samples; and (3) an 80-year-old man with a rapid evolution towards multiple organ failure and a persistent high
+Findings The patients were three men (aged  years,  years, and  years) and two women (aged  years and
+ years), all of Chinese origin, who had travelled to France from China around mid-January, . Three different
+clinical evolutions are described: () two paucisymptomatic women diagnosed within a day of exhibiting symptoms,
+with high nasopharyngeal titres of SARS-CoV- within the first  h of the illness onset (· and · log copies per
+ cells, respectively) and viral RNA detection in stools; () a two-step disease progression in two young men,
+with a secondary worsening around  days after disease onset despite a decreasing viral load in nasopharyngeal
+samples; and () an -year-old man with a rapid evolution towards multiple organ failure and a persistent high
 viral load in lower and upper respiratory tract with systemic virus dissemination and virus detection in plasma. The
-80-year-old patient died on day 14 of illness (Feb 14, 2020); all other patients had recovered and been discharged by
-Feb 19, 2020.
+-year-old patient died on day  of illness (Feb , ); all other patients had recovered and been discharged by
+Feb , .
 Interpretation We illustrated three different clinical and biological types of evolution in five patients infected with
-SARS-CoV-2 with detailed and comprehensive viral sampling strategy. We believe that these findings will contribute
+SARS-CoV- with detailed and comprehensive viral sampling strategy. We believe that these findings will contribute
 to a better understanding of the natural history of the disease and will contribute to advances in the implementation
 of more efficient infection control strategies.
 Funding REACTing (Research & Action Emerging Infectious Diseases).
-Copyright © 2020 Elsevier Ltd. All rights reserved.
+Copyright ©  Elsevier Ltd. All rights reserved.
 
 Introduction
-The coronavirus disease 2019 (COVID-19) epidemic
+The coronavirus disease  (COVID-) epidemic
 spread within China, and secondarily also outside
 China, with a basic reproductive number estimated to
-be from 2·21 to 3·32 and a mortality rate of around
-2·3%.3 In the EU (and European Economic Area) and
-the UK, as of March 6, 2020, 5544 cases have been
-reported (423 in France), including 159 deaths (seven in
-France).4
+be from · to · and a mortality rate of around
+·%. In the EU (and European Economic Area) and
+the UK, as of March , ,  cases have been
+reported ( in France), including  deaths (seven in
+France).
 So far, several studies have described demographic,
 clinical, and biological characteristics of patients
-with COVID-19, and radiological or pathological findings
-associated with COVID-19. More specifically, these studies
+with COVID-, and radiological or pathological findings
+associated with COVID-. More specifically, these studies
 have reported the most common symp­toms, incubation
 
 periods, biological abnormalities, radio­
@@ -59,25 +59,25 @@ addition, they have described varying degrees of illness
 and their severity: mild, severe, or critical. They have
 reported proportion of complications, including acute
 respiratory distress syndrome, or case fatality rates, and
-variables associated with these complications and death.1,5–9
+variables associated with these complications and death.,–
 In this Article, through a detailed and comprehensive
 sampling strategy, we report the clinical and biological
-features of the first five cases of confirmed COVID-19 in
+features of the first five cases of confirmed COVID- in
 Europe, which occurred in France, and their dynamics in
 parallel with changes in their viral load, based on severe
-acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+acute respiratory syndrome coronavirus  (SARS-CoV-)
 RNA detection.
 
-www.thelancet.com/infection Published online March 27, 2020 https://doi.org/10.1016/S1473-3099(20)30200-0	
+www.thelancet.com/infection Published online March ,  https://doi.org/./S-()-	
 
-Lancet Infect Dis 2020
+Lancet Infect Dis 
 Published Online
-March 27, 2020
-https://doi.org/10.1016/
-S1473-3099(20)30200-0
+March , 
+https://doi.org/./
+S-()-
 See Online/Comment
-https://doi.org/10.1016/
-S1473-3099(20)30237-1
+https://doi.org/./
+S-()-
 *Contributed equally
 Department of Infectious and
 Tropical Diseases
@@ -104,7 +104,7 @@ de Paris, Bichat-Claude Bernard
 University Hospital, Paris,
 France; Infections
 Antimicrobials Modelling
-Evolution (IAME) UMR 1137,
+Evolution (IAME) UMR ,
 University of Paris, Paris,
 France (Prof F-X Lescure,
 Prof L Bouadma, P-H Wicky,
@@ -121,21 +121,21 @@ Prof D Malvy MD); National
 Reference Center for
 Respiratory Viruses, Molecular
 Genetics of RNA Viruses,
-CNRS—UMR 3569
+CNRS—UMR 
 (S Behillil PharmD,
 F Donati MSc, V Enouf PhD,
 Prof S van-der-Werf PhD) and
 Mutualized Platform of
 Microbiology, Pasteur
 
-1
+
 
 Articles
 
 International Bioresources
 Network (V Enouf), The Institut
 Pasteur, Paris, France; INSERM
-U1219, University of Bordeaux,
+U, University of Bordeaux,
 Bordeaux, France (D Nguyen,
 Prof D Malvy); National
 Reference Center for
@@ -149,8 +149,8 @@ M Valette PharmD,
 Prof B Lina MD); Virpath
 Laboratory, International
 Center of Research in
-Infectiology, INSERM U1111,
-CNRS—UMR 5308, École
+Infectiology, INSERM U,
+CNRS—UMR , École
 Normale Supérieure de Lyon,
 Université Claude Bernard
 Lyon, Lyon University, Lyon,
@@ -165,20 +165,20 @@ Department of Infectious and
 Tropical Diseases, Assistance
 Publique—Hôpitaux de Paris,
 Bichat-Claude Bernard University
-Hospital, 75018 Paris, France
+Hospital,  Paris, France
 yazdan.yazdanpanah@aphp.fr
 
 Research in context
 Evidence before this study
 We searched PubMed Central for all studies or reports presenting
-clinical characteristics of patients with coronavirus disease 2019
-(COVID-19), using the terms “COVID-19” and “clinical” or
-“2019-nCoV” and “clinical” from database inception to
-Feb 24, 2020. No language restrictions were applied. Our search
-returned 134 publications. These papers described demographic,
-clinical, and biological characteristics of patients with COVID-19,
+clinical characteristics of patients with coronavirus disease 
+(COVID-), using the terms “COVID-” and “clinical” or
+“-nCoV” and “clinical” from database inception to
+Feb , . No language restrictions were applied. Our search
+returned  publications. These papers described demographic,
+clinical, and biological characteristics of patients with COVID-,
 and radiological or pathological findings associated with,
-COVID-19. In particular, they reported most common symptoms,
+COVID-. In particular, they reported most common symptoms,
 incubation periods, biological abnormalities, radiographic
 abnormalities, CT abnormalities, and treatment data. They also
 described varying degrees of illness and their severity: mild,
@@ -192,7 +192,7 @@ asymptomatic individuals. They also evaluated virus shedding in
 patients who had recovered.
 Added value of this study
 This study reports clinical data from the first patients diagnosed
-with COVID-19 in Europe. The study also brings to the field
+with COVID- in Europe. The study also brings to the field
 some new and original findings by including patients at
 different stages of infection (ie, at very early stages or later in
 the course of the disease) and through a detailed and
@@ -208,34 +208,34 @@ Study design and patients
 
 See Online for appendix
 
-2	
+	
 
 This case series is part of an overall French clinical
-cohort assessing patients with COVID-19 (NCT04262921).
+cohort assessing patients with COVID- (NCT).
 All patients at French hospitals who were diagnosed
-with COVID-19 according to the French National Health
+with COVID- according to the French National Health
 Agency criteria were enrolled in this cohort from
-Jan 24 to Jan 29, 2020.5
+Jan  to Jan , .
 Together with the French National Regulatory
 authorities and French Ministry of Health, on
-Jan 25, 2020, we determined the indication criteria for
+Jan , , we determined the indication criteria for
 compassionate use of an investigational antiviral
 treatment (remdesivir) as signs of severe illness at
 diagnosis or secondary clinical aggravation (respiratory
 symptoms or general signs) based on WHO criteria for
-severe pneumonia caused by SARS-CoV-210 (appendix
-p 2). On the basis of expert opinion and available data
-in January, 2020, we considered that remdesivir might
+severe pneumonia caused by SARS-CoV- (appendix
+p ). On the basis of expert opinion and available data
+in January, , we considered that remdesivir might
 be the best potential drug for the treatment of
-COVID-19, although restricted to patients with severe
-disease (intravenous route, a loading dose of 200 mg,
+COVID-, although restricted to patients with severe
+disease (intravenous route, a loading dose of  mg,
 
 paucisymptomatic patients diagnosed very quickly over their
 disease course, with an early high nasopharyngeal shedding of
-severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
-within the first 24 h of the illness onset (5·2 and 7·4 log10 copies
-per 1000 cells, respectively); patients with a two-step disease
-progression, with a secondary worsening around 10 days after
+severe acute respiratory syndrome coronavirus  (SARS-CoV-)
+within the first  h of the illness onset (· and · log copies
+per  cells, respectively); patients with a two-step disease
+progression, with a secondary worsening around  days after
 disease onset despite a decreasing viral load in nasopharyngeal
 samples; and a patient with a rapid evolution towards multiple
 organ failure and a persistent high viral load in lower and upper
@@ -246,7 +246,7 @@ Paucisymptomatic patients, because of high viral loads in upper
 respiratory tract samples, might potentially transmit the
 disease during the very first days of symptoms despite having a
 mild presentation of the disease. The implication is that
-COVID-19 control measures should combine immediate
+COVID- control measures should combine immediate
 isolation of cases after symptom onset together with a rapid
 screening and monitoring of the contacts of infected patients.
 In patients with severe disease, two patterns were identified.
@@ -262,12 +262,12 @@ including blood. These findings will contribute to better
 understanding of the natural history of the disease and in
 tailoring treatment strategies.
 
-then maintenance daily dose of 100 mg for a total
-duration of 10 days). Criteria for discharge with total
+then maintenance daily dose of  mg for a total
+duration of  days). Criteria for discharge with total
 recovery were from European Centre for Disease Pre­
 vention and Control guidelines: asymptomatic patients
 with two RT-PCR negative naso­pharyngeal samples at
-least 48 h apart.11
+least  h apart.
 The five patients in this case series, at different stages of
 infection, include two patients with a mild disease at
 admission and a secondary worsening that resulted in
@@ -278,28 +278,28 @@ diagnosed very early after infection.
 We used the open-access Clinical Characterization
 Protocol for Severe Emerging Infections of the
 International Severe Acute Respiratory and Emerging
-Infection Consortium, supported by WHO,12 which has
-been updated in response to COVID-19. This study was
+Infection Consortium, supported by WHO, which has
+been updated in response to COVID-. This study was
 approved by the French Ethics Committee, and written
 informed consent was obtained from each patient
 involved or their next of kin.
 
-www.thelancet.com/infection Published online March 27, 2020 https://doi.org/10.1016/S1473-3099(20)30200-0
+www.thelancet.com/infection Published online March ,  https://doi.org/./S-()-
 
 Articles
 
-Patient 1
+Patient 
 Age at diagnosis, years
 
-Patient 2
+Patient 
 
-Patient 3
+Patient 
 
-Patient 4
+Patient 
 
-48
 
-80
+
+
 
 Sex
 
@@ -346,35 +346,35 @@ Province, China)
 
 Duration of illness, days
 
-15
 
-26
 
-23
 
-30
 
-Patient 5
 
-31
 
-11
 
-46
 
-16
+Patient 
+
+
+
+
+
+
+
+
 
 Diagnosis date
 
-Jan 24, 2020
+Jan , 
 
-Jan 24, 2020
+Jan , 
 
-Jan 28, 2020
+Jan , 
 
-Jan 24, 2020
+Jan , 
 
-Jan 29, 2020
+Jan , 
 
 Symptoms
 
@@ -391,189 +391,189 @@ Cough
 Cough
 
 Tests results on hospital admission
-White blood cell count, 10⁹ cells per L
+White blood cell count, ⁹ cells per L
 
-5·8
+·
 
-4·0
+·
 
-Neutrophil count, 10⁹ cells per L
+Neutrophil count, ⁹ cells per L
 
-4·7
+·
 
-1·8
-
-ND
-
-Lymphocyte count, 10⁹ cells per L
-
-1·0
-
-1·6
+·
 
 ND
 
-15·5
+Lymphocyte count, ⁹ cells per L
 
-16·9
+·
+
+·
+
+ND
+
+·
+
+·
 
 Haemoglobin, g/L
-Platelet count, 10⁹ per L
+Platelet count, ⁹ per L
 
-8·0
+·
 
-12·3
+·
 
-3·3
+·
 ND
 
-3·1
-1·7
+·
+·
 
-1·2
+·
 
-1·3
+·
 
-13·0
+·
 
-13·2
+·
 
-148
 
-182
 
-134
 
-195
+
+
+
+
 
 Prothrombin time, s
 
-17
 
-10
+
+
 
 ND
 
-20
 
-20
+
+
 
 Albumin, g/L
 
-37
+
 
 ND
 
 ND
 
-37
 
-40
-66
+
+
+
 
 Creatinine kinase, UI/L
 
-184
 
-122
 
-147
+
+
+
 
 ND
 
-88
+
 
 Alanine aminotransferase, UI/L
 
-37
 
-22
 
-21
 
-42
 
-11
+
+
+
+
+
 
 Aspartate aminotransferase, U/L
 
-32
 
-32
 
-66
 
-46
 
-29
+
+
+
+
+
 
 Total bilirubin, mmol/L
 Sodium, mmol/L
 
-7
 
-7
+
+
 
 ND
 
-9
 
-10
 
-140
 
-139
 
-136
 
-142
 
-139
+
+
+
+
+
+
+
 
 Potassium, mmol/L
 
-4·3
+·
 
-3·7
+·
 
-3·2
+·
 
-4·5
+·
 
 Urea, mmol/L
 
-2·8
+·
 
-4·4
+·
 
-8·0
+·
 
-2·9
+·
 
 Creatinine, µmol/L
 C-reactive protein, mg/L
 
-44
 
-68
 
-92
 
-38
 
-4·0
-3·3
-66
 
-7
+
+
+
+·
+·
+
+
+
 
 ND
 
-123
 
-<5
 
-<5
+<
+
+<
 
 Lactate, UI/L
 
@@ -612,14 +612,14 @@ No
 Admission to intensive care unit
 ND=not determined.
 
-Table 1: Main characteristics of patients at hospital admission
+Table : Main characteristics of patients at hospital admission
 
 Procedures
-Clinical samples for SARS-CoV-2 diagnostic testing were
-obtained according to WHO guidelines.13 For each
+Clinical samples for SARS-CoV- diagnostic testing were
+obtained according to WHO guidelines. For each
 patient, a sampling strategy was implemented in which
-samples were obtained once daily for 3 days from hospital
-admis­sion, and subsequently once every 2 or 3 days until
+samples were obtained once daily for  days from hospital
+admis­sion, and subsequently once every  or  days until
 patient discharge or death. Upper and lower (when
 possible) respiratory tract samples, and also blood, urine,
 and stool samples (or rectal swabs, if appropriate) were
@@ -638,26 +638,26 @@ virus isolation and titration were undertaken. RNA
 extraction was done with the Extraction NucleoSpin Dx
 Virus kit (Macherey Nagel, Düren, Germany) or by the
 automated NucliSENS easyMAG (bioMérieux, Marcyl’Étoile, France), using the manufacturers’ instructions.
-RdRp-IP1 and RdRp quantitative rtRT-PCR (appendix p 4)
-was used for detection of SARS-CoV-2. The RdRp RT-PCR
-corresponds to the Charité protocol.14 When a sample
+RdRp-IP and RdRp quantitative rtRT-PCR (appendix p )
+was used for detection of SARS-CoV-. The RdRp RT-PCR
+corresponds to the Charité protocol. When a sample
 (respiratory samples, plasma, or stool) was positive with
-RdRp-IP1, quantification of the number of RNA copies
-was done according to a scale ranging from 10³ to 10⁶
+RdRp-IP, quantification of the number of RNA copies
+was done according to a scale ranging from ³ to ⁶
 copies per μL. The viral load in stools was calculated as
-previously described15 and expressed in number of RNA
+previously described and expressed in number of RNA
 copies per g of stool. The quality of nasopharyngeal
 swabs was checked using the CELL Control r-gene kit
 (bioMérieux). This kit is provided with quantified
 plasmid for cellular quantification. All viral loads for
 respiratory samples were calculated with the same
-method as for stools15 and normalised according to the
+method as for stools and normalised according to the
 cellular quantification as the number of RNA copies per
-1000 cells. All positive plasma samples were quantified
+ cells. All positive plasma samples were quantified
 
-www.thelancet.com/infection Published online March 27, 2020 https://doi.org/10.1016/S1473-3099(20)30200-0	
+www.thelancet.com/infection Published online March ,  https://doi.org/./S-()-	
 
-3
+
 
 Articles
 
@@ -669,83 +669,83 @@ ICU stay
 
 Symptomatic period
 Day of death
-(illness day 24)
+(illness day )
 
 Jan
-Jan 16
-Jan 17
-Jan 18
-Jan 19
-Jan 20
-Jan 21
-Jan 22
-Jan 23
-Jan 24
-Jan 25
-Jan 26
-Jan 27
-Jan 28
-Jan 29
-Jan 30
-Fe 31
+Jan 
+Jan 
+Jan 
+Jan 
+Jan 
+Jan 
+Jan 
+Jan 
+Jan 
+Jan 
+Jan 
+Jan 
+Jan 
+Jan 
+Jan 
+Fe 
 b
-Fe 1
+Fe 
 b
-Fe 2
+Fe 
 b
-Fe 3
+Fe 
 b
-Fe 4
+Fe 
 b
-Fe 5
+Fe 
 b
-Fe 6
+Fe 
 b
-Fe 7
-b8
+Fe 
+b
 Fe
 b
-Fe 9
+Fe 
 b
-Fe 10
+Fe 
 b
-Fe 11
+Fe 
 b
-Fe 12
+Fe 
 b
-Fe 13
+Fe 
 b
-Fe 14
+Fe 
 b
-Fe 15
+Fe 
 b
-Fe 16
-b1
-7
+Fe 
+b
 
-Patient 5 Patient 4 Patient 3
 
-Patient 2
+Patient  Patient  Patient 
 
-Patient 1
+Patient 
+
+Patient 
 
 Arrival in Europe
 Diagnosis day
 
-Figure 1: Schematic description of five cases of COVID-19 in France
-COVID-19=coronavirus disease 2019. ICU=intensive care unit.
+Figure : Schematic description of five cases of COVID- in France
+COVID-=coronavirus disease . ICU=intensive care unit.
 
 and expressed as number of RNA copies per mL. Primer
 and probe sequences (Eurogentec, Seraing, Belgium;
-appendix p 4) either correspond to the RdRp or E gene
-assay from the Charité protocol14 or to the RdRp-IP1 assay
+appendix p ) either correspond to the RdRp or E gene
+assay from the Charité protocol or to the RdRp-IP assay
 designed at The Institut Pasteur to target a section of the
-RdRp gene based on the first sequences of SARS-CoV-2
+RdRp gene based on the first sequences of SARS-CoV-
 made available on the Global Initiative on Sharing All
-Influenza Data database on Jan 11, 2020 (appendix p 5).
+Influenza Data database on Jan ,  (appendix p ).
 For further details on RNA extraction, high-throughput
 virus sequencing, and virus titration and isolation see the
-appendix (pp 2–3).
+appendix (pp –).
 
 Role of the funding source
 The funder of this study had no role in study design, data
@@ -756,81 +756,81 @@ submit for publication.
 
 Results
 The main clinical and biological characteristics of the five
-patients at hospital admission are presented in table 1. All
-patients but patient 3 were diagnosed with COVID-19 on
-the day of their hospital admission. Patient 3 was diagnosed
-3 days after because he did not fulfil the National Health
+patients at hospital admission are presented in table . All
+patients but patient  were diagnosed with COVID- on
+the day of their hospital admission. Patient  was diagnosed
+ days after because he did not fulfil the National Health
 Agency case definition at admission (no history of travel to
-or residence in the city of Wuhan). On Feb 19, 2020, all
-patients except patient 3 had fully recovered and were
-discharged. Patient 3 died on Feb 14, 2020.
+or residence in the city of Wuhan). On Feb , , all
+patients except patient  had fully recovered and were
+discharged. Patient  died on Feb , .
 Schematic presentation of major events for each case
-are presented in figure 1. Clinical and biological
+are presented in figure . Clinical and biological
 characteristics day by day for each case are presented in
-the appendix (pp 7–11).
-Patients 1 and 2 had mild disease at admission and
+the appendix (pp –).
+Patients  and  had mild disease at admission and
 secondarily severe disease, following the definition of the
-4	
+	
 
-Chinese Center for Disease Control and Prevention.9
-Patient 1 was a 31-year-old Chinese male tourist from
+Chinese Center for Disease Control and Prevention.
+Patient  was a -year-old Chinese male tourist from
 Wuhan who was admitted to Bichat-Claude Bernard
 University Hospital (Paris, France). He was diagnosed
-with COVID-19 on Jan 24, 2020 (illness day 6), 5 days after
-his arrival in Paris with his wife (patient 4). He visited a
-hospital in Wuhan on Jan 16 for a gout episode. He had
-influenza-like symptoms (table 1) from Jan 19 (illness
-day 1), and was admitted to hospital on the day of the
+with COVID- on Jan ,  (illness day ),  days after
+his arrival in Paris with his wife (patient ). He visited a
+hospital in Wuhan on Jan  for a gout episode. He had
+influenza-like symptoms (table ) from Jan  (illness
+day ), and was admitted to hospital on the day of the
 diagnosis with mild lymphopenia, thrombopenia, and no
-abnormalities on the chest x-ray. On illness day 10, he was
+abnormalities on the chest x-ray. On illness day , he was
 transferred to an ICU because of worsening of oxygen
-saturation (PO2=58 mm Hg; flow nasal cannula 4 L/min),
+saturation (PO= mm Hg; flow nasal cannula  L/min),
 and bilateral lung abnormalities including ground-glass
 opacities, reticulo-nodular syndrome, and alveolar opa­
-cities on chest CT scan (appendix p 6). A loading dose of
-remdesivir was administered on Jan 29 (illness day 11),
-followed by maintenance treatment. On Jan 31, he was
+cities on chest CT scan (appendix p ). A loading dose of
+remdesivir was administered on Jan  (illness day ),
+followed by maintenance treatment. On Jan , he was
 discharged back to the infectious diseases ward. On illness
-day 15, remdesivir treatment was discontinued because of
+day , remdesivir treatment was discontinued because of
 alanine aminotransferase elevation (levels three times
 higher than the upper limit of normal) and a maculopapular
 rash, without any anaphylaxis, eosinophilia, or systemic
 symptoms. The patient was screened for hepatitis B and C,
 cytomegalovirus, Epstein-Barr virus, and herpes simplex
 virus, and no active infection was detected. Skin and liver
-abnor­malities decreased within 3 days. The patient became
+abnor­malities decreased within  days. The patient became
 asymptomatic the following day. He was discharged on
-Feb 12.
-Patient 2 was a 48-year old man of Chinese origin,
+Feb .
+Patient  was a -year old man of Chinese origin,
 based in France. He travelled for business to China and
-flew back from Shanghai to France on Jan 22, 2020. He
-did not report any specific exposures within the 14 days
-before symptom onset except a 3-day stay at Wuhan.
+flew back from Shanghai to France on Jan , . He
+did not report any specific exposures within the  days
+before symptom onset except a -day stay at Wuhan.
 Arterial hypertension was his only underlying disease.
-Influenza-like symptoms started on Jan 16, and he was
-diagnosed on Jan 24 (illness day 9) at Pellegrin University
-Hospital and admitted to this hospital. On illness day 11,
+Influenza-like symptoms started on Jan , and he was
+diagnosed on Jan  (illness day ) at Pellegrin University
+Hospital and admitted to this hospital. On illness day ,
 he was transferred to an ICU with fever of more than
-38·5°C and skin mottling suggesting sepsis. On Jan 29, a
+·°C and skin mottling suggesting sepsis. On Jan , a
 CT scan showed bilateral lung abnormalities including
 ground-glass opacities, reticulo-nodular syndrome, and
 scarce alveolar opacities. In the ICU, a loading dose of
-remdesivir was administered on Jan 30 (illness day 15),
-followed by maintenance treatment until Feb 8. After full
-recovery, he was discharged on Feb 14.
-Patient 3 had a rapidly progressive disease classified as
-critical at diagnosis. Patient 3 was an 80-year-old Chinese
+remdesivir was administered on Jan  (illness day ),
+followed by maintenance treatment until Feb . After full
+recovery, he was discharged on Feb .
+Patient  had a rapidly progressive disease classified as
+critical at diagnosis. Patient  was an -year-old Chinese
 male tourist from Yichang (Hubei Province, China) and
-was diagnosed with COVID-19 on Jan 28, 2020 (illness
-day 7), 11 days after his arrival in Europe with his daughter
-(patient 5). He did not report any specific exposure within
-the 14 days before symptom onset. He had a thyroid cancer
-removed in 2010. He had fever and diarrhoea from Jan 22,
+was diagnosed with COVID- on Jan ,  (illness
+day ),  days after his arrival in Europe with his daughter
+(patient ). He did not report any specific exposure within
+the  days before symptom onset. He had a thyroid cancer
+removed in . He had fever and diarrhoea from Jan ,
 and went to the emergency room in another hospital on
-Jan 25, where the chest x-ray showed bilateral alveolar
-opacities. He did not fulfil the COVID-19 case definition.
+Jan , where the chest x-ray showed bilateral alveolar
+opacities. He did not fulfil the COVID- case definition.
 
-www.thelancet.com/infection Published online March 27, 2020 https://doi.org/10.1016/S1473-3099(20)30200-0
+www.thelancet.com/infection Published online March ,  https://doi.org/./S-()-
 
 Articles
 
@@ -842,7 +842,7 @@ Day post Nature
 symptom
 onset
 
-RdRp14 (cycle
+RdRp (cycle
 threshold)
 
 Virus sequence
@@ -850,123 +850,123 @@ Virus sequence
 Virus isolate
 titre (PFU/mL)
 
-E gene14
-RdRp-IP1
+E gene
+RdRp-IP
 GAPDH
 (cycle threshold) (cycle threshold) (cycle threshold)
 
-Patient 1 6
+Patient  
 
 Nasopharyngeal swab
 
-28·5
+·
 
-27·3
+·
 
-26·7
+·
 
-27·4
+·
 
-EPI_ISL406597*
-
-No
-
-Patient 2 9
-
-Nasopharyngeal swab
-
-Negative
-
-34·7
-
-33·0
-
-27·1
+EPI_ISL*
 
 No
 
-No
-
-Patient 3
-
-7
+Patient  
 
 Nasopharyngeal swab
 
 Negative
 
-30·3
+·
 
-29·2
+·
 
-25·7
+·
+
+No
+
+No
+
+Patient 
+
+
+
+Nasopharyngeal swab
+
+Negative
+
+·
+
+·
+
+·
 
 Partial
 
 No
 
-Patient 3
+Patient 
 
-7
+
 
 Bronchoalveolar lavage Negative
 
-27·4
+·
 
-27·3
+·
 
-24·7
+·
 
 Partial
 
 No
 
-Patient 4 2
+Patient  
 
 Nasopharyngeal swab
 
-23·6
+·
 
-22·8
+·
 
-23·0
+·
 
-26·5
+·
 
-EPI_ISL406596
+EPI_ISL
 
-6·25 × 10⁵
+· × ⁵
 
-Patient 5
+Patient 
 
 Nasopharyngeal swab
 
-24·3
+·
 
-20·0
+·
 
-19·3
+·
 
-25·6
+·
 
-EPI_ISL408430
+EPI_ISL
 
-3·0 × 10⁷
+· × ⁷
 
-2
 
-COVID-19=coronavirus disease 2019. PFU=plaque-forming unit. *Sequence number in Global Initiative on Sharing All Influenza Data.
 
-Table 2: Confirmation of COVID-19 by RT-PCR, whole genome sequencing, and virus isolation
+COVID-=coronavirus disease . PFU=plaque-forming unit. *Sequence number in Global Initiative on Sharing All Influenza Data.
+
+Table : Confirmation of COVID- by RT-PCR, whole genome sequencing, and virus isolation
 
 However, airborne and contact precautions were observed
-during his hospital stay before COVID-19 diagnosis. On
-Jan 26, an acute respiratory failure triggered his ICU
+during his hospital stay before COVID- diagnosis. On
+Jan , an acute respiratory failure triggered his ICU
 admission to Bichat-Claude Bernard University Hospital.
 He subsequently developed multiple organ failure with
 acute respiratory distress syndrome, acute kidney injury,
-liver failure, and sepsis-like shock. After the COVID-19
-diagnosis was confirmed on Jan 28, he was transferred to
+liver failure, and sepsis-like shock. After the COVID-
+diagnosis was confirmed on Jan , he was transferred to
 the referent ICU at Bichat-Claude Bernard Hospital in
 Paris, where broad-spectrum antibacterials were started
 for a possible superinfection. Remdesivir was started with
@@ -979,74 +979,74 @@ meropenem, tigecycline, and colimycin followed by
 meropenem and levofloxacin. We initially treated A flavus
 with voriconazole but switched to isavuconazole because
 voriconazole and remdesivir both contain sulphobutyletherβ-cyclodextrin, and the safety of this association has not
-been evaluated yet. Remdesivir was discon­tinued on Jan 30
+been evaluated yet. Remdesivir was discon­tinued on Jan 
 because the patient needed renal replacement therapy. CT
-scan on Jan 31 showed a bilateral pleuropneumopathy
+scan on Jan  showed a bilateral pleuropneumopathy
 including pleural effusion, alveolar condensations,
-ground-glass opacities, and pulmonary cysts. On Feb 5,
+ground-glass opacities, and pulmonary cysts. On Feb ,
 because of the severity of the disease and persistence of
 viral detection, and as the risk–benefit assessment was
 considered favourable, remdesivir was reinitiated. Multiple
 organ failure persisted despite appropriate treatment
 against A baumannii and A flavus and no other
-superinfection was identified. The patient died on Feb 14
-(illness day 24).
-Patients 4 and 5 were admitted to hospital early after the
+superinfection was identified. The patient died on Feb 
+(illness day ).
+Patients  and  were admitted to hospital early after the
 onset of the symptoms, and were classified as having mild
-disease.9 Patient 4 (patient 1’s wife), a 30-year-old Chinese
-woman, was diagnosed with COVID-19 on Jan 24, 2020, at
-Bichat-Claude Bernard University Hospital (illness day 2),
-5 days after her arrival in Paris. She had spent those days
-with patient 1. She had moderate influenza-like symptoms
-from Jan 23 (illness day 1), with no abnormalities on the
+disease. Patient  (patient ’s wife), a -year-old Chinese
+woman, was diagnosed with COVID- on Jan , , at
+Bichat-Claude Bernard University Hospital (illness day ),
+ days after her arrival in Paris. She had spent those days
+with patient . She had moderate influenza-like symptoms
+from Jan  (illness day ), with no abnormalities on the
 chest x-ray. After some days of persistent and incapacitating
 
 cough, her condition improved without any specific treat­
-ment. She became asymptomatic on Feb 2 (illness day 11)
-and was discharged on Feb 12.
-Patient 5 (patients 3’s daughter), a 46-year-old Chinese
-woman, was diagnosed with COVID-19 on Jan 29, 2020
-(illness day 2). She had stayed with patient 3 since their
+ment. She became asymptomatic on Feb  (illness day )
+and was discharged on Feb .
+Patient  (patients ’s daughter), a -year-old Chinese
+woman, was diagnosed with COVID- on Jan , 
+(illness day ). She had stayed with patient  since their
 travel from China. She had mild symptoms, with sore
-throat and dry cough from Jan 28 (illness day 1), and a
+throat and dry cough from Jan  (illness day ), and a
 normal chest x-ray. Her cough, which was initially mild,
 increased transiently over time; she was asymptomatic
-from Feb 4 (illness day 8) without any specific treatment,
-and was discharged on Feb 17.
-Patients 4 and 5 had nasopharyngeal samples collected
-within the first 24 h of illness onset, allowing an early
-diagnosis of COVID-19. These early specimens had a high
+from Feb  (illness day ) without any specific treatment,
+and was discharged on Feb .
+Patients  and  had nasopharyngeal samples collected
+within the first  h of illness onset, allowing an early
+diagnosis of COVID-. These early specimens had a high
 viral load, enabling whole-genome virus sequencing and
-virus isolation (table 2). The maximal normalised viral
+virus isolation (table ). The maximal normalised viral
 load obtained in their respiratory specimens were at
-5·2 log10 copies per 1000 cells for patient 4 and
-7·4 log10 copies per 1000 cells for patient 5 (based on the
+· log copies per  cells for patient  and
+· log copies per  cells for patient  (based on the
 RdRp quantitative rtRT-PCR). This viral load in respiratory
-samples decreased over time (figure 2). SARS-CoV-2
-detection by RT-PCR was negative on illness day 12 for
-patient 4 and on illness day 16 for patient 5 (figure 2).
-These patients also had a positive detection of SARS-CoV-2
-in stools, with viral load as high as 6·8 log10 copies per g of
-stool for patient 4 and 8·1 log10 copies per g of stool for
-patient 5. However, the virus was not detected in the
+samples decreased over time (figure ). SARS-CoV-
+detection by RT-PCR was negative on illness day  for
+patient  and on illness day  for patient  (figure ).
+These patients also had a positive detection of SARS-CoV-
+in stools, with viral load as high as · log copies per g of
+stool for patient  and · log copies per g of stool for
+patient . However, the virus was not detected in the
 serum or the urine samples.
-Patient 1 had nasopharyngeal samples collected at
-illness day 6 and patient 2 on day 9, which were positive
-by rtRT-PCR, with a SARS-CoV-2 viral load of
-7·1 log10 copies per 1000 cells, and detected but not
+Patient  had nasopharyngeal samples collected at
+illness day  and patient  on day , which were positive
+by rtRT-PCR, with a SARS-CoV- viral load of
+· log copies per  cells, and detected but not
 quantifiable viral load, respectively. The whole-genome
 virus sequence was obtained by direct sequencing for
-patient 1 only; virus isolation was unsuccessful in both
+patient  only; virus isolation was unsuccessful in both
 cases. The secondary evolution to severe disease in these
-two patients (days 10 and 11) was not correlated to any
-viral load increase (figure 2). Both received intravenous
+two patients (days  and ) was not correlated to any
+viral load increase (figure ). Both received intravenous
 remdesivir when the viral load had already decreased
 below the detection threshold. During the whole course
-of the disease of these two patients, SARS-CoV-2
+of the disease of these two patients, SARS-CoV-
 
-www.thelancet.com/infection Published online March 27, 2020 https://doi.org/10.1016/S1473-3099(20)30200-0	
+www.thelancet.com/infection Published online March ,  https://doi.org/./S-()-	
 
-5
+
 
 Articles
 
@@ -1054,112 +1054,112 @@ A
 
 B
 
-Patient 1
+Patient 
 
 Viral load in nasopharyngeal swab
-(log10 copies per 1000 cells)
+(log copies per  cells)
 
-8
-Remdesivir infusion
-
-6
 
 Remdesivir infusion
 
-6
 
-4
 
-4
+Remdesivir infusion
+
+
+
+
+
+
 Quantification limit
 
-2
-0
 
-Patient 2
 
-8
+
+Patient 
+
+
 
 Detection
 
 Detection limit
-6
 
-7
+
+
 
 Quantification limit
 
-2
 
-8
 
-9
 
-10
 
-11
 
-12
 
-13
 
-14
 
-15
 
-16
 
-17
 
-0 limit
-9
 
-10
 
-11
 
-12
 
-13
 
-14
 
-Time after onset (days)
 
-15
 
-19
 
-20
 
-21
 
-22
-Feb 6
+ limit
+
+
+
+
+
+
+
+
+
+
+
 
 Time after onset (days)
 
-Jan 24 Jan 25 Jan 26 Jan 27 Jan 28 Jan 29 Jan 30 Jan 31 Feb 1 Feb 2 Feb 3 Feb 4
 
-Jan 24
 
-Jan 25
 
-Jan 26
 
-Jan 27
 
-Jan 28
 
-Jan 29
 
-Jan 30
 
-Feb 3
 
-Feb 4
+Feb 
 
-Feb 5
+Time after onset (days)
+
+Jan  Jan  Jan  Jan  Jan  Jan  Jan  Jan  Feb  Feb  Feb  Feb 
+
+Jan 
+
+Jan 
+
+Jan 
+
+Jan 
+
+Jan 
+
+Jan 
+
+Jan 
+
+Feb 
+
+Feb 
+
+Feb 
 
 /
 /
@@ -1279,12 +1279,12 @@ C
 /
 /
 
-Patient 3
+Patient 
 
-8
+
 
 Viral load in nasopharyngeal swab
-(log10 copies per 1000 cells)
+(log copies per  cells)
 
 –
 –
@@ -1295,70 +1295,70 @@ Remdesivir infusion
 
 Remdesivir infusion
 
-6
-4
+
+
 Quantification limit
 
-2
-0
+
+
 
 Detection limit
-8
 
-7
 
-9
 
-10
 
-11
 
-12
 
-13
 
-14
 
-15
 
-16
 
-17
 
-18
 
-19
 
-20
 
-21
 
-22
 
-23
 
-24
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Time after onset (days)
-Jan 28 Jan 29 Jan 30 Jan 31
+Jan  Jan  Jan  Jan 
 
-Feb 1
+Feb 
 
-Feb 2
+Feb 
 
-Feb 3
+Feb 
 
-Feb 4
+Feb 
 
-Feb 5
+Feb 
 
-Feb 6
+Feb 
 
-Feb 7
+Feb 
 
-Feb 8
+Feb 
 
-Feb 9 Feb 10 Feb 11 Feb 12 Feb 13 Feb 14
+Feb  Feb  Feb  Feb  Feb  Feb 
 
 /
 
@@ -1397,7 +1397,7 @@ Feb 9 Feb 10 Feb 11 Feb 12 Feb 13 Feb 14
 /
 
 +
-(37·3)
+(·)
 /
 –
 /
@@ -1455,7 +1455,7 @@ Virus detection in other samples
 +
 +
 Plasma
-(RT-PCR+CT)(36·9) (38·4) (35·8)
+(RT-PCR+CT)(·) (·) (·)
 /
 /
 /
@@ -1469,118 +1469,118 @@ Stools
 Conjunctiva /
 
 Viral load in nasopharyngeal swab
-(log10 copies per 1000 cells)
+(log copies per  cells)
 
 D
 
 E
 
-Patient 4
+Patient 
 
-8
 
-8
 
-6
 
-6
 
-4
 
-4
-Quantification limit
 
-2
-0
 
-3
 
-4
+
+
 
 Quantification limit
 
-2
+
+
+
+
+
+
+
+Quantification limit
+
+
 
 Detection limit
-2
 
-Patient 5
 
-5
+Patient 
 
-6
 
-7
 
-8
 
-9
 
-10
 
-11
 
-12
 
-0
+
+
+
+
+
+
+
+
+
+
 
 Detection limit
-2
 
-3
 
-4
 
-5
 
-6
 
-7
 
-Time after onset (days)
-Jan 24
 
-Jan 25
 
-Jan 26
 
-8
 
-9
 
-10
-
-11
-
-12
-
-13
-
-14
-
-15
-
-16
 
 Time after onset (days)
+Jan 
 
-Jan 27
+Jan 
 
-Jan 28
+Jan 
 
-Jan 29
 
-Jan 30
 
-Jan 31
 
-Feb 1
 
-Feb 2
 
-Feb 3
 
-Jan 29 Jan 30 Jan 31 Feb 1
+
+
+
+
+
+
+
+
+
+
+
+
+Time after onset (days)
+
+Jan 
+
+Jan 
+
+Jan 
+
+Jan 
+
+Jan 
+
+Feb 
+
+Feb 
+
+Feb 
+
+Jan  Jan  Jan  Feb 
 
 –
 /
@@ -1628,7 +1628,7 @@ Jan 29 Jan 30 Jan 31 Feb 1
 /
 –
 +
-(6·2)
+(·)
 /
 
 /
@@ -1639,7 +1639,7 @@ Jan 29 Jan 30 Jan 31 Feb 1
 
 /
 
-Feb 2 Feb 3 Feb 4 Feb 5 Feb 6 Feb 7 Feb 8 Feb 9 Feb 10 Feb 11 Feb 12
+Feb  Feb  Feb  Feb  Feb  Feb  Feb  Feb  Feb  Feb  Feb 
 
 Virus detection in other samples
 Plasma
@@ -1648,7 +1648,7 @@ Stools
 (titre*)
 Conjunctiva
 
-6	
+	
 
 /
 /
@@ -1658,13 +1658,13 @@ Conjunctiva
 –
 –
 +
-(6·8)
+(·)
 /
 
 –
 –
 +
-(6·2)
+(·)
 –
 
 –
@@ -1672,7 +1672,7 @@ Conjunctiva
 /
 –
 +
-(7·5)
+(·)
 –
 
 /
@@ -1683,7 +1683,7 @@ Conjunctiva
 /
 –
 +
-(8·1)
+(·)
 –
 
 /
@@ -1707,7 +1707,7 @@ Conjunctiva
 /
 /
 +
-(7·5)
+(·)
 /
 
 /
@@ -1728,7 +1728,7 @@ Conjunctiva
 –
 +
 +
-(7·8) (7·4)
+(·) (·)
 /
 /
 
@@ -1744,21 +1744,21 @@ Conjunctiva
 
 /
 
-www.thelancet.com/infection Published online March 27, 2020 https://doi.org/10.1016/S1473-3099(20)30200-0
+www.thelancet.com/infection Published online March ,  https://doi.org/./S-()-
 
 Articles
 
 Discussion
-In this case series of five patients with COVID-19, we
+In this case series of five patients with COVID-, we
 illustrated three different clinical and biological types of
 evolution: first, mild cases through two paucisymptomatic
-patients aged younger than 50 years who were diagnosed
+patients aged younger than  years who were diagnosed
 early, with high viral load in nasopharyngeal samples,
-suggesting a significant shedding of SARS-CoV-2, reflec­
+suggesting a significant shedding of SARS-CoV-, reflec­
 ted by virus detection by RT-PCR; second, two young
 
-Figure 2: Individual dynamics of the nasopharyngeal viral load and
-virus detection in other body fluids in the five COVID-19 cases in
+Figure : Individual dynamics of the nasopharyngeal viral load and
+virus detection in other body fluids in the five COVID- cases in
 France (A–E)
 Blue lines represent the viral load in nasopharyngeal swab normalised using
 cell quantification. All positive samples below the quantification limit were
@@ -1767,24 +1767,24 @@ results were represented on the x-axis, which correspond to our detection
 limit. / indicates not done, + indicates a positive result, and - indicates
 a negative result.NQ=not quantifiable. *Titre in log of copies per g of stools.
 
-Patient 1
-Patient 2
-Patient 3
-Patient 4
-Patient 5
+Patient 
+Patient 
+Patient 
+Patient 
+Patient 
 
 Viral load in nasopharyngeal swab
-(log10 copies per 1000 cells)
+(log copies per  cells)
 
-8
-6
-4
-2
-0
+
+
+
+
+
 
 Quantification limit
 Detection limit
-1* 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+*                       
 Time after onset (days)
 
 Blood
@@ -1793,40 +1793,40 @@ Other body flluids
 
 detection by RT-PCR was negative in stools, serum, and
 urine.
-At illness day 6, patient 3 (whose disease was classified
+At illness day , patient  (whose disease was classified
 as critical) was positive by RT-PCR in both a naso­
 pharyngeal sample and bronchoalveolar lavage, with
 cycle threshold values for the E gene target (Charité
-protocol14) of 30·3 and 27·4, and similar cycle threshold
-values for the house-keeping gene GAPDH of 25·7 and
-24·7, respectively (table 2). The SARS-CoV-2 titres in the
-nasopharynx were stable (from 6·7 to 4·4 log10 copies per
-1000 cells) over time, although with a trend towards
+protocol) of · and ·, and similar cycle threshold
+values for the house-keeping gene GAPDH of · and
+·, respectively (table ). The SARS-CoV- titres in the
+nasopharynx were stable (from · to · log copies per
+ cells) over time, although with a trend towards
 decrease after the first intravenous remdesivir dose, and
-thereafter when remdesivir was reinitiated (figure 2).
-This patient had a RNAaemia on illness day 8 and
+thereafter when remdesivir was reinitiated (figure ).
+This patient had a RNAaemia on illness day  and
 subsequently, with a low viral load (detected but below
 the quantification limit). During the course of the
 disease, he developed a pleural exudative effusion, with
-SARS-CoV-2 detection positive in the pleural fluid and
+SARS-CoV- detection positive in the pleural fluid and
 negative bacterial cultures.
-Figure 3 illustrates the kinetics of the viral load in
+Figure  illustrates the kinetics of the viral load in
 nasopharyngeal samples of all patients after disease
 onset. The viral load decreased over time and became
-negative between illness day 9 and 14 in four patients
-(patients 1, 2, 4, and 5). In the most severely ill patient
-(patient 3), nasopharyngeal virus detection persisted
+negative between illness day  and  in four patients
+(patients , , , and ). In the most severely ill patient
+(patient ), nasopharyngeal virus detection persisted
 until death.
 When available, the sequence analysis of the virus of
-these patients showed that patients 1 and 4 compared with
-patient 5 correspond to two distinct events of importation.
-For patients 1 and 4, the virus was clustering with viruses
+these patients showed that patients  and  compared with
+patient  correspond to two distinct events of importation.
+For patients  and , the virus was clustering with viruses
 from cases in Wuhan, Shenzhen (China), California
-(USA), Australia, and Taiwan, whereas for patient 5 the
+(USA), Australia, and Taiwan, whereas for patient  the
 virus was clustering with those from Chongqing (China)
-and Singapore (the genetic epidemiology of SARS-CoV-2 is
+and Singapore (the genetic epidemiology of SARS-CoV- is
 available online). Furthermore, the very high degree of
-identity of the sequences from patients 1 and 4 supports
+identity of the sequences from patients  and  supports
 the epidemiological link between these cases and the
 likelihood of transmission.
 
@@ -1836,20 +1836,20 @@ Conjunctiva
 
 Pleural fluid
 
-Patient 1
-Patient 2
-Patient 3
-Patient 4
-Patient 5
-Patient 1
-Patient 2
-Patient 3
-Patient 4
-Patient 5
-Patient 1
-Patient 3
-Patient 4
-Patient 5
+Patient 
+Patient 
+Patient 
+Patient 
+Patient 
+Patient 
+Patient 
+Patient 
+Patient 
+Patient 
+Patient 
+Patient 
+Patient 
+Patient 
 
 – – –
 /
@@ -1893,7 +1893,7 @@ Patient 5
 /
 /
 
-Patient 3
+Patient 
 
 /
 /
@@ -2063,17 +2063,17 @@ Patient 3
 
 /
 
-Figure 3: Overall dynamics of the nasopharyngeal viral load and virus detection in other body fluids in the
-five COVID-19 cases in France
-COVID-19=coronavirus disease 2019. / indicates not done, + indicates a positive result, and – indicates a negative
-result. *COVID-19 symptom onset.
+Figure : Overall dynamics of the nasopharyngeal viral load and virus detection in other body fluids in the
+five COVID- cases in France
+COVID-=coronavirus disease . / indicates not done, + indicates a positive result, and – indicates a negative
+result. *COVID- symptom onset.
 
 patients presenting with mild symptoms at admission
 and experiencing a secondary progression to pneumonia
-and severe disease by days 10–11; and third, an older
+and severe disease by days –; and third, an older
 patient with a rapid evolution towards critical disease
 with multiple organ failure and a long and sustained
-persistence of SARS-CoV-2 nasopharyngeal detection
+persistence of SARS-CoV- nasopharyngeal detection
 associated with viral RNA detection in multiple sites,
 including blood.
 Among the five cases investigated here, the two patients
@@ -2084,39 +2084,39 @@ suggestive of potentially high risk of transmissibility
 during the very first days of symptoms. This finding is in
 line with data reported by Zou and colleagues, who
 analysed viral load in the upper respiratory tract in
-relation to day of onset of symptoms in 17 symptomatic
+relation to day of onset of symptoms in  symptomatic
 patients in whom higher viral loads were detected soon
-after symptom onset.16 This observation suggests that the
+after symptom onset. This observation suggests that the
 virus shedding pattern of patients infected with
-SARS-CoV-2 is different from that seen with SARS-CoV,
-in which the virus load was very low at disease onset.17–19
+SARS-CoV- is different from that seen with SARS-CoV,
+in which the virus load was very low at disease onset.–
 These findings might affect the implementation of
 infection control measures. The implication is that
-COVID-19 control measures should combine immediate
+COVID- control measures should combine immediate
 isolation of patients with the disease together with a
 
-www.thelancet.com/infection Published online March 27, 2020 https://doi.org/10.1016/S1473-3099(20)30200-0	
+www.thelancet.com/infection Published online March ,  https://doi.org/./S-()-	
 
-For more on SARS-CoV-2
+For more on SARS-CoV-
 genetic epidemiology see
 https://nextstrain.org/ncov
 
-7
+
 
 Articles
 
 rapid screening and monitoring of the contacts of these
 patients to detect those with very mild symptoms. In two
-of five patients reported here, SARS-CoV-2 RNA was
+of five patients reported here, SARS-CoV- RNA was
 detected in stool samples. This possible route of
 transmission must be investigated; detection of viral
 RNA does not necessarily imply that infectious particles
-are present and transmissible,20 particularly when
+are present and transmissible, particularly when
 patients, such as these two individuals, have no diarrhoea
 or other gastrointestinal symptoms.
 In this case series, except for the patient with critical
 disease, the viral load decreased over time and became
-negative between illness day 9 and day 14. Of note, the
+negative between illness day  and day . Of note, the
 virus was also detected by rtRT-PCR at low levels in the
 upper respiratory tract, even after full resolution of
 symptoms. Whether infectious virus might be still present
@@ -2124,50 +2124,50 @@ despite symptom resolution will require further attempts
 of virus isolation. This uncertainty justifies the European
 Centre for Disease Prevention and Control recom­
 mendation to obtain two RT-PCR negative nasopharyngeal
-samples before discharge of asymptomatic patients.11 This
+samples before discharge of asymptomatic patients. This
 conservative recommendation is, however, no longer
 feasible in many European countries that are in an
 epidemic situation.
 In this case series, three patients had a severe or
 critical disease with two different patterns. The
-first one, in patients with severe diseases (patients 1
-and 2), is characterised by a biphasic evolution starting
+first one, in patients with severe diseases (patients 
+and ), is characterised by a biphasic evolution starting
 with a mild presentation followed with a secondary
 respiratory worsening despite a decreasing viral load in
 the naso­
-pharyngeal samples: SARS-CoV-2 was no
+pharyngeal samples: SARS-CoV- was no
 longer detected in the upper respiratory tract in
 one patient and at very low levels in the other. In
 patients with this pattern, a CT scan at the moment of
 the worsening showed ground-glass lung opacities, in
 line with those reported by others in patients with
-COVID-19.8,20 Time to worsening of respiratory
-symptoms was around 10 days after disease onset in
+COVID-., Time to worsening of respiratory
+symptoms was around  days after disease onset in
 these two cases, close to the median disease duration
-before worsening (8·0 days [IQR 5·0–13·0]), previously
-reported by Huang and collaborators.6 In these
+before worsening (· days [IQR ·–·]), previously
+reported by Huang and collaborators. In these
 patients, one might postulate that th­e lung damage is
 more related to immuno­pathological lesions, resulting
 from an excessive pro-inflammatory host response,
-rather than to uncontrolled viral replication.6 Of note,
+rather than to uncontrolled viral replication. Of note,
 we did not assess virus load in low respiratory tract
 samples from these two patients.
 The second pattern, observed in the patient classified as
-having critical disease and who died (patient 3), consists of
+having critical disease and who died (patient ), consists of
 a persistent and high viral excretion in the upper
 respiratory tract samples combined with positive virus
 detection by rtRT-PCR in other body fluids, including
 blood. By contrast with the previous pattern, this persistent
-high viral load suggests the ability of the SARS-CoV-2 to
+high viral load suggests the ability of the SARS-CoV- to
 evade the immune response. Indeed, we can speculate
 that, as shown during Middle East respiratory syndrome
-(MERS) and SARS coronavirus infections,21,22 SARS-CoV-2
+(MERS) and SARS coronavirus infections,, SARS-CoV-
 might be able to inhibit the interferon signalling
-8	
+	
 
 pathways, resulting in higher respiratory virus load,
 positive viraemia, and eventually poor prognosis, as for
-MERS-CoV.23,24 Indeed, the 80-year-old patient, unlike the
+MERS-CoV., Indeed, the -year-old patient, unlike the
 other cases, had evidence of high viral replication in
 the respiratory tract and evidence for systemic virus
 dissemination beyond the respiratory tract, with virus
@@ -2175,10 +2175,10 @@ detection in plasma and pleural effusion fluid. The
 impaired immune response might have facilitated the
 bacterial and fungal superinfections. Patients with similar,
 severe patterns (sustained viral RNA in the respiratory
-tract and detection of SARS-CoV-2 in the blood) have also
-been reported in China.6 As reported in previous
-studies,12,25 severely ill patients are often older patient with
-comorbidities. Patient 3 was aged 80 years and might have
+tract and detection of SARS-CoV- in the blood) have also
+been reported in China. As reported in previous
+studies,, severely ill patients are often older patient with
+comorbidities. Patient  was aged  years and might have
 had an impaired interferon pathway.
 These different patterns, and especially the fact that
 patients with severe or critical disease might have
@@ -2193,36 +2193,36 @@ these data because of the small number of patients, but
 adapting treatment to the clinical course should be
 considered in future studies.
 There is no currently validated antiviral treatment to
-control such SARS-CoV-2 infections. Among potential
+control such SARS-CoV- infections. Among potential
 candidates, remdesivir is an antiviral prodrug (nucleosidic
 analogue family) that has broad-spectrum in-vitro and invivo activity against numerous RNA viruses, including
-SARS-CoV-2. In animal models, compared with lopinavir
+SARS-CoV-. In animal models, compared with lopinavir
 plus ritonavir combined with interferon beta, two other
 potential candidates, remdesivir more significantly
 reduced the virus titre of mice infected with the
-MERS-CoV and decreased the lung tissue damage.26
+MERS-CoV and decreased the lung tissue damage.
 Remdesivir treatment improved disease outcomes and
-reduced viral loads in SARS-CoV-infected mice27 and is
-inhibitory for SARS-CoV-2 in vitro.28 A phase 3 clinical
+reduced viral loads in SARS-CoV-infected mice and is
+inhibitory for SARS-CoV- in vitro. A phase  clinical
 trial assessed this drug for the treatment of Ebola virus
 infection; therefore, data exist for the safety of use in
-humans.29 Hence, on the basis of expert opinion, we
+humans. Hence, on the basis of expert opinion, we
 considered remdesivir use in the three patients with
 severe disease patterns. To the best of our knowledge, only
-one case of remdesivir use in COVID-19 has been reported
-so far.20 Two randomised controlled trials are enrolling
+one case of remdesivir use in COVID- has been reported
+so far. Two randomised controlled trials are enrolling
 patients in China to assess the clinical benefit of this
-treatment (NCT04257656; NCT04252664). On the basis of
+treatment (NCT; NCT). On the basis of
 our data, we cannot draw any conclusions on the potential
-efficacy of remdesivir on COVID-19 infections. In
+efficacy of remdesivir on COVID- infections. In
 two patients, the drug was initiated at the time of disease
 worsening, when the virus was already barely detectable
 in the clinical specimens. In one of them, remdesivir was
-discontinued after 5 days because of a combined alanine
+discontinued after  days because of a combined alanine
 aminotransferase elevation and a rash, although it could
 not be confirmed that this adverse event was related to
 
-www.thelancet.com/infection Published online March 27, 2020 https://doi.org/10.1016/S1473-3099(20)30200-0
+www.thelancet.com/infection Published online March ,  https://doi.org/./S-()-
 
 Articles
 
@@ -2234,7 +2234,7 @@ clearance is linearly related to creatinine clearance.
 Because the patient’s condition was worsening and viral
 load was not decreasing, we reinitiated remdesivir.
 In this paper, we report clinical and virological data on
-the first cases of COVID-19 in Europe. Although we
+the first cases of COVID- in Europe. Although we
 acknowledge the fact that the results provided are based
 on a small number of cases, a detailed and comprehensive
 sampling strategy enabled us to illustrate the different
@@ -2262,7 +2262,7 @@ and Merck Sharp & Dohme (outside the submitted work). DM has
 served on advisory boards for Gilead and Sigma Tau (outside the
 submitted work). J-FT has served on advisory boards for Gilead, Pfizer,
 Merck, Bayer, Menarini, Paratek, and MedImmune (outside the
-submitted work); received research grants from Merck, 3M, and Astellas
+submitted work); received research grants from Merck, M, and Astellas
 (outside the submitted work); and received lecture fees from Pfizer,
 Merck, bioMérieux, and Gilead (outside the submitted work). BL is the
 co-chair of the Global Influenza and Respiratory Syncytial Virus
@@ -2279,7 +2279,7 @@ competing interests.
 Acknowledgments
 This study was funded by REACTing (Research & Action Emerging
 Infectious Diseases), INSERM, Paris, France. We dedicate this article to
-Mr Z, who died in our hospital in Paris on Feb 14, 2020, and to his
+Mr Z, who died in our hospital in Paris on Feb , , and to his
 daughter. We gratefully acknowledge the authors, the originating and
 submitting laboratories for their sequence and metadata shared through
 Global Initiative on Sharing All Influenza Data, on which this research
@@ -2305,7 +2305,7 @@ Bichat-Claude Bernard Hospital; all the technical staff at The Institut
 Pasteur (Paris); Mélanie Albert, Marion Barbet, Angela Brisebarre,
 and staff of the National Reference Center for Respiratory Viruses
 (The Institut Pasteur); Maud Vanpeene, Méline Bizard, and staff of the
-P2M platform; Florence Morfin, Vanessa Escuret, Laurence Josset,
+PM platform; Florence Morfin, Vanessa Escuret, Laurence Josset,
 Geneviève Billaud, and Emilie Frobert at the Lyon National Reference
 Center for Respiratory Viruses (France); Gisele Bendjelloul,
 Isabelle Lolom at the AP-HP, Bichat-Claude Bernard Hospital, Infection
@@ -2322,114 +2322,114 @@ Santé publique France – Infectious Diseases Direction; Julien Poissy at
 the Intensive Care Unit, Lille Hospital, France; and Céline Féger
 (EMIBiotech, Paris, France) for her editorial support.
 References
-1	 Li Q, Guan X, Wu P, et al. Early transmission dynamics in
+	 Li Q, Guan X, Wu P, et al. Early transmission dynamics in
 Wuhan, China, of novel coronavirus-infected pneumonia.
-N Engl J Med 2020; published online Jan 29.
-DOI:10.1056/NEJMoa2001316.
-2	 Liu Y, Gayle AA, Wilder-Smith A, Rocklöv J. The reproductive
-number of COVID-19 is higher compared to SARS coronavirus.
-J Travel Med 2020; published online Feb 13. DOI:10.1093/jtm/taaa021.
-3	 Team TNCPERE. Vital surveillances: the epidemiological
-characteristics of an outbreak of 2019 novel coronavirus diseases
-(COVID-19)—China, 2020. China CDC Weekly 2020; 2: 113–22.
-4	 European Centre for Disease Prevention and Control. Situation
-update for the EU/EEA and the UK, as of 6 March 2020 08:00.
-https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea
-(accessed March 6, 2020).
-5	 Wang D, Hu B, Hu C, et al. Clinical characteristics of
-138 hospitalized patients with 2019 novel coronavirus-infected
-pneumonia in Wuhan, China. JAMA 2020; published online Feb 7.
-DOI:10.1001/jama.2020.1585.
-6	 Huang C, Wang Y, Li X, et al. Clinical features of patients infected with
-2019 novel coronavirus in Wuhan, China. Lancet 2020; 395: 497–506.
-7	 Chen N, Zhou M, Dong X, et al. Epidemiological and clinical
-characteristics of 99 cases of 2019 novel coronavirus pneumonia in
-Wuhan, China: a descriptive study. Lancet 2020; 395: 507–13.
-8	 Chan JF, Yuan S, Kok KH, et al. A familial cluster of
-pneumonia associated with the 2019 novel coronavirus indicating
+N Engl J Med ; published online Jan .
+DOI:./NEJMoa.
+	 Liu Y, Gayle AA, Wilder-Smith A, Rocklöv J. The reproductive
+number of COVID- is higher compared to SARS coronavirus.
+J Travel Med ; published online Feb . DOI:./jtm/taaa.
+	 Team TNCPERE. Vital surveillances: the epidemiological
+characteristics of an outbreak of  novel coronavirus diseases
+(COVID-)—China, . China CDC Weekly ; : –.
+	 European Centre for Disease Prevention and Control. Situation
+update for the EU/EEA and the UK, as of  March  :.
+https://www.ecdc.europa.eu/en/cases--ncov-eueea
+(accessed March , ).
+	 Wang D, Hu B, Hu C, et al. Clinical characteristics of
+ hospitalized patients with  novel coronavirus-infected
+pneumonia in Wuhan, China. JAMA ; published online Feb .
+DOI:./jama...
+	 Huang C, Wang Y, Li X, et al. Clinical features of patients infected with
+ novel coronavirus in Wuhan, China. Lancet ; : –.
+	 Chen N, Zhou M, Dong X, et al. Epidemiological and clinical
+characteristics of  cases of  novel coronavirus pneumonia in
+Wuhan, China: a descriptive study. Lancet ; : –.
+	 Chan JF, Yuan S, Kok KH, et al. A familial cluster of
+pneumonia associated with the  novel coronavirus indicating
 person-to-person transmission: a study of a family cluster. Lancet
-2020; 395: 514–23.
-9	 Wu Z, McGoogan JM. Characteristics of and important lessons
-from the coronavirus disease 2019 (COVID-19) outbreak in China:
-summary of a report of 72 314 cases from the Chinese Center for
-Disease Control and Prevention. JAMA 2020; published online
-Feb 24. DOI:10.1001/jama.2020.2648.
-10	 WHO. Clinical management of severe acute respiratory infection
+; : –.
+	 Wu Z, McGoogan JM. Characteristics of and important lessons
+from the coronavirus disease  (COVID-) outbreak in China:
+summary of a report of   cases from the Chinese Center for
+Disease Control and Prevention. JAMA ; published online
+Feb . DOI:./jama...
+	 WHO. Clinical management of severe acute respiratory infection
 when novel coronavirus (nCoV) infection is suspected. Interim
-guidance. Jan 28, 2020. https://www.who.int/publications-detail/
+guidance. Jan , . https://www.who.int/publications-detail/
 clinical-management-of-severe-acute-respiratory-infection-whennovel-coronavirus-(ncov)-infection-is-suspected (accessed
-Jan 28, 2020).
-11	 European Centre for Disease Prevention and Control. Infection
-prevention and control for the care of patients with 2019-nCoV in
-healthcare settings. February, 2020. https://www.ecdc.europa.eu/
-sites/default/files/documents/nove-coronavirus-infection-preventioncontrol-patients-healthcare-settings.pdf (accessed Feb 2, 2020).
+Jan , ).
+	 European Centre for Disease Prevention and Control. Infection
+prevention and control for the care of patients with -nCoV in
+healthcare settings. February, . https://www.ecdc.europa.eu/
+sites/default/files/documents/nove-coronavirus-infection-preventioncontrol-patients-healthcare-settings.pdf (accessed Feb , ).
 
-www.thelancet.com/infection Published online March 27, 2020 https://doi.org/10.1016/S1473-3099(20)30200-0	
+www.thelancet.com/infection Published online March ,  https://doi.org/./S-()-	
 
-9
+
 
 Articles
 
-12	 Dunning JW, Merson L, Rohde GGU, et al. Open source clinical
-science for emerging infections. Lancet Infect Dis 2014; 14: 8–9.
-13	 WHO. Coronavirus disease (COVID-19) technical guidance:
-Laboratory testing for 2019-nCoV in humans. https://www.who.int/
-emergencies/diseases/novel-coronavirus-2019/technical-guidance/
-laboratory-guidance (accessed Jan 17, 2020).
-14	 Corman VM, Landt O, Kaiser M, Molenkamp R, Meijer A, Chu DK,
-et al. Detection of 2019 novel coronavirus (2019-nCoV) by real-time
-RT-PCR. Euro Surveill 2020; 25: 2000045.
-15	 Feghoul L, Salmona M, Cherot J, et al. Evaluation of a new device
+	 Dunning JW, Merson L, Rohde GGU, et al. Open source clinical
+science for emerging infections. Lancet Infect Dis ; : –.
+	 WHO. Coronavirus disease (COVID-) technical guidance:
+Laboratory testing for -nCoV in humans. https://www.who.int/
+emergencies/diseases/novel-coronavirus-/technical-guidance/
+laboratory-guidance (accessed Jan , ).
+	 Corman VM, Landt O, Kaiser M, Molenkamp R, Meijer A, Chu DK,
+et al. Detection of  novel coronavirus (-nCoV) by real-time
+RT-PCR. Euro Surveill ; : .
+	 Feghoul L, Salmona M, Cherot J, et al. Evaluation of a new device
 for simplifying and standardizing stool sample preparation for viral
-molecular testing with limited hands-on time. J Clin Microbiol 2016;
-54: 928–33.
-16	 Zou L, Ruan F, Huang M, et al. SARS-CoV-2 viral load in upper
-respiratory specimens of infected patients. N Engl J Med 2020;
-published online Feb 19. DOI:10.1056/NEJMc2001737.
-17	 Cheng PK, Wong DA, Tong LK, et al. Viral shedding patterns of
+molecular testing with limited hands-on time. J Clin Microbiol ;
+: –.
+	 Zou L, Ruan F, Huang M, et al. SARS-CoV- viral load in upper
+respiratory specimens of infected patients. N Engl J Med ;
+published online Feb . DOI:./NEJMc.
+	 Cheng PK, Wong DA, Tong LK, et al. Viral shedding patterns of
 coronavirus in patients with probable severe acute respiratory
-syndrome. Lancet 2004; 363: 1699–700.
-18	 Poon LL, Chan KH, Wong OK, et al. Detection of SARS coronavirus
+syndrome. Lancet ; : –.
+	 Poon LL, Chan KH, Wong OK, et al. Detection of SARS coronavirus
 in patients with severe acute respiratory syndrome by conventional
 and real-time quantitative reverse transcription-PCR assays.
-Clin Chem 2004; 50: 67–72.
-19	 Tang P, Louie M, Richardson SE, et al. Interpretation of diagnostic
+Clin Chem ; : –.
+	 Tang P, Louie M, Richardson SE, et al. Interpretation of diagnostic
 laboratory tests for severe acute respiratory syndrome: the Toronto
-experience. CMAJ 2004; 170: 47–54.
-20	 Holshue ML, DeBolt C, Lindquist S, et al. First case of 2019 novel
-coronavirus in the United States. N Engl J Med 2020; 382: 929–36.
-21	 de Wit E, van Doremalen N, Falzarano D, Munster VJ. SARS and
+experience. CMAJ ; : –.
+	 Holshue ML, DeBolt C, Lindquist S, et al. First case of  novel
+coronavirus in the United States. N Engl J Med ; : –.
+	 de Wit E, van Doremalen N, Falzarano D, Munster VJ. SARS and
 MERS: recent insights into emerging coronaviruses.
-Nat Rev Microbiol 2016; 14: 523–34.
+Nat Rev Microbiol ; : –.
 
-10	
+	
 
-22	 Perlman S, Netland J. Coronaviruses post-SARS: update on
-replication and pathogenesis. Nat Rev Microbiol 2009; 7: 439–50.
-23	 Faure E, Poissy J, Goffard A, et al. Distinct immune response in
+	 Perlman S, Netland J. Coronaviruses post-SARS: update on
+replication and pathogenesis. Nat Rev Microbiol ; : –.
+	 Faure E, Poissy J, Goffard A, et al. Distinct immune response in
 two MERS-CoV-infected patients: can we go from bench to bedside?
-PLoS One 2014; 9: e88716.
-24	 Guery B, Poissy J, el Mansouf L, et al. Clinical features and viral
+PLoS One ; : e.
+	 Guery B, Poissy J, el Mansouf L, et al. Clinical features and viral
 diagnosis of two cases of infection with Middle East Respiratory
 Syndrome coronavirus: a report of nosocomial transmission. Lancet
-2013; 381: 2265–72.
-25	 Gorbalenya AE. Severe acute respiratory syndrome-related
+; : –.
+	 Gorbalenya AE. Severe acute respiratory syndrome-related
 coronavirus: the species and its viruses, a statement of the
-Coronavirus Study Group. bioRxiv 2020; published online
-Feb 11, 2020. DOI:10.1101/2020.02.07.937862 (preprint).
-26	 Sheahan TP, Sims AC, Leist SR, et al. Comparative therapeutic
+Coronavirus Study Group. bioRxiv ; published online
+Feb , . DOI:./... (preprint).
+	 Sheahan TP, Sims AC, Leist SR, et al. Comparative therapeutic
 efficacy of remdesivir and combination lopinavir, ritonavir, and
-interferon beta against MERS-CoV. Nat Commun 2020; 11: 222.
-27	 Sheahan TP, Sims AC, Graham RL, et al. Broad-spectrum antiviral
-GS-5734 inhibits both epidemic and zoonotic coronaviruses.
-Sci Transl Med 2017; 9: eaal3653.
-28	 Wang M, Cao R, Zhang L, et al. Remdesivir and chloroquine
+interferon beta against MERS-CoV. Nat Commun ; : .
+	 Sheahan TP, Sims AC, Graham RL, et al. Broad-spectrum antiviral
+GS- inhibits both epidemic and zoonotic coronaviruses.
+Sci Transl Med ; : eaal.
+	 Wang M, Cao R, Zhang L, et al. Remdesivir and chloroquine
 effectively inhibit the recently emerged novel coronavirus
-(2019-nCoV) in vitro. Cell Res 2020; 30: 269–71.
-29	 Mulangu S, Dodd LE, Davey RT Jr, et al. A randomized, controlled
-trial of Ebola virus disease therapeutics. N Engl J Med 2019;
-381: 2293–303.
+(-nCoV) in vitro. Cell Res ; : –.
+	 Mulangu S, Dodd LE, Davey RT Jr, et al. A randomized, controlled
+trial of Ebola virus disease therapeutics. N Engl J Med ;
+: –.
 
-www.thelancet.com/infection Published online March 27, 2020 https://doi.org/10.1016/S1473-3099(20)30200-0
+www.thelancet.com/infection Published online March ,  https://doi.org/./S-()-
 
 

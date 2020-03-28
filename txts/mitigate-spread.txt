@@ -1,50 +1,50 @@
 Articles
 
-Interventions to mitigate early spread of SARS-CoV-2
+Interventions to mitigate early spread of SARS-CoV-
 in Singapore: a modelling study
 Joel R Koo, Alex R Cook, Minah Park, Yinxiaohe Sun, Haoyang Sun, Jue Tao Lim, Clarence Tam, Borame L Dickens
 
 Summary
 
-Background Since the coronavirus disease 2019 outbreak began in the Chinese city of Wuhan on Dec 31, 2019, 68 imported
-cases and 175 locally acquired infections have been reported in Singapore. We aimed to investigate options for early
+Background Since the coronavirus disease  outbreak began in the Chinese city of Wuhan on Dec , ,  imported
+cases and  locally acquired infections have been reported in Singapore. We aimed to investigate options for early
 intervention in Singapore should local containment (eg, preventing disease spread through contact tracing efforts) be
 unsuccessful.
 Methods We adapted an influenza epidemic simulation model to estimate the likelihood of human-to-human
-transmission of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in a simulated Singaporean
-population. Using this model, we estimated the cumulative number of SARS-CoV-2 infections at 80 days, after
-detection of 100 cases of community transmission, under three infectivity scenarios (basic reproduction number [R0]
-of 1∙5, 2∙0, or 2∙5) and assuming 7·5% of infections are asymptomatic. We first ran the model assuming no
+transmission of severe acute respiratory syndrome coronavirus  (SARS-CoV-) in a simulated Singaporean
+population. Using this model, we estimated the cumulative number of SARS-CoV- infections at  days, after
+detection of  cases of community transmission, under three infectivity scenarios (basic reproduction number [R]
+of ∙, ∙, or ∙) and assuming ·% of infections are asymptomatic. We first ran the model assuming no
 intervention was in place (baseline scenario), and then assessed the effect of four intervention scenarios compared
-with a baseline scenario on the size and progression of the outbreak for each R0 value. These scenarios included
+with a baseline scenario on the size and progression of the outbreak for each R value. These scenarios included
 isolation measures for infected individuals and quarantining of family members (hereafter referred to as quarantine);
 quarantine plus school closure; quarantine plus workplace distancing; and quarantine, school closure, and workplace
 distancing (hereafter referred to as the combined intervention). We also did sensitivity analyses by altering the
-asymptomatic fraction of infections (22·7%, 30·0%, 40·0%, and 50·0%) to compare outbreak sizes under the same
+asymptomatic fraction of infections (·%, ·%, ·%, and ·%) to compare outbreak sizes under the same
 control measures.
-Findings For the baseline scenario, when R0 was 1·5, the median cumulative number of infections at day 80 was
-279 000 (IQR 245 000–320 000), corresponding to 7∙4% (IQR 6·5–8·5) of the resident population of Singapore. The
-median number of infections increased with higher infectivity: 727 000 cases (670 000–776 000) when R0 was 2·0,
-corresponding to 19∙3% (17∙8–20∙6) of the Singaporean population, and 1 207 000 cases (1 164 000–1 249 000) when
-R0 was 2·5, corresponding to 32% (30∙9–33∙1) of the Singaporean population. Compared with the baseline scenario,
-the combined intervention was the most effective, reducing the estimated median number of infections by 99∙3%
-(IQR 92∙6–99∙9) when R0 was 1·5, by 93·0% (81∙5–99∙7) when R0 was 2·0, and by 78∙2% (59·0 –94∙4) when R0 was
-2·5. Assuming increasing asymptomatic fractions up to 50·0%, up to 277 000 infections were estimated to occur at
-day 80 with the combined intervention relative to 1800 for the baseline at R0 of 1·5.
+Findings For the baseline scenario, when R was ·, the median cumulative number of infections at day  was
+  (IQR  – ), corresponding to ∙% (IQR ·–·) of the resident population of Singapore. The
+median number of infections increased with higher infectivity:   cases ( – ) when R was ·,
+corresponding to ∙% (∙–∙) of the Singaporean population, and    cases (  –  ) when
+R was ·, corresponding to % (∙–∙) of the Singaporean population. Compared with the baseline scenario,
+the combined intervention was the most effective, reducing the estimated median number of infections by ∙%
+(IQR ∙–∙) when R was ·, by ·% (∙–∙) when R was ·, and by ∙% (· –∙) when R was
+·. Assuming increasing asymptomatic fractions up to ·%, up to   infections were estimated to occur at
+day  with the combined intervention relative to  for the baseline at R of ·.
 
-Lancet Infect Dis 2020
+Lancet Infect Dis 
 Published Online
-March 23, 2020
-https://doi.org/10.1016/
-S1473-3099(20)30162-6
+March , 
+https://doi.org/./
+S-()-
 This online publication has
 been corrected. The corrected
 version first appeared at
 thelancet.com/infection on
-March 27, 2020
+March , 
 See Online/Comment
-https://doi.org/10.1016/
-S1473-3099(20)30190-0
+https://doi.org/./
+S-()-
 Saw Swee Hock School of
 Public Health, National
 University of Singapore,
@@ -59,102 +59,102 @@ Correspondence to:
 Dr Alex R Cook, Saw Swee Hock
 School of Public Health, National
 University of Singapore,
-Singapore 117549
+Singapore 
 alex.richard.cook@gmail.com
 
 Interpretation Implementing the combined intervention of quarantining infected individuals and their family
 members, workplace distancing, and school closure once community transmission has been detected could
-substantially reduce the number of SARS-CoV-2 infections. We therefore recommend immediate deployment of this
+substantially reduce the number of SARS-CoV- infections. We therefore recommend immediate deployment of this
 strategy if local secondary transmission is confirmed within Singapore. However, quarantine and workplace
 distancing should be prioritised over school closure because at this early stage, symptomatic children have higher
 withdrawal rates from school than do symptomatic adults from work. At higher asymptomatic proportions,
 intervention effectiveness might be substantially reduced requiring the need for effective case management and
 treatments, and preventive measures such as vaccines.
 Funding Singapore Ministry of Health, Singapore Population Health Improvement Centre.
-Copyright © 2020 Elsevier Ltd. All rights reserved.
+Copyright ©  Elsevier Ltd. All rights reserved.
 
 Introduction
-In December, 2019, several health facilities in the
+In December, , several health facilities in the
 Chinese city of Wuhan (Hubei province) reported
-clusters of individuals with pneumonia1 whose clinical
+clusters of individuals with pneumonia whose clinical
 presentations resembled the symptoms of severe acute
 respiratory syndrome coronavirus (SARS-CoV), which
-emerged in 2002 in the nearby Guangdong province and
-led to outbreaks worldwide.2 On Jan 7, 2020, a novel
+emerged in  in the nearby Guangdong province and
+led to outbreaks worldwide. On Jan , , a novel
 strain of coronavirus, severe acute respiratory syndrome
 
-corona­virus 2 (SARS-CoV-2), was isolated, confirming
+corona­virus  (SARS-CoV-), was isolated, confirming
 the circulation of a new respiratory illness, coronavirus
-disease 2019 (COVID-19), with evidence suggesting that
+disease  (COVID-), with evidence suggesting that
 the Huanan seafood wholesale market was the initial
-transmission site.3 On Jan 1, 2020, the market was closed
+transmission site. On Jan , , the market was closed
 for environmental sanitation and disinfection to prevent
-further transmission.4 Cases of COVID-19 have since
-been reported in health-care workers3 and family clusters
-in China,5 with 67 794 cases and 3805 deaths confirmed
+further transmission. Cases of COVID- have since
+been reported in health-care workers and family clusters
+in China, with   cases and  deaths confirmed
 
-www.thelancet.com/infection Published online March 23, 2020 https://doi.org/10.1016/S1473-3099(20)30162-6	
+www.thelancet.com/infection Published online March ,  https://doi.org/./S-()-	
 
-1
+
 
 Articles
 
 Research in context
 Evidence before this study
 At present, in Wuhan, the capital of Hubei province in China,
-an outbreak of coronavirus disease 2019 (COVID-19) is
-ongoing, caused by the 2019 novel coronavirus, severe acute
-respiratory syndrome coronavirus 2 (SARS-CoV-2; previously
-called 2019-nCoV). Evidence to date has suggested rapid spread
+an outbreak of coronavirus disease  (COVID-) is
+ongoing, caused by the  novel coronavirus, severe acute
+respiratory syndrome coronavirus  (SARS-CoV-; previously
+called -nCoV). Evidence to date has suggested rapid spread
 of the virus: at the time of writing, imported cases have been
-reported in 143 countries and territories, including Singapore.
-243 confirmed cases have been reported in Singapore; however,
+reported in  countries and territories, including Singapore.
+ confirmed cases have been reported in Singapore; however,
 this number is expected to increase substantially in the
-following weeks. In 2003, SARS-CoV, which also originated
-from mainland China, established locally, causing 33 deaths
-after 238 cases were confirmed. Therefore, there is considerable
-concern since 3204 deaths and 81 048 cases of COVID-19 have
+following weeks. In , SARS-CoV, which also originated
+from mainland China, established locally, causing  deaths
+after  cases were confirmed. Therefore, there is considerable
+concern since  deaths and   cases of COVID- have
 already been confirmed in mainland China, which surpasses the
-numbers observed in the SARS-CoV outbreak. 2020 Lunar
+numbers observed in the SARS-CoV outbreak.  Lunar
 New Year celebrations have now ended, marking a period
 of extensive travel between China and Singapore, and a
 corresponding high risk for case importation. Despite
 heightened surveillance and isolation of individuals suspected
-to have COVID-19 and confirmed cases, the risk is ongoing,
+to have COVID- and confirmed cases, the risk is ongoing,
 with the number of cases continuing to increase in Singapore.
 Immediate deployment of interventions will be required to
 contain the outbreak in the event that significant secondary
 local transmission is observed within the community. We
-searched PubMed from database inception to Feb 26, 2020,
+searched PubMed from database inception to Feb , ,
 for articles using the search terms “Wuhan coronavirus”,
-“COVID-19”, “SARS-CoV-2”, “2019-nCoV”, and “coronavirus
+“COVID-”, “SARS-CoV-”, “-nCoV”, and “coronavirus
 interventions”. Our search yielded three relevant articles.
 
-in Hubei province as of March 15, 2020.6 Older
-individuals (aged >60 years) and people with chronic
+in Hubei province as of March , . Older
+individuals (aged > years) and people with chronic
 underlying health conditions are particularly susceptible
-to severe disease.5 Rapid spread of the virus compelled
+to severe disease. Rapid spread of the virus compelled
 the Chinese Government to restrict movement in
-affected cities, with the cessation of public transport7 and
-cancellation of flights.8 Despite extensive efforts to
-prevent onward spread, 143 countries and territories
+affected cities, with the cessation of public transport and
+cancellation of flights. Despite extensive efforts to
+prevent onward spread,  countries and territories
 outside of mainland China have now reported imported
-cases.6
+cases.
 Internationally, ongoing local transmission of
-SARS-CoV-2 has been confirmed in 81 countries and
-territories.6 In Singapore, 243 individuals have tested
-positive for SARS-CoV-2, 121 have been hospitalised and
-are stable, 13 are in a critical condition, and 109 have
-been discharged at the time of writing.9 The first case in
-Singapore was identified on Jan 23, 2020, and was
-imported from China;10 a further 68 cases were imported,
-with the remaining 175 cases most likely the result
-of transmission within Singapore.11 All imported cases
+SARS-CoV- has been confirmed in  countries and
+territories. In Singapore,  individuals have tested
+positive for SARS-CoV-,  have been hospitalised and
+are stable,  are in a critical condition, and  have
+been discharged at the time of writing. The first case in
+Singapore was identified on Jan , , and was
+imported from China; a further  cases were imported,
+with the remaining  cases most likely the result
+of transmission within Singapore. All imported cases
 were travellers who had returned from Wuhan before
-Feb 4, 2020, with transmission to close contacts recorded
+Feb , , with transmission to close contacts recorded
 within families at a church and shop in three small
-transmission clusters.11
-2	
+transmission clusters.
+	
 
 Two articles investigated the effects of travel restrictions in
 Wuhan during the early stages of the outbreak; one of the
@@ -165,9 +165,9 @@ We found no articles assessing the efficacy of immediate
 national control measures outside of China.
 Added value of this study
 This study is the first to investigate the use of isolation for
-individuals with COVID-19 and quarantine of family members,
+individuals with COVID- and quarantine of family members,
 school closures, and workplace distancing as interventions for
-the immediate control of COVID-19 in the event of secondary
+the immediate control of COVID- in the event of secondary
 local transmission using a simulation model. We found that a
 combined approach (incorporating quarantine, school closures,
 and workplace distancing) could prevent a national outbreak at
@@ -183,32 +183,32 @@ relatively standard outbreak control measures that could
 mitigate or reduce local transmission rates if deployed
 effectively and in a timely manner.
 
-As of March 16, 2020, inpatients with COVID-19 in
+As of March , , inpatients with COVID- in
 Singapore are isolated at the hospital they present to or at
 the National Centre for Infectious Diseases, a specialised
 facility designed to facilitate infectious disease outbreak
-response.10 A government-wide taskforce has been
+response. A government-wide taskforce has been
 established to increase surveillance at borders and
-prepare the public in terms of awareness and education.10
+prepare the public in terms of awareness and education.
 The Ministry of Health Singapore has implemented
 contact tracing efforts to identify potential cases among
 people travelling with, or in close proximity to, individuals
-with COVID-19.12 Despite these efforts and nationwide
+with COVID-. Despite these efforts and nationwide
 precautionary measures, including the dispensing of
 masks to households and public hospital emergency
 departments being on high alert for an outbreak response,
 the number of suspected and imported cases in Singapore
 is expected to increase due to the high volume of
-incoming travellers.10 Preliminary estimates indicate that
-the ascertainment rate in Wuhan is 5∙1% (95% CI
-4∙8–5∙5);13 however, high levels of under-reporting and
+incoming travellers. Preliminary estimates indicate that
+the ascertainment rate in Wuhan is ∙% (% CI
+∙–∙); however, high levels of under-reporting and
 misdiagnosis due to difficulties in identifying cases make
 it challenging for policy makers to prepare a large-scale
 response. Consequently, following the recom­mendations
-made by Wu and colleagues,14 modelling studies are
+made by Wu and colleagues, modelling studies are
 needed to estimate the potential impact of interventions
 
-www.thelancet.com/infection Published online March 23, 2020 https://doi.org/10.1016/S1473-3099(20)30162-6
+www.thelancet.com/infection Published online March ,  https://doi.org/./S-()-
 
 Articles
 
@@ -216,7 +216,7 @@ in the early phase of the outbreak when uncertainty is
 highest, which is crucial should local transmission begin
 to increase.
 In this study, we aimed to develop a national spatial
-model of COVID-19 transmission in Singapore to
+model of COVID- transmission in Singapore to
 estimate the distribution of cases across time and space
 and to assess the potential impact of interventions on
 outbreak size should local containment efforts fail.
@@ -224,76 +224,76 @@ outbreak size should local containment efforts fail.
 Methods
 
 Epidemic simulation model
-We used FluTE,15 an agent-based influenza epidemic
+We used FluTE, an agent-based influenza epidemic
 simulation model, which accounts for demography, host
 movement, and social contact rates in workplaces, schools,
 and homes to estimate the likelihood of human-to-human
-transmission of SARS-CoV-2 should local containment
+transmission of SARS-CoV- should local containment
 fail. The FluTE simulation model requires a synthetic
 population to build the contact and transmission network.
 Therefore, we used the geographical, demographic, and
 epidemiological model of Singapore (hereafter referred
 to as GeoDEMOS-R, where R represents respiratory
-illness),16 a modelling framework that aims to recreate a
+illness), a modelling framework that aims to recreate a
 synthetic but realistic representation of the Singaporean
 population at the household and individual level. We
-generated the synthetic population using national 2010
-census data17,18 to fit multiple attributes of the population at
+generated the synthetic population using national 
+census data, to fit multiple attributes of the population at
 the household and individual level. The generated house­
 holds contained demographic characteristics, such as age,
 marital status, religion, and ethnicity, of household
 members. Individuals were then allocated to workplaces
 or educational facilities on the basis of local transportation
-data and home addresses according to 2010 census
-data.19 The contact behaviour of individuals in the area
+data and home addresses according to  census
+data. The contact behaviour of individuals in the area
 of their home (ie, between family members and their local
 community; defined as the home community), workplace,
 and school, where applicable, were recorded with potential
 transmission events as a function of infectivity. We ran the
-models for 80 days to investigate the early stages of an
-epidemic and seeded 100 local cases randomly among
-the resident population at 0 days, representing a few
+models for  days to investigate the early stages of an
+epidemic and seeded  local cases randomly among
+the resident population at  days, representing a few
 generations of local transmission at the time of scenario
 implementation (ie, when contact tracing has failed to
 identify cases within the community and unknown local
 transmission has started). A full description of the model
-is available in the appendix (pp 1–5).
+is available in the appendix (pp –).
 
-SARS-CoV-2 infection parameters
+SARS-CoV- infection parameters
 Within the FluTE infection model, we assumed that no
-individual had existing immunity to SARS-CoV-2. Since
+individual had existing immunity to SARS-CoV-. Since
 data (ie, infectiousness, the cumulative distribution
 function for the incubation period, and the duration
-of hospital stay) on SARS-CoV-2 were unavailable at
+of hospital stay) on SARS-CoV- were unavailable at
 the time of designing this study, we used SARS-CoV
 parameters to estimate the infectivity profile of
-SARS-CoV-2. These parameters included how infectious
-an individual is over time,20 the proportion of the
-population assumed to be asymptomatic (7·5%),21 the
+SARS-CoV-. These parameters included how infectious
+an individual is over time, the proportion of the
+population assumed to be asymptomatic (·%), the
 
 cumulative distribution function for the mean incubation
-period (with SARS-CoV and SARS-CoV-2 having the
-same mean incubation period of 5·3 days),3,22 and the
-duration of hospital stay after symptom onset (3·5 days).20
+period (with SARS-CoV and SARS-CoV- having the
+same mean incubation period of · days),, and the
+duration of hospital stay after symptom onset (· days).
 Asymptomatic individuals were able to infect at a
-50% reduced rate compared with their symptomatic
+% reduced rate compared with their symptomatic
 counterparts based on estimates from Nishiura and
-colleagues.23
+colleagues.
 We also investigated four alternate asymptomatic
-proportions: 22·7%, as reported by Furuya-Kanamori
-and colleagues24 for influenza A H1N1 in a pooled
-prevalence study; and 30·0%, 40·0%, and 50·0%, as
+proportions: ·%, as reported by Furuya-Kanamori
+and colleagues for influenza A HN in a pooled
+prevalence study; and ·%, ·%, and ·%, as
 potential but theoretical proportions to investigate
 intervention efficacy with a high fraction of infections
 that are cryptic and undetectable.
-Three values for the basic reproduction number (R0)
-were chosen for the infectiousness factor (1∙5, 2·0, and
-2∙5) on the basis of analyses of Wuhan case data by Wu
-and colleagues.14
+Three values for the basic reproduction number (R)
+were chosen for the infectiousness factor (∙, ·, and
+∙) on the basis of analyses of Wuhan case data by Wu
+and colleagues.
 
 Intervention scenarios
 For the baseline scenario (ie, no interventions), we ran
-1000 epidemic simulations to account for the stochasticity
+ epidemic simulations to account for the stochasticity
 in infection contact networks and to calculate CIs
 across time. Four intervention scenarios were proposed
 for implementation after failure of local containment,
@@ -302,79 +302,79 @@ Singaporean Ministry of Health, as standard interventions
 for respiratory virus control: isolation of infected
 individuals and quarantine of their family members
 (hereafter referred to as quarantine); quarantine plus
-immediate school closure for 2 weeks; quarantine plus
-immediate workplace distancing, in which 50% of the
-workforce is encouraged to work from home for 2 weeks;
+immediate school closure for  weeks; quarantine plus
+immediate workplace distancing, in which % of the
+workforce is encouraged to work from home for  weeks;
 and a combination of quarantine, immediate school
 closure, and workplace distancing (hereafter referred to
 as the combined intervention). Quarantine of infected
-individuals is expected to occur 1 day after symptom onset
-in a health-care facility that is assumed to have 3000 beds
+individuals is expected to occur  day after symptom onset
+in a health-care facility that is assumed to have  beds
 at maximum capacity (during the early stage of the
 outbreak) and is fully equipped to handle full quarantine
 measures (ie, negative pressure isolation rooms, full
 personal protective equipment use by staff) so that the
-individual is unable to transmit SARS-CoV-2 to other
+individual is unable to transmit SARS-CoV- to other
 inpatients. At full capacity, the remaining individuals
 are isolated at home after receiving treatment. Family
 members of infected individuals are quarantined at home
-for 14 days and thus are unable to attend work or school or
+for  days and thus are unable to attend work or school or
 infect the wider community at their residential address.
 However, transmission within families is possible as
 a result of the presence of an isolated and infected
 individual. Each of these intervention scenarios had
-1000 simulations in which we additionally recorded the
+ simulations in which we additionally recorded the
 location of infection as the home community, workplace,
-or school (appendix pp 3–4).
-Each of the 1000 epidemic simulations had a set of
+or school (appendix pp –).
+Each of the  epidemic simulations had a set of
 parameters, and was run for baseline and the four
 
-www.thelancet.com/infection Published online March 23, 2020 https://doi.org/10.1016/S1473-3099(20)30162-6	
+www.thelancet.com/infection Published online March ,  https://doi.org/./S-()-	
 
 See Online for appendix
 
-3
+
 
 Articles
 
 the same parameters, not the medians of each grouping.
-We calculated IQRs as the 25th and 75th simulation in
-terms of cumulative case count at 80 days. We used R
-statistical software (version 3.6.3) to plot graphs and for
+We calculated IQRs as the th and th simulation in
+terms of cumulative case count at  days. We used R
+statistical software (version ..) to plot graphs and for
 all analyses. We chose to present intervention data for
-the scenario in which R0 is 2·0, because this represents a
+the scenario in which R is ·, because this represents a
 moderate and likely outbreak for policy planners. The
-relatively mild (R0 =1·5) and severe (R0 =2.5) outbreak
-scenarios are presented in the appendix (pp 9–10).
+relatively mild (R =·) and severe (R =.) outbreak
+scenarios are presented in the appendix (pp –).
 
-R0=1·5
-400
+R=·
+
 Cumulative number of infections (thousands)
 
-14
+
 
 Number of infections (thousands)
 
-12
-10
-8
-6
-4
-2
-0
+
+
+
+
+
+
+
 
 Percentile
-100
-50
-0
 
-300
 
-200
+
+
+
+
+
 
 Role of the funding source
 
-100
+
 
 The funders had no role in study design, data
 collection, data analysis, data interpretation, or writing
@@ -382,165 +382,165 @@ of the report. The corresponding author had full access
 to all the data in the study and had final responsibility
 for the decision to submit for publication.
 
-0
-R0=2·0
-1000
+
+R=·
+
 Cumulative number of infections (thousands)
 
 Number of infections (thousands)
 
-40
 
-30
 
-20
 
-10
 
-0
+
+
+
+
+
 
 Percentile
-100
+
 
 Results
 
-50
 
-800
 
-0
 
-600
 
-400
 
-200
 
-0
-R0=2·5
 
-40
 
-30
 
-20
 
-10
 
-0
+
+
+R=·
+
+
+
+
+
+
+
+
+
+
 
 Percentile
-100
 
-1400
+
+
 Cumulative number of infections (thousands)
 
 Number of infections (thousands)
 
-50
 
-0
 
-2
 
-4
 
-6
-Week
 
-8
 
-10
 
-12
 
-50
-
-1200
-
-0
-1000
-800
-600
-400
-200
-0
-
-0
-
-2
-
-4
-
-6
-
-8
-
-10
-
-12
 
 Week
 
-Figure 1: Total daily number and cumulative number of SARS-CoV-2 infections up to 80 days after failure of
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Week
+
+Figure : Total daily number and cumulative number of SARS-CoV- infections up to  days after failure of
 local containment for the baseline scenario, by infectivity level
 Total number of daily infections is shown on the left; cumulative number of infections is shown on the right.
-Dark lines represent the medians in each panel. Shaded areas show all 1000 simulations for each scenario.
-SARS-CoV-2=severe acute respiratory syndrome coronavirus 2. R0=basic reproduction number.
+Dark lines represent the medians in each panel. Shaded areas show all  simulations for each scenario.
+SARS-CoV-=severe acute respiratory syndrome coronavirus . R=basic reproduction number.
 
 control strategies. The median simulation was deter­
 mined as the median cumulative number of cases at day
-80. The same set of parameters was used for each
-1000 set of simulations for each R0 value. When
+. The same set of parameters was used for each
+ set of simulations for each R value. When
 analysing differences across infectivity scenarios, we
 compared the outputs of each simulation, which used
-4	
+	
 
-For the baseline scenario, when R0 was 1·5, the median
-cumulative number of infections on day 80 was 279 000
-(IQR 245 000–320 000; figure 1, table), which corresponds
-to 7∙4% (IQR 6∙5–8∙5) of the population. For the
+For the baseline scenario, when R was ·, the median
+cumulative number of infections on day  was  
+(IQR  – ; figure , table), which corresponds
+to ∙% (IQR ∙–∙) of the population. For the
 quarantine intervention, the median cumulative number
-of infections at day 80 was reduced to 15 000 (800–30 000;
-table; appendix p 9), which is a 94∙8% decrease
-(90·2–99·7) in the number of infected individuals
+of infections at day  was reduced to   (– ;
+table; appendix p ), which is a ∙% decrease
+(·–·) in the number of infected individuals
 compared with the baseline scenario. School closure and
 workplace distancing reduced the median cumulative
-number of infections on day 80 to 10 000 (200–28 000) and
-4000 (200–23 000), respectively (table; appendix p 9). The
+number of infections on day  to   (– ) and
+ (– ), respectively (table; appendix p ). The
 combined inter­vention decreased the median cumulative
-infection count on day 80 to 1800 (200–23 000; table;
-appendix p 9), representing a 99∙3% (IQR 92·6–99·9)
+infection count on day  to  (– ; table;
+appendix p ), representing a ∙% (IQR ·–·)
 reduction from the baseline scenario. The corresponding
-maximum number of daily infections from day 0 to day 80
-was 12 400 (IQR 11 700–12 900) for the baseline scenario,
-600 (0–1400) for the quarantine scenario, 500 (0–1300) for
-the school-closure scenario, 300 (0–900) for the workplacedistancing scenario, and 120 (0–900) for the combined
-intervention (figure 1; appendix p 9).
-When R0 was 2·0, the proportion of the Singaporean
+maximum number of daily infections from day  to day 
+was   (IQR  – ) for the baseline scenario,
+ (–) for the quarantine scenario,  (–) for
+the school-closure scenario,  (–) for the workplacedistancing scenario, and  (–) for the combined
+intervention (figure ; appendix p ).
+When R was ·, the proportion of the Singaporean
 population infected under the baseline scenario increa­sed to
-19∙3% (IQR 17∙8–20∙6), with a median cumulative number
-of infections on day 80 of 727 000 (IQR 670 000–776 000;
-figure 1, table). On day 80, quarantine resulted in a cumu­
-lative median of 130 
-000 cases (38 
-000–244 
-000), school
-closure 97 000 cases (14 000–219 000), workplace distancing
-67 000 cases (11 000–145 000), and the combined intervention
-50 000 cases (2000–143 000; figure 2, table). The maximum
-number of daily infections was 27 800 (IQR 27 300–28 000)
-for the baseline scenario, 11 
-000 (4100–18 
-600) for the
-quarantine scenario, 8400 (1900–17 
-000) for the schoolclosure scenario, 6100 (1500–12 
-000) for the workplacedistancing scenario, and 4900 (100–11 700) for the combined
-intervention (figures 1, 2). The combined approach
+∙% (IQR ∙–∙), with a median cumulative number
+of infections on day  of   (IQR  – ;
+figure , table). On day , quarantine resulted in a cumu­
+lative median of  
+ cases ( 
+– 
+), school
+closure   cases ( – ), workplace distancing
+  cases ( – ), and the combined intervention
+  cases (– ; figure , table). The maximum
+number of daily infections was   (IQR  – )
+for the baseline scenario,  
+ (– 
+) for the
+quarantine scenario,  (– 
+) for the schoolclosure scenario,  (– 
+) for the workplacedistancing scenario, and  (– ) for the combined
+intervention (figures , ). The combined approach
 resulted in the largest reduction in cases from baseline
-(93·0% reduction [IQR 81·5–99·7]).
+(·% reduction [IQR ·–·]).
 
-www.thelancet.com/infection Published online March 23, 2020 https://doi.org/10.1016/S1473-3099(20)30162-6
+www.thelancet.com/infection Published online March ,  https://doi.org/./S-()-
 
 Articles
 
@@ -554,174 +554,174 @@ Workplace distancing
 
 Combined intervention
 
-R0=1·5
+R=·
 Total number of infections
 
-279 000 (245 000–320 000)
+  ( – )
 
-15 000 (800–30 000)
+  (– )
 
-10 000 (200–28 000)
+  (– )
 
-4000 (200–23 000)
+ (– )
 
 Home community
 
-138 000 (116 000–152 000)
+  ( – )
 
-2200 (300–7800)
+ (–)
 
-2000 (117–7200)
+ (–)
 
-700 (98–5500)
+ (–)
 
 School
 Workplace
 
-1400 (1100–1500)
-139 000 (128 000–164 000)
+ (–)
+  ( – )
 
-14 (5–80)
-12 000 (500–21 900)
+ (–)
+  (– )
 
-16 (2–70)
-8000 (124–21 000)
+ (–)
+ (– )
 
-7 (4–51)
-3500 (102–17 800)
+ (–)
+ (– )
 
-1800 (200–23 000)
-300 (13–5700)
-1 (0–54)
-1500 (42–18 000)
+ (– )
+ (–)
+ (–)
+ (– )
 
-R0=2·0
+R=·
 Total number of infections
 
-727 000 (670 000–776 000)
+  ( – )
 
-130 000 (38 000–244 000)
+  ( – )
 
-97 000 (14 000–219 000)
+  ( – )
 
 Home community
 
-372 000 (339 000–411 000)
+  ( – )
 
-66 000 (23 000–129 000)
+  ( – )
 
-46 000 (11 000–113 000)
+  ( – )
 
 School
 Workplace
 
-4300 (3700–4300)
-351 000 (327 000–361 000)
+ (–)
+  ( – )
 
-600 (100–1200)
+ (–)
 
-500 (27–1000)
+ (–)
 
-67 000 (11 000–145 000)
-28 000 (8000–79 000)
-300 (33–800)
-38 000 (2800–65 000)
+  ( – )
+  (– )
+ (–)
+  (– )
 
-50 000 (2000–143 000)
-21 000 (1200–68 000)
-200 (11–800)
+  (– )
+  (– )
+ (–)
 
-63 000 (15 000–127 000)
+  ( – )
 
-51 000 (3000–105 000)
+  (– )
 
-28 000 (800–67 000)
+  (– )
 
-520 000 (268 000–754 000)
+  ( – )
 
-466 000 (175 000–728 000)
+  ( – )
 
-320 000 (116 000–558 000)
+  ( – )
 
-258 000 (65 000–508 000)
+  ( – )
 
-264 000 (144 000–410 000)
+  ( – )
 
-235 000 (92 000–366 000)
+  ( – )
 
-163 000 (66 000–281 000)
+  ( – )
 
-132 000 (34 000–265 000)
+  ( – )
 
-R0=2·5
+R=·
 Total number of infections
 Home community
 School
 Workplace
 
-1 207 000 (1 164 000–1 249 000)
-640 000 (623 000–675 000)
-7100 (7200–7900)
-560 000 (550 000–584 000)
+   (  –  )
+  ( – )
+ (–)
+  ( – )
 
-3000 (1400–4000)
-253 000 (140 000–390 000)
+ (–)
+  ( – )
 
-2400 (1300–3600)
-228 000 (82 000–358 000)
+ (–)
+  ( – )
 
-1500 (800–3400)
-156 000 (49 000–274 000)
+ (–)
+  ( – )
 
-1300 (300–2800)
-124 000 (31 000–241 000)
+ (–)
+  ( – )
 
-Data are median (IQR). All numbers up to 10 000 have been rounded to the nearest hundred, and numbers higher than 10 000 have been rounded to the nearest thousand, therefore, some discrepancies will exist
-in the summations. Due to the stochasticity within each simulation, numbers less than 20 indicate nearly complete suppression and should not be compared to assess effectiveness. SARS-CoV-2=severe acute
-respiratory syndrome coronavirus 2. R0=basic reproduction number.
+Data are median (IQR). All numbers up to   have been rounded to the nearest hundred, and numbers higher than   have been rounded to the nearest thousand, therefore, some discrepancies will exist
+in the summations. Due to the stochasticity within each simulation, numbers less than  indicate nearly complete suppression and should not be compared to assess effectiveness. SARS-CoV-=severe acute
+respiratory syndrome coronavirus . R=basic reproduction number.
 
-Table: Estimated median or cumulative number of SARS-CoV-2 infections on day 80 by location, intervention, and level of infectivity
+Table: Estimated median or cumulative number of SARS-CoV- infections on day  by location, intervention, and level of infectivity
 
-For the baseline scenario, when R0 was 2·5, 32%
-(IQR 30∙9–33∙1) of the Singaporean population were
-infected, with a cumulative median of 1 207 000 cases
-(IQR 1 164 000–1 249 000) on day 80 (figure 1, table). At
+For the baseline scenario, when R was ·, %
+(IQR ∙–∙) of the Singaporean population were
+infected, with a cumulative median of    cases
+(IQR   –  ) on day  (figure , table). At
 this level of trans­
 mission, quarantine resulted in a
-median of 520 
-000 cases (268 
-000–754 
-000), school
-closure 466 
-000 cases (175 
-000–728 
-000), workplace
-distancing 320 
-000 cases (116 
-000–558 
-000), and the
+median of  
+ cases ( 
+– 
+), school
+closure  
+ cases ( 
+– 
+), workplace
+distancing  
+ cases ( 
+– 
+), and the
 combined inter­
-vention 258 000 cases (65 000–508 000;
-table; appendix p 10). The maximum number of daily
-infections was 42 
-800 (IQR 41 400–43 
-500) for the
-baseline scenario, 37 900 (25 900–41 800) for the quaran­
+vention   cases ( – ;
+table; appendix p ). The maximum number of daily
+infections was  
+ (IQR  – 
+) for the
+baseline scenario,   ( – ) for the quaran­
 tine scena­
-rio, 36 
-400 (18 
-100–41 
-400) for the schoolclosure scenario, 29 
-800 (12 
-500–40 
-500) for the
-workplace-distancing scenario, and 25 200 (7700–39 200)
-for the combined intervention (figure 1; appendix
-p 10). Com­pared with baseline, the combined approach
-resulted in the greatest reduction in cases (78·2%
-[IQR 59·0–94·4]).
+rio,  
+ ( 
+– 
+) for the schoolclosure scenario,  
+ ( 
+– 
+) for the
+workplace-distancing scenario, and   (– )
+for the combined intervention (figure ; appendix
+p ). Com­pared with baseline, the combined approach
+resulted in the greatest reduction in cases (·%
+[IQR ·–·]).
 For all simulations, the median age of infection was
-37 years (IQR 26–49). The location of infection (school,
+ years (IQR –). The location of infection (school,
 workplace, or home community) was determined
 according to the site where individuals were exposed to
 the virus (table). Owing to behaviours of school
@@ -731,325 +731,325 @@ exceeded those at school, although students could be
 transmitting the virus within the home community
 (table). Such patterns of transmission are particularly
 evident for the combined intervention at higher levels of
-infectivity (R0=2·5), with a median of 1300 infections
-acquired at school (IQR 300–2800), 124 
-000 at the
-workplace (31 000–241 000), and 132 000 (34 000–265 000)
+infectivity (R=·), with a median of  infections
+acquired at school (IQR –),  
+ at the
+workplace ( – ), and   ( – )
 in the home community.
 
 The median number of daily infections across time
-showed that when R0 was 1·5 or 2·0, the epidemic peak
-was unlikely to occur during the 80-day timeframe,
-whereas when R0 was 2·5, a peak in cases was observed
-approximately 9 weeks after reaching 100 community
-infections (figure 1). When R0 was 2·5, the interventions
+showed that when R was · or ·, the epidemic peak
+was unlikely to occur during the -day timeframe,
+whereas when R was ·, a peak in cases was observed
+approximately  weeks after reaching  community
+infections (figure ). When R was ·, the interventions
 had a suppressive effect on the number of new cases each
 day, although the number of cases continued to increase
-at day 80, indicating a delayed intervention effect rather
-than a preventive effect as observed when R0 was 1·5
-(figure 2; appendix pp 9–10). Geospatially, the number of
-cases across Singapore at day 80 show a high number of
+at day , indicating a delayed intervention effect rather
+than a preventive effect as observed when R was ·
+(figure ; appendix pp –). Geospatially, the number of
+cases across Singapore at day  show a high number of
 home community infections in highly residential areas
-and considerable infection-source mixing (figure 3;
-appendix p 11). The combined intervention had the
+and considerable infection-source mixing (figure ;
+appendix p ). The combined intervention had the
 greatest effect on the number of infections, with a
-universal reduction across Singapore when R0 was
-1·5 (figure 3). The combined intervention had a smaller
-effect when R0 was 2·0 or 2·5, with a relatively
+universal reduction across Singapore when R was
+· (figure ). The combined intervention had a smaller
+effect when R was · or ·, with a relatively
 homogeneous distribution nationwide, although dense
 residential clusters in the north of Singapore, in areas
 near the Malaysia border, indicate strong comparative
 persistence of the virus despite the use of the combined
-approach (figure 3).
-Our models assumed that 7·5% of cases were asymp­
+approach (figure ).
+Our models assumed that ·% of cases were asymp­
 tomatic. Considering a higher asymptomatic proportion
-of the total infected population of 22·7%, owing to
+of the total infected population of ·%, owing to
 isolation of fewer infected individuals and quarantine of
 fewer family members, for the quarantine scenario when
-R0 was 1·5, an additional 100 000 cases (IQR 41 800–152 000)
-would be observed at 80 days (appendix p 7). Similarly, a
+R was ·, an additional   cases (IQR  – )
+would be observed at  days (appendix p ). Similarly, a
 higher asymptomatic proportion resulted in a higher
 median cumulative number of cases for the schoolclosure, work-distancing, and combined intervention
 
-www.thelancet.com/infection Published online March 23, 2020 https://doi.org/10.1016/S1473-3099(20)30162-6	
+www.thelancet.com/infection Published online March ,  https://doi.org/./S-()-	
 
-5
+
 
 Articles
 
-scenarios: an additional 97 
-000 (IQR 31 
-200–151 
-000),
-64 800 (10 500–110 000), and 51 000 cases (1500–107 000),
-respectively, when R0 was 1·5 (appendix p 12). When R0
+scenarios: an additional  
+ (IQR  
+– 
+),
+  ( – ), and   cases (– ),
+respectively, when R was · (appendix p ). When R
 Quarantine
 Cumulative number of infections (thousands)
 
 Number of infections (thousands)
 
-40
 
-30
 
-20
 
-10
 
-0
 
-1000
+
+
+
+
+
+
 
 Percentile
-100
-50
 
-800
 
-0
-600
-400
-200
-0
+
+
+
+
+
+
+
+
 
 School closure
 Cumulative number of infections (thousands)
 
 Number of infections (thousands)
 
-40
 
-30
 
-20
 
-10
 
-0
 
-1000
+
+
+
+
+
+
 
 Percentile
-100
-50
 
-800
 
-0
-600
-400
-200
-0
+
+
+
+
+
+
+
+
 
 Workplace distancing
 Cumulative number of infections (thousands)
 
 Number of infections (thousands)
 
-40
 
-30
 
-20
 
-10
 
-0
+
+
+
+
+
 
 Percentile
-100
 
-1000
 
-50
 
-800
 
-0
-600
-400
-200
-0
+
+
+
+
+
+
+
+
+
 
 Combined approach
 Cumulative number of infections (thousands)
 
 Number of infections (thousands)
 
-40
 
-30
 
-20
 
-10
 
-0
 
-0
 
-2
 
-4
 
-6
+
+
+
+
+
+
+
+
+
 Week
 
-6	
+	
 
-8
 
-10
 
-12
 
-1000
+
+
+
+
 
 Percentile
-100
 
-was 2·0, assuming an asymptomatic proportion of 22·7%,
-an additional 381 000 cases (IQR 250 000–474 000) were
-000 cases
-observed for the quarantine scenario, 400 
-(275 
-000–509 
-000) for the school-closure scenario,
-000 cases (175 
-000–433 
-000) for the workplace316 
-distancing scenario, and 294 000 cases (162 000–430 000)
-for the combined interventions scenario (appendix p 13).
-When R0 was 2·5, an additional 577 
-000 cases
-(IQR 382 000–777 000), 557 000 cases (372 000–785000),
-000 cases (379 
-000–775 
-000), and 599 
-000 cases
-567 
-(394 
-000–804 
-000) were observed for the quarantine,
+
+was ·, assuming an asymptomatic proportion of ·%,
+an additional   cases (IQR  – ) were
+ cases
+observed for the quarantine scenario,  
+( 
+– 
+) for the school-closure scenario,
+ cases ( 
+– 
+) for the workplace 
+distancing scenario, and   cases ( – )
+for the combined interventions scenario (appendix p ).
+When R was ·, an additional  
+ cases
+(IQR  – ),   cases ( –),
+ cases ( 
+– 
+), and  
+ cases
+ 
+( 
+– 
+) were observed for the quarantine,
 school-closure, workplace-distancing, and combined
-intervention scenarios, respectively (appendix p 14). The
+intervention scenarios, respectively (appendix p ). The
 medians of the number of infections and location of
-infection for the 22·7% asymptomatic fraction is
-presented in the appendix (p 7).
+infection for the ·% asymptomatic fraction is
+presented in the appendix (p ).
 The median number of infections and location of infec­
 tion for the higher theoretical asymptomatic proportions
-are presented in the appendix (p 8). At higher asymp­
-tomatic proportions of 30·0%, 40·0%, and 50·0%, further
-increases were observed (appendix pp 8, 15–19). We only
+are presented in the appendix (p ). At higher asymp­
+tomatic proportions of ·%, ·%, and ·%, further
+increases were observed (appendix pp , –). We only
 ran the analysis at higher asymptomatic rates at the lower
-level of infectivity (R0=1·5), because we observed
+level of infectivity (R=·), because we observed
 substantial increases in the number of cases observed,
 reflecting poor case control that would otherwise be
 exacerbated and lead to containment failure at higher
-infectivity. When R0 was 1·5, interventions caused
+infectivity. When R was ·, interventions caused
 substantial reductions in the number of infections at
-asymptomatic fractions of 7·5% and 22·7%. For
+asymptomatic fractions of ·% and ·%. For
 quarantine, by comparison with the number of cases
-observed for the 7·5% asymptomatic proportion
-assumption when R0 was 1·5, the median number of
-cases increased by 172 000 (IQR 113 000–221 000) for a
-30·0% asymptomatic proportion. This number increased
-to 253 000 (209 000–294 000) for a 40·0% asymptomatic
-fraction, and to 314 000 (276 000–343 000) for a 50·0%
-asymptomatic fraction (appendix pp 15–17). At an
-asymptomatic proportion of 30·0%, increases compared
-with a 7·5% asymptomatic proportion of 172 
-000
-(IQR 104 000–221 000), 124 000 (53 100–170 000), and
-114 000 cases (36 300–172 000) were observed for school
+observed for the ·% asymptomatic proportion
+assumption when R was ·, the median number of
+cases increased by   (IQR  – ) for a
+·% asymptomatic proportion. This number increased
+to   ( – ) for a ·% asymptomatic
+fraction, and to   ( – ) for a ·%
+asymptomatic fraction (appendix pp –). At an
+asymptomatic proportion of ·%, increases compared
+with a ·% asymptomatic proportion of  
+
+(IQR  – ),   ( – ), and
+  cases ( – ) were observed for school
 closure, workplace distancing, and the combined
-interventions, respectively (appendix pp 15–17). Increases
+interventions, respectively (appendix pp –). Increases
 for school closure, workplace distancing, and combined
-inter­ventions were 253 000 (IQR 206 000–287 000), 203 000
+inter­ventions were   (IQR  – ),  
 
-50
 
-800
 
-0
-600
-400
-200
-0
 
-0
 
-2
 
-4
 
-6
+
+
+
+
+
+
+
+
+
+
+
 Week
 
-8
 
-10
 
-12
 
-Figure 2: Total daily number and cumulative number of SARS-CoV-2
-infections up to 80 days under different intervention scenarios
-when R0 is 2·0
+
+
+
+Figure : Total daily number and cumulative number of SARS-CoV-
+infections up to  days under different intervention scenarios
+when R is ·
 Total number of daily infections is shown on the left; cumulative number of
 infections is shown on the right. Dark blue lines represent the corresponding
-baseline median when R0 is 2·0 with no interventions. Shaded areas around
+baseline median when R is · with no interventions. Shaded areas around
 the dark blue lines show the IQRs for all simulations. Dark orange, green,
 light orange, and purple shading represent all simulation runs for each
 scenario, with darker lines in corresponding colours representing medians.
-SARS-CoV-2=severe acute respiratory syndrome coronavirus 2. R0=basic
+SARS-CoV-=severe acute respiratory syndrome coronavirus . R=basic
 reproduction number.
 
-www.thelancet.com/infection Published online March 23, 2020 https://doi.org/10.1016/S1473-3099(20)30162-6
+www.thelancet.com/infection Published online March ,  https://doi.org/./S-()-
 
 Articles
 
-R0=1·5
+R=·
 
 Combined intervention
 
 Baseline scenario
 
-1–1000
-1001–2000
-2001–3000
+–
+–
+–
 
-3001–4000
-4001–5000
-5001–6000
+–
+–
+–
 
-R0=2·0
+R=·
 
-R0=2·5
+R=·
 
-Figure 3: Geospatial distribution of coronavirus disease 2019 cases at the time of infection at 80 days in Singapore
+Figure : Geospatial distribution of coronavirus disease  cases at the time of infection at  days in Singapore
 Red dots show infections acquired in the home community, orange dots show infections acquired in the workplace, and blue dots show infections acquired at school. A central water catchment is
-located in the centre of the map, where population density is low. The combined intervention involved quarantine, workplace distancing, and school closure. R0=basic reproduction number.
+located in the centre of the map, where population density is low. The combined intervention involved quarantine, workplace distancing, and school closure. R=basic reproduction number.
 
-(153 000–251 000), and 196 000 cases (134 000–244 000),
-respectively, for an asymptomatic proportion of 40·0%
-and 312 000 (278 000–340 000), 269 000 (215 000–308 000),
-and 267 
-000 cases (216 
-000–307 
-000), respectively, for
-an asymptomatic proportion of 50·0% (appendix
-pp 16–17).
+( – ), and   cases ( – ),
+respectively, for an asymptomatic proportion of ·%
+and   ( – ),   ( – ),
+and  
+ cases ( 
+– 
+), respectively, for
+an asymptomatic proportion of ·% (appendix
+pp –).
 
 Discussion
-Concerns about COVID-19 becoming a global epidemic
+Concerns about COVID- becoming a global epidemic
 are increasing on the basis of previous epidemics, such as
 SARS-CoV, Middle East respiratory syndrome corona­
 virus (MERS-CoV), and pandemic influenza. The intro­
 duction of cases into new countries, regions and cities is
 
-www.thelancet.com/infection Published online March 23, 2020 https://doi.org/10.1016/S1473-3099(20)30162-6	
+www.thelancet.com/infection Published online March ,  https://doi.org/./S-()-	
 
-7
+
 
 Articles
 
@@ -1057,82 +1057,82 @@ likely to continue in areas where local establishment
 could form, depending on the ongoing level of control
 measures. In the event that local containment is
 unsuccessful, our findings suggest that national outbreak
-control is feasible provided that R0 is low (≤1∙5), with a
+control is feasible provided that R is low (≤∙), with a
 combination of the proposed inter­
 vention measures
 (quarantine, school closure, and workplace distancing)
-being most effective. Under this scenario (R0=1·5),
+being most effective. Under this scenario (R=·),
 workplace distancing reduced the median number
-of cases from 279 000 (IQR 245 000– 320 000) to 4000
-(200–23 000), as a result of the high employment rates
-(around 98%) among individuals of working age in
-Singapore.25 This observation is consistent with the
-conclusions of a review of 15 studies that found a median
-reduction of 23% (range 12–82) in the cumulative
-influenza A H1N1 attack rate with workplace distancing
-alone.26 The implementation of such a control measure,
+of cases from   (IQR  –  ) to 
+(– ), as a result of the high employment rates
+(around %) among individuals of working age in
+Singapore. This observation is consistent with the
+conclusions of a review of  studies that found a median
+reduction of % (range –) in the cumulative
+influenza A HN attack rate with workplace distancing
+alone. The implementation of such a control measure,
 however, is likely to have an acute societal economic
 effect on individuals who must work from home or take
 leave, especially if reimbursement is not possible. Thus,
 decision making becomes a function of risk as to whether
 the imported cases have or will infect the local population
-and cause a local outbreak. An R0 value of 1·5 is not
-consistent with the evidence from China,14 and thus
+and cause a local outbreak. An R value of · is not
+consistent with the evidence from China, and thus
 prevention of community transmission might not be
 possible using interventions that would be widely
 supported by the population.
 At the start of the outbreak, the risk of repeated
-importation of SARS-CoV-2 into Singapore was deemed
-to be considerable given that around 3∙4 million people
-travel from Wuhan to Singapore annually.27 Furthermore,
-the start of the epidemic coincided with the 2020 Chinese
+importation of SARS-CoV- into Singapore was deemed
+to be considerable given that around ∙ million people
+travel from Wuhan to Singapore annually. Furthermore,
+the start of the epidemic coincided with the  Chinese
 Lunar New Year holiday, with the expectation that the
 number of individuals arriving from China would be
-similar to that for the 2018 celebrations (around
-800 
-000 tourists from China).27 The high influx of
+similar to that for the  celebrations (around
+ 
+ tourists from China). The high influx of
 incoming travellers exacerbated the risk of local disease
-establishment, bringing at least 18 initial confirmed
-imported cases into Singapore before Feb 4, 2020, when
-the first four local transmission cases were confirmed.11
+establishment, bringing at least  initial confirmed
+imported cases into Singapore before Feb , , when
+the first four local transmission cases were confirmed.
 These four cases had contact with at least two infected
 tourists at a shop, who were identified through intensive
 contact tracing efforts. Although travel is now reduced, at
-least 175 subsequent locally-acquired infections have
+least  subsequent locally-acquired infections have
 been reported at the time of writing across a diverse
 range of residential and commercial sites despite efforts
 by the Singaporean Government to quarantine and
-isolate infected individuals. On March 16, 2020, 11 of the
-17 confirmed cases were imported with travel histories
+isolate infected individuals. On March , ,  of the
+ confirmed cases were imported with travel histories
 including the UK, Indonesia, Portugal, Spain, the USA,
-France, Germany, Switzerland, and Belgium.11 On
-March 17, 2020, a further 17 of 23 cases were reported to
-be imported.11 With the risk of disease establishment
+France, Germany, Switzerland, and Belgium. On
+March , , a further  of  cases were reported to
+be imported. With the risk of disease establishment
 remaining high from the continued importation of cases,
 workplace distancing and school closure remain as
 critical interventions that can avert a significant number
 of cases.
-8	
+	
 
 We found that these two interventions, when used in
 combination with quarantine, would be highly effective at
-low infection rates (ie, R0 of 1·5), with median of
-10 
-000 cases (IQR 200–28 000) observed for school
-closures and 4000 cases (200–23 
-000) for workplace
-distancing compared with 279 000 cases (245 000–320 000)
-at the baseline. At the highest level of infectivity (R0=2·5),
+low infection rates (ie, R of ·), with median of
+ 
+ cases (IQR – ) observed for school
+closures and  cases (– 
+) for workplace
+distancing compared with   cases ( – )
+at the baseline. At the highest level of infectivity (R=·),
 substantial reductions were observed with a median of
-466 
-000 cases (IQR 175 
-000–728 
-000) observed when
-school closure was used and 320 000 (116 000–558 000) for
-workplace distancing compared with 1 
-207 
-000 cases
-(1 164 000–1 249 000) at baseline. However, if the preventive
+ 
+ cases (IQR  
+– 
+) observed when
+school closure was used and   ( – ) for
+workplace distancing compared with  
+ 
+ cases
+(  –  ) at baseline. However, if the preventive
 effect of these interventions reduces considerably due to
 higher asymptomatic proportions, more pressure will be
 placed on the quarantining and treatment of infected
@@ -1140,7 +1140,7 @@ individuals, which could become unfeasible when the
 number of infected individuals exceeds the capacity of
 health-care facilities.
 Scale-up of ongoing surveillance programmes and
-rigorous contract tracing12,28 are thus required to assist in
+rigorous contract tracing, are thus required to assist in
 the maintenance of a low number of unidentified
 infections at this time, with school closure and workplace
 distancing being potentially effective strategies for
@@ -1148,26 +1148,26 @@ deployment nationwide should local transmission, with
 multiple transmission events recorded between individuals
 in the resident population, begin. Our simulation model,
 which examined hypothetical infection spread with
-100 unidentified Singaporean cases as a seed population,
+ unidentified Singaporean cases as a seed population,
 showed that for the baseline scenario (ie, no control
-interventions) by day 80, when R0 was 1·5, around
-279 000 individuals would be infected, when R0 was 2·0,
-around 727 000 individuals would be infected, and when R0
-was 2·5, around 1 207 000 individuals would be infected.
+interventions) by day , when R was ·, around
+  individuals would be infected, when R was ·,
+around   individuals would be infected, and when R
+was ·, around    individuals would be infected.
 In the event that suppression of transmission through
 quarantine is unsuccessful and local transmission begins,
 which has currently been observed in other countries on a
-small scale,29,30 policy makers in Singapore should deploy
+small scale,, policy makers in Singapore should deploy
 alternate measures, such as school closure and workplace
 distancing, in a timely manner. School closure has been
 used in the past in Singapore to limit the spread of
 hand, foot, and mouth disease, and was associated with a
-decrease of up to 53% in secondary cases,31 probably
+decrease of up to % in secondary cases, probably
 because children generally have high contact rates with
 their peers in the school environment. Given this historical
-experience, a similar programme for COVID-19 could be
+experience, a similar programme for COVID- could be
 established reasonably quickly. However, at present, data
-on the susceptibility of children to SARS-CoV-2 infection,
+on the susceptibility of children to SARS-CoV- infection,
 the number of infected children in Singapore, and the
 probability of children becoming symptomatic are limited,
 making school closure less desirable than workplace
@@ -1178,33 +1178,33 @@ Singapore, whereby reductions in workplace trans­
 mission averts cases at all other sites. The effects of
 school closure and quarantine were comparable, since
 
-www.thelancet.com/infection Published online March 23, 2020 https://doi.org/10.1016/S1473-3099(20)30162-6
+www.thelancet.com/infection Published online March ,  https://doi.org/./S-()-
 
 Articles
 
 the displacement of students to the home community
 will then rely on quarantine as a measure of preventing
 infection. However, asymptomatic cases, assumed to
-account for 7∙5% of the infected population, would con­
+account for ∙% of the infected population, would con­
 tinue to contribute to transmission, and the identification
 of these individuals presents a challenge.
 Increasing the asymptomatic proportion in our model
-from 7·5% to 22·7%, which is reflective of influenza A
-H1N1,24 resulted in limited infection control with
+from ·% to ·%, which is reflective of influenza A
+HN, resulted in limited infection control with
 considerable stochasticity, whereby the failure of early
 quarantine led to outbreaks similar in size to those
-observed for the baseline scenario, even when R0 was
-1·5. Under this assumption, the median number of
+observed for the baseline scenario, even when R was
+·. Under this assumption, the median number of
 cases averted compared with baseline ranged from
-219 
-000 to 282 
-000 cases (64·4–82·9% reduction)
+ 
+ to  
+ cases (·–·% reduction)
 depending on the intervention scenario. For the
 quarantine, school-closure, work-dis­
 tancing, and
 combined intervention scenarios, assuming an
-asymptomatic proportion of 7·5% and an R0 of 1·5, a
-median of 264 000–277 200 cases (94·6–99·4% reduction)
+asymptomatic proportion of ·% and an R of ·, a
+median of  –  cases (·–·% reduction)
 would be averted compared with the baseline scenario.
 Thus, considering the differences in number of cases
 averted by proportion of asymptomatic individuals in
@@ -1216,13 +1216,13 @@ considered. Contact inhibition remains important,
 but the high proportion of asymptomatic and undo­
 cumented infections and missed opportunities to
 quarantine will make control challenging. Even at a low
-infectivity (R0 ≤1·5), a high asymptomatic pro­portion is
-problematic, with 58 000 infections (IQR 5400–123 000)
-occurring at an asymptomatic proportion of 22·7%
-compared with 1800 infections (200–23 000) at a 7·5%
+infectivity (R ≤·), a high asymptomatic pro­portion is
+problematic, with   infections (IQR – )
+occurring at an asymptomatic proportion of ·%
+compared with  infections (– ) at a ·%
 asymptomatic proportion with the combined interv­
 ention’. These effects were exacerbated further at
-higher asymptomatic proportions of 30·0–50·0%. With
+higher asymptomatic proportions of ·–·%. With
 fewer cases averted and larger outbreak sizes from
 undocumented spread due to asymptomatic individuals,
 the dialogue partly shifts from containment to case
@@ -1236,27 +1236,27 @@ government-led outbreak control measures will only be
 successful with public cooperation through exercising
 good hygiene, infection prevention in shared spaces, and
 adequate education to understand when symptoms
-might be indicative of a potential SARS-CoV-2 infection.
+might be indicative of a potential SARS-CoV- infection.
 Public complicity is particularly crucial for older
-individuals (>60 years), individuals who are immuno­
+individuals (> years), individuals who are immuno­
 compromised, and people with comorbidities who are at
-high risk of severe complications.5 During the 2003
-SARS outbreak, 238 probable SARS cases were reported
+high risk of severe complications. During the 
+SARS outbreak,  probable SARS cases were reported
 
-and 33 individuals died in Singapore, with the highest
-proportion of deaths (45%) reported among people aged
-65 years and older.32 The same observation is thus
-expected for COVID-19 should local transmission occur
+and  individuals died in Singapore, with the highest
+proportion of deaths (%) reported among people aged
+ years and older. The same observation is thus
+expected for COVID- should local transmission occur
 since the median age of infection in our models was
-37 years (IQR 26–49), with comparatively few children
+ years (IQR –), with comparatively few children
 becoming infected because of school closure and aware­
 ness among parents to quarantine children with fever.
 Singapore has one of the highest employment rates
-among older individuals (aged ≥65 years) of all countries
+among older individuals (aged ≥ years) of all countries
 within the Organisation for Economic Co-operation and
-Development (OECD)33 and a culture of eating at socalled hawker centres (ie, food courts), with around
-75% of people visiting a hawker centre at least once a
-week.34 Consequently, many older people are expected to
+Development (OECD) and a culture of eating at socalled hawker centres (ie, food courts), with around
+% of people visiting a hawker centre at least once a
+week. Consequently, many older people are expected to
 be exposed to infection at work or within their home
 communities, which could be mitigated in part by
 implementation of workplace distancing and, if possible,
@@ -1265,43 +1265,43 @@ distancing, specifically for older individuals.
 At present, the quarantining of family and close contacts
 of confirmed cases is crucial, as shown by the substantial
 increase in infection rates among individuals who shared
-living spaces and bathrooms during the 2009 H1N1
+living spaces and bathrooms during the  HN
 influenza pandemic in China, despite the regular
-disinfection of these areas.35 The protocols in place at
+disinfection of these areas. The protocols in place at
 present, including the use of specialist ambulances,
 negative pressure isolation rooms, and ultraviolet
 disinfection, will assist in isolating the infection and
 preventing transmission events at health-care facilities, as
-was seen during the 2003 SARS outbreak.21 Since at least
-15 medical staff in Wuhan have contracted the virus,3
+was seen during the  SARS outbreak. Since at least
+ medical staff in Wuhan have contracted the virus,
 Singapore has provided full personal protective equipment
 for health-care workers; however, the results of our study
 suggest that community transmission will substantially
 contribute to transmission should local containment fail
 despite these measures. The main control measures at
-this time are surveillance, standard testing procedures,36
+this time are surveillance, standard testing procedures,
 and quarantine of individuals who are confirmed positive
 for the virus. Such measures have been used in the past
-for suspected cases of MERS-CoV, which has a 34∙4% casefatality rate,37 with no cases of MERS-CoV reported in
+for suspected cases of MERS-CoV, which has a ∙% casefatality rate, with no cases of MERS-CoV reported in
 Singapore to date, and for Zika virus, which established
-locally in 2016, with only ten cases reported in 2019.38 Such
+locally in , with only ten cases reported in . Such
 successes in preventing local outbreaks are attributed to
 robust disease surveillance in Singapore. Nevertheless,
-dengue outbreaks are ongoing in Singapore,39 which
+dengue outbreaks are ongoing in Singapore, which
 highlights the difficulties in disease control that are in part
 due to undocumented spread and individuals who are
 asymptomatic; these issues are likely to affect the control
-of the ongoing COVID-19 epidemic since many imported
+of the ongoing COVID- epidemic since many imported
 cases worldwide have been asymptomatic on entry to
-countries.9 The implementation of school closure and
+countries. The implementation of school closure and
 workplace distancing can therefore be considered as a
 potential secondary control response in the event of
 infection quarantine failure and the establishment of
 community transmission.
 
-www.thelancet.com/infection Published online March 23, 2020 https://doi.org/10.1016/S1473-3099(20)30162-6	
+www.thelancet.com/infection Published online March ,  https://doi.org/./S-()-	
 
-9
+
 
 Articles
 
@@ -1313,13 +1313,13 @@ Second, a large population of migrant workers who
 travel from Malaysia to Singapore each day, visiting
 tourists, and long-term visa owners were not accounted
 for in our infection dynamics. Third, the epidemiological
-characteristics of COVID-19 remain uncertain in terms
+characteristics of COVID- remain uncertain in terms
 of the transmission and infectivity profile of the virus;
 therefore, estimates of the time between symptom onset
 and admission to hospital, how infectious an individual
 is over time, and the asymptomatic rate were based on
 SARS-CoV. Once this information becomes available for
-COVID-19, a full sensitivity analysis should be done.
+COVID-, a full sensitivity analysis should be done.
 Fourth, the contact patterns between individuals are
 highly dynamic and heterogeneous across the popu­
 lation; therefore, our simulated work, school, and home
@@ -1347,22 +1347,22 @@ nationwide outbreak. In this study, we investigated the use
 of interventions that aim to restrict contact between
 individuals at important mixing sites: schools, workplaces,
 and at home. We found that, especially for lower infection
-scenarios (R0 of 1·5), a combined approach comprising
+scenarios (R of ·), a combined approach comprising
 quarantine (for infected individuals and their families),
 school closure, and workplace distancing is effective and
-could prevent 99·3% of infections (IQR 92∙6–99∙9) when
+could prevent ·% of infections (IQR ∙–∙) when
 compared with the baseline scenario. At higher infectivity
 scenarios, outbreak prevention becomes considerably
 more challenging because although effective, transmission
 events still occur: for the combined approach scenario, a
-median of 50 000 cases were estimated at R0 of 2·0 and
-258 000 cases at R0 of 2·5. These combined interventions
+median of   cases were estimated at R of · and
+  cases at R of ·. These combined interventions
 should therefore be implemented rapidly upon
 confirmation of second-generation local transmission
 occurring within the resident population to suppress
-increases in the national R0. At higher asymptomatic rates,
+increases in the national R. At higher asymptomatic rates,
 public education and case management become
-10	
+	
 
 increasingly important, with a need to develop vaccines
 and existing drug therapies.
@@ -1374,142 +1374,142 @@ Declaration of interests
 We declare no competing interests.
 Acknowledgments
 This study was supported by the Singapore Population Health
-Improvement Centre (NMRC/CG/C026/2017_NUHS).
+Improvement Centre (NMRC/CG/C/_NUHS).
 References
-1	 Huang C, Wang Y, Li X, et al. Clinical features of patients infected with
-2019 novel coronavirus in Wuhan, China. Lancet 2020; 395: 497–506.
-2	 Peiris JSM, Guan Y, Yuen KY. Severe acute respiratory syndrome.
-Nat Med 2004; 10 (suppl 12): S88–97.
-3	 Li Q, Guan X, Wu P, et al. Early transmission dynamics in Wuhan,
+	 Huang C, Wang Y, Li X, et al. Clinical features of patients infected with
+ novel coronavirus in Wuhan, China. Lancet ; : –.
+	 Peiris JSM, Guan Y, Yuen KY. Severe acute respiratory syndrome.
+Nat Med ;  (suppl ): S–.
+	 Li Q, Guan X, Wu P, et al. Early transmission dynamics in Wuhan,
 China, of novel coronavirus-infected pneumonia. N Engl J Med
-2020; published online Jan 29. DOI:10.1056/NEJMoa2001316.
-4	 WHO. Pneumonia of unknown cause–China. Jan 5, 2020.
-https://www.who.int/csr/don/05-january-2020-pneumonia-ofunkown-cause-china/en/ (accessed March 2, 2020).
-5	 WHO. Novel coronavirus (2019-nCoV) situation report–3.
-Jan 23, 2020. https://www.who.int/docs/default-source/
-coronaviruse/situation-reports/20200123-sitrep-3-2019-ncov.pdf
-(accessed March 2, 2020).
-6	 WHO. Coronavirus disease 2019 (COVID-19) situation report–55.
-March 15, 2020. https://www.who.int/docs/default-source/
-coronaviruse/situation-reports/20200315-sitrep-55-covid-19.
-pdf?sfvrsn=33daa5cb_8 (accessed March 18, 2020).
-7	 BBC. Coronavirus: Wuhan shuts public transport over outbreak.
-Jan 23, 2020. https://www.bbc.com/news/world-asia-china-51215348
-(accessed March 3, 2020).
-8	 BBC. China’s travel industry counts cost of coronavirus.
-Jan 24, 2020. https://www.bbc.com/news/business-51232374
-(accessed March 3, 2020).
-9	 Ministry of Health Singapore. Updates on COVID-19
-(coronavirus disease 2019) local situation. https://www.moh.gov.sg/
-covid-19 (accessed March 3, 2020).
-10	 Ministry of Health Singapore. Confirmed imported case of novel
+; published online Jan . DOI:./NEJMoa.
+	 WHO. Pneumonia of unknown cause–China. Jan , .
+https://www.who.int/csr/don/-january--pneumonia-ofunkown-cause-china/en/ (accessed March , ).
+	 WHO. Novel coronavirus (-nCoV) situation report–.
+Jan , . https://www.who.int/docs/default-source/
+coronaviruse/situation-reports/-sitrep---ncov.pdf
+(accessed March , ).
+	 WHO. Coronavirus disease  (COVID-) situation report–.
+March , . https://www.who.int/docs/default-source/
+coronaviruse/situation-reports/-sitrep--covid-.
+pdf?sfvrsn=daacb_ (accessed March , ).
+	 BBC. Coronavirus: Wuhan shuts public transport over outbreak.
+Jan , . https://www.bbc.com/news/world-asia-china-
+(accessed March , ).
+	 BBC. China’s travel industry counts cost of coronavirus.
+Jan , . https://www.bbc.com/news/business-
+(accessed March , ).
+	 Ministry of Health Singapore. Updates on COVID-
+(coronavirus disease ) local situation. https://www.moh.gov.sg/
+covid- (accessed March , ).
+	 Ministry of Health Singapore. Confirmed imported case of novel
 coronavirus infection in Singapore; multi-ministry taskforce ramps
-up precautionary measures. Jan 23, 2020. https://www.moh.gov.sg/
-news-highlights/details/confirmed-imported-case-of-novelcoronavirus-infection-in-singapore-multi-ministry-taskforce-rampsup-precautionary-measures (accessed March 3, 2020).
-11	 Gov.sg. Coronavirus disease 2019: cases in Singapore. Feb 25, 2020.
-https://www.gov.sg/article/covid-19-cases-in-singapore (accessed
-March 3, 2020).
-12	 Ministry of Health Singapore. Two more cases of confirmed
+up precautionary measures. Jan , . https://www.moh.gov.sg/
+news-highlights/details/confirmed-imported-case-of-novelcoronavirus-infection-in-singapore-multi-ministry-taskforce-rampsup-precautionary-measures (accessed March , ).
+	 Gov.sg. Coronavirus disease : cases in Singapore. Feb , .
+https://www.gov.sg/article/covid--cases-in-singapore (accessed
+March , ).
+	 Ministry of Health Singapore. Two more cases of confirmed
 imported case of novel coronavirus infection in Singapore.
-Jan 24, 2020. https://www.moh.gov.sg/news-highlights/details/twomore-cases-of-confirmed-imported-case-of-novel-coronavirusinfection-in-singapore (accessed March 3, 2020).
-13	 Read JM, Bridgen JR, Cummings DA, Ho A, Jewell CP.
-Novel coronavirus 2019-nCoV: early estimation of epidemiological
-parameters and epidemic predictions. medRxiv 2020; published
-online Jan 28. DOI:10.1101/2020.01.23.20018549 (preprint).
-14	 Wu JT, Leung K, Leung GM. Nowcasting and forecasting the
-potential domestic and international spread of the 2019-nCoV
+Jan , . https://www.moh.gov.sg/news-highlights/details/twomore-cases-of-confirmed-imported-case-of-novel-coronavirusinfection-in-singapore (accessed March , ).
+	 Read JM, Bridgen JR, Cummings DA, Ho A, Jewell CP.
+Novel coronavirus -nCoV: early estimation of epidemiological
+parameters and epidemic predictions. medRxiv ; published
+online Jan . DOI:./... (preprint).
+	 Wu JT, Leung K, Leung GM. Nowcasting and forecasting the
+potential domestic and international spread of the -nCoV
 outbreak originating in Wuhan, China: a modelling study. Lancet
-2020; 395: 689–97.
-15	 Chao DL, Halloran ME, Obenchain VJ, Longini IM Jr. FluTE, a
+; : –.
+	 Chao DL, Halloran ME, Obenchain VJ, Longini IM Jr. FluTE, a
 publicly available stochastic influenza epidemic simulation model.
-PLOS Comput Biol 2010; 6: e1000656.
-16	 Phan TP, Alkema L, Tai ES, et al. Forecasting the burden of type 2
+PLOS Comput Biol ; : e.
+	 Phan TP, Alkema L, Tai ES, et al. Forecasting the burden of type 
 diabetes in Singapore using a demographic epidemiological model
-of Singapore. BMJ Open Diabetes Res Care 2014; 2: e000012.
-17	 Department of Statistics Singapore. Singapore census of population
-2010, statistical release 1: demographic characteristics, education,
-language and religion. 2011. https://www.singstat.gov.sg/
-publications/cop2010/cop2010-sr1 (accessed March 18, 2020).
+of Singapore. BMJ Open Diabetes Res Care ; : e.
+	 Department of Statistics Singapore. Singapore census of population
+, statistical release : demographic characteristics, education,
+language and religion. . https://www.singstat.gov.sg/
+publications/cop/cop-sr (accessed March , ).
 
-www.thelancet.com/infection Published online March 23, 2020 https://doi.org/10.1016/S1473-3099(20)30162-6
+www.thelancet.com/infection Published online March ,  https://doi.org/./S-()-
 
 Articles
 
-18	 Department of Statistics Singapore. Singapore census of population
-2010, statistical release 2: households and housing. 2011.
-https://www.singstat.gov.sg/publications/cop2010/census10_stat_
-release2 (accessed March 18, 2020).
-19	 Department of Statistics Singapore. Singapore census of population
-2010, statistical release 3: geographic distribution and transport.
-2011. https://www.singstat.gov.sg/publications/cop2010/cop2010-sr3
-(accessed March 18, 2020).
-20	 McBryde ES, Gibson G, Pettitt AN, Zhang Y, Zhao B, McElwain DL.
+	 Department of Statistics Singapore. Singapore census of population
+, statistical release : households and housing. .
+https://www.singstat.gov.sg/publications/cop/census_stat_
+release (accessed March , ).
+	 Department of Statistics Singapore. Singapore census of population
+, statistical release : geographic distribution and transport.
+. https://www.singstat.gov.sg/publications/cop/cop-sr
+(accessed March , ).
+	 McBryde ES, Gibson G, Pettitt AN, Zhang Y, Zhao B, McElwain DL.
 Bayesian modelling of an epidemic of severe acute respiratory
-syndrome. Bull Math Biol 2006; 68: 889–917.
-21	 Wilder-Smith A, Teleman MD, Heng BH, Earnest A, Ling AE,
+syndrome. Bull Math Biol ; : –.
+	 Wilder-Smith A, Teleman MD, Heng BH, Earnest A, Ling AE,
 Leo YS. Asymptomatic SARS coronavirus infection among
-healthcare workers, Singapore. Emerg Infect Dis 2005; 11: 1142–45.
-22	 Meltzer MI. Multiple contact dates and SARS incubation periods.
-Emerg Infect Dis 2004; 10: 207–09.
-23	 Nishiura H, Kobayashi T, Yang Y, et al. Estimation of the
-asymptomatic ratio of novel coronavirus (2019-nCoV)
-infections. medRxiv 2020; published online Feb 17.
-DOI:10.1101/2020.02.03.20020248 (preprint).
-24	 Furuya-Kanamori L, Cox M, Milinovich GJ, Magalhaes RJ,
+healthcare workers, Singapore. Emerg Infect Dis ; : –.
+	 Meltzer MI. Multiple contact dates and SARS incubation periods.
+Emerg Infect Dis ; : –.
+	 Nishiura H, Kobayashi T, Yang Y, et al. Estimation of the
+asymptomatic ratio of novel coronavirus (-nCoV)
+infections. medRxiv ; published online Feb .
+DOI:./... (preprint).
+	 Furuya-Kanamori L, Cox M, Milinovich GJ, Magalhaes RJ,
 Mackay IM, Yakob L. Heterogeneous and dynamic prevalence of
-asymptomatic influenza virus infections. Emerg Infect Dis 2016;
-22: 1052–56.
-25	 Ministry of Manpower Singapore. Summary table: unemployment.
+asymptomatic influenza virus infections. Emerg Infect Dis ;
+: –.
+	 Ministry of Manpower Singapore. Summary table: unemployment.
 https://stats.mom.gov.sg/Pages/Unemployment-Summary-Table.
-aspx (accessed March 3, 2020).
-26	 Ahmed F, Zviedrite N, Uzicanin A. Effectiveness of workplace social
+aspx (accessed March , ).
+	 Ahmed F, Zviedrite N, Uzicanin A. Effectiveness of workplace social
 distancing measures in reducing influenza transmission:
-a systematic review. BMC Public Health 2018; 18: 518.
-27	 Singapore Tourism Board. Capturing quality growth amidst
-uncertainty. 2019. https://www.stb.gov.sg/content/dam/stb/
-documents/TIC2019/China-%20Capturing%20Quality%20
-Growth%20amidst%20Uncertainty.pdf (accessed March 3, 2020).
-28	 The Strait Times. Temperature screening to cover all flights.
-Jan 28, 2020. https://www.straitstimes.com/singapore/health/
-temperature-screening-to-cover-all-flights (accessed March 3, 2020).
+a systematic review. BMC Public Health ; : .
+	 Singapore Tourism Board. Capturing quality growth amidst
+uncertainty. . https://www.stb.gov.sg/content/dam/stb/
+documents/TIC/China-%Capturing%Quality%
+Growth%amidst%Uncertainty.pdf (accessed March , ).
+	 The Strait Times. Temperature screening to cover all flights.
+Jan , . https://www.straitstimes.com/singapore/health/
+temperature-screening-to-cover-all-flights (accessed March , ).
 
-29	 Phan LT, Nguyen TV, Luong QC, et al. Importation and
+	 Phan LT, Nguyen TV, Luong QC, et al. Importation and
 human-to-human transmission of a novel coronavirus in Vietnam.
-N Engl J Med 2020; 382: 872–74.
-30	 The Japan Times. Japan reports first domestic transmission of
-coronavirus. Jan 28, 2020. https://www.japantimes.co.jp/
-news/2020/01/28/national/japan-first-domestic-transmissioncoronavirus/#.XjL3T2gzaCo. (accessed March 3, 2020).
-31	 Chen Y, Badaruddin H, Lee VJ, Cutter J, Cook AR. The effect of
+N Engl J Med ; : –.
+	 The Japan Times. Japan reports first domestic transmission of
+coronavirus. Jan , . https://www.japantimes.co.jp/
+news////national/japan-first-domestic-transmissioncoronavirus/#.XjLTgzaCo. (accessed March , ).
+	 Chen Y, Badaruddin H, Lee VJ, Cutter J, Cook AR. The effect of
 school closure on hand, foot, and mouth disease transmission in
-Singapore: a modeling approach. Am J Trop Med Hyg 2018;
-99: 1625–32.
-32	 Ministry of Health Singapore. Special feature: severe acute
+Singapore: a modeling approach. Am J Trop Med Hyg ;
+: –.
+	 Ministry of Health Singapore. Special feature: severe acute
 respiratory syndrome (SARS). https://www.moh.gov.sg/docs/
-librariesprovider5/resources-statistics/reports/special_feature_sars.
-pdf (accessed March 3, 2020).
-33	 Rogerson A, Stacey S. Successful ageing in Singapore.
-Geriatrics (Basel) 2018; 3: 81.
-34	 Ministry of the Environment and Water Resources Singapore.
-Hawker Centre 3.0 Committee Report. https://www.mewr.gov.sg/
-Data/Editor/Documents/HC%203.0%20Report.pdf (accessed
-March 3, 2020).
-35	 Chu C-Y, Li CY, Zhang H, et al. Quarantine methods and
-prevention of secondary outbreak of pandemic (H1N1) 2009.
-Emerg Infect Dis 2010; 16: 1300–02.
-36	 Corman VM, Landt O, Kaiser M, et al. Detection of 2019 novel
-coronavirus (2019-nCoV) by real-time RT-PCR. Euro Surveill 2020;
-25: 2000045.
-37	 Donnelly CA, Malik MR, Elkholy A, Cauchemez S,
+librariesprovider/resources-statistics/reports/special_feature_sars.
+pdf (accessed March , ).
+	 Rogerson A, Stacey S. Successful ageing in Singapore.
+Geriatrics (Basel) ; : .
+	 Ministry of the Environment and Water Resources Singapore.
+Hawker Centre . Committee Report. https://www.mewr.gov.sg/
+Data/Editor/Documents/HC%.%Report.pdf (accessed
+March , ).
+	 Chu C-Y, Li CY, Zhang H, et al. Quarantine methods and
+prevention of secondary outbreak of pandemic (HN) .
+Emerg Infect Dis ; : –.
+	 Corman VM, Landt O, Kaiser M, et al. Detection of  novel
+coronavirus (-nCoV) by real-time RT-PCR. Euro Surveill ;
+: .
+	 Donnelly CA, Malik MR, Elkholy A, Cauchemez S,
 Van Kerkhove MD. Worldwide reduction in MERS cases and deaths
-since 2016. Emerg Infect Dis 2019; 25: 1758–60.
-38	 National Environment Agency. Zika cases and clusters.
+since . Emerg Infect Dis ; : –.
+	 National Environment Agency. Zika cases and clusters.
 https://www.nea.gov.sg/dengue-zika/zika/zika-cases-and-clusters
-(accessed March 2, 2020).
-39	 Ooi E-E, Goh K-T, Gubler DJ. Dengue prevention and 35 years of
-vector control in Singapore. Emerg Infect Dis 2006; 12: 887–93.
+(accessed March , ).
+	 Ooi E-E, Goh K-T, Gubler DJ. Dengue prevention and  years of
+vector control in Singapore. Emerg Infect Dis ; : –.
 
-www.thelancet.com/infection Published online March 23, 2020 https://doi.org/10.1016/S1473-3099(20)30162-6	
+www.thelancet.com/infection Published online March ,  https://doi.org/./S-()-	
 
-11
+
 
 

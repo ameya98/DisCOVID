@@ -1,66 +1,66 @@
 Articles
 
 First known person-to-person transmission of severe acute
-respiratory syndrome coronavirus 2 (SARS-CoV-2) in the USA
+respiratory syndrome coronavirus  (SARS-CoV-) in the USA
 Isaac Ghinai*, Tristan D McPherson*, Jennifer C Hunter, Hannah L Kirking, Demian Christiansen, Kiran Joshi, Rachel Rubin, Shirley Morales-Estrada,
 Stephanie R Black, Massimo Pacilli, Marielle J Fricchione, Rashmi K Chugh, Kelly A Walblay, N Seema Ahmed, William C Stoecker, Nausheen F Hasan,
 Deborah P Burdsall, Heather E Reese, Megan Wallace, Chen Wang, Darcie Moeller, Jacqueline Korpics, Shannon A Novosad, Isaac Benowitz,
 Max W Jacobs, Vishal S Dasari, Megan T Patel, Judy Kauerauf, E Matt Charles, Ngozi O Ezike, Victoria Chu, Claire M Midgley, Melissa A Rolfes,
-Susan I Gerber, Xiaoyan Lu, Stephen Lindstrom, Jennifer R Verani, Jennifer E Layden, for the Illinois COVID-19 Investigation Team†
+Susan I Gerber, Xiaoyan Lu, Stephen Lindstrom, Jennifer R Verani, Jennifer E Layden, for the Illinois COVID- Investigation Team†
 
 Summary
 
-Background Coronavirus disease 2019 (COVID-19) is a disease caused by severe acute respiratory syndrome
-coronavirus 2 (SARS-CoV-2), first detected in China in December, 2019. In January, 2020, state, local, and federal
-public health agencies investigated the first case of COVID-19 in Illinois, USA.
-Methods Patients with confirmed COVID-19 were defined as those with a positive SARS-CoV-2 test. Contacts were
-people with exposure to a patient with COVID-19 on or after the patient’s symptom onset date. Contacts underwent
-active symptom monitoring for 14 days following their last exposure. Contacts who developed fever, cough, or
-shortness of breath became persons under investigation and were tested for SARS-CoV-2. A convenience sample of
-32 asymptomatic health-care personnel contacts were also tested.
-Findings Patient 1—a woman in her 60s—returned from China in mid-January, 2020. One week later, she was
-hospitalised with pneumonia and tested positive for SARS-CoV-2. Her husband (Patient 2) did not travel but had
-frequent close contact with his wife. He was admitted 8 days later and tested positive for SARS-CoV-2. Overall,
-372 contacts of both cases were identified; 347 underwent active symptom monitoring, including 152 community
-contacts and 195 health-care personnel. Of monitored contacts, 43 became persons under investigation, in addition to
-Patient 2. These 43 persons under investigation and all 32 asymptomatic health-care personnel tested negative for
-SARS-CoV-2.
-Interpretation Person-to-person transmission of SARS-CoV-2 occurred between two people with prolonged,
-unprotected exposure while Patient 1 was symptomatic. Despite active symptom monitoring and testing of
+Background Coronavirus disease  (COVID-) is a disease caused by severe acute respiratory syndrome
+coronavirus  (SARS-CoV-), first detected in China in December, . In January, , state, local, and federal
+public health agencies investigated the first case of COVID- in Illinois, USA.
+Methods Patients with confirmed COVID- were defined as those with a positive SARS-CoV- test. Contacts were
+people with exposure to a patient with COVID- on or after the patient’s symptom onset date. Contacts underwent
+active symptom monitoring for  days following their last exposure. Contacts who developed fever, cough, or
+shortness of breath became persons under investigation and were tested for SARS-CoV-. A convenience sample of
+ asymptomatic health-care personnel contacts were also tested.
+Findings Patient —a woman in her s—returned from China in mid-January, . One week later, she was
+hospitalised with pneumonia and tested positive for SARS-CoV-. Her husband (Patient ) did not travel but had
+frequent close contact with his wife. He was admitted  days later and tested positive for SARS-CoV-. Overall,
+ contacts of both cases were identified;  underwent active symptom monitoring, including  community
+contacts and  health-care personnel. Of monitored contacts,  became persons under investigation, in addition to
+Patient . These  persons under investigation and all  asymptomatic health-care personnel tested negative for
+SARS-CoV-.
+Interpretation Person-to-person transmission of SARS-CoV- occurred between two people with prolonged,
+unprotected exposure while Patient  was symptomatic. Despite active symptom monitoring and testing of
 symptomatic and some asymptomatic contacts, no further transmission was detected.
 Funding None.
-Copyright © 2020 Elsevier Ltd. All rights reserved.
+Copyright ©  Elsevier Ltd. All rights reserved.
 
 Introduction
-In January, 2020, a novel virus, severe acute respiratory
-syndrome coronavirus 2 (SARS-CoV-2), was iden­tified as
+In January, , a novel virus, severe acute respiratory
+syndrome coronavirus  (SARS-CoV-), was iden­tified as
 the causative agent for a cluster of pneumonia cases
-initially detected in Wuhan City, Hubei province, China.1
-SARS-CoV-2, which causes the disease now named
-coronavirus disease 2019 (COVID-19), had spread
-throughout China and to 26 additional countries as of
-Feb 18, 2020.2 Phylogenetic data implicate a zoonotic
-origin,3 and the rapid spread suggests ongoing personto-person transmission. Several studies offer additional
-insight into person-to-person transmission.4–9 However,
+initially detected in Wuhan City, Hubei province, China.
+SARS-CoV-, which causes the disease now named
+coronavirus disease  (COVID-), had spread
+throughout China and to  additional countries as of
+Feb , . Phylogenetic data implicate a zoonotic
+origin, and the rapid spread suggests ongoing personto-person transmission. Several studies offer additional
+insight into person-to-person transmission.– However,
 substantial knowledge gaps remain regarding the
 transmissibility between humans, including the level of
 exposure to a confirmed case at which transmission is
 more likely to occur.
-On Jan 23, 2020, Illinois, USA, reported the state’s first
-laboratory-confirmed case (index case) of COVID-19 in a
-traveller who returned from Wuhan in mid-January, 2020.
+On Jan , , Illinois, USA, reported the state’s first
+laboratory-confirmed case (index case) of COVID- in a
+traveller who returned from Wuhan in mid-January, .
 Subsequently, the first evidence of secondary transmission
 
-in the USA was reported on Jan 30, when the husband
+in the USA was reported on Jan , when the husband
 of the index patient, who had not travelled outside
-the USA, tested positive for SARS-CoV-2. Public health
+the USA, tested positive for SARS-CoV-. Public health
 authorities did an intensive epidemiological investigation
 of the two confirmed cases.
 This Article describes the first person-to-person
-transmission of COVID-19 in the USA, including the
+transmission of COVID- in the USA, including the
 clinical and laboratory features of both patients and the
 assessment and monitoring of several hundred indivi­
-duals with potential exposure to SARS-CoV-2.
+duals with potential exposure to SARS-CoV-.
 
 Methods
 
@@ -71,20 +71,20 @@ of Public Health, and DuPage County Health Department
 consulted with the US Centers for Disease Control and
 Prevention (CDC) for technical assistance and invited a
 CDC field team to assist with onsite investigations after
-laboratory confirmation of the first case of COVID-19.
+laboratory confirmation of the first case of COVID-.
 
-www.thelancet.com Published online March 12, 2020 https://doi.org/10.1016/S0140-6736(20)30607-3	
+www.thelancet.com Published online March ,  https://doi.org/./S-()-	
 
 Published Online
-March 12, 2020
-https://doi.org/10.1016/
-S0140-6736(20)30607-3
+March , 
+https://doi.org/./
+S-()-
 *These authors contributed
 equally
 †Memberrs of the Illinois
-COVID-19 Investigation Team
+COVID- Investigation Team
 are listed in the appendix
-(pp 1–2)
+(pp –)
 Epidemic Intelligence Service
 (I Ghinai MBBS,
 T D McPherson MD,
@@ -132,7 +132,7 @@ Department of Public Health,
 Oak Forest, IL, USA
 (D Christiansen DrPH, K Joshi MD,
 
-1
+
 
 Articles
 
@@ -163,87 +163,87 @@ Dayton, OH, USA (V S Dasari)
 Correspondence to:
 Dr Tristan D McPherson, Chicago
 Department of Public Health,
-Chicago, IL 60612, USA
-oko9@cdc.gov
+Chicago, IL , USA
+oko@cdc.gov
 or
 Dr Jennifer E Layden, Chicago
 Department of Public Health,
-Chicago, IL 60604, USA
+Chicago, IL , USA
 jennifer.layden@cityofchicago.
 org
 See Online for appendix
 
-2	
+	
 
 Research in context
 Evidence before this study
 We searched PubMed for articles published between database
-inception and Feb 18, 2020, describing transmission of severe
-acute respiratory syndrome coronavirus 2 (SARS-CoV-2) using
+inception and Feb , , describing transmission of severe
+acute respiratory syndrome coronavirus  (SARS-CoV-) using
 the search terms “severe acute respiratory syndrome
-coronavirus 2”, “SARS-CoV-2”, “novel coronavirus”,
-“2019-nCoV”, or “COVID-19”; and “transmission”, “person-toperson”, or “human-to-human”. We found 34 articles, of which
-13 were primary reports of person-to-person transmission.
+coronavirus ”, “SARS-CoV-”, “novel coronavirus”,
+“-nCoV”, or “COVID-”; and “transmission”, “person-toperson”, or “human-to-human”. We found  articles, of which
+ were primary reports of person-to-person transmission.
 None provided full details of the contact investigation and
 none were from North America.
 Added value of this study
 We detail prolonged, unprotected contact between a travelrelated index case who was symptomatic and her husband,
 who subsequently acquired infection. This represents the first
-known person-to-person transmission of SARS-CoV-2 in
+known person-to-person transmission of SARS-CoV- in
 the USA. We also detail a thorough contact investigation
 
-Patients with COVID-19 were defined as individuals
-with laboratory-confirmed SARS-CoV-2 infection. Con­
+Patients with COVID- were defined as individuals
+with laboratory-confirmed SARS-CoV- infection. Con­
 tacts were defined as people who reported or were
 identified to have potential exposure to a case on or after
-the day of symptom onset of the case (table 1). The earliest
+the day of symptom onset of the case (table ). The earliest
 reported day with new symptoms was used as date of
 symptom onset. The date of symptom onset for the index
-case is considered day 0 for the purposes of this
+case is considered day  for the purposes of this
 investigation, and all subsequent dates will be described
-by day of investigation (DOI), starting with DOI 0. In this
+by day of investigation (DOI), starting with DOI . In this
 Article, the numbers of contacts exposed to either case
 on or after the day of their first positive laboratory result
 are also presented.
-Patients with COVID-19 were interviewed using a
+Patients with COVID- were interviewed using a
 standardised questionnaire to identify symptom history,
 locations visited while symptomatic, and individuals
 with whom they had contact while symptomatic. The
-Illinois COVID-19 Investigation Team, comprised of
+Illinois COVID- Investigation Team, comprised of
 local and state public health staff and the CDC field team,
 worked with locations visited (eg, workplaces, retail
 establishments, or health-care facilities) by patients with
-COVID-19 to identify additional individuals who might
-have had exposures to SARS-CoV-2. To identify possible
+COVID- to identify additional individuals who might
+have had exposures to SARS-CoV-. To identify possible
 exposures in health-care personnel, patient logs and
 staffing records were obtained and reviewed for all
-health-care settings visited by patients with COVID-19.
+health-care settings visited by patients with COVID-.
 Security footage was reviewed to identify additional
 health-care personnel and patients who had contact
-with patients with COVID-19 during transport through
+with patients with COVID- during transport through
 the admitting hospital. Health-care personnel were
 defined as all people working in health-care settings
 who had the potential for exposure to infectious
-materials,12 including members of the Illinois COVID-19
+materials, including members of the Illinois COVID-
 Investigation Team. All other contacts were classified as
 community members, including patients in the same
 
 related to these cases. We identified, risk-stratified, and actively
-monitored almost 350 contacts of both cases. 43 contacts
+monitored almost  contacts of both cases.  contacts
 developed symptoms of fever, cough, or shortness of breath in
-the 14 days following their last exposure to either case and
-were tested for SARS-CoV-2, and 32 asymptomatic health-care
+the  days following their last exposure to either case and
+were tested for SARS-CoV-, and  asymptomatic health-care
 professional contacts who had exposures across a range of risk
-levels were also tested for SARS-CoV-2. All 75 tested negative.
+levels were also tested for SARS-CoV-. All  tested negative.
 Implications of all the available evidence
-Person-to-person transmission of SARS-CoV-2 occurred
+Person-to-person transmission of SARS-CoV- occurred
 between two people with prolonged, unprotected exposure.
 No further transmission was detected, despite monitoring
 contacts for symptoms and testing all who developed fever,
 cough, or shortness of breath and testing a convenience sample
 of asymptomatic health-care professional contacts. Further
 detailed reports of contact investigations associated with cases
-of SARS-CoV-2 could improve understanding of the
+of SARS-CoV- could improve understanding of the
 transmissibility of this novel virus.
 
 indoor environment in a health-care setting (eg, a
@@ -251,29 +251,29 @@ hospital waiting room).
 
 Exposure risk classification
 Health-care personnel and community members with
-potential exposure to SARS-CoV-2 were interviewed using
+potential exposure to SARS-CoV- were interviewed using
 standardised contact questionnaires to assess exposure
 and whether the individual had true contact with a patient
-with COVID-19. Exposure risk was classified according
+with COVID-. Exposure risk was classified according
 to frameworks designed by members of the Illinois
-COVID-19 Investigation Team in consultation with CDC
-subject-matter experts (table 1). These frameworks were
+COVID- Investigation Team in consultation with CDC
+subject-matter experts (table ). These frameworks were
 based on published guidance for Middle East respiratory
 syndrome coronavirus and designed and implemented
-before interim risk assessment guidance for COVID-19
-released by CDC.10,11
+before interim risk assessment guidance for COVID-
+released by CDC.,
 
 Active monitoring of contacts
 All health-care personnel and community contacts
 assessed to have had low-risk, medium-risk, mediumhigh-risk, or high-risk exposures were enrolled in active
-symptom monitoring, which continued for 14 days after
-last exposure to a patient with COVID-19. Active symp­
+symptom monitoring, which continued for  days after
+last exposure to a patient with COVID-. Active symp­
 tom monitoring was done using Research Electronic
 Data Capture software (Vanderbilt University, Nashville,
 TN). Contacts received automated, twice-daily emails
 inquiring about symptoms, including cough and
 shortness of breath, and a request for a self-measured
-temperature. If symptoms or fever (temperature of >38°C)
+temperature. If symptoms or fever (temperature of >°C)
 were reported, or if contacts did not respond or declined
 email monitoring, public health officials telephoned
 contacts daily. For hospital-based health-care personnel
@@ -281,7 +281,7 @@ not excluded from work, pre-shift symptom assessment
 for fever, cough, or shortness of breath was implemented
 by hospital occupational health services. To identify any
 
-www.thelancet.com Published online March 12, 2020 https://doi.org/10.1016/S0140-6736(20)30607-3
+www.thelancet.com Published online March ,  https://doi.org/./S-()-
 
 Articles
 
@@ -309,15 +309,15 @@ as, being an intimate partner
 of, or providing care in a
 non-health-care setting
 (such as a home) for a person
-with symptomatic laboratoryconfirmed COVID-19
+with symptomatic laboratoryconfirmed COVID-
 
 Domestic partner
 
 Home quarantine for
-14 days after last
+ days after last
 exposure*; active
 symptom monitoring
-for 14 days after last
+for  days after last
 exposure
 
 Performing or being present in the
@@ -328,7 +328,7 @@ while not using all recommended
 PPE†, or close contact while not
 wearing respiratory protection with
 a patient with laboratory-confirmed
-COVID-19 infection who was not
+COVID- infection who was not
 wearing a facemask
 
 Health-care personnel
@@ -344,7 +344,7 @@ specimens‡
 Home quarantine*;
 exclude from work;
 active symptom
-monitoring for 14 days
+monitoring for  days
 after last exposure
 
 Mediumhigh-risk
@@ -352,7 +352,7 @@ contacts
 
 Prolonged or frequent contact
 with a person with
-symptomatic laboratoryconfirmed COVID-19§
+symptomatic laboratoryconfirmed COVID-§
 
 Family members
 visited for prolonged
@@ -360,14 +360,14 @@ periods or close work
 associates
 
 Home quarantine for
-14 days after last
+ days after last
 exposure*; active
 symptom monitoring
-for 14 days after last
+for  days after last
 exposure
 
-Prolonged (15 min or more) contact
-with a patient with laboratoryconfirmed COVID-19 infection or
+Prolonged ( min or more) contact
+with a patient with laboratoryconfirmed COVID- infection or
 their secretions or excretions while
 not using all recommended PPE†
 
@@ -380,14 +380,14 @@ surgical mask
 
 Exclude from work;
 active symptom
-monitoring for 14 days
+monitoring for  days
 after last exposure
 
 Medium-risk
 contacts
 
 Close contact with a person
-with symptomatic laboratoryconfirmed COVID-19 and not
+with symptomatic laboratoryconfirmed COVID- and not
 having any exposures that
 meet a high-risk or mediumhigh-risk definition
 
@@ -397,25 +397,25 @@ but still have regular
 face-to-face contact
 
 Active symptom
-monitoring for 14 days
+monitoring for  days
 after last exposure
 
-More than brief contact (>1–2 min)
-with a patient with laboratoryconfirmed COVID-19 infection or
+More than brief contact (>– min)
+with a patient with laboratoryconfirmed COVID- infection or
 their secretions or excretions while
 not using all recommended PPE†
 that does not meet a high-risk or
 medium-high-risk definition
 
 Examined patient for
-5 min while wearing
+ min while wearing
 mask, gown, gloves,
 and faceshield (but no
 respirator)
 
 Exclude from work;
 active symptom
-monitoring for 14 days
+monitoring for  days
 after last exposure
 
 Low-risk
@@ -423,24 +423,24 @@ contacts
 
 Being in the same indoor
 environment with (or within
-2 h of) a person with
-symptomatic laboratoryconfirmed COVID-19
+ h of) a person with
+symptomatic laboratoryconfirmed COVID-
 
 Shared a hospital or
 outpatient waiting
 room or entered space
-within 2 h of a case
+within  h of a case
 
 Active symptom
-monitoring for 14 days
+monitoring for  days
 after last exposure
 
 Any duration of contact with a
 patient with laboratory-confirmed
-COVID-19 while using all
+COVID- while using all
 recommended PPE†, brief
 interaction with the patient
-(1–2 min) not involving direct
+(– min) not involving direct
 contact while not using all
 recommended PPE†, or working at
 the same time and location as a
@@ -448,7 +448,7 @@ confirmed case but unsure whether
 they were in the same room
 
 Examined patient while Active symptom
-wearing gloves, gown, monitoring for 14 days
+wearing gloves, gown, monitoring for  days
 after last exposure
 faceshield, or goggles
 and appropriate,
@@ -474,20 +474,20 @@ Walking by a patient in None
 a corridor
 
 Non-contacts Interactions with a person with
-symptomatic laboratoryconfirmed COVID-19 that do
+symptomatic laboratoryconfirmed COVID- that do
 not meet high-risk, mediumhigh-risk, medium-risk,
 or low-risk conditions
 
-COVID-19=coronavirus disease 2019. PPE=personal protective equipment. CDC=US Centers for Disease Control and Prevention. MERS-CoV=Middle East respiratory syndrome coronavirus. *Implemented after
-identification of the second case of laboratory-confirmed COVID-19 in Illinois on Jan 30, 2020. †Recommended PPE includes respiratory protection (ie, respirator), goggles or faceshield that covers the front and
-sides of face, gloves, and a gown. ‡Risk categorisation was developed on Jan 26, 2020, before published guidance from CDC for COVID-19.10 Criteria were based on published MERS-CoV guidance and additional
-input from CDC subject matter experts. Close contact was defined as being within approximately 6 feet or within the room or care area of a confirmed COVID-19 case (including sharing a health-care waiting area or
-room), or being in a shared air space vacated by a confirmed case within the previous 2 h. Transient interactions, such as walking by confirmed case, were not considered close contact. Of note, nasopharyngeal and
+COVID-=coronavirus disease . PPE=personal protective equipment. CDC=US Centers for Disease Control and Prevention. MERS-CoV=Middle East respiratory syndrome coronavirus. *Implemented after
+identification of the second case of laboratory-confirmed COVID- in Illinois on Jan , . †Recommended PPE includes respiratory protection (ie, respirator), goggles or faceshield that covers the front and
+sides of face, gloves, and a gown. ‡Risk categorisation was developed on Jan , , before published guidance from CDC for COVID-. Criteria were based on published MERS-CoV guidance and additional
+input from CDC subject matter experts. Close contact was defined as being within approximately  feet or within the room or care area of a confirmed COVID- case (including sharing a health-care waiting area or
+room), or being in a shared air space vacated by a confirmed case within the previous  h. Transient interactions, such as walking by confirmed case, were not considered close contact. Of note, nasopharyngeal and
 oropharyngeal specimen collection were not listed as aerosol-generating procedures in the CDC guidance, but were included as high-risk exposures in this investigation. §Risk categorisation was developed on
-Jan 31, 2020, before published guidance from CDC for COVID-19.11 Criteria were based on published MERS-CoV guidance and additional input from CDC and state and local health officials. The medium-high-risk
+Jan , , before published guidance from CDC for COVID-. Criteria were based on published MERS-CoV guidance and additional input from CDC and state and local health officials. The medium-high-risk
 classification was included owing to the identification of some community contacts who did not meet the highest category of exposure risk but were nevertheless concerning.
 
-Table 1: Illinois risk classification of health-care personnel and community contacts with potential exposure to COVID-19
+Table : Illinois risk classification of health-care personnel and community contacts with potential exposure to COVID-
 
 contacts (including those that could not be reached for
 active symptom monitoring) seeking care for fever, cough,
@@ -501,97 +501,97 @@ If a contact developed fever, cough, or shortness of
 breath during active symptom monitoring, they were
 classified as a person under investigation (PUI; a standard
 
-case designation used by CDC during an outbreak)13 and
-were isolated and tested for SARS-CoV-2.
+case designation used by CDC during an outbreak) and
+were isolated and tested for SARS-CoV-.
 
 Specimen collection and laboratory testing
 For PUIs, specimens were collected and sent to CDC for
 testing. Specimens included upper (nasopharyngeal and
 oropharyngeal swabs) and lower respiratory specimens
 (sputum) if spontaneously produced. For patients with
-COVID-19, nasopharyngeal, oropharyngeal, serum,
+COVID-, nasopharyngeal, oropharyngeal, serum,
 sputum, urine, and stool specimens were collected and
 sent to CDC for testing at initial presentation, and then
 
-www.thelancet.com Published online March 12, 2020 https://doi.org/10.1016/S0140-6736(20)30607-3	
+www.thelancet.com Published online March ,  https://doi.org/./S-()-	
 
-3
+
 
 Articles
 
 Day of Investigation
-Patient 1
+Patient 
 
 Wuhan
 
-0
 
-1
 
-2
 
-3
 
-4
 
-5
 
-6
 
-7
 
-9
 
-10
 
-11
 
-12
 
-13
 
-14
 
-15
 
-16
 
-17
 
-18
 
-19
 
-20
 
-21
 
-22
 
-23
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Hospital
 
 Subjective fever
 Symptoms
 
-8
+
 
 Community
 
-28
 
-30 31
+
+ 
 Home*
 
-38·2°C
+·°C
 
 Fatigue
 Cough
 Nausea
 Abdominal discomfort
 
-SARS-CoV-2 rtPCR results
+SARS-CoV- rtPCR results
 
 Dizziness
 Nasopharyngeal swab
@@ -601,7 +601,7 @@ Serum
 Urine
 Stool
 
-Patient 2
+Patient 
 
 inc
 
@@ -627,7 +627,7 @@ Worsened from baseline
 Headache
 Haemoptysis
 
-SARS-CoV-2 rtPCR results
+SARS-CoV- rtPCR results
 
 Enrolled in active symptom monitoring
 
@@ -646,51 +646,51 @@ Serum
 Urine
 Stool
 
-Figure: Symptoms and results of rtPCR testing for SARS-CoV-2 by day of investigation
-Gradient shading indicates unclear period of symptom onset from patient report. inc=inconclusive result. rtPCR=real-time RT-PCR. SARS-CoV-2=severe acute
-respiratory syndrome coronavirus 2. *Patient 1 and Patient 2 in home isolation.
+Figure: Symptoms and results of rtPCR testing for SARS-CoV- by day of investigation
+Gradient shading indicates unclear period of symptom onset from patient report. inc=inconclusive result. rtPCR=real-time RT-PCR. SARS-CoV-=severe acute
+respiratory syndrome coronavirus . *Patient  and Patient  in home isolation.
 
-every 2–3 days. Additionally, a convenience sample of
-32 asymptomatic health-care personnel contacts had
+every – days. Additionally, a convenience sample of
+ asymptomatic health-care personnel contacts had
 one-time nasopharyngeal and oropharyngeal specimens
-obtained at least 7 days from their highest-risk expo­
+obtained at least  days from their highest-risk expo­
 sure. All health-care personnel contacts were offered
 testing, but laboratory capacity and availability of healthcare personnel to undergo testing were limited in the
-setting of this urgent investigation. Before Patient 2
+setting of this urgent investigation. Before Patient 
 reported symptoms to public health investigators,
 nasopharyngeal and oropharyngeal swabs were also
-collected from Patient 2 owing to his high-risk exposures
-to Patient 1.
-Specimens were collected per CDC guidance.14 All
-specimens were refrigerated at 2–8°C before shipping on
+collected from Patient  owing to his high-risk exposures
+to Patient .
+Specimens were collected per CDC guidance. All
+specimens were refrigerated at –°C before shipping on
 icepacks to CDC. CDC did real-time RT-PCR (rtPCR) to
-detect three separate genetic markers of SARS-CoV-2,
-as previously described.15 The cycle threshold value
+detect three separate genetic markers of SARS-CoV-,
+as previously described. The cycle threshold value
 ranges for the three markers were interpreted as a semiquanti­tative measure of the RNA concentration in the
 specimen.
-4	
+	
 
 Role of the funding source
 There was no funding source for this study.
 
 Results
-Patient 1 is a female in her 60s who travelled to Wuhan
-on Dec 25, 2019, and returned to Illinois on Jan 13, 2020,
+Patient  is a female in her s who travelled to Wuhan
+on Dec , , and returned to Illinois on Jan , ,
 and who was not symptomatic while travelling. In
 Wuhan, she visited a hospitalised relative regularly and
 visited other family members who had undiagnosed
 respiratory illnesses, one of whom was later hospitalised
-with viral pneumonia. No contacts had laboratoryconfirmed COVID-19, but it is unknown whether any
-were tested for SARS-CoV-2.
-On DOI 6, she sought care at an outpatient clinic for
+with viral pneumonia. No contacts had laboratoryconfirmed COVID-, but it is unknown whether any
+were tested for SARS-CoV-.
+On DOI , she sought care at an outpatient clinic for
 fever, fatigue, and cough and was hospitalised that day for
 pneumonia. She was reported to public health authorities
-as a PUI on DOI 7. Retrospectively, she reported that her
+as a PUI on DOI . Retrospectively, she reported that her
 symptoms, which also included nausea, abdominal
-discomfort, and dizziness, started as early as 6 days before
+discomfort, and dizziness, started as early as  days before
 admission (figure).
 
-www.thelancet.com Published online March 12, 2020 https://doi.org/10.1016/S0140-6736(20)30607-3
+www.thelancet.com Published online March ,  https://doi.org/./S-()-
 
 Articles
 
@@ -705,343 +705,343 @@ criteria*
 
 On or after date of first positive specimen
 PUIs positive for
-COVID-19†
+COVID-†
 
 Total contacts Did not
 Met PUI
 become a PUI criteria*
 
 PUIs positive
-for COVID-19†
+for COVID-†
 
 Community contacts
 High risk
 
-1
 
-0
 
-1
 
-1/1
 
-1
 
-0
 
-1
+/
 
-1/1
+
+
+
+
+
+
+/
 
 Medium high
 
-7
 
-5
 
-2
 
-0/2
 
-1
 
-1
 
-0
+/
+
+
+
+
+
+
 
 ··
 
-28
 
-24
 
-4
 
-0/4
 
-0
 
-0
 
-0
+/
+
+
+
+
+
+
 
 ··
 
 Low
 
-116
 
-111
 
-5
 
-0/5
 
-65
 
-61
 
-4
+/
 
-0/4
+
+
+
+
+
+
+/
 
 Total
 
-152
 
-140
 
-12
 
-1/12
 
-67
 
-62
 
-5
+/
 
-1/5
+
+
+
+
+
+
+/
 
 Medium
 
 Health-care personnel contacts
 High risk
 
-32
 
-28
 
-4
 
-0/4
 
-22
 
-20
 
-2
+/
 
-0/2
+
+
+
+
+
+
+/
 
 Medium high
 
-39
 
-30
 
-9
 
-0/9
 
-29
 
-24
 
-5
+/
 
-0/5
+
+
+
+
+
+
+/
 
 Medium
 
-12
 
-6
 
-6
 
-0/6
 
-9
 
-5
 
-4
+/
 
-0/4
+
+
+
+
+
+
+/
 
 Low
 
-112
 
-99
 
-13
 
-0/13
 
-95
 
-84
 
-11
+/
 
-0/11
+
+
+
+
+
+
+/
 
 Total
 
-195
 
-163
 
-32
 
-0/32
 
-155
 
-133
 
-22
+/
 
-0/22
 
-347
 
-303
 
-44
 
-1‡
 
-222
 
-195
+/
 
-27
 
-1‡
+
+
+
+
+
+‡
+
+
+
+
+
+
+
+‡
 
 Total contacts
 
-Data are n or n/N. PUI=person under investigation. COVID-19=coronavirus disease 2019. *US Centers for Disease Control and Prevention PUI criteria for contacts of a
-confirmed case: fever (subjective or objective) or signs or symptoms of lower respiratory illness (eg, cough or shortness of breath). †PUIs were tested for COVID-19 using
-real-time RT-PCR for severe acute respiratory syndrome coronavirus 2. Only results from PUIs tested for COVID-19 in this investigation are presented here. ‡The index
-patient, Patient 1, is excluded from this total
+Data are n or n/N. PUI=person under investigation. COVID-=coronavirus disease . *US Centers for Disease Control and Prevention PUI criteria for contacts of a
+confirmed case: fever (subjective or objective) or signs or symptoms of lower respiratory illness (eg, cough or shortness of breath). †PUIs were tested for COVID- using
+real-time RT-PCR for severe acute respiratory syndrome coronavirus . Only results from PUIs tested for COVID- in this investigation are presented here. ‡The index
+patient, Patient , is excluded from this total
 
-Table 2: Actively monitored contacts and PUIs owing to contact with a patient with COVID-19, Illinois, USA, 2020
+Table : Actively monitored contacts and PUIs owing to contact with a patient with COVID-, Illinois, USA, 
 
 Before hospitalisation, she had frequent, close con­
-tact with her husband on DOI 0–6 when she had an
+tact with her husband on DOI – when she had an
 active cough. Her husband had not travelled to Wuhan.
 She and her husband live together, eat together, share
 a bed, and have frequent face-to-face interactions.
 Facemasks or other personal protective equipment
 (PPE) were not used at the home. Her husband was
 classified as having high-risk exposures and began
-active symptom monitoring on DOI 7 with specimen
-collection on DOI 11, before his report of any new
+active symptom monitoring on DOI  with specimen
+collection on DOI , before his report of any new
 symptoms.
-Patient 2 has chronic obstructive pulmonary disease,
+Patient  has chronic obstructive pulmonary disease,
 with a chronic, productive cough and baseline dyspnoea;
 therefore, the timing of symptom onset related to
-COVID-19 was difficult to determine (figure). When first
-interviewed as a contact on DOI 7, he reported no fever
+COVID- was difficult to determine (figure). When first
+interviewed as a contact on DOI , he reported no fever
 or change in chronic respiratory symptoms. Later, he
 reported increased dyspnoea and sputum production
-starting on DOI 11, which was also the first day of
-specimen collection as a contact in Patient 1’s investi­
-gation. Upon further interview of Patient 2’s contacts, it
+starting on DOI , which was also the first day of
+specimen collection as a contact in Patient ’s investi­
+gation. Upon further interview of Patient ’s contacts, it
 was suggested that some non-specific symptoms might
-have started as early as DOI 3, with fatigue and worsening
-cough. On DOI 14, he reported new haemoptysis and
+have started as early as DOI , with fatigue and worsening
+cough. On DOI , he reported new haemoptysis and
 worsening dyspnoea through active monitoring. He was
 promptly admitted to the hospital and placed in an
 airborne infection isolation room (AIIR). Nasopharyngeal
-and oropharyngeal specimens from DOI 11 tested positive
-for SARS-CoV-2 on DOI 15.
+and oropharyngeal specimens from DOI  tested positive
+for SARS-CoV- on DOI .
 On hospital admission, vital signs, and physical
-examination for Patient 1 were within normal limits. Her
+examination for Patient  were within normal limits. Her
 chest radiograph demonstrated no abnormalities, but a
 CT scan of her chest revealed bilateral multifocal
 
 infiltrates and mediastinal and hilar lymphadenopathy.
-On admission, Patient 2 had mild tachypnoea and coarse
+On admission, Patient  had mild tachypnoea and coarse
 breath sounds with mild wheezes bilaterally, although
 whether these signs represented a change from his
-baseline status is unclear. Patient 2’s chest radiograph
+baseline status is unclear. Patient ’s chest radiograph
 showed emphysematous changes and right lower lobe
 infiltrates consistent with pneumonia. For both patients,
 testing for other viral and bacterial respiratory infec­­
 tions was negative. Both experienced mild leukopenia
-(Patient 1 white blood count nadir 3·0 × 10³ cells per μL,
-Patient 2 nadir 3·4 × 10³ cells per μL), lympho­
+(Patient  white blood count nadir · × ³ cells per μL,
+Patient  nadir · × ³ cells per μL), lympho­
 penia
-(Patient 1 absolute lymphocyte count nadir 0·7 × 10³ cells
-per μL, Patient 2 nadir 0·8 × 10³ cells per μL), and
+(Patient  absolute lymphocyte count nadir · × ³ cells
+per μL, Patient  nadir · × ³ cells per μL), and
 mild elevations in aspartate aminotransferase and
-alanine aminotransferase (Patient 1 peak 46 units per L
-and 66 units per L, Patient 2 peak 47 units per L and
-75 units per L). No other remarkable laboratory results
+alanine aminotransferase (Patient  peak  units per L
+and  units per L, Patient  peak  units per L and
+ units per L). No other remarkable laboratory results
 were noted.
 Both patients recovered and were discharged to home
-isolation on DOI 23. Hospital admission was extended
+isolation on DOI . Hospital admission was extended
 while arrangements were made for home isolation.
-Home isolation for both patients was lifted on DOI 33,
+Home isolation for both patients was lifted on DOI ,
 following two sets of negative respiratory specimens
-collected 24 h apart.
-Patient 1 wore a facemask in the emergency department
+collected  h apart.
+Patient  wore a facemask in the emergency department
 waiting room and was placed on droplet precautions in
-the emergency department and for the first 10 h after
+the emergency department and for the first  h after
 admission. She was subsequently transferred to an AIIR,
 where health-care personnel entering the patient’s
 room were required to adhere to Standard, Contact, and
 Airborne Precautions, including hand hygiene, gloves,
-gown, respirator, and eye protection.16 Health-care per­
+gown, respirator, and eye protection. Health-care per­
 sonnel were enrolled in active monitoring, and potential
 
-www.thelancet.com Published online March 12, 2020 https://doi.org/10.1016/S0140-6736(20)30607-3	
+www.thelancet.com Published online March ,  https://doi.org/./S-()-	
 
-5
+
 
 Articles
 
 breaches were recorded and investigated to determine
-risk classification. Patient 2 was immediately evaluated
-and admitted to an AIIR and placed on TransmissionBased Precautions as described for Patient 1.
-For Patient 1, initial nasopharyngeal, oropharyngeal, and
-sputum specimens collected on DOI 7 were positive,
+risk classification. Patient  was immediately evaluated
+and admitted to an AIIR and placed on TransmissionBased Precautions as described for Patient .
+For Patient , initial nasopharyngeal, oropharyngeal, and
+sputum specimens collected on DOI  were positive,
 whereas serum and urine were negative. Her initial
 sputum rtPCR cycle threshold values ranged between
-24–25, indicating high viral burden before isolation.
+–, indicating high viral burden before isolation.
 Sputum specimens remained positive longer than all other
-specimens for both cases (figure, appendix pp 3–4). Stool
-specimens collected for Patient 1 also remained positive
+specimens for both cases (figure, appendix pp –). Stool
+specimens collected for Patient  also remained positive
 longer than nasopharyngeal and oropharyngeal speci­
-mens; however, Patient 2 had no positive stool specimens.
-Neither Patient 1 or 2 had serum or urine specimens that
-tested positive for SARS-CoV-2.
-372 contacts of either Patient 1 or Patient 2 were
+mens; however, Patient  had no positive stool specimens.
+Neither Patient  or  had serum or urine specimens that
+tested positive for SARS-CoV-.
+ contacts of either Patient  or Patient  were
 identified. Public health investigators were able to
 assess exposure risk and actively monitor symptoms
-for 347 (93%) of the 372 contacts, including 222 (94%) of
-236 contacts with exposure on or after the date of first
-positive specimen collection. There were 25 people that
+for  (%) of the  contacts, including  (%) of
+ contacts with exposure on or after the date of first
+positive specimen collection. There were  people that
 had insufficient contact information to complete active
 monitoring. None of these individuals were found to
 have emergency department visits with fever, cough, or
 shortness of breath using near real-time surveillance
 data received from regional acute care hospitals for
-14 days after their last exposure. Data presented are
-for those actively monitored. Of these 347 contacts,
-195 (56%) were health-care personnel and 152 (44%)
+ days after their last exposure. Data presented are
+for those actively monitored. Of these  contacts,
+ (%) were health-care personnel and  (%)
 were community members. Although the majority of
-monitored contacts (228 [66%] of 347) had low-risk
-exposures, 119 (34%) had exposures of medium risk or
-greater (table 2).
-Although Patient 1 and 2 live together and were
+monitored contacts ( [%] of ) had low-risk
+exposures,  (%) had exposures of medium risk or
+greater (table ).
+Although Patient  and  live together and were
 hospitalised in the same facility, and therefore shared
-several common contacts (65 shared community contacts
+several common contacts ( shared community contacts
 from emergency department or outpatient waiting rooms
-and 28 health-care personnel who interacted with both
-patients), they also had many unique contacts. Patient 1
-had 92 unique health-care personnel contacts and
-16 unique community contacts, including one household
-contact (Patient 2). Patient 2 had 75 unique health-care
-personnel contacts and 71 unique community contacts,
-including 51 from outpatient waiting rooms.
-The majority of contacts (303 [87%] of 347 total moni­
-tored contacts and 195 [88%] of 222 monitored contacts
+and  health-care personnel who interacted with both
+patients), they also had many unique contacts. Patient 
+had  unique health-care personnel contacts and
+ unique community contacts, including one household
+contact (Patient ). Patient  had  unique health-care
+personnel contacts and  unique community contacts,
+including  from outpatient waiting rooms.
+The majority of contacts ( [%] of  total moni­
+tored contacts and  [%] of  monitored contacts
 on or after the date of first positive specimen collection)
 did not develop symptoms consistent with PUI criteria.
 Additionally, surveillance data from Illinois acute care
@@ -1049,82 +1049,82 @@ hospitals indicated that no asymptomatic monitored
 contacts or other contacts who could not be reached for
 active symptom monitoring presented to an emergency
 department with fever, cough, or shortness of breath
-during DOI 6–30.
-During active symptom monitoring, 44 (13%) of
-347 total contacts became PUIs, including 27 (12%) of
-6	
+during DOI –.
+During active symptom monitoring,  (%) of
+ total contacts became PUIs, including  (%) of
+	
 
-222 monitored contacts who had exposures on or after the
+ monitored contacts who had exposures on or after the
 date of first positive specimen collection.
-As a household contact, Patient 2 was the only commu­
+As a household contact, Patient  was the only commu­
 nity member who had a high-risk exposure. He became
 a PUI and subsequently the only other patient with
-COVID-19 in this investigation. Of the remaining 43 PUIs,
-all tested negative for SARS-CoV-2 while symptomatic;
-32 of these PUIs were health-care personnel and 11 were
-community contacts. Although 18 (41%) of 44 PUIs had
-low-risk exposures, 26 (59%) had exposures of medium
+COVID- in this investigation. Of the remaining  PUIs,
+all tested negative for SARS-CoV- while symptomatic;
+ of these PUIs were health-care personnel and  were
+community contacts. Although  (%) of  PUIs had
+low-risk exposures,  (%) had exposures of medium
 risk or greater.
-32 health-care personnel contacts who were not
+ health-care personnel contacts who were not
 PUIs had one-time nasopharyngeal and oropharyngeal
-specimens collected 7–14 days after their highest-risk
+specimens collected – days after their highest-risk
 exposure. All of these exposures occurred on or after the
 date of first positive specimen collection of a patient with
-COVID-19. 21 (66%) of these asymptomatic health-care
+COVID-.  (%) of these asymptomatic health-care
 personnel had exposures of medium risk or greater. All
-were negative for SARS-CoV-2 at the time of testing.
+were negative for SARS-CoV- at the time of testing.
 
 Discussion
 This Article documents the first known person-to-person
-transmission of SARS-CoV-2 in the USA. Transmission
+transmission of SARS-CoV- in the USA. Transmission
 occurred between close household contacts, from an index
 travel-associated case who subsequently transmitted the
 infection to her husband. Their prolonged, unprotected
 close contact occurred across multiple days early in her
-illness, before Patient 1 sought clinical care. No add­
-itional cases of COVID-19 were identified through active
+illness, before Patient  sought clinical care. No add­
+itional cases of COVID- were identified through active
 symptom monitoring of several hundred community and
 health-care personnel contacts, testing of symptomatic
-PUIs, or screening of a subset of asymptomatic healthcare personnel contacts. These data suggest that personto-person transmission of COVID-19 might be most likely
+PUIs, or screening of a subset of asymptomatic healthcare personnel contacts. These data suggest that personto-person transmission of COVID- might be most likely
 to occur through unprotected, prolonged exposure to a
-patient with symptomatic COVID-19. Our experience of
-limited transmission of SARS-CoV-2 differs from that
+patient with symptomatic COVID-. Our experience of
+limited transmission of SARS-CoV- differs from that
 documented in Wuhan, where transmission has been
 reported to occur across the wider community and in
-health-care personnel,6 and from experiences of other
-similar coronaviruses.17–19 The severity of illness, the extent
+health-care personnel, and from experiences of other
+similar coronaviruses.– The severity of illness, the extent
 of viral shedding, and timing of exposures to a symp­
 tomatic patient might all have contributed to the limited
 transmission described here. Infection control measures
 within the hospital setting and an aggressive public health
 response might also have prevented further exposures.
-Much like the first US case of COVID-19 in Washington,20
+Much like the first US case of COVID- in Washington,
 both Illinois patients had mild-to-moderate illnesses that
 started with non-specific symptoms, making early iden­
 tification difficult for patients, clinicians, and public
-health investigators. Furthermore, Patient 2’s baseline
+health investigators. Furthermore, Patient ’s baseline
 cough and dyspnoea made iden­
 tifying new symptoms
 challenging. These factors have implications for detection
 of future cases. Clinicians and public health officials
 should maintain a low threshold for testing in patients
 with comorbidities that might obscure obvious signs and
-symptoms of COVID-19.
+symptoms of COVID-.
 
-www.thelancet.com Published online March 12, 2020 https://doi.org/10.1016/S0140-6736(20)30607-3
+www.thelancet.com Published online March ,  https://doi.org/./S-()-
 
 Articles
 
 The timing and duration of viral shedding after
-SARS-CoV-2 infection is unknown. In the two Illinois
+SARS-CoV- infection is unknown. In the two Illinois
 patients, sputum specimens remained rtPCR-positive
 longer than other specimen types. Recognising that rtPCR
-testing detects any SARS-CoV-2 RNA, not necessarily
+testing detects any SARS-CoV- RNA, not necessarily
 infectious virus, further studies are needed to understand
 how viral shedding and detection are associated with
 transmission. Such studies have implications for public
 health recommendations regarding the type and duration
-of isolation required for patients with COVID-19 and will
+of isolation required for patients with COVID- and will
 allow for more focused and targeted contact tracing and
 testing of appropriate specimens based on duration of
 illness.
@@ -1134,21 +1134,21 @@ transmission event and the associated contact investi­
 gation. Findings might not be generalisable or repre­
 sentative of broader transmission patterns. Second, this
 investigation might not have identified all individuals
-with potential exposure to SARS-CoV-2, because epi­
+with potential exposure to SARS-CoV-, because epi­
 demio­logical investigations are dependent on individuals’
 recall of places visited, people seen, and symptom onset.
-The date of symptom onset for Patient 2 was especially
+The date of symptom onset for Patient  was especially
 difficult to ascertain. Given this uncertainty, we applied a
-conservative approach for identifying contacts of Patient 2
+conservative approach for identifying contacts of Patient 
 by using the earliest reported date of possible symptom
-onset, DOI 3. This could have artificially increased the
+onset, DOI . This could have artificially increased the
 number of contacts and provided false reassurance of
 infrequent transmission. Therefore, we also present data
 separately for exposures that occurred on or after the first
 known date of viral positivity.
 Third, this investigation took place before published
 CDC guidance for classifying exposure risk among
-contacts of patients with COVID-19.10,12 The risk classi­
+contacts of patients with COVID-., The risk classi­
 fication used here differed from the now published
 guidance in some key areas. For example, we considered
 nasopharyngeal and oropharyngeal specimen collection
@@ -1158,18 +1158,18 @@ recommended PPE as high risk, whereas they are
 classified as medium risk according to the guidance.
 Additionally, we included community members as
 contacts if they entered the same indoor environment
-(eg, hospital waiting room) within 2 h of a patient with
-COVID-19, an approach based on other viruses with
+(eg, hospital waiting room) within  h of a patient with
+COVID-, an approach based on other viruses with
 airborne transmission patterns, such as measles. Current
 interim guidance requires contacts to have been in the
-room at the same time as a patient with COVID-19.
+room at the same time as a patient with COVID-.
 Therefore, the risk stratifications used here might not be
 comparable to future investigations using this guidance.
 Fourth, nasopharyngeal and oropharyngeal specimens
 collected on both PUIs and asymptomatic health-care
 personnel contacts were collected at a single timepoint;
-a single negative SARS-CoV-2 rtPCR might not be
-sufficient to definitively rule out infection over a 14-day
+a single negative SARS-CoV- rtPCR might not be
+sufficient to definitively rule out infection over a -day
 incubation period, and only a convenience sample of a
 minority of health-care personnel contacts were tested in
 
@@ -1179,32 +1179,32 @@ transmission. Future serological studies of exposed
 contacts will allow a better understanding of asymp­
 tomatic infection rates. Furthermore, updated CDC
 guidance recommends including sore throat as a
-possible symptom of COVID-19 when evaluating healthcare personnel,10 whereas in this investigation, only
+possible symptom of COVID- when evaluating healthcare personnel, whereas in this investigation, only
 those with fever, cough, or shortness of breath were
-tested for SARS-CoV-2.
+tested for SARS-CoV-.
 Nevertheless, our ongoing investigation has only
-detected transmission of SARS-CoV-2 in a single house­
+detected transmission of SARS-CoV- in a single house­
 hold contact with frequent, prolonged interactions with
-the index patient. The absence of COVID-19 among healthcare personnel supports recommendations regarding
+the index patient. The absence of COVID- among healthcare personnel supports recommendations regarding
 appropriate infection control. These findings also support
 CDC’s assessment that, without using appropriate PPE,
 people living in the same household as, or providing care
 in a non-health-care setting for, a person with symptomatic
-laboratory-confirmed COVID-19 have high-risk exposure.21
+laboratory-confirmed COVID- have high-risk exposure.
 In these contexts, CDC’s recommendation for people with
 high-risk exposures to remain quarantined with no public
-activities might be effective in reducing onward person-toperson transmission of SARS-CoV-2.11 Given the difficulty
+activities might be effective in reducing onward person-toperson transmission of SARS-CoV-. Given the difficulty
 in detecting new symptoms in patients with underlying
 lung disease, CDC recommends that clinicians consi­
-dering a diagnosis of COVID-19 should discuss testing
-with public health departments on a case-by-case basis.22
-Patients with potential exposure to SARS-CoV-2 with a
+dering a diagnosis of COVID- should discuss testing
+with public health departments on a case-by-case basis.
+Patients with potential exposure to SARS-CoV- with a
 fever, cough, or shortness of breath should call their
 health-care provider before seeking care so that appro­
-priate preventive actions can be implemented.21 Healthcare facilities should rapidly triage and isolate suspected
+priate preventive actions can be implemented. Healthcare facilities should rapidly triage and isolate suspected
 PUIs and notify infection prevention services and local
 health departments for support in testing, management,
-and containment efforts.22
+and containment efforts.
 Contributors
 IG, TDM, JCH, and HLK each led aspects of the contact investigation and
 JRV and JEL provided overall leadership and guidance to the investigation.
@@ -1225,13 +1225,13 @@ Acknowledgments
 We thank the patients, staff at local and state health departments of
 Illinois, staff at the US Centers for Disease Control and Prevention
 (CDC) Division of Viral Disease Laboratory, CDC staff at the Emergency
-Operations Center, and members of the COVID-19 response teams at
+Operations Center, and members of the COVID- response teams at
 the local, state, and national levels for their input and collaboration on
 this investigation. For their partnership and dedication, we thank the
 
-www.thelancet.com Published online March 12, 2020 https://doi.org/10.1016/S0140-6736(20)30607-3	
+www.thelancet.com Published online March ,  https://doi.org/./S-()-	
 
-7
+
 
 Articles
 
@@ -1253,91 +1253,91 @@ The opinions expressed by authors contributing to this Article do not
 necessarily reflect the opinions of the CDC or the institutions with
 which the authors are affiliated.
 References
-1	 WHO. Coronavirus disease (COVID-19) outbreak. World Health
-Organization, 2020. https://www.who.int/emergencies/diseases/
-novel-coronavirus-2019 (accessed Feb 12, 2020).
-2	 CDC. Locations with confirmed COVID-19 cases, global map.
-Centers for Disease Control and Prevention, 2020. https://www.cdc.
-gov/coronavirus/2019-ncov/locations-confirmed-cases.html#map
-(accessed Feb 12, 2020).
-3	 Lu R, Zhao X, Li J, et al. Genomic characterisation and
-epidemiology of 2019 novel coronavirus: implications for virus
-origins and receptor binding. Lancet 2020; 395: 565–74.
-4	 Chan JF-W, Yuan S, Kok K-H, et al. A familial cluster of pneumonia
-associated with the 2019 novel coronavirus indicating person-toperson transmission: a study of a family cluster. Lancet 2020;
-395: 514–23.
-5	 Phan L, Nguyen T, Luong Q, et al. Importation and human-tohuman transmission of a novel coronavirus in Vietnam.
-N Engl J Med 2020; 382: 872–74.
-6	 Li Q, Guan X, Wu P, et al. Early transmission dynamics in Wuhan,
+	 WHO. Coronavirus disease (COVID-) outbreak. World Health
+Organization, . https://www.who.int/emergencies/diseases/
+novel-coronavirus- (accessed Feb , ).
+	 CDC. Locations with confirmed COVID- cases, global map.
+Centers for Disease Control and Prevention, . https://www.cdc.
+gov/coronavirus/-ncov/locations-confirmed-cases.html#map
+(accessed Feb , ).
+	 Lu R, Zhao X, Li J, et al. Genomic characterisation and
+epidemiology of  novel coronavirus: implications for virus
+origins and receptor binding. Lancet ; : –.
+	 Chan JF-W, Yuan S, Kok K-H, et al. A familial cluster of pneumonia
+associated with the  novel coronavirus indicating person-toperson transmission: a study of a family cluster. Lancet ;
+: –.
+	 Phan L, Nguyen T, Luong Q, et al. Importation and human-tohuman transmission of a novel coronavirus in Vietnam.
+N Engl J Med ; : –.
+	 Li Q, Guan X, Wu P, et al. Early transmission dynamics in Wuhan,
 China, of novel coronavirus-infected pneumonia. N Engl J Med
-2020; published online Jan 29. DOI:10.1056/NEJMoa2001316.
-7	 Chen N, Zhou M, Dong X, et al. Epidemiological and clinical
-characteristics of 99 cases of 2019 novel coronavirus pneumonia in
-Wuhan, China: a descriptive study. Lancet 2020; 395: 507–13.
-8	 WHO. Statement on the meeting of the International Health
-Regulations (2005) Emergency Committee regarding the outbreak
-of novel coronavirus (2019-nCoV). World Health Organization,
-Jan 23, 2020. https://www.who.int/news-room/detail/23-01-2020statement-on-the-meeting-of-the-international-health-regulations(2005)-emergency-committee-regarding-the-outbreak-of-novelcoronavirus-(2019-ncov) (accessed Feb 12, 2020).
-9	 Park SW, Bolker BM, Champredon D, et al. Reconciling earlyoutbreak estimates of the basic reproductive number and its
+; published online Jan . DOI:./NEJMoa.
+	 Chen N, Zhou M, Dong X, et al. Epidemiological and clinical
+characteristics of  cases of  novel coronavirus pneumonia in
+Wuhan, China: a descriptive study. Lancet ; : –.
+	 WHO. Statement on the meeting of the International Health
+Regulations () Emergency Committee regarding the outbreak
+of novel coronavirus (-nCoV). World Health Organization,
+Jan , . https://www.who.int/news-room/detail/--statement-on-the-meeting-of-the-international-health-regulations()-emergency-committee-regarding-the-outbreak-of-novelcoronavirus-(-ncov) (accessed Feb , ).
+	 Park SW, Bolker BM, Champredon D, et al. Reconciling earlyoutbreak estimates of the basic reproductive number and its
 uncertainty: framework and applications to the novel coronavirus
-(2019-nCoV) outbreak. medRxiv 2020; published online Feb 7.
-DOI:10.1101/2020.01.30.20019877 (preprint).
+(-nCoV) outbreak. medRxiv ; published online Feb .
+DOI:./... (preprint).
 
-8	
+	
 
-10	 CDC. Interim U.S. guidance for risk assessment and public health
+	 CDC. Interim U.S. guidance for risk assessment and public health
 management of healthcare personnel with potential exposure in a
-healthcare setting to patients with 2019 novel coronavirus
-(2019-nCoV). Centers for Disease Control and Prevention, 2020.
-https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-riskassesment-hcp.html (accessed Feb 12, 2020).
-11	 CDC. Interim US guidance for risk assessment and public health
-management of persons with potential 2019 novel coronavirus
-(2019-nCoV) exposure in travel-associated or community settings.
-Centers for Disease Control and Prevention, 2020. https://www.cdc.
-gov/coronavirus/2019-ncov/php/risk-assessment.html (accessed
-Feb 12, 2020).
-12	 CDC. Appendix 2. Terminology. Infection control in healthcare
+healthcare setting to patients with  novel coronavirus
+(-nCoV). Centers for Disease Control and Prevention, .
+https://www.cdc.gov/coronavirus/-ncov/hcp/guidance-riskassesment-hcp.html (accessed Feb , ).
+	 CDC. Interim US guidance for risk assessment and public health
+management of persons with potential  novel coronavirus
+(-nCoV) exposure in travel-associated or community settings.
+Centers for Disease Control and Prevention, . https://www.cdc.
+gov/coronavirus/-ncov/php/risk-assessment.html (accessed
+Feb , ).
+	 CDC. Appendix . Terminology. Infection control in healthcare
 personnel: infrastructure and routine practices for occupational
-infection prevention and control services (2019). Centers for Disease
-Control and Prevention, 2019. https://www.cdc.gov/infectioncontrol/
+infection prevention and control services (). Centers for Disease
+Control and Prevention, . https://www.cdc.gov/infectioncontrol/
 guidelines/healthcare-personnel/appendix/terminology.html
-(accessed Feb 17, 2020).
-13	 CDC. Health alert network: update and interim guidance on
-outbreak of 2019 novel coronavirus (2019-nCoV). Centers for
-Disease Control and Prevention, 2020. https://emergency.cdc.gov/
-han/han00427.asp (accessed Feb 12, 2020).
-14	 CDC. Interim guidelines for collecting, handling, and testing
+(accessed Feb , ).
+	 CDC. Health alert network: update and interim guidance on
+outbreak of  novel coronavirus (-nCoV). Centers for
+Disease Control and Prevention, . https://emergency.cdc.gov/
+han/han.asp (accessed Feb , ).
+	 CDC. Interim guidelines for collecting, handling, and testing
 clinical specimens from persons under investigation (PUIs) for
-2019 novel coronavirus (2019-nCoV). Centers for Disease Control
-and Prevention, 2020. https://www.cdc.gov/coronavirus/2019-ncov/
-lab/guidelines-clinical-specimens.html (accessed Feb 12, 2020).
-15	 CDC. Research use only real-time RT-PCR protocol for
-identification of 2019-nCoV. Centers for Disease Control and
-Prevention, 2020. https://www.cdc.gov/coronavirus/2019-ncov/lab/
-rt-pcr-detection-instructions.html (accessed Feb 12, 2020).
-16	 CDC. Infection control basics. Centers for Disease Control and
-Prevention, 2016. https://www.cdc.gov/infectioncontrol/basics/
-index.html (accessed Feb 19, 2020).
-17	 Chowell G, Abdirizak F, Lee S, et al. Transmission characteristics of
+ novel coronavirus (-nCoV). Centers for Disease Control
+and Prevention, . https://www.cdc.gov/coronavirus/-ncov/
+lab/guidelines-clinical-specimens.html (accessed Feb , ).
+	 CDC. Research use only real-time RT-PCR protocol for
+identification of -nCoV. Centers for Disease Control and
+Prevention, . https://www.cdc.gov/coronavirus/-ncov/lab/
+rt-pcr-detection-instructions.html (accessed Feb , ).
+	 CDC. Infection control basics. Centers for Disease Control and
+Prevention, . https://www.cdc.gov/infectioncontrol/basics/
+index.html (accessed Feb , ).
+	 Chowell G, Abdirizak F, Lee S, et al. Transmission characteristics of
 MERS and SARS in the healthcare setting: a comparative study.
-BMC Med 2015; 13: 210.
-18	 Cowling BJ, Park M, Fang VJ, Wu P, Leung GM, Wu JT.
+BMC Med ; : .
+	 Cowling BJ, Park M, Fang VJ, Wu P, Leung GM, Wu JT.
 Preliminary epidemiologic assessment of MERS-CoV outbreak in
-South Korea, May–June 2015. Euro Surveill 2015; 20: 21175.
-19	 Shen Z, Ning F, Zhou W, et al. Superspreading SARS events,
-Beijing, 2003. Emerg Infect Dis 2004; 10: 256–60.
-20	 Holshue, M, DeBolt C, Lindquist S, et al. First case of 2019 novel
-coronavirus in the United States. N Engl J Med 2020; 382: 929–36.
-21	 CDC. Interim guidance for preventing the spread of coronavirus
-disease 2019 (COVID-19) in homes and residential communities.
-Centers for Disease Control and Prevention, 2020. https://www.cdc.
-gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread.html
-(accessed Feb 19, 2020).
-22	 CDC. Evaluating and reporting persons under investigation (PUI).
-Centers for Disease Control and Prevention, 2020. https://www.cdc.
-gov/coronavirus/2019-ncov/hcp/clinical-criteria.html (accessed
-Feb 19, 2020).
+South Korea, May–June . Euro Surveill ; : .
+	 Shen Z, Ning F, Zhou W, et al. Superspreading SARS events,
+Beijing, . Emerg Infect Dis ; : –.
+	 Holshue, M, DeBolt C, Lindquist S, et al. First case of  novel
+coronavirus in the United States. N Engl J Med ; : –.
+	 CDC. Interim guidance for preventing the spread of coronavirus
+disease  (COVID-) in homes and residential communities.
+Centers for Disease Control and Prevention, . https://www.cdc.
+gov/coronavirus/-ncov/hcp/guidance-prevent-spread.html
+(accessed Feb , ).
+	 CDC. Evaluating and reporting persons under investigation (PUI).
+Centers for Disease Control and Prevention, . https://www.cdc.
+gov/coronavirus/-ncov/hcp/clinical-criteria.html (accessed
+Feb , ).
 
-www.thelancet.com Published online March 12, 2020 https://doi.org/10.1016/S0140-6736(20)30607-3
+www.thelancet.com Published online March ,  https://doi.org/./S-()-
 
 

@@ -8,7 +8,7 @@ m e dic i n e
 
 Brief Report
 
-First Case of 2019 Novel Coronavirus
+First Case of  Novel Coronavirus
 in the United States
 Michelle L. Holshue, M.P.H., Chas DeBolt, M.P.H., Scott Lindquist, M.D.,
 Kathy H. Lofy, M.D., John Wiesman, Dr.P.H., Hollianne Bruce, M.P.H.,
@@ -18,29 +18,29 @@ Anita Patel, Pharm.D., Susan I. Gerber, M.D., Lindsay Kim, M.D.,
 Suxiang Tong, Ph.D., Xiaoyan Lu, M.S., Steve Lindstrom, Ph.D.,
 Mark A. Pallansch, Ph.D., William C. Weldon, Ph.D.,
 Holly M. Biggs, M.D., Timothy M. Uyeki, M.D., and Satish K. Pillai, M.D.,
-for the Washington State 2019-nCoV Case Investigation Team*​​
+for the Washington State -nCoV Case Investigation Team*​​
 
 Sum m a r y
-An outbreak of novel coronavirus (2019-nCoV) that began in Wuhan, China, has
+An outbreak of novel coronavirus (-nCoV) that began in Wuhan, China, has
 spread rapidly, with cases now confirmed in multiple countries. We report the first
-case of 2019-nCoV infection confirmed in the United States and describe the identification, diagnosis, clinical course, and management of the case, including the
+case of -nCoV infection confirmed in the United States and describe the identification, diagnosis, clinical course, and management of the case, including the
 patient’s initial mild symptoms at presentation with progression to pneumonia on
-day 9 of illness. This case highlights the importance of close coordination between
+day  of illness. This case highlights the importance of close coordination between
 clinicians and public health authorities at the local, state, and federal levels, as
 well as the need for rapid dissemination of clinical information related to the care
 of patients with this emerging infection.
 
 O
 
-n December 31, 2019, China reported a cluster of cases of pneumonia in people associated with the Huanan Seafood Wholesale Market in
-Wuhan, Hubei Province.1 On January 7, 2020, Chinese health authorities
-confirmed that this cluster was associated with a novel coronavirus, 2019-nCoV.2
+n December , , China reported a cluster of cases of pneumonia in people associated with the Huanan Seafood Wholesale Market in
+Wuhan, Hubei Province. On January , , Chinese health authorities
+confirmed that this cluster was associated with a novel coronavirus, -nCoV.
 Although cases were originally reported to be associated with exposure to the seafood market in Wuhan, current epidemiologic data indicate that person-to-person
-transmission of 2019-nCoV is occurring.3-6 As of January 30, 2020, a total of 9976
-cases had been reported in at least 21 countries,7 including the first confirmed
-case of 2019-nCoV infection in the United States, reported on January 20, 2020.
+transmission of -nCoV is occurring.- As of January , , a total of 
+cases had been reported in at least  countries, including the first confirmed
+case of -nCoV infection in the United States, reported on January , .
 Investigations are under way worldwide to better understand transmission dynamics and the spectrum of clinical illness. This report describes the epidemiologic
-and clinical features of the first case of 2019-nCoV infection confirmed in the
+and clinical features of the first case of -nCoV infection confirmed in the
 United States.
 
 C a se R ep or t
@@ -58,27 +58,27 @@ Everett, and Department of Medicine,
 University of Washington School of Medicine, Seattle (C.S.) — all in Washington.
 Address reprint requests to Ms. Holshue
 at the Washington State Department of
-Health Public Health Laboratories, 1610
-NE 150th St., Shoreline, WA 98155, or at
+Health Public Health Laboratories, 
+NE th St., Shoreline, WA , or at
 ­michelle​.­holshue@​­doh​.­wa​.­gov.
-*A full list of the members of the Washington State 2019-nCoV Case Investigation Team is provided in the Supplementary Appendix, available at NEJM.org.
-This article was published on January 31,
-2020, at NEJM.org.
-N Engl J Med 2020;382:929-36.
-DOI: 10.1056/NEJMoa2001191
-Copyright © 2020 Massachusetts Medical Society.
+*A full list of the members of the Washington State -nCoV Case Investigation Team is provided in the Supplementary Appendix, available at NEJM.org.
+This article was published on January ,
+, at NEJM.org.
+N Engl J Med ;:-.
+DOI: ./NEJMoa
+Copyright ©  Massachusetts Medical Society.
 
-On January 19, 2020, a 35-year-old man presented to an urgent care clinic in Snohomish County, Washington, with a 4-day history of cough and subjective fever. On checking into the clinic, the patient put on a mask in the waiting room. After waiting
-approximately 20 minutes, he was taken into an examination room and underwent
+On January , , a -year-old man presented to an urgent care clinic in Snohomish County, Washington, with a -day history of cough and subjective fever. On checking into the clinic, the patient put on a mask in the waiting room. After waiting
+approximately  minutes, he was taken into an examination room and underwent
 evaluation by a provider. He disclosed that he had returned to Washington State
-on January 15 after traveling to visit family in Wuhan, China. The patient stated
-n engl j med 382;10  nejm.org  March 5, 2020
+on January  after traveling to visit family in Wuhan, China. The patient stated
+n engl j med ;  nejm.org  March , 
 
 The New England Journal of Medicine
-Downloaded from nejm.org on March 28, 2020. For personal use only. No other uses without permission.
-Copyright © 2020 Massachusetts Medical Society. All rights reserved.
+Downloaded from nejm.org on March , . For personal use only. No other uses without permission.
+Copyright ©  Massachusetts Medical Society. All rights reserved.
 
-929
+
 
 The
 
@@ -92,7 +92,7 @@ B
 
 A
 
-Figure 1. Posteroanterior and Lateral Chest Radiographs, January 19, 2020 (Illness Day 4).
+Figure . Posteroanterior and Lateral Chest Radiographs, January ,  (Illness Day ).
 No thoracic abnormalities were noted.
 
 that he had seen a health alert from the U.S.
@@ -102,55 +102,55 @@ because of his symptoms and recent travel, decided
 to see a health care provider.
 Apart from a history of hypertriglyceridemia,
 the patient was an otherwise healthy nonsmoker.
-The physical examination revealed a body temperature of 37.2°C, blood pressure of 134/87 mm Hg,
-pulse of 110 beats per minute, respiratory rate of
-16 breaths per minute, and oxygen saturation of
-96% while the patient was breathing ambient air.
+The physical examination revealed a body temperature of .°C, blood pressure of / mm Hg,
+pulse of  beats per minute, respiratory rate of
+ breaths per minute, and oxygen saturation of
+% while the patient was breathing ambient air.
 Lung auscultation revealed rhonchi, and chest
 radiography was performed, which was reported
-as showing no abnormalities (Fig. 1). A rapid
+as showing no abnormalities (Fig. ). A rapid
 nucleic acid amplification test (NAAT) for influenza A and B was negative. A nasopharyngeal
 swab specimen was obtained and sent for detection of viral respiratory pathogens by NAAT; this
-was reported back within 48 hours as negative
+was reported back within  hours as negative
 for all pathogens tested, including influenza A
 and B, parainfluenza, respiratory syncytial virus,
 rhinovirus, adenovirus, and four common coronavirus strains known to cause illness in humans
-(HKU1, NL63, 229E, and OC43).
+(HKU, NL, E, and OC).
 Given the patient’s travel history, the local and
 state health departments were immediately notified. Together with the urgent care clinician,
 the Washington Department of Health notified the CDC Emergency Operations Center. Although the patient reported that he had not
 spent time at the Huanan seafood market and
-reported no known contact with ill persons dur930
+reported no known contact with ill persons dur
 
 ing his travel to China, CDC staff concurred with
-the need to test the patient for 2019-nCoV on the
+the need to test the patient for -nCoV on the
 basis of current CDC “persons under investigation”
-case definitions.8 Specimens were collected in
+case definitions. Specimens were collected in
 accordance with CDC guidance and included serum and nasopharyngeal and oropharyngeal swab
 specimens. After specimen collection, the patient
 was discharged to home isolation with active
 monitoring by the local health department.
-On January 20, 2020, the CDC confirmed that
+On January , , the CDC confirmed that
 the patient’s nasopharyngeal and oropharyngeal
-swabs tested positive for 2019-nCoV by real-time
+swabs tested positive for -nCoV by real-time
 reverse-transcriptase–polymerase-chain-reaction
 (rRT-PCR) assay. In coordination with CDC subject-matter experts, state and local health officials, emergency medical services, and hospital
 leadership and staff, the patient was admitted to
 an airborne-isolation unit at Providence Regional Medical Center for clinical observation, with
-health care workers following CDC recommendations for contact, droplet, and airborne precautions with eye protection.9
+health care workers following CDC recommendations for contact, droplet, and airborne precautions with eye protection.
 On admission, the patient reported persistent
-dry cough and a 2-day history of nausea and vomiting; he reported that he had no shortness of
+dry cough and a -day history of nausea and vomiting; he reported that he had no shortness of
 breath or chest pain. Vital signs were within normal ranges. On physical examination, the patient
 was found to have dry mucous membranes. The
 remainder of the examination was generally unremarkable. After admission, the patient received
-supportive care, including 2 liters of normal saline and ondansetron for nausea.
-On days 2 through 5 of hospitalization (days
+supportive care, including  liters of normal saline and ondansetron for nausea.
+On days  through  of hospitalization (days
 
-n engl j med 382;10  nejm.org  March 5, 2020
+n engl j med ;  nejm.org  March , 
 
 The New England Journal of Medicine
-Downloaded from nejm.org on March 28, 2020. For personal use only. No other uses without permission.
-Copyright © 2020 Massachusetts Medical Society. All rights reserved.
+Downloaded from nejm.org on March , . For personal use only. No other uses without permission.
+Copyright ©  Massachusetts Medical Society. All rights reserved.
 
 Brief Report
 
@@ -161,7 +161,7 @@ China
 Day of Illness
 
 Work
-1
+
 
 Work
 
@@ -171,125 +171,125 @@ Urgent
 Care
 
 Day
-1
+
 
 Day
-2
+
 
 Day
-3
+
 
 Day
-4
+
 
 Day
-5
+
 
 Day
-6
+
 
 Day
-7
+
 
 Day
-8
+
 
 Day
-9
+
 
 Day
-10
+
 
 Day
-11
 
-2
 
-3
 
-4
 
-5
 
-6
 
-7
 
-8
 
-9
 
-10
 
-11
 
-12
 
-13
 
-14
 
-15
 
-37.2
 
-37.9
 
-39.0
 
-39.4
 
-39.1
 
-39.4
 
-38.8
 
-39.4
 
-37.3
 
-36.8
 
-36.8
 
-36.3
 
-Jan.
-19
+
+
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
 
 Jan.
-20
+
 
 Jan.
-21
+
 
 Jan.
-22
+
 
 Jan.
-23
+
 
 Jan.
-24
+
 
 Jan.
-25
+
 
 Jan.
-26
+
 
 Jan.
-27
+
 
 Jan.
-28
+
 
 Jan.
-29
+
 
 Jan.
-30
+
+
+Jan.
+
 
 Subjective Subjective
 fever
@@ -305,84 +305,84 @@ Diarrhea
 Abdominal
 Discomfort
 Jan.
-15
+
 
 Jan.
-16
+
 
 Jan.
-17
+
 
 Jan.
-18
+
 
 Date
 
-Figure 2. Symptoms and Maximum Body Temperatures According to Day of Illness and Day of Hospitalization, January 16 to January 30, 2020.
+Figure . Symptoms and Maximum Body Temperatures According to Day of Illness and Day of Hospitalization, January  to January , .
 
-6 through 9 of illness), the patient’s vital signs
-remained largely stable, apart from the development of intermittent fevers accompanied by periods of tachycardia (Fig. 2). The patient continued to report a nonproductive cough and appeared
-fatigued. On the afternoon of hospital day 2, the
+ through  of illness), the patient’s vital signs
+remained largely stable, apart from the development of intermittent fevers accompanied by periods of tachycardia (Fig. ). The patient continued to report a nonproductive cough and appeared
+fatigued. On the afternoon of hospital day , the
 patient passed a loose bowel movement and reported abdominal discomfort. A second episode
 of loose stool was reported overnight; a sample
 of this stool was collected for rRT-PCR testing,
 along with additional respiratory specimens (nasopharyngeal and oropharyngeal) and serum. The
 stool and both respiratory specimens later tested
-positive by rRT-PCR for 2019-nCoV, whereas the
+positive by rRT-PCR for -nCoV, whereas the
 serum remained negative.
 Treatment during this time was largely supportive. For symptom management, the patient
 received, as needed, antipyretic therapy consisting
-of 650 mg of acetaminophen every 4 hours and
-600 mg of ibuprofen every 6 hours. He also received 600 mg of guaifenesin for his continued
-cough and approximately 6 liters of normal saline over the first 6 days of hospitalization.
+of  mg of acetaminophen every  hours and
+ mg of ibuprofen every  hours. He also received  mg of guaifenesin for his continued
+cough and approximately  liters of normal saline over the first  days of hospitalization.
 The nature of the patient isolation unit permitted only point-of-care laboratory testing initially; complete blood counts and serum chemical studies were available starting on hospital
-day 3. Laboratory results on hospital days 3 and 5
-n engl j med 382;10
+day . Laboratory results on hospital days  and 
+n engl j med ;
 
-(illness days 7 and 9) reflected leukopenia, mild
+(illness days  and ) reflected leukopenia, mild
 thrombocytopenia, and elevated levels of creatine
-kinase (Table 1). In addition, there were alterations
+kinase (Table ). In addition, there were alterations
 in hepatic function measures: levels of alkaline
-phosphatase (68 U per liter), alanine aminotransferase (105 U per liter), aspartate aminotransferase
-(77 U per liter), and lactate dehydrogenase (465 U
-per liter) were all elevated on day 5 of hospitalization. Given the patient’s recurrent fevers, blood
-cultures were obtained on day 4; these have
+phosphatase ( U per liter), alanine aminotransferase ( U per liter), aspartate aminotransferase
+( U per liter), and lactate dehydrogenase ( U
+per liter) were all elevated on day  of hospitalization. Given the patient’s recurrent fevers, blood
+cultures were obtained on day ; these have
 shown no growth to date.
-A chest radiograph taken on hospital day 3
-(illness day 7) was reported as showing no evidence of infiltrates or abnormalities (Fig. 3). However, a second chest radiograph from the night of
-hospital day 5 (illness day 9) showed evidence of
+A chest radiograph taken on hospital day 
+(illness day ) was reported as showing no evidence of infiltrates or abnormalities (Fig. ). However, a second chest radiograph from the night of
+hospital day  (illness day ) showed evidence of
 pneumonia in the lower lobe of the left lung
-(Fig. 4). These radiographic findings coincided
+(Fig. ). These radiographic findings coincided
 with a change in respiratory status starting on
-the evening of hospital day 5, when the patient’s
+the evening of hospital day , when the patient’s
 oxygen saturation values as measured by pulse
-oximetry dropped to as low as 90% while he was
-breathing ambient air. On day 6, the patient was
-started on supplemental oxygen, delivered by nasal cannula at 2 liters per minute. Given the
+oximetry dropped to as low as % while he was
+breathing ambient air. On day , the patient was
+started on supplemental oxygen, delivered by nasal cannula at  liters per minute. Given the
 changing clinical presentation and concern about
 hospital-acquired pneumonia, treatment with
-vancomycin (a 1750-mg loading dose followed
+vancomycin (a -mg loading dose followed
 
 nejm.org
 
-March 5, 2020
+March , 
 
 The New England Journal of Medicine
-Downloaded from nejm.org on March 28, 2020. For personal use only. No other uses without permission.
-Copyright © 2020 Massachusetts Medical Society. All rights reserved.
+Downloaded from nejm.org on March , . For personal use only. No other uses without permission.
+Copyright ©  Massachusetts Medical Society. All rights reserved.
 
-931
 
-932
 
-n engl j med 382;10  nejm.org  March 5, 2020
+
+
+n engl j med ;  nejm.org  March , 
 
 The New England Journal of Medicine
-Downloaded from nejm.org on March 28, 2020. For personal use only. No other uses without permission.
-Copyright © 2020 Massachusetts Medical Society. All rights reserved.
-0.9–1.1
-62–325
-0.4–2.0
+Downloaded from nejm.org on March , . For personal use only. No other uses without permission.
+Copyright ©  Massachusetts Medical Society. All rights reserved.
+.–.
+–
+.–.
 
 Prothrombin time (sec)
 
@@ -410,108 +410,47 @@ Venous lactate (mmol/liter)
 
 —
 
-1.3
+.
 
-353§
+§
 
-0.9
+.
 
-11.9‡
+.‡
 
-250§
+§
 
-477§
+§
 
-50
 
-37§
 
-68§
+§
 
-1.7
+§
 
-332§
+.
 
-0.9
+§
 
-11.9‡
+.
 
-465§
+.‡
 
-—
-
-68§
-
-77§
-
-105§
-
-<0.05
-
-1.1
-
-4.7
+§
 
 —
 
-—
+§
 
-—
+§
 
-—
+§
 
-—
+<.
 
-—
+.
 
-88§
-
-85§
-
-119§
-
-<0.05
-
-1.5§
-
-4.5
-
-6.8
-
-0.88
-
-13
-
-96
-
-7
-
-25
-
-9.0
-
-106
-
-3.6
-
-138
-
-43.0
-
-14.8
-
-151,000
-
-1400
-
-3700
-
-5,010,000
-
-5400
-
-Illness Day 11,
-Hospital Day 7
+.
 
 —
 
@@ -525,133 +464,194 @@ Hospital Day 7
 
 —
 
-137§
+§
 
-129§
+§
 
-219§
+§
 
-—
+<.
 
-0.8
+.§
 
-2.9‡
+.
 
-6.9
+.
 
-1.08
+.
 
-22§
 
-148§
 
-12
 
-23
 
-8.6‡
 
-100
 
-4.1
 
-135‡
 
-39.3
+.
 
-13.5
 
-150,000
 
-1400
+.
 
-3800
 
-4,650,000
 
-5600
+.
 
-Illness Day 13,
-Hospital Day 9
+.
 
-—
+,
+
+
+
+
+
+,,
+
+
+
+Illness Day ,
+Hospital Day 
 
 —
 
-1.0
-
-12.7
-
-388§
+—
 
 —
 
-163§
-
-89§
-
-203§
+—
 
 —
 
-1.0
+—
 
-4.4
+§
 
-6.8
+§
 
-0.84
+§
 
-18
+—
 
-104
+.
 
-9
+.‡
 
-36§
+.
 
-9.3
+.
 
-103
+§
 
-3.9
+§
 
-138
 
-42.0
 
-14.2
 
-239,000
 
-2100
+.‡
 
-3200
 
-5,010,000
 
-6500
+.
 
-Illness Day 14,
-Hospital Day 10
+‡
 
-*	To convert the values for calcium to millimoles per liter, multiply by 0.250. To convert the values for blood urea nitrogen to millimoles per liter of urea, multiply by 0.357. To convert the
-values for creatinine to micromoles per liter, multiply by 88.4. To convert the values for total bilirubin to micromoles per liter, multiply by 17.1.
+.
+
+.
+
+,
+
+
+
+
+
+,,
+
+
+
+Illness Day ,
+Hospital Day 
+
+—
+
+—
+
+.
+
+.
+
+§
+
+—
+
+§
+
+§
+
+§
+
+—
+
+.
+
+.
+
+.
+
+.
+
+
+
+
+
+
+
+§
+
+.
+
+
+
+.
+
+
+
+.
+
+.
+
+,
+
+
+
+
+
+,,
+
+
+
+Illness Day ,
+Hospital Day 
+
+*	To convert the values for calcium to millimoles per liter, multiply by .. To convert the values for blood urea nitrogen to millimoles per liter of urea, multiply by .. To convert the
+values for creatinine to micromoles per liter, multiply by .. To convert the values for total bilirubin to micromoles per liter, multiply by ..
 †	Results are from point-of-care blood analyzer (iStat) testing.
 ‡	The value in the patient was below normal.
 §	The value in the patient was above normal.
 
-120–246
-12.2–14.6
+–
+.–.
 
 Lactate dehydrogenase (U/liter)
 
-150–450
+–
 
 Fibrinogen (mg/dl)
 
-≤33
-46–116
+≤
+–
 
 Aspartate aminotransferase (U/liter)
 
@@ -659,94 +659,94 @@ Aspartate aminotransferase (U/liter)
 
 —
 
-1.0
+.
 
-4.2
+.
 
-7.1
+.
 
-1.06
+.
 
-13
 
-120
 
-9
 
-24
 
-9.3
 
-105
 
-3.4‡
 
-138
 
-43.0
+.
 
-14.8
 
-132,000‡
 
-1400
+.‡
 
-1700‡
 
-5,150,000
 
-3300‡
+.
 
-Illness Day 9,
-Hospital Day 5
+.
+
+,‡
+
+
+
+‡
+
+,,
+
+‡
+
+Illness Day ,
+Hospital Day 
 
 of
 
 Alkaline phosphatase (U/liter)
 
-<0.05
-10–49
+<.
+–
 
 Alanine aminotransferase (U/liter)
 
-0.3–1.2
+.–.
 
-6.9
+.
 
-1.06
+.
 
-10
 
-103
 
-9
 
-26
 
-8.5‡
 
-101
 
-3.6
 
-136
 
-42.0
+.‡
 
-14.2
 
-122,000‡
 
-1070
+.
 
-1750‡
 
-4,870,000
 
-3120‡
+.
 
-Illness Day 7,
-Hospital Day 3
+.
+
+,‡
+
+
+
+‡
+
+,,
+
+‡
+
+Illness Day ,
+Hospital Day 
 
 n e w e ng l a n d j o u r na l
 
@@ -754,7 +754,7 @@ Procalcitonin (ng/ml)
 
 —
 
-3.2–4.8
+.–.
 
 Albumin (g/dl)
 
@@ -764,18 +764,18 @@ Total bilirubin (mg/dl)
 
 —
 
-1.0
+.
 
-0.7–1.3
-5.7–8.2
+.–.
+.–.
 
-15
 
-104
+
+
 
 Total protein (g/dl)
 
-9–23
+–
 
 —
 
@@ -783,15 +783,15 @@ Total protein (g/dl)
 
 —
 
-99
 
-3.3‡
 
-134‡
+.‡
 
-36.0‡
+‡
 
-12.2‡
+.‡
+
+.‡
 
 “Adequate”
 
@@ -803,62 +803,62 @@ Total protein (g/dl)
 
 “Slight decrease”
 
-Illness Day 6,
-Hospital Day 2†
+Illness Day ,
+Hospital Day †
 
 Creatinine (mg/dl)
 
 Blood urea nitrogen (mg/dl)
 
-65–140
+–
 
-8.7–10.4
+.–.
 
 Calcium (mg/dl)
 
 Glucose (mmol/liter)
 
-98–107
+–
 
-5–16
+–
 
-3.5–5.1
+.–.
 
 Potassium (mmol/liter)
 
 Chloride (mmol/liter)
-20–31
+–
 
-136–145
+–
 
 Sodium (mmol/liter)
 
 Anion gap (mmol/liter)
 
-39.0–50.0
+.–.
 
 Hematocrit (%)
 
 Carbon dioxide (mmol/liter)
 
-13.2–17.0
+.–.
 
 Hemoglobin (g/dl)
 
-150,000–400,000
+,–,
 
-1000–3900
+–
 
 Absolute lymphocyte count (per μl)
 
 Platelet count (per μl)
 
-1900–7400
+–
 
 Absolute neutrophil count (per μl)
 
-3800–11,000
-4,200,000–5,700,000
+–,
+,,–,,
 
 Red-cell count (per μl)
 
@@ -869,7 +869,7 @@ White-cell count (per μl)
 
 Measure
 
-Table 1. Clinical Laboratory Results.*
+Table . Clinical Laboratory Results.*
 
 The
 
@@ -881,51 +881,51 @@ B
 
 A
 
-Figure 3. Posteroanterior and Lateral Chest Radiographs, January 22, 2020 (Illness Day 7, Hospital Day 3).
+Figure . Posteroanterior and Lateral Chest Radiographs, January ,  (Illness Day , Hospital Day ).
 No acute intrathoracic plain-film abnormality was noted.
 
-by 1 g administered intravenously every 8 hours)
+by  g administered intravenously every  hours)
 and cefepime (administered intravenously every
-8 hours) was initiated.
-On hospital day 6 (illness day 10), a fourth
+ hours) was initiated.
+On hospital day  (illness day ), a fourth
 chest radiograph showed basilar streaky opacities
 in both lungs, a finding consistent with atypical
-pneumonia (Fig. 5), and rales were noted in both
+pneumonia (Fig. ), and rales were noted in both
 lungs on auscultation. Given the radiographic
 findings, the decision to administer oxygen supplementation, the patient’s ongoing fevers, the
-persistent positive 2019-nCoV RNA at multiple
+persistent positive -nCoV RNA at multiple
 sites, and published reports of the development
-of severe pneumonia3,4 at a period consistent with
+of severe pneumonia, at a period consistent with
 the development of radiographic pneumonia in
 this patient, clinicians pursued compassionate
-use of an investigational antiviral therapy. Treatment with intravenous remdesivir (a novel nucleotide analogue prodrug in development10,11) was
-initiated on the evening of day 7, and no adverse
+use of an investigational antiviral therapy. Treatment with intravenous remdesivir (a novel nucleotide analogue prodrug in development,) was
+initiated on the evening of day , and no adverse
 events were observed in association with the
 infusion. Vancomycin was discontinued on the
-evening of day 7, and cefepime was discontinued
+evening of day , and cefepime was discontinued
 on the following day, after serial negative procalcitonin levels and negative nasal PCR testing
 for methicillin-resistant Staphylococcus aureus.
-On hospital day 8 (illness day 12), the patient’s
+On hospital day  (illness day ), the patient’s
 clinical condition improved. Supplemental oxygen was discontinued, and his oxygen saturation
-values improved to 94 to 96% while he was
+values improved to  to % while he was
 breathing ambient air. The previous bilateral
 
-Figure 4. Posteroanterior Chest Radiograph, January 24, 2020 (Illness Day 9,
-Hospital Day 5).
+Figure . Posteroanterior Chest Radiograph, January ,  (Illness Day ,
+Hospital Day ).
 Increasing left basilar opacity was visible, arousing concern about pneumonia.
 
 lower-lobe rales were no longer present. His appetite improved, and he was asymptomatic aside
 from intermittent dry cough and rhinorrhea. As
-of January 30, 2020, the patient remains hospitalized. He is afebrile, and all symptoms have resolved with the exception of his cough, which is
+of January , , the patient remains hospitalized. He is afebrile, and all symptoms have resolved with the exception of his cough, which is
 decreasing in severity.
 
-n engl j med 382;10  nejm.org  March 5, 2020
+n engl j med ;  nejm.org  March , 
 
 The New England Journal of Medicine
-Downloaded from nejm.org on March 28, 2020. For personal use only. No other uses without permission.
-Copyright © 2020 Massachusetts Medical Society. All rights reserved.
+Downloaded from nejm.org on March , . For personal use only. No other uses without permission.
+Copyright ©  Massachusetts Medical Society. All rights reserved.
 
-933
+
 
 The
 
@@ -939,113 +939,113 @@ m e dic i n e
 
 B
 
-Figure 5. Anteroposterior and Lateral Chest Radiographs, January 26, 2020 (Illness Day 10, Hospital Day 6).
+Figure . Anteroposterior and Lateral Chest Radiographs, January ,  (Illness Day , Hospital Day ).
 Stable streaky opacities in the lung bases were visible, indicating likely atypical pneumonia; the opacities have
 steadily increased in density over time.
 
 Me thods
 Specimen Collection
 
-Clinical specimens for 2019-nCoV diagnostic
+Clinical specimens for -nCoV diagnostic
 testing were obtained in accordance with CDC
-guidelines.12 Nasopharyngeal and oropharyngeal
+guidelines. Nasopharyngeal and oropharyngeal
 swab specimens were collected with synthetic
-fiber swabs; each swab was inserted into a separate sterile tube containing 2 to 3 ml of viral
+fiber swabs; each swab was inserted into a separate sterile tube containing  to  ml of viral
 transport medium. Serum was collected in a
 serum separator tube and then centrifuged in
 accordance with CDC guidelines. The urine and
 stool specimens were each collected in sterile
 specimen containers. Specimens were stored
-between 2°C and 8°C until ready for shipment to
-the CDC. Specimens for repeat 2019-nCoV testing were collected on illness days 7, 11, and 12
+between °C and °C until ready for shipment to
+the CDC. Specimens for repeat -nCoV testing were collected on illness days , , and 
 and included nasopharyngeal and oropharyngeal
 swabs, serum, and urine and stool samples.
 
 Genetic Sequencing
 
-On January 7, 2020, Chinese researchers shared
-the full genetic sequence of 2019-nCoV through
-the National Institutes of Health GenBank database16 and the Global Initiative on Sharing All
-Influenza Data (GISAID)17 database; a report about
-the isolation of 2019-nCoV was later published.18
+On January , , Chinese researchers shared
+the full genetic sequence of -nCoV through
+the National Institutes of Health GenBank database and the Global Initiative on Sharing All
+Influenza Data (GISAID) database; a report about
+the isolation of -nCoV was later published.
 Nucleic acid was extracted from rRT-PCR–positive
 specimens (oropharyngeal and nasopharyngeal)
 and used for whole-genome sequencing on both
 Sanger and next-generation sequencing platforms (Illumina and MinIon). Sequence assembly was completed with the use of Sequencher
-software, version 5.4.6 (Sanger); minimap software, version 2.17 (MinIon); and freebayes software, version 1.3.1 (MiSeq). Complete genomes
-were compared with the available 2019-nCoV
+software, version .. (Sanger); minimap software, version . (MinIon); and freebayes software, version .. (MiSeq). Complete genomes
+were compared with the available -nCoV
 reference sequence (GenBank accession number
-NC_045512.2).
+NC_.).
 
-Diagnostic Testing for 2019-nCoV
+Diagnostic Testing for -nCoV
 
 Clinical specimens were tested with an rRT-PCR
 assay that was developed from the publicly released
 virus sequence. Similar to previous diagnostic assays for severe acute respiratory syndrome coronavirus (SARS-CoV) and Middle East respiratory
 syndrome coronavirus (MERS-CoV), it has three
 nucleocapsid gene targets and a positive control
-target. A description of this assay13 and sequence
+target. A description of this assay and sequence
 information for the rRT-PCR panel primers and
-probes14 are available on the CDC Laboratory
-Information website for 2019-nCoV.15
-934
+probes are available on the CDC Laboratory
+Information website for -nCoV.
+
 
 R e sult s
-Specimen Testing for 2019-nCoV
+Specimen Testing for -nCoV
 
 The initial respiratory specimens (nasopharyngeal
 and oropharyngeal swabs) obtained from this
-patient on day 4 of his illness were positive for
-2019-nCoV (Table 2). The low cycle threshold
-(Ct) values (18 to 20 in nasopharyngeal specimens and 21 to 22 in oropharyngeal specimens)
-on illness day 4 suggest high levels of virus in
+patient on day  of his illness were positive for
+-nCoV (Table ). The low cycle threshold
+(Ct) values ( to  in nasopharyngeal specimens and  to  in oropharyngeal specimens)
+on illness day  suggest high levels of virus in
 these specimens, despite the patient’s initial mild
 symptom presentation. Both upper respiratory
 
-n engl j med 382;10  nejm.org  March 5, 2020
+n engl j med ;  nejm.org  March , 
 
 The New England Journal of Medicine
-Downloaded from nejm.org on March 28, 2020. For personal use only. No other uses without permission.
-Copyright © 2020 Massachusetts Medical Society. All rights reserved.
+Downloaded from nejm.org on March , . For personal use only. No other uses without permission.
+Copyright ©  Massachusetts Medical Society. All rights reserved.
 
 Brief Report
 
-Table 2. Results of Real-Time Reverse-Transcriptase–Polymerase-Chain-Reaction Testing for the 2019 Novel Coronavirus
-(2019-nCoV).*
+Table . Results of Real-Time Reverse-Transcriptase–Polymerase-Chain-Reaction Testing for the  Novel Coronavirus
+(-nCoV).*
 Specimen
 
-Illness Day 4
+Illness Day 
 
-Illness Day 7
+Illness Day 
 
-Illness Day 11
+Illness Day 
 
-Illness Day 12
+Illness Day 
 
 Nasopharyngeal swab
 
 Positive
-(Ct, 18–20)
+(Ct, –)
 
 Positive
-(Ct, 23–24)
+(Ct, –)
 
 Positive
-(Ct, 33–34)
+(Ct, –)
 
 Positive
-(Ct, 37–40)
+(Ct, –)
 
 Oropharyngeal swab
 
 Positive
-(Ct, 21–22)
+(Ct, –)
 
 Positive
-(Ct, 32–33)
+(Ct, –)
 
 Positive
-(Ct, 36–40)
+(Ct, –)
 
 Negative
 
@@ -1074,7 +1074,7 @@ Stool
 NT
 
 Positive
-(Ct, 36–38)
+(Ct, –)
 
 NT
 
@@ -1082,134 +1082,134 @@ NT
 
 *	Lower cycle threshold (Ct) values indicate higher viral loads. NT denotes not tested.
 
-specimens obtained on illness day 7 remained
-positive for 2019-nCoV, including persistent high
-levels in a nasopharyngeal swab specimen (Ct values, 23 to 24). Stool obtained on illness day 7
-was also positive for 2019-nCoV (Ct values, 36 to
-38). Serum specimens for both collection dates
-were negative for 2019-nCoV. Nasopharyngeal
-and oropharyngeal specimens obtained on illness days 11 and 12 showed a trend toward decreasing levels of virus. The oropharyngeal specimen tested negative for 2019-nCoV on illness
-day 12. The rRT-PCR results for serum obtained
+specimens obtained on illness day  remained
+positive for -nCoV, including persistent high
+levels in a nasopharyngeal swab specimen (Ct values,  to ). Stool obtained on illness day 
+was also positive for -nCoV (Ct values,  to
+). Serum specimens for both collection dates
+were negative for -nCoV. Nasopharyngeal
+and oropharyngeal specimens obtained on illness days  and  showed a trend toward decreasing levels of virus. The oropharyngeal specimen tested negative for -nCoV on illness
+day . The rRT-PCR results for serum obtained
 on these dates are still pending.
 Genetic Sequencing
 
 The full genome sequences from oropharyngeal
 and nasopharyngeal specimens were identical to
 one another and were nearly identical to other
-available 2019-nCoV sequences. There were only
-3 nucleotides and 1 amino acid that differed at
-open reading frame 8 between this patient’s
-virus and the 2019-nCoV reference sequence
-(NC_045512.2). The sequence is available through
-GenBank (accession number MN985325).16
+available -nCoV sequences. There were only
+ nucleotides and  amino acid that differed at
+open reading frame  between this patient’s
+virus and the -nCoV reference sequence
+(NC_.). The sequence is available through
+GenBank (accession number MN).
 Discussion
 
-Our report of the first confirmed case of 2019nCoV in the United States illustrates several aspects of this emerging outbreak that are not yet
+Our report of the first confirmed case of nCoV in the United States illustrates several aspects of this emerging outbreak that are not yet
 fully understood, including transmission dynamics and the full spectrum of clinical illness. Our
 case patient had traveled to Wuhan, China, but
 reported that he had not visited the wholesale
 seafood market or health care facilities or had
-any sick contacts during his stay in Wuhan. Although the source of his 2019-nCoV infection is
+any sick contacts during his stay in Wuhan. Although the source of his -nCoV infection is
 unknown, evidence of person-to-person transmission has been published. Through January
 
-30, 2020, no secondary cases of 2019-nCoV related to this case have been identified, but
-monitoring of close contacts continues.19
-Detection of 2019-nCoV RNA in specimens
+, , no secondary cases of -nCoV related to this case have been identified, but
+monitoring of close contacts continues.
+Detection of -nCoV RNA in specimens
 from the upper respiratory tract with low Ct
-values on day 4 and day 7 of illness is suggestive
-of high viral loads and potential for transmissibility. It is notable that we also detected 2019nCoV RNA in a stool specimen collected on day
-7 of the patient’s illness. Although serum specimens from our case patient were repeatedly
-negative for 2019-nCoV, viral RNA has been detected in blood in severely ill patients in China.4
+values on day  and day  of illness is suggestive
+of high viral loads and potential for transmissibility. It is notable that we also detected nCoV RNA in a stool specimen collected on day
+ of the patient’s illness. Although serum specimens from our case patient were repeatedly
+negative for -nCoV, viral RNA has been detected in blood in severely ill patients in China.
 However, extrapulmonary detection of viral RNA
 does not necessarily mean that infectious virus
 is present, and the clinical significance of the
 detection of viral RNA outside the respiratory
 tract is unknown at this time.
 Currently, our understanding of the clinical
-spectrum of 2019-nCoV infection is very limited.
-Complications such as severe pneumonia, respiratory failure, acute respiratory distress syndrome (ARDS), and cardiac injury, including fatal outcomes, have been reported in China.4,18,20
+spectrum of -nCoV infection is very limited.
+Complications such as severe pneumonia, respiratory failure, acute respiratory distress syndrome (ARDS), and cardiac injury, including fatal outcomes, have been reported in China.,,
 However, it is important to note that these cases
 were identified on the basis of their pneumonia
 diagnosis and thus may bias reporting toward
 more severe outcomes.
 Our case patient initially presented with mild
 cough and low-grade intermittent fevers, without evidence of pneumonia on chest radiography
-on day 4 of his illness, before having progression to pneumonia by illness day 9. These nonspecific signs and symptoms of mild illness
-early in the clinical course of 2019-nCoV infection may be indistinguishable clinically from
+on day  of his illness, before having progression to pneumonia by illness day . These nonspecific signs and symptoms of mild illness
+early in the clinical course of -nCoV infection may be indistinguishable clinically from
 many other common infectious diseases, particularly during the winter respiratory virus season.
 
-n engl j med 382;10  nejm.org  March 5, 2020
+n engl j med ;  nejm.org  March , 
 
 The New England Journal of Medicine
-Downloaded from nejm.org on March 28, 2020. For personal use only. No other uses without permission.
-Copyright © 2020 Massachusetts Medical Society. All rights reserved.
+Downloaded from nejm.org on March , . For personal use only. No other uses without permission.
+Copyright ©  Massachusetts Medical Society. All rights reserved.
 
-935
+
 
 Brief Report
 
 In addition, the timing of our case patient’s
-progression to pneumonia on day 9 of illness is
-consistent with later onset of dyspnea (at a median of 8 days from onset) reported in a recent
-publication.4 Although a decision to administer
+progression to pneumonia on day  of illness is
+consistent with later onset of dyspnea (at a median of  days from onset) reported in a recent
+publication. Although a decision to administer
 remdesivir for compassionate use was based on
 the case patient’s worsening clinical status, randomized controlled trials are needed to determine the safety and efficacy of remdesivir and
 any other investigational agents for treatment of
-patients with 2019-nCoV infection.
+patients with -nCoV infection.
 We report the clinical features of the first
-reported patient with 2019-nCoV infection in the
+reported patient with -nCoV infection in the
 United States. Key aspects of this case included
 the decision made by the patient to seek medical
 attention after reading public health warnings
 about the outbreak; recognition of the patient’s
 recent travel history to Wuhan by local providers,
 with subsequent coordination among local, state,
-and federal public health officials; and identification of possible 2019-nCoV infection, which allowed for prompt isolation of the patient and subsequent laboratory confirmation of 2019-nCoV, as
+and federal public health officials; and identification of possible -nCoV infection, which allowed for prompt isolation of the patient and subsequent laboratory confirmation of -nCoV, as
 well as for admission of the patient for further
 References
-1.	 World Health Organization. Pneumonia of unknown cause — China. 2020
-(https://www​.who​.int/​csr/​don/​05​-­january
-​-­2020​-­pneumonia​-­of​-­unkown​-­cause​
+.	 World Health Organization. Pneumonia of unknown cause — China. 
+(https://www​.who​.int/​csr/​don/​​-­january
+​-­​-­pneumonia​-­of​-­unkown​-­cause​
 -­china/​en/​).
-2.	 World Health Organization. Novel
-coronavirus — China. 2020 (https://www​
-.who​.int/​csr/​don/​12​-­january​-­2020​-­novel​
+.	 World Health Organization. Novel
+coronavirus — China.  (https://www​
+.who​.int/​csr/​don/​​-­january​-­​-­novel​
 -­coronavirus​-­china/​en/​).
-3.	 Chan JF-W, Yuan S, Kok K-H, et al. A
+.	 Chan JF-W, Yuan S, Kok K-H, et al. A
 familial cluster of pneumonia associated
-with the 2019 novel coronavirus indicating person-to-person transmission: a study
-of a family cluster. Lancet 2020 January 24
+with the  novel coronavirus indicating person-to-person transmission: a study
+of a family cluster. Lancet  January 
 (Epub ahead of print).
-4.	 Huang C, Wang Y, Li X, et al. Clinical
-features of patients infected with 2019
+.	 Huang C, Wang Y, Li X, et al. Clinical
+features of patients infected with 
 novel coronavirus in Wuhan, China. Lancet
-2020 January 24 (Epub ahead of print).
-5.	 Centers for Disease Control and Prevention. 2019 Novel coronavirus, Wuhan,
-China: 2019-nCoV situation summary.
-January 28, 2020 (https://www​
+ January  (Epub ahead of print).
+.	 Centers for Disease Control and Prevention.  Novel coronavirus, Wuhan,
+China: -nCoV situation summary.
+January ,  (https://www​
 .cdc​
 .gov/​
-coronavirus/​2019​-­nCoV/​summary​.html).
-6.	 Phan LT, Nguyen TV, Luong QC, et al.
-Importation and human-to-human transmission of a novel coronavirus in Vietnam. N Engl J Med. DOI:​10.1056/
-NEJMc2001272.
-7.	 Johns Hopkins University CSSE. Wuhan coronavirus (2019-nCoV) global cases (https://gisanddata​.maps​.arcgis​.com/​
+coronavirus/​​-­nCoV/​summary​.html).
+.	 Phan LT, Nguyen TV, Luong QC, et al.
+Importation and human-to-human transmission of a novel coronavirus in Vietnam. N Engl J Med. DOI:​./
+NEJMc.
+.	 Johns Hopkins University CSSE. Wuhan coronavirus (-nCoV) global cases (https://gisanddata​.maps​.arcgis​.com/​
 apps/​opsdashboard/​index​.html#/​
-bda7594740fd40299423467b48e9ecf6).
-8.	 Centers for Disease Control and Pre-
+bdafdbeecf).
+.	 Centers for Disease Control and Pre-
 
-936
+
 
 evaluation and management. This case report
 highlights the importance of clinicians eliciting
 a recent history of travel or exposure to sick contacts in any patient presenting for medical care
 with acute illness symptoms, in order to ensure
 appropriate identification and prompt isolation
-of patients who may be at risk for 2019-nCoV
+of patients who may be at risk for -nCoV
 infection and to help reduce further transmission. Finally, this report highlights the need to
 determine the full spectrum and natural history
 of clinical disease, pathogenesis, and duration of
-viral shedding associated with 2019-nCoV infection to inform clinical management and public
+viral shedding associated with -nCoV infection to inform clinical management and public
 health decision making.
 The findings and conclusions in this report are those of the
 authors and do not necessarily represent the official position of
@@ -1221,72 +1221,72 @@ providing care for the patient; staff at the local and state health
 departments; staff at the Washington State Department of
 Health Public Health Laboratories and at the Centers for Disease Control and Prevention (CDC) Division of Viral Disease
 Laboratory; CDC staff at the Emergency Operations Center; and
-members of the 2019-nCoV response teams at the local, state,
+members of the -nCoV response teams at the local, state,
 and national levels.
 
 vention. Interim guidance for healthcare
 professionals: criteria to guide evaluation
 of patients under investigation (PUI) for
-2019-nCoV. 2020 (https://www​.cdc​.gov/​
-coronavirus/​2019​-­nCoV/​clinical​-­criteria​
+-nCoV.  (https://www​.cdc​.gov/​
+coronavirus/​​-­nCoV/​clinical​-­criteria​
 .html).
-9.	 Centers for Disease Control and Prevention. Infection control. 2019 Novel
-coronavirus, Wuhan, China. 2020 (https://
-www​.cdc​.gov/​coronavirus/​2019​-­nCoV/​
+.	 Centers for Disease Control and Prevention. Infection control.  Novel
+coronavirus, Wuhan, China.  (https://
+www​.cdc​.gov/​coronavirus/​​-­nCoV/​
 infection​-­control​.html).
-10.	 Mulangu S, Dodd LE, Davey RT Jr, et
+.	 Mulangu S, Dodd LE, Davey RT Jr, et
 al. A randomized, controlled trial of ebola
 virus disease therapeutics. N Engl J Med
-2019;​381:​2293-303.
-11.	 Sheahan TP, Sims AC, Leist SR, et al.
-Comparative therapeutic efficacy of remdesivir and combination lopinavir, ritonavir, and interferon beta against MERSCoV. Nat Commun 2020;​11:​222.
-12.	Centers for Disease Control and Prevention. Interim guidelines for collecting,
+;​:​-.
+.	 Sheahan TP, Sims AC, Leist SR, et al.
+Comparative therapeutic efficacy of remdesivir and combination lopinavir, ritonavir, and interferon beta against MERSCoV. Nat Commun ;​:​.
+.	Centers for Disease Control and Prevention. Interim guidelines for collecting,
 handling, and testing clinical specimens
 from patients under investigation (PUIs)
-for 2019 novel coronavirus (2019-nCoV).
-2020 (https://www​.cdc​.gov/​coronavirus/​
-2019​-­nCoV/​g uidelines​-­clinical​-­specimens​
+for  novel coronavirus (-nCoV).
+ (https://www​.cdc​.gov/​coronavirus/​
+​-­nCoV/​g uidelines​-­clinical​-­specimens​
 .html).
-13.	Centers for Disease Control and Prevention, Respiratory Viruses Branch, Division of Viral Diseases. Real-time RT-PCR
-panel for detection 2019-novel coronavirus. 2020 (https://www​.cdc​.gov/​coronavirus/​
-2019​-­ncov/​downloads/​rt​-­pcr​-­panel​-­for​
+.	Centers for Disease Control and Prevention, Respiratory Viruses Branch, Division of Viral Diseases. Real-time RT-PCR
+panel for detection -novel coronavirus.  (https://www​.cdc​.gov/​coronavirus/​
+​-­ncov/​downloads/​rt​-­pcr​-­panel​-­for​
 -­detection​-­instructions​.pdf).
 
-14.	Centers for Disease Control and Pre-
+.	Centers for Disease Control and Pre-
 
-vention, Respiratory Viruses Branch, Division of Viral Diseases. 2019-novel coronavirus (2019-nCoV) real-time rRT-PCR
-panel primers and probes. 2020 (https://
-www​.cdc​.gov/​coronavirus/​2019​-­ncov/​
+vention, Respiratory Viruses Branch, Division of Viral Diseases. -novel coronavirus (-nCoV) real-time rRT-PCR
+panel primers and probes.  (https://
+www​.cdc​.gov/​coronavirus/​​-­ncov/​
 downloads/​rt​-­pcr​-­panel​-­primer​-­probes​
 .pdf).
-15.	 Centers for Disease Control and Prevention. Information for laboratories.
-2019 novel coronavirus, Wuhan, China.
-2020 (https://www​.cdc​.gov/​coronavirus/​
-2019​-­nCoV/​g uidance​-­laboratories​
+.	 Centers for Disease Control and Prevention. Information for laboratories.
+ novel coronavirus, Wuhan, China.
+ (https://www​.cdc​.gov/​coronavirus/​
+​-­nCoV/​g uidance​-­laboratories​
 .html).
-16.	National Institutes of Health. GenBank overview (https://www​.ncbi​.nlm​.nih​
+.	National Institutes of Health. GenBank overview (https://www​.ncbi​.nlm​.nih​
 .gov/​genbank/​).
-17.	 GISAID (Global Initiative on Sharing
+.	 GISAID (Global Initiative on Sharing
 All Influenza Data) home page (https://
 www​.gisaid​.org/​).
-18.	Zhu N, Zhang D, Wang W, et al. A
+.	Zhu N, Zhang D, Wang W, et al. A
 novel coronavirus from patients with
-pneumonia in China, 2019. N Engl J Med.
-DOI:​ 10.1056/NEJMoa2001017.
-19.	Washington State Department of
-Health. Novel coronavirus outbreak 2020
+pneumonia in China, . N Engl J Med.
+DOI:​ ./NEJMoa.
+.	Washington State Department of
+Health. Novel coronavirus outbreak 
 (https://www​.doh​.wa​.gov/​Emergencies/​
 Coronavirus).
-20.	 Chen N, Zhou M, Dong X Jr, et al. Epidemiological and clinical characteristics
-of 99 cases of 2019 novel coronavirus
-pneumonia in Wuhan, China: a descriptive study. Lancet 2020 January 30 (Epub
+.	 Chen N, Zhou M, Dong X Jr, et al. Epidemiological and clinical characteristics
+of  cases of  novel coronavirus
+pneumonia in Wuhan, China: a descriptive study. Lancet  January  (Epub
 ahead of print).
-Copyright © 2020 Massachusetts Medical Society.
+Copyright ©  Massachusetts Medical Society.
 
-n engl j med 382;10  nejm.org  March 5, 2020
+n engl j med ;  nejm.org  March , 
 
 The New England Journal of Medicine
-Downloaded from nejm.org on March 28, 2020. For personal use only. No other uses without permission.
-Copyright © 2020 Massachusetts Medical Society. All rights reserved.
+Downloaded from nejm.org on March , . For personal use only. No other uses without permission.
+Copyright ©  Massachusetts Medical Society. All rights reserved.
 
 

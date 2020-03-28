@@ -8,9 +8,9 @@ m e dic i n e
 
 Edi t or i a l
 
-Covid-19 — The Search for Effective Therapy
+Covid- — The Search for Effective Therapy
 Lindsey R. Baden, M.D., and Eric J. Rubin, M.D., Ph.D.
-Covid-19 is spreading rapidly through Europe and
+Covid- is spreading rapidly through Europe and
 North America, but we have few specific tools to
 control the growing epidemic and treat those
 who are sick. We rely on quarantine, isolation,
@@ -19,24 +19,24 @@ spread and on supportive care for those who become ill. What we lack is a specif
 to treat the infected and, optimally, decrease viral
 shedding and subsequent transmission.
 One antiviral-drug candidate is a combination
-of the HIV protease inhibitors lopinavir and ritonavir. Lopinavir, which acts against the viral 3CL
+of the HIV protease inhibitors lopinavir and ritonavir. Lopinavir, which acts against the viral CL
 protease, has modest antiviral activity against
-SARS-CoV-2.1 Together with ritonavir, which increases drug bioavailability, it is in clinical trials,
+SARS-CoV-. Together with ritonavir, which increases drug bioavailability, it is in clinical trials,
 along with the immunomodulator interferon
-beta-1b, for the treatment of Middle East respiratory syndrome (MERS) (ClinicalTrials.gov number,
-NCT02845843). What makes lopinavir–ritonavir
+beta-b, for the treatment of Middle East respiratory syndrome (MERS) (ClinicalTrials.gov number,
+NCT). What makes lopinavir–ritonavir
 particularly attractive is that it is widely available
 and manufacturable to scale and that it could be
 prescribed immediately. In fact, there are several
 case reports and case series where this agent is
-being used against Covid-19. But does it work?
+being used against Covid-. But does it work?
 This is the question that motivated Cao and colleagues to perform an urgent randomized clinical
-trial of the efficacy of lopinavir–ritonavir in patients with Covid-19 in Wuhan, China, the epicenter of the outbreak.2 On January 18, the first patient was enrolled in this open-label trial, about a
-week after SARS-CoV-2 had been identified and
+trial of the efficacy of lopinavir–ritonavir in patients with Covid- in Wuhan, China, the epicenter of the outbreak. On January , the first patient was enrolled in this open-label trial, about a
+week after SARS-CoV- had been identified and
 sequenced. The investigators recruited patients
-who had an oxygen saturation of 94% or less while
+who had an oxygen saturation of % or less while
 they were breathing ambient air or a ratio of the
-partial pressure of oxygen to the fraction of inspired oxygen of less than 300 mm Hg and who
+partial pressure of oxygen to the fraction of inspired oxygen of less than  mm Hg and who
 were receiving a range of ventilatory support
 
 modes, from nothing to mechanical ventilation
@@ -45,22 +45,22 @@ Enrollment was stratified according to the severity
 of illness as indicated by the level of ventilatory
 support administered. All the patients received
 standard care, and half were randomly assigned
-to receive lopinavir–ritonavir for 14 days. The
+to receive lopinavir–ritonavir for  days. The
 primary end point was the time to clinical improvement, defined as the time from randomization to either discharge from the hospital or
 improvement on a multifactorial set of prespecified criteria, whichever came first. The trial aimed
-to enroll 160 patients.
+to enroll  patients.
 This was a heroic effort. Health care workers
 in Hubei province have provided patient care in
 an overwhelming epidemic while they themselves
 are one of the highest risk groups for development
-of disease. As we saw during the 2014 Ebola outbreak in West Africa, obtaining high-quality clinical trial data to guide the care of patients is extremely difficult in the face of an epidemic, and
+of disease. As we saw during the  Ebola outbreak in West Africa, obtaining high-quality clinical trial data to guide the care of patients is extremely difficult in the face of an epidemic, and
 the feasibility of a randomized design has been
-called into question.3 Yet Cao’s group of determined investigators not only succeeded but ended
-up enrolling a larger number of patients (199) than
+called into question. Yet Cao’s group of determined investigators not only succeeded but ended
+up enrolling a larger number of patients () than
 originally targeted.
 Unfortunately, the trial results were disappointing. No benefit was observed in the primary end
 point of time to clinical improvement: both groups
-required a median of 16 days. But the results for
+required a median of  days. But the results for
 certain secondary end points are intriguing. A
 slightly lower number of deaths was seen in the
 lopinavir–ritonavir group, although this observation is difficult to interpret, given the small numbers and the fact that the standard-care group
@@ -69,10 +69,10 @@ appears to have been sicker at baseline. Removing deaths in the lopinavir–rito
 n engl j med﻿﻿  nejm.org﻿
 
 The New England Journal of Medicine
-Downloaded from nejm.org on March 28, 2020. For personal use only. No other uses without permission.
-Copyright © 2020 Massachusetts Medical Society. All rights reserved.
+Downloaded from nejm.org on March , . For personal use only. No other uses without permission.
+Copyright ©  Massachusetts Medical Society. All rights reserved.
 
-1
+
 
 The
 
@@ -87,7 +87,7 @@ were aware of treatment assignment, they were
 susceptible to potential bias. It is important to
 note that both groups were heterogeneous and
 received various additional treatments, including
-other pharmacologic interventions such as interferon (11%) and glucocorticoids (34%).
+other pharmacologic interventions such as interferon (%) and glucocorticoids (%).
 The secondary end points provide both reason
 for hope and reason for discouragement. The number of deaths was somewhat lower in the group
 that received lopinavir–ritonavir. Tellingly, though,
@@ -101,28 +101,28 @@ Why isn’t lopinavir–ritonavir more effective?
 Two major factors may be in play. First, the authors
 chose a particularly challenging population. The
 patients recruited for the study were late in infection and already had considerable tissue damage (as evidenced by compromised lung function
-and 25% mortality in the control group). Even
+and % mortality in the control group). Even
 highly active antibacterial agents have limited efficacy in advanced bacterial pneumonia. Second,
 lopinavir simply isn’t particularly potent against
-SARS-CoV-2. The concentration necessary to inhibit viral replication is relatively high as compared with the serum levels found in patients
-treated with lopinavir–ritonavir.1,4 We currently
-know little about drug concentrations in the tissues where SARS-CoV-2 is replicating.
+SARS-CoV-. The concentration necessary to inhibit viral replication is relatively high as compared with the serum levels found in patients
+treated with lopinavir–ritonavir., We currently
+know little about drug concentrations in the tissues where SARS-CoV- is replicating.
 The fact that this trial began within days after the virus was identified and that testing for
 infection was developed and deployed very rapidly
 means that test characteristics had not been fully
 
-2
+
 
 of
 
 m e dic i n e
 
-defined. Notably, 35% of those who screened
-positive for SARS-CoV-2 by nasopharyngeal swab
-then tested negative at the day 1 visit by oropharyngeal swab. Was this due to differences in site of
+defined. Notably, % of those who screened
+positive for SARS-CoV- by nasopharyngeal swab
+then tested negative at the day  visit by oropharyngeal swab. Was this due to differences in site of
 assessment, time of illness, testing characteristics,
-or just the natural evolution of the disease? In addition, 42% of the patients were viral load–positive
-at day 28, but the quantitative data at that point
+or just the natural evolution of the disease? In addition, % of the patients were viral load–positive
+at day , but the quantitative data at that point
 show that the levels were low, probably near the
 threshold of detection. Since the test detects nucleic acid, positive results do not necessarily indicate the production of infectious virus. These
 data suggest that assessing transmissibility after
@@ -130,7 +130,7 @@ recovery from severe disease will be a priority to
 help control transmission.
 Despite the fact that lopinavir–ritonavir does
 not seem to be highly effective in patients with
-Covid-19, there are many important takeaways
+Covid-, there are many important takeaways
 from this study. The investigators appropriately
 prioritized speed, designing a trial that could rapidly produce an answer. What we’ve learned from
 their work can help inform the design of new
@@ -141,25 +141,25 @@ or convincing negative findings, will be central to
 clinical care as the dangerous coronavirus outbreak continues.
 Disclosure forms provided by the authors are available with
 the full text of this editorial at NEJM.org.
-This editorial was published on March 18, 2020, at NEJM.org.
-1.	 Sheahan TP, Sims AC, Leist SR, et al. Comparative therapeu-
+This editorial was published on March , , at NEJM.org.
+.	 Sheahan TP, Sims AC, Leist SR, et al. Comparative therapeu-
 
 tic efficacy of remdesivir and combination lopinavir, ritonavir,
-and interferon beta against MERS-CoV. Nat Comm 2020;​11:​222.
-2.	 Cao B, Wang Y, Wen D, et al. A trial of lopinavir–ritonavir in
-adults hospitalized with severe Covid-19. N Engl J Med. DOI:​
-10.1056/NEJMoa2001282.
-3.	 Baden LR, Rubin EJ, Morrissey S, Farrar JJ, Drazen JM. We
-can do better — improving outcomes in the midst of an emergency. N Engl J Med 2017;​377:​1482-4.
-4.	 Lopinavir/ritonavir (Kaletra). North Chicago, IL:​AbbVie,
-2019 (https://www​.rxabbvie​.com/​pdf/​kaletracap_PI​.pdf) (prescribing information).
-DOI: 10.1056/NEJMe2005477
-Copyright © 2020 Massachusetts Medical Society.
+and interferon beta against MERS-CoV. Nat Comm ;​:​.
+.	 Cao B, Wang Y, Wen D, et al. A trial of lopinavir–ritonavir in
+adults hospitalized with severe Covid-. N Engl J Med. DOI:​
+./NEJMoa.
+.	 Baden LR, Rubin EJ, Morrissey S, Farrar JJ, Drazen JM. We
+can do better — improving outcomes in the midst of an emergency. N Engl J Med ;​:​-.
+.	 Lopinavir/ritonavir (Kaletra). North Chicago, IL:​AbbVie,
+ (https://www​.rxabbvie​.com/​pdf/​kaletracap_PI​.pdf) (prescribing information).
+DOI: ./NEJMe
+Copyright ©  Massachusetts Medical Society.
 
 n engl j med﻿﻿  nejm.org﻿
 
 The New England Journal of Medicine
-Downloaded from nejm.org on March 28, 2020. For personal use only. No other uses without permission.
-Copyright © 2020 Massachusetts Medical Society. All rights reserved.
+Downloaded from nejm.org on March , . For personal use only. No other uses without permission.
+Copyright ©  Massachusetts Medical Society. All rights reserved.
 
 

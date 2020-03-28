@@ -1,25 +1,25 @@
 Correspondence
 
-Lei Fang and colleagues1 postulate
+Lei Fang and colleagues postulate
 that because severe acute respiratory
-syndrome coronavirus 2 (SARS-CoV-2)
+syndrome coronavirus  (SARS-CoV-)
 binds to the angiotensin-converting
-enzyme 2 (ACE2) receptor to facilitate
-host cell entry,2,3 disease severity and
-mortality of coronavirus disease 2019
-(COVID-19) might be increased in
+enzyme  (ACE) receptor to facilitate
+host cell entry,, disease severity and
+mortality of coronavirus disease 
+(COVID-) might be increased in
 patients taking angiotensin converting
 enzyme inhibitors (ACEIs) and
 angiotensin receptor blockers (ARBs)
-during the COVID-19 pandemic,
-because the ACE2 receptor might be
+during the COVID- pandemic,
+because the ACE receptor might be
 upregulated with use of ACEIs and
 ARBs.
 Although it is true that many
-patients with severe COVID-19
+patients with severe COVID-
 have hypertension and diabetes, as
 reported by Guan and colleagues in a
-study of more than 1000 patients,4
+study of more than  patients,
 in that study other factors were also
 notably unevenly distributed among
 groups, including age, sex, smoking
@@ -29,35 +29,35 @@ though patients with diabetes and
 hypertension frequently use ACEIs
 and ARBs, many confounders must
 be accounted for when interpreting
-findings of observational studies.5 In
+findings of observational studies. In
 another study looking at risk factors
 for mortality among patients with
-COVID-19,6 despite hypertension and
+COVID-, despite hypertension and
 diabetes being identified as the most
 frequently associated comorbidities,
 after multivariate regression the
 association between these disorders
-and COVID-19 mortality was no longer
+and COVID- mortality was no longer
 significant.
 
 In theory, use of ACEIs and ARBs over
 time would result in an upregulation of
-ACE2 receptors. In children and young
-adults, ACE2 receptors are present at
+ACE receptors. In children and young
+adults, ACE receptors are present at
 a much higher density in lung tissue
 than in older individuals. Thus, the
 condition in people taking ACEIs
 and ARBs emulates that in young
 people. It is possible that having more
-ACE2 receptors provides a reserve
+ACE receptors provides a reserve
 against target-mediated destruction
-by SARS-CoV-2.7 ACE2 functions to
+by SARS-CoV-. ACE functions to
 produce the hepta­peptide angiotensin
-(1-7), which has favourable effects
+(-), which has favourable effects
 on the pulmonary endothelium
 and might provide resilience from
 development of pulmonary failure in
-COVID-19.7
+COVID-.
 We caution against indiscriminate
 discontinuation of ACEIs and ARBs
 in patients who rely on these drugs
@@ -65,10 +65,10 @@ for treatment of heart failure and
 who, additionally, might benefit
 from the postulated positive effects
 during overwhelming infection with
-SARS-CoV-2. Discontinuation of ACEIs
+SARS-CoV-. Discontinuation of ACEIs
 or ARBs is associated with readmission
 to hospital and mortality among
-patients with heart failure.8 A surge of
+patients with heart failure. A surge of
 admissions to hospital for heart failure
 because of indiscriminate cessation of
 these important agents could overload
@@ -76,10 +76,10 @@ already burdened health-care systems
 with vulnerable patients and cause
 diagnostic problems in view of the
 range of symptoms shared between
-acute heart failure and COVID-19, such
+acute heart failure and COVID-, such
 as cough and shortness of breath.
 The quick developing nature of the
-COVID-19 pandemic, and uncertainty
+COVID- pandemic, and uncertainty
 around best practice, calls for caution
 when putting forward hypotheses
 
@@ -88,83 +88,83 @@ evidence is needed before any clinical
 decisions are made.
 We declare no competing interests.
 
-Ramon Adrade 3Dciencia/Science Photo Library
+Ramon Adrade Dciencia/Science Photo Library
 
 Antihypertensive drugs
-and risk of COVID-19?
+and risk of COVID-?
 
 *Kevin Bryan Lo, Peter A McCullough,
 Janani Rangaswami
 lokevinb@einstein.edu
 Department of Medicine, Einstein Medical Center,
-Philadelphia, PA 19141, USA (KBL, JR); Baylor Heart
+Philadelphia, PA , USA (KBL, JR); Baylor Heart
 and Vascular Institute, Dallas, TX, USA (PAM); and
 Sidney Kimmel College of Thomas Jefferson
 University, Philadelphia, PA, USA
-1	
+	
 
-2	
+	
 
-3	
+	
 
-4	
+	
 
-5	
-6	
+	
+	
 
-7	
+	
 
-8	
+	
 
 Fang L, Karakiulakis G, Roth M. Are patients
 with hypertension and diabetes mellitus at
-increased risk for COVID-19 infection?
-Lancet Respir Med 2020; published online
-March 11. https://doi.org/10.1016/S22132600(20)30116-8.
+increased risk for COVID- infection?
+Lancet Respir Med ; published online
+March . https://doi.org/./S()-.
 Ferrario CM, Jessup J, Chappell MC, et al.
 Effect of angiotensin-converting enzyme
 inhibition and angiotensin II receptor blockers
-on cardiac angiotensin-converting enzyme 2.
-Circulation 2005; 111: 2605–10.
+on cardiac angiotensin-converting enzyme .
+Circulation ; : –.
 Hoffmann M, Kleine-Weber H, Krueger N,
 Mueller MA, Drosten C, Pöhlmann S. The novel
-coronavirus 2019 (2019-nCoV) uses the
-SARS-coronavirus receptor ACE2 and the
-cellular protease TMPRSS2 for entry into target
-cells. Jan 31, 2020. https://www.biorxiv.org/co
-ntent/10.1101/2020.01.31.929042v1
-(accessed March 23, 2020).
+coronavirus  (-nCoV) uses the
+SARS-coronavirus receptor ACE and the
+cellular protease TMPRSS for entry into target
+cells. Jan , . https://www.biorxiv.org/co
+ntent/./...v
+(accessed March , ).
 Guan W, Ni Z, Hu Y, et al. Clinical characteristics
-of coronavirus disease 2019 in China.
-N Engl J Med 2020; published online Feb 28.
-DOI:10.1056/NEJMoa2002032.
+of coronavirus disease  in China.
+N Engl J Med ; published online Feb .
+DOI:./NEJMoa.
 Jepsen P, Johnsen SP, Gillman MW,
 Sørensen HT. Interpretation of observational
-studies. Heart 2004; 90: 956–60.
+studies. Heart ; : –.
 Zhou F, Yu T, Du R, et al. Clinical course and risk
 factors for mortality of adult inpatients with
-COVID-19 in Wuhan, China: a retrospective
-cohort study. Lancet 2020; published online
-March 11. https://doi.org/10.1016/S01406736(20)30566-3.
+COVID- in Wuhan, China: a retrospective
+cohort study. Lancet ; published online
+March . https://doi.org/./S()-.
 Gurwitz D. Angiotensin receptor blockers as
-tentative SARS‐CoV‐2 therapeutics.
-Drug Dev Res 2020; published online March 4.
-DOI:10.1002/ddr.21656.
+tentative SARS‐CoV‐ therapeutics.
+Drug Dev Res ; published online March .
+DOI:./ddr..
 Oliveros E, Oni ET, Shahzad A, et al. Benefits
 and risks of continuing angiotensin-converting
 enzyme inhibitors, angiotensin II receptor
 antagonists, and mineralocorticoid receptor
 antagonists during hospitalizations for acute
-heart failure. Cardiorenal Med 2020; 10: 69–84.
+heart failure. Cardiorenal Med ; : –.
 
-www.thelancet.com/respiratory Published online March 26, 2020 https://doi.org/10.1016/S2213-2600(20)30156-9	
+www.thelancet.com/respiratory Published online March ,  https://doi.org/./S-()-	
 
-Lancet Respir Med 2020
+Lancet Respir Med 
 Published Online
-March 26, 2020
-https://doi.org/10.1016/
-S2213-2600(20)30156-9
+March , 
+https://doi.org/./
+S-()-
 
-1
+
 
 

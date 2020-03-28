@@ -1,8 +1,8 @@
-Manuscript Doi: 10.1093/ecco-jcc/jjaa061
+Manuscript Doi: ./ecco-jcc/jjaa
 
-Are patients with inflammatory bowel disease at increased risk for Covid-19 infection?
-Giovanni Monteleone MD, PhD, 1, Sandro Ardizzone MD.
-1Department of Systems Medicine, University of Rome “TOR VERGATA ”, Rome, Italy
+Are patients with inflammatory bowel disease at increased risk for Covid- infection?
+Giovanni Monteleone MD, PhD, , Sandro Ardizzone MD.
+Department of Systems Medicine, University of Rome “TOR VERGATA ”, Rome, Italy
 
 t
 cr
@@ -16,23 +16,23 @@ Department of Systems Medicine
 M
 
 University of Rome “TOR VERGATA”
-Via Montpellier, 1
+Via Montpellier, 
 
 ed
 
-00133 Rome, Italy
-+39.06.72596158
+ Rome, Italy
++..
 
 Fax:
 
-+39.06.72596391
++..
 
 ce
 pt
 
 Phone:
 
-Gi.Monteleone@Med.uniroma2.it
+Gi.Monteleone@Med.uniroma.it
 
 Ac
 
@@ -42,16 +42,16 @@ an
 
 Giovanni Monteleone
 
-© The Author(s) 2020. Published by Oxford University Press on behalf of European Crohn’s and
+© The Author(s) . Published by Oxford University Press on behalf of European Crohn’s and
 Colitis Organisation. All rights reserved. For permissions, please email:
 journals.permissions@oup.com
 
-Downloaded from https://academic.oup.com/ecco-jcc/advance-article-abstract/doi/10.1093/ecco-jcc/jjaa061/5811674 by guest on 28 March 2020
+Downloaded from https://academic.oup.com/ecco-jcc/advance-article-abstract/doi/./ecco-jcc/jjaa/ by guest on  March 
 
-2 Gastrointestinal Unit, ASST-Fatebenefratelli Sacco - Department of Biochemical and
+ Gastrointestinal Unit, ASST-Fatebenefratelli Sacco - Department of Biochemical and
 Clinical Sciences “L. Sacco”- University of Milan, Italy.
 
-Manuscript Doi: 10.1093/ecco-jcc/jjaa061
+Manuscript Doi: ./ecco-jcc/jjaa
 Abstract
 Crohn’s disease (CD)] and ulcerative colitis (UC), the main inflammatory bowel diseases
 (IBD) in human beings, are chronic, immune-inflammatory diseases, whose pathogenesis
@@ -64,26 +64,26 @@ ip
 t
 
 treat them, can put patients at risk of developing complications and other conditions. This is
-particularly relevant nowadays, as coronavirus disease (Covid-19) has rapidly spread from
+particularly relevant nowadays, as coronavirus disease (Covid-) has rapidly spread from
 China to countries where IBD are more prevalent and there is convincing evidence that
 
 us
 
-Covid-19-mediated morbidity and mortality are higher in subjects with comorbidities. The
+Covid--mediated morbidity and mortality are higher in subjects with comorbidities. The
 
 an
 
 primary objectives of this Viewpoint are to provide a focused overview of the factors and
-mechanisms by which the novel severe acute respiratory syndrome coronavirus 2 (SARS-
+mechanisms by which the novel severe acute respiratory syndrome coronavirus  (SARS-
 
 M
 
-CoV-2) infects the cells and to illustrate the link between such determinants and the intestinal
+CoV-) infects the cells and to illustrate the link between such determinants and the intestinal
 inflammation. We also provide clues about the reasons why the overall IBD population might
 
 ed
 
-have no increased risk to be infected with SARS-CoV-2 and highlight the potential of
+have no increased risk to be infected with SARS-CoV- and highlight the potential of
 
 Ac
 
@@ -92,11 +92,11 @@ pt
 
 cytokine blockers, used to treat IBD patients, to prevent Covid-driven pneumonia.
 
-Downloaded from https://academic.oup.com/ecco-jcc/advance-article-abstract/doi/10.1093/ecco-jcc/jjaa061/5811674 by guest on 28 March 2020
+Downloaded from https://academic.oup.com/ecco-jcc/advance-article-abstract/doi/./ecco-jcc/jjaa/ by guest on  March 
 
 implicates a complex interaction between environmental factors and genetic susceptibility.
 
-Manuscript Doi: 10.1093/ecco-jcc/jjaa061
+Manuscript Doi: ./ecco-jcc/jjaa
 
 t
 
@@ -106,7 +106,7 @@ cr
 ip
 
 response against luminal bacteria arising in genetically-predisposed individuals as a result of
-the action of multiple environmental factors (1). These disabling conditions affect millions of
+the action of multiple environmental factors (). These disabling conditions affect millions of
 
 us
 
@@ -115,46 +115,46 @@ used to treat them, can put patients at risk of developing complications and oth
 
 an
 
-(2). Nowadays there is an increasing concern about the risk that IBD patients have to be
+(). Nowadays there is an increasing concern about the risk that IBD patients have to be
 
 M
 
-infected with the novel severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).
-Indeed, after the initial cases diagnosed in Wuhan (China) in December 2019, coronavirus
+infected with the novel severe acute respiratory syndrome coronavirus  (SARS-CoV-).
+Indeed, after the initial cases diagnosed in Wuhan (China) in December , coronavirus
 
 ed
 
-disease (Covid-19) has rapidly spread to countries where IBD are more prevalent and it is
+disease (Covid-) has rapidly spread to countries where IBD are more prevalent and it is
 now clear that comorbidities are associated with poorer clinical outcome in patients with
 
 ce
 pt
 
-Covid-19 (3).
+Covid- ().
 
-Why should IBD patients be at increased risk for SARS-CoV-2-induced infections?
+Why should IBD patients be at increased risk for SARS-CoV--induced infections?
 
 Ac
 
-Coronaviruses bind to their target cells through angiotensin-converting enzyme 2 (ACE2), a
+Coronaviruses bind to their target cells through angiotensin-converting enzyme  (ACE), a
 monocarboxypeptidase best known for cleaving several peptides within the renin-angiotensin
-system and other substrates (4). ACE2 is constitutively expressed by epithelial cells of the
+system and other substrates (). ACE is constitutively expressed by epithelial cells of the
 lung, intestine, kidney, and blood vessels, and is present in the terminal ileum and colon in
-concentrations that are amongst the highest in the body (5). Analysis of the distribution of
-SARS-CoV-2 among different biological samples of patients with Covid-19 showed that up
-to 50% of the faecal samples were positive (6, 7). Moreover, more than one fifth of the
-patients remained positive in stools after showing negative in respiratory samples (7). These
+concentrations that are amongst the highest in the body (). Analysis of the distribution of
+SARS-CoV- among different biological samples of patients with Covid- showed that up
+to % of the faecal samples were positive (, ). Moreover, more than one fifth of the
+patients remained positive in stools after showing negative in respiratory samples (). These
 
-Downloaded from https://academic.oup.com/ecco-jcc/advance-article-abstract/doi/10.1093/ecco-jcc/jjaa061/5811674 by guest on 28 March 2020
+Downloaded from https://academic.oup.com/ecco-jcc/advance-article-abstract/doi/./ecco-jcc/jjaa/ by guest on  March 
 
 Although the cause of inflammatory bowel diseases (IBD) remains unknown, most
 
-Manuscript Doi: 10.1093/ecco-jcc/jjaa061
-findings could explain why some Covid-19 patients experience gastrointestinal symptoms
-and would imply that SARS-CoV-2 can spread through the faecal route. The expression of
-ACE2 is increased in inflamed gut of patients with IBD (8). Moreover, proteomic analysis of
+Manuscript Doi: ./ecco-jcc/jjaa
+findings could explain why some Covid- patients experience gastrointestinal symptoms
+and would imply that SARS-CoV- can spread through the faecal route. The expression of
+ACE is increased in inflamed gut of patients with IBD (). Moreover, proteomic analysis of
 
-disease (CD) than in ulcerative colitis (UC) (9). Along with binding to ACE2, fusion of the
+disease (CD) than in ulcerative colitis (UC) (). Along with binding to ACE, fusion of the
 
 cr
 ip
@@ -162,22 +162,22 @@ ip
 t
 
 coronavirus envelope with host cell membranes is critical for establishing a successful
-infection. This process is mediated by a specific fusion, or “spike” protein (10), which is
+infection. This process is mediated by a specific fusion, or “spike” protein (), which is
 activated though a proteolytic cleavage induced by host cell trypsin-like proteases, whose
 
 us
 
-activity has been reported to be up-regulated in IBD (11). These observations suggest that the
+activity has been reported to be up-regulated in IBD (). These observations suggest that the
 
 an
 
 inflamed gut of IBD patients represents an optimal doorway through which the virus enters
-human tissues. However, based on a PubMed search on March 17, 2020, we found no
+human tissues. However, based on a PubMed search on March , , we found no
 
 M
 
-evidence to suggest that Covid-19 occurs more frequently in IBD than in the general
-population. Moreover, so far, no IBD patient with SARS-CoV-2 infection has been reported
+evidence to suggest that Covid- occurs more frequently in IBD than in the general
+population. Moreover, so far, no IBD patient with SARS-CoV- infection has been reported
 
 ed
 
@@ -187,41 +187,41 @@ ce
 pt
 
 How can we interpret these findings? There are two functional and distinct forms of
-ACE2. The full-length ACE2 contains an extracellular domain, which acts as a receptor for
-the spike protein of SARS-CoV-2, and a structural transmembrane domain, which anchors
+ACE. The full-length ACE contains an extracellular domain, which acts as a receptor for
+the spike protein of SARS-CoV-, and a structural transmembrane domain, which anchors
 
 Ac
 
-the extracellular domain to the plasma membrane (12) In contrast, the soluble form of ACE2
-lacks the membrane anchor and circulates in small amounts in the blood (13). In vitro studies
-have shown that the latter form of ACE2 might act as a competitive interceptor of SARSCoV-2 by preventing binding of the viral particle to the surface-bound, full-length ACE2
-(14). Notably, the level of the soluble ACE2 is up-regulated in the peripheral blood of IBD
-patients (15), raising the possibility that this isoform could contribute to limit SARS-CoV-2
+the extracellular domain to the plasma membrane () In contrast, the soluble form of ACE
+lacks the membrane anchor and circulates in small amounts in the blood (). In vitro studies
+have shown that the latter form of ACE might act as a competitive interceptor of SARSCoV- by preventing binding of the viral particle to the surface-bound, full-length ACE
+(). Notably, the level of the soluble ACE is up-regulated in the peripheral blood of IBD
+patients (), raising the possibility that this isoform could contribute to limit SARS-CoV-
 infection.
 
-Downloaded from https://academic.oup.com/ecco-jcc/advance-article-abstract/doi/10.1093/ecco-jcc/jjaa061/5811674 by guest on 28 March 2020
+Downloaded from https://academic.oup.com/ecco-jcc/advance-article-abstract/doi/./ecco-jcc/jjaa/ by guest on  March 
 
-tissue samples of IBD patients revealed a significantly higher expression of ACE2 in Crohn’s
+tissue samples of IBD patients revealed a significantly higher expression of ACE in Crohn’s
 
-Manuscript Doi: 10.1093/ecco-jcc/jjaa061
-Although the live SARS-CoV-2 is detectable in faeces (7), there is no clear-cut
-evidence that the content of ACE2 in the ileum and colon influences entry and replication of
+Manuscript Doi: ./ecco-jcc/jjaa
+Although the live SARS-CoV- is detectable in faeces (), there is no clear-cut
+evidence that the content of ACE in the ileum and colon influences entry and replication of
 the virus within the intestinal cells and, hence, facilitates its transmission by an extra-
 
 attachment-promoting factors to ensure robust infection of host cells. This is in line with the
 
-modest ACE2 expression in the upper respiratory tract (16).
+modest ACE expression in the upper respiratory tract ().
 
 cr
 ip
 
 t
 
-demonstration that SARS-CoV-2 spreads rapidly through the respiratory route despite the
+demonstration that SARS-CoV- spreads rapidly through the respiratory route despite the
 
 us
 
-Another aspect relevant for the Covid-19 infection in IBD relates to the current
+Another aspect relevant for the Covid- infection in IBD relates to the current
 therapy, as many patients are taking immunesuppressors (e.g. azathioprine, methotrexate) for
 
 an
@@ -231,7 +231,7 @@ use of such compounds has been associated with increased risk of infections as t
 
 M
 
-intracellular signals needed for the host to fight pathogens (17). On the other hand, it is
+intracellular signals needed for the host to fight pathogens (). On the other hand, it is
 
 ed
 
@@ -241,28 +241,28 @@ noteworthy that suppression of the effector cytokine driven-inflammatory respons
 ce
 pt
 
-mucosal inflammation but also for preventing Covid-19-driven pneumonia. Indeed, the
-profile of cytokines documented in patients with severe Covid-19 resembles that seen in
+mucosal inflammation but also for preventing Covid--driven pneumonia. Indeed, the
+profile of cytokines documented in patients with severe Covid- resembles that seen in
 inflamed intestine of IBD patients and during the “cytokine storm” syndrome, a life-threating
 
 Ac
 
 condition characterized by hyper-activation of T cells and massive production of interleukin
-(IL)-2, IL-6, TNF, and interferon-. Consistently, blockers of IL-1 or IL-6 have been
+(IL)-, IL-, TNF, and interferon-. Consistently, blockers of IL- or IL- have been
 used with success in pathologies characterized by cytokine storm and preliminary evidence
-supports the use of IL-6 receptor antagonists in the treatment of Covid-19-driven pneumonia
-(21).
+supports the use of IL- receptor antagonists in the treatment of Covid--driven pneumonia
+().
 The overall available evidence suggests that IBD patients do not have increased risk
-to develop Covid-19 and should stay on IBD medications. Patients receiving
+to develop Covid- and should stay on IBD medications. Patients receiving
 
-Downloaded from https://academic.oup.com/ecco-jcc/advance-article-abstract/doi/10.1093/ecco-jcc/jjaa061/5811674 by guest on 28 March 2020
+Downloaded from https://academic.oup.com/ecco-jcc/advance-article-abstract/doi/./ecco-jcc/jjaa/ by guest on  March 
 
-respiratory route. The SARS-CoV-2 could need of additional and yet unidentified cellular
+respiratory route. The SARS-CoV- could need of additional and yet unidentified cellular
 
-Manuscript Doi: 10.1093/ecco-jcc/jjaa061
+Manuscript Doi: ./ecco-jcc/jjaa
 immunesuppressors should be carefully monitored for the occurrence of symptoms and/or
-signs suggestive for Covid-19. Moreover, those patients over 60 years and/or with
-comorbidities, which have been reported to have greater risk for Covid-19-induced
+signs suggestive for Covid-. Moreover, those patients over  years and/or with
+comorbidities, which have been reported to have greater risk for Covid--induced
 
 Ac
 
@@ -284,11 +284,11 @@ t
 
 cerebrovascular diseases), should stay at home and avoid public gatherings.
 
-Downloaded from https://academic.oup.com/ecco-jcc/advance-article-abstract/doi/10.1093/ecco-jcc/jjaa061/5811674 by guest on 28 March 2020
+Downloaded from https://academic.oup.com/ecco-jcc/advance-article-abstract/doi/./ecco-jcc/jjaa/ by guest on  March 
 
 pneumonia (e.g. coronary heart disease, hypertension, diabetes mellitus, lung disease,
 
-Manuscript Doi: 10.1093/ecco-jcc/jjaa061
+Manuscript Doi: ./ecco-jcc/jjaa
 References
 
 t
@@ -309,51 +309,51 @@ pt
 
 Ac
 
-Downloaded from https://academic.oup.com/ecco-jcc/advance-article-abstract/doi/10.1093/ecco-jcc/jjaa061/5811674 by guest on 28 March 2020
+Downloaded from https://academic.oup.com/ecco-jcc/advance-article-abstract/doi/./ecco-jcc/jjaa/ by guest on  March 
 
-1. Macdonald TT, Monteleone G. Immunity, inflammation, and allergy in the gut.
-Science 2005; 307: 1920-1925.
-2. Dulai PS, Thompson KD, Blunt HB, Dubinsky MC, Siegel CA. Risks of serious
+. Macdonald TT, Monteleone G. Immunity, inflammation, and allergy in the gut.
+Science ; : -.
+. Dulai PS, Thompson KD, Blunt HB, Dubinsky MC, Siegel CA. Risks of serious
 infection or lymphoma with anti-tumor necrosis factor therapy for pediatric
-inflammatory bowel disease: a systematic review. Clin Gastroenterol Hepatol 2014;
-12: 1443-1451.
-3. Zhu N, Zhang D, Wang W, Li X, Yang B, Song J, Zhao X, Huang B, Shi W, Lu R,
+inflammatory bowel disease: a systematic review. Clin Gastroenterol Hepatol ;
+: -.
+. Zhu N, Zhang D, Wang W, Li X, Yang B, Song J, Zhao X, Huang B, Shi W, Lu R,
 Niu P, Zhan F, Ma X, Wang D, Xu W, Wu G, Gao GF, Tan W; China Novel
 Coronavirus Investigating and Research Team. A Novel Coronavirus from Patients
-with Pneumonia in China, 2019. N Engl J Med 2020; 382:727-733.
-4. Hoffmann M, Kleine-Weber H, Schroeder S, Krüger N, Herrler T, Erichsen S,
+with Pneumonia in China, . N Engl J Med ; :-.
+. Hoffmann M, Kleine-Weber H, Schroeder S, Krüger N, Herrler T, Erichsen S,
 Schiergens TS, Herrler G, Wu NH, Nitsche A, Müller MA, Drosten C, Pöhlmann S.
-SARS-CoV-2 Cell Entry Depends on ACE2 and TMPRSS2 and Is Blocked by a
-Clinically Proven Protease Inhibitor. Cell. 2020 Mar 4. pii: S0092-8674(20)30229-4.
-doi: 10.1016/j.cell.2020.02.052.
-5. Harmer, D, Gilbert, M, Borman, R. Quantitative mRNA expression profiling of ACE
-2, a novel homologue of angiotensin converting enzyme. FEBS Lett 2002; 532: 107–
-110.
-6. Wang W, Xu Y, Gao R, Lu R, Han K, Wu G, Tan W. Detection of SARS-CoV-2 in
-Different Types of Clinical Specimens. JAMA. 2020, Mar 11. doi:
-10.1001/jama.2020.3786.
-7. Xiao F, Tang M, Zheng X, Liu Y, Li X, Shan H. Evidence for gastrointestinal
-infection of SARS-CoV-2. Gastroenterology. 2020 Mar 3. pii: S0016-5085(20)302821. doi: 10.1053/j.gastro.2020.02.055.
-8. Garg M, Royce SG, Tikellis C, Shallue C, Batu D, Velkoska E, Burrell LM, Patel SK,
+SARS-CoV- Cell Entry Depends on ACE and TMPRSS and Is Blocked by a
+Clinically Proven Protease Inhibitor. Cell.  Mar . pii: S-()-.
+doi: ./j.cell....
+. Harmer, D, Gilbert, M, Borman, R. Quantitative mRNA expression profiling of ACE
+, a novel homologue of angiotensin converting enzyme. FEBS Lett ; : –
+.
+. Wang W, Xu Y, Gao R, Lu R, Han K, Wu G, Tan W. Detection of SARS-CoV- in
+Different Types of Clinical Specimens. JAMA. , Mar . doi:
+./jama...
+. Xiao F, Tang M, Zheng X, Liu Y, Li X, Shan H. Evidence for gastrointestinal
+infection of SARS-CoV-. Gastroenterology.  Mar . pii: S-(). doi: ./j.gastro....
+. Garg M, Royce SG, Tikellis C, Shallue C, Batu D, Velkoska E, Burrell LM, Patel SK,
 Beswick L, Jackson A, Britto K, Lukies M, Sluka P, Wardan H, Hirokawa Y, Tan
 CW, Faux M, Burgess AW, Hosking P, Monagle S, Thomas M, Gibson PR, Lubel J.
 Imbalance of the renin-angiotensin system may contribute to inflammation and
-fibrosis in IBD: a novel therapeutic target? Gut. 2019 Aug 13. pii: gutjnl-2019318512. doi: 10.1136/gutjnl-2019-318512.
-9. Ning L, Shan G, Sun Z, Zhang F, Xu C, Lou X, Li S, Du H, Chen H, Xu G.
+fibrosis in IBD: a novel therapeutic target? Gut.  Aug . pii: gutjnl-. doi: ./gutjnl--.
+. Ning L, Shan G, Sun Z, Zhang F, Xu C, Lou X, Li S, Du H, Chen H, Xu G.
 Quantitative Proteomic Analysis Reveals the Deregulation of Nicotinamide Adenine
-Dinucleotide Metabolism and CD38 in Inflammatory Bowel Disease. Biomed Res Int.
-2019; 2019: 3950628.
-10. Ibrahim IM, Abdelmalek DH, Elshahat ME, Elfiky AA. COVID-19 Spike-host cell
-receptor GRP78 binding site prediction. J Infect. 2020; S0163-445: 330107-33019.
-11. Jablaoui A, Kriaa A, Mkaouar H, Akermi N, Soussou S, Wysocka M, Wołoszyn D,
+Dinucleotide Metabolism and CD in Inflammatory Bowel Disease. Biomed Res Int.
+; : .
+. Ibrahim IM, Abdelmalek DH, Elshahat ME, Elfiky AA. COVID- Spike-host cell
+receptor GRP binding site prediction. J Infect. ; S-: -.
+. Jablaoui A, Kriaa A, Mkaouar H, Akermi N, Soussou S, Wysocka M, Wołoszyn D,
 Amouri A, Gargouri A, Maguin E, Lesner A, Rhimi M. Fecal Serine Protease
-Profiling in Inflammatory Bowel Diseases. Front Cell Infect Microbiol. 2020; 10: 21.
-12. Du L, He Y, Zhou Y, Liu S, Zheng BJ, Jiang S. The spike protein of sars-cov–a
-target for vaccine and therapeutic development. Nat. Rev. Microbiol. 2009; 7, 226236.
-13. Wysocki J1, Ye M, Rodriguez E, González-Pacheco FR, Barrios C, Evora K, Schuster
+Profiling in Inflammatory Bowel Diseases. Front Cell Infect Microbiol. ; : .
+. Du L, He Y, Zhou Y, Liu S, Zheng BJ, Jiang S. The spike protein of sars-cov–a
+target for vaccine and therapeutic development. Nat. Rev. Microbiol. ; , .
+. Wysocki J, Ye M, Rodriguez E, González-Pacheco FR, Barrios C, Evora K, Schuster
 M, Loibner H, Brosnihan KB, Ferrario CM, Penninger JM, Batlle D. Targeting the
 
-Manuscript Doi: 10.1093/ecco-jcc/jjaa061
+Manuscript Doi: ./ecco-jcc/jjaa
 
 t
 
@@ -371,30 +371,30 @@ ce
 pt
 Ac
 
-Downloaded from https://academic.oup.com/ecco-jcc/advance-article-abstract/doi/10.1093/ecco-jcc/jjaa061/5811674 by guest on 28 March 2020
+Downloaded from https://academic.oup.com/ecco-jcc/advance-article-abstract/doi/./ecco-jcc/jjaa/ by guest on  March 
 
-degradation of angiotensin ii with recombinant angiotensin-converting enzyme 2:
-Prevention of angiotensin ii-dependent hypertension. Hypertension 2010; 55: 90-98.
-14. Wysocki J, Satchell K. Soluble angiotensin-converting enzyme 2: a potential
-approach for coronavirus infection therapy? Clin Sci 2020; 134: 543-545.
-15. Garg M, Burrell LM, Velkoska E, Griggs K, Angus PW, Gibson PR, Lubel JS.
+degradation of angiotensin ii with recombinant angiotensin-converting enzyme :
+Prevention of angiotensin ii-dependent hypertension. Hypertension ; : -.
+. Wysocki J, Satchell K. Soluble angiotensin-converting enzyme : a potential
+approach for coronavirus infection therapy? Clin Sci ; : -.
+. Garg M, Burrell LM, Velkoska E, Griggs K, Angus PW, Gibson PR, Lubel JS.
 Upregulation of circulating components of the alternative renin-angiotensin system in
 inflammatory bowel disease: A pilot study. J Renin Angiotensin Aldosterone Syst.
-2015; 16: 559-569.
-16. Hamming I, Timens W, Bulthuis ML, Lely AT, Navis G, van Goor H. Tissue
-distribution of ACE2 protein, the functional receptor for SARS coronavirus. A first
-step in understanding SARS pathogenesis J. Pathol 2004; 203: 631-637.
-17. Govani SM, Higgins PD. Combination of thiopurines and allopurinol: adverse events
-and clinical benefit in IBD. J Crohns Colitis 2010; 4: 444-449.
-18. Chen C, Zhang XR, Ju ZY, He WF. Advances in the research of cytokine storm
-mechanism induced by Corona Virus Disease 2019 and the corresponding
-immunotherapies. Zhonghua Shao Shang Za Zhi. 2020 Mar 1;36(0):E005.
-19. Maude SL, Barrett D, Teachey DT, Grupp SA. Managing cytokine release syndrome
-associated with novel T cell-engaging therapies. Cancer J. (2014) 20:119–22.
-20. Monteleone G, Pallone F, MacDonald TT. Emerging immunological targets in
-inflammatory bowel disease. Curr Opin Pharmacol. 2011; 11: 640-645.
-21. Tanaka T, Narazaki M, Kishimoto T. Immunotherapeutic implications of IL-6
-blockade for cytokine storm. Immunotherapy. 2016 Jul;8(8):959-70.
+; : -.
+. Hamming I, Timens W, Bulthuis ML, Lely AT, Navis G, van Goor H. Tissue
+distribution of ACE protein, the functional receptor for SARS coronavirus. A first
+step in understanding SARS pathogenesis J. Pathol ; : -.
+. Govani SM, Higgins PD. Combination of thiopurines and allopurinol: adverse events
+and clinical benefit in IBD. J Crohns Colitis ; : -.
+. Chen C, Zhang XR, Ju ZY, He WF. Advances in the research of cytokine storm
+mechanism induced by Corona Virus Disease  and the corresponding
+immunotherapies. Zhonghua Shao Shang Za Zhi.  Mar ;():E.
+. Maude SL, Barrett D, Teachey DT, Grupp SA. Managing cytokine release syndrome
+associated with novel T cell-engaging therapies. Cancer J. () :–.
+. Monteleone G, Pallone F, MacDonald TT. Emerging immunological targets in
+inflammatory bowel disease. Curr Opin Pharmacol. ; : -.
+. Tanaka T, Narazaki M, Kishimoto T. Immunotherapeutic implications of IL-
+blockade for cytokine storm. Immunotherapy.  Jul;():-.
 
 cr
 ip
@@ -427,10 +427,10 @@ Ac
 
 No specific funding has been received for this work.
 
-Downloaded from https://academic.oup.com/ecco-jcc/advance-article-abstract/doi/10.1093/ecco-jcc/jjaa061/5811674 by guest on 28 March 2020
+Downloaded from https://academic.oup.com/ecco-jcc/advance-article-abstract/doi/./ecco-jcc/jjaa/ by guest on  March 
 
 t
 
-Manuscript Doi: 10.1093/ecco-jcc/jjaa061
+Manuscript Doi: ./ecco-jcc/jjaa
 
 

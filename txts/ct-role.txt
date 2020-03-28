@@ -1,10 +1,10 @@
 Correspondence
 
 A role for CT in
-COVID-19? What data
+COVID-? What data
 really tell us so far
 Radiologists have watched the
-coronavirus disease 2019 (COVID-19)
+coronavirus disease  (COVID-)
 pandemic unfold, wondering if and
 how imaging could be useful for
 diagnosis. Perhaps imaging could aid
@@ -12,37 +12,37 @@ in screening or accelerate the speed of
 diagnosis, especially with shortages of
 RT-PCR.
 Some radiology literature suggests
-a pivotal role for CT. Ai and colleagues1
-report on 1014 patients who received
+a pivotal role for CT. Ai and colleagues
+report on  patients who received
 both RT-PCR and CT in Wuhan, China,
 during their epidemic. They found
-that 97% of cases with RT-PCR-con­
+that % of cases with RT-PCR-con­
 firmed diagnoses had CT findings of
 pneumonia, and conclude, “CT imaging
 has high sensitivity for diagnosis of
-COVID-19”. Other investigators are
-less optimistic. Inui and colleagues2
-reviewed CT scans of 112 cases of
-RT-PCR-confirmed COVID-19 from the
+COVID-”. Other investigators are
+less optimistic. Inui and colleagues
+reviewed CT scans of  cases of
+RT-PCR-confirmed COVID- from the
 Diamond Princess cruise ship. Less than
-two-thirds (61%) of cases had lung
-opacities on CT; 20% of symptomatic
+two-thirds (%) of cases had lung
+opacities on CT; % of symptomatic
 patients had negative CTs.
 Although extremely valuable, these
 results should not be overstated.
 The CT findings studied (eg, groundglass opacity, consolidation) are not
-specific for COVID-19. Similar results
+specific for COVID-. Similar results
 would probably be found if CT were
 used during an influenza epidemic,
 for example. The positive predictive
 value of CT will be low unless disease
 prevalence is high, as we suspect it
 was in Wuhan. Their cohort includes
-“patients suspected of [COVID-19],”2
+“patients suspected of [COVID-],”
 presumably sick and possibly hos­
 pitalised, although details are not
 provided.
-RT-PCR to diagnose COVID-19
+RT-PCR to diagnose COVID-
 has some limitations: the test is not
 universally available, turnaround
 times can be lengthy, and reported
@@ -50,9 +50,9 @@ sensitivities vary. Nevertheless, it is the
 accepted standard and only positive
 in patients who are infected with
 severe acute respiratory syndrome
-coronavirus 2. CT findings in patients
+coronavirus . CT findings in patients
 
-with COVID-19, on the other hand, are
+with COVID-, on the other hand, are
 seen with numerous pathogens and
 in many non-infectious aetiologies.
 We believe CT does not add diagnostic
@@ -61,39 +61,39 @@ believed if the pre-test probability of
 disease is high. Using CT diagnostically
 is not known to provide clinical benefit
 and could lead to false security if
-results are negative. If COVID-19 is
+results are negative. If COVID- is
 suspected, patients should be isolated
 pending confirmation with (multiple)
 RT-PCR tests, or until quarantine has
 lapsed. The results of a CT scan do not
 change this.
 We feel that framing CT as pivotal
-for COVID-19 diagnosis is a distraction
+for COVID- diagnosis is a distraction
 during a pandemic, and possibly
 dangerous. Safely using CT to study
-COVID-19 patients is logistically
+COVID- patients is logistically
 challenging and can overwhelm
 available resources. Even with
 proper cleaning protocols, healthcare professionals and CT scanners
 could become vectors of infection
 to other vulnerable patients who
 require imaging. We urge caution and
-encourage using published guidelines3
+encourage using published guidelines
 regarding use of CT imaging.
 
-3	
+	
 
 American College of Radiology.
 ACR recommendations for the use of chest
 radiography and computed tomography (CT)
-for suspected COVID-19 infection.
-March 11, 2020. https://www.acr.org/
-Advocacy-and-Economics/ACR-PositionStatements/Recommendations-for-ChestRadiography-and-CT-for-Suspected-COVID19Infection (accessed March 23, 2020).
+for suspected COVID- infection.
+March , . https://www.acr.org/
+Advocacy-and-Economics/ACR-PositionStatements/Recommendations-for-ChestRadiography-and-CT-for-Suspected-COVIDInfection (accessed March , ).
 
 Published Online
-March 26, 2020
-https://doi.org/10.1016/
-S0140-6736(20)30728-5
+March , 
+https://doi.org/./
+S-()-
 
 We declare no competing interests.
 
@@ -108,7 +108,7 @@ See Online for appendix
 
 Department of Radiology and Biomedical Imaging,
 University of California San Francisco, San Francisco,
-CA 94143, USA (MDH, TSH); Department of
+CA , USA (MDH, TSH); Department of
 Radiology, San Francisco Veterans Affairs Medical
 Center, San Francisco, CA, USA (MDH); Mallinckrodt
 Institute of Radiology, Washington University
@@ -118,23 +118,23 @@ of Medicine at Hofstra/Northwell, Manhasset, NY,
 USA (AS); and Department of Radiology, Brigham
 and Women’s Hospital, Harvard Medical School,
 Boston, MA, USA (MMH)
-1	
+	
 
-2	
+	
 
 Ai T, Yang Z, Hou H, et al. Correlation of chest
 CT and RT-PCR testing in coronavirus disease
-2019 (COVID-19) in China: a report of
-1014 cases. Radiology 2020; published online
-Feb 26. DOI:10.1148/radiol.2020200642.
+ (COVID-) in China: a report of
+ cases. Radiology ; published online
+Feb . DOI:./radiol..
 Inui S, Fukikawa A, Jitsu M, et al. Chest CT
 findings in cases from the cruise ship
 “Diamond Princess” with coronavirus disease
-2019 (COVID-19). Radiology: Cardiothoracic
-Imaging 2020; published online March 17.
-DOI:10.1148/ryct.2020200110.
+ (COVID-). Radiology: Cardiothoracic
+Imaging ; published online March .
+DOI:./ryct..
 
-www.thelancet.com Published online March 26, 2020 https://doi.org/10.1016/S0140-6736(20)30728-5	
+www.thelancet.com Published online March ,  https://doi.org/./S-()-	
 
 Submissions should be
 made via our electronic
@@ -142,6 +142,6 @@ submission system at
 http://ees.elsevier.com/
 thelancet/
 
-1
+
 
 

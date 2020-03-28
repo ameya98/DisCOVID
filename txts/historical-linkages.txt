@@ -30,19 +30,19 @@ spread by the free travel of colonised populations drove
 the colonial administrators in Ceylon (now Sri Lanka) to
 prophesise the potential collapse of the tea industry—and by
 extension their entire colony. Because trade with Europe was
-so crucial to the colony, in the late 19th century the colonial
+so crucial to the colony, in the late th century the colonial
 administrators endeavoured to sacrifice all trade with India
 rather than risk the threat of plague arriving with migrant
 workers from the subcontinent. In one letter between colonial
 administrators, it was suggested, in a derogatory way, that if
 even a single person from India or east Asia entered Ceylon
 
-www.thelancet.com Published online March 27, 2020 https://doi.org/10.1016/S0140-6736(20)30737-6	
+www.thelancet.com Published online March ,  https://doi.org/./S-()-	
 
 Published Online
-March 27, 2020
-https://doi.org/10.1016/
-S0140-6736(20)30737-6
+March , 
+https://doi.org/./
+S-()-
 
 Reuters/Lucas Jackson
 
@@ -55,7 +55,7 @@ infectious diseases reveals a particular focus on controls that
 have protected North American and European interests.
 In the past months, there have been xenophobic attacks
 on people of Asian descent connected to coronavirus disease
-2019 (COVID-19) and precipitous losses in global stock
+ (COVID-) and precipitous losses in global stock
 exchanges and risk of recession. Most reports have treated
 these as separate phenomena: considering one to be a
 cultural consequence of epidemic fears run rampant and the
@@ -64,17 +64,17 @@ one pauses to consider the history of the global management
 of pandemic disease threats, epidemics and global commerce
 have been inextricably related. Part of this history is the role
 of xenophobic responses to infectious disease threats. The
-xenophobia that has occurred in relation to the COVID-19
+xenophobia that has occurred in relation to the COVID-
 pandemic can be situated in a longer history that dates
-back to 19th-century epidemics and the first international
+back to th-century epidemics and the first international
 conventions on controlling the spread of infectious diseases.
 While quarantine, cordon sanitaire, and other social
-distancing practices date back to 14th-century Europe and
-earlier, by the 19th century the spread of epidemic diseases
+distancing practices date back to th-century Europe and
+earlier, by the th century the spread of epidemic diseases
 emerged as a problem that required an international,
 coordinated response. European colonial expansion brought
 smallpox and other diseases to the Americas and Africa
-from the time of Columbus to the 1800s. These epidemics
+from the time of Columbus to the s. These epidemics
 wrought widespread devastation for Indigenous peoples.
 Simultaneously, Europeans encountered new diseases in the
 tropics. Colonisation brought a particular encounter with
@@ -82,7 +82,7 @@ diseases capable of harming Europeans. The Napoleonic Wars
 were global in nature and also revealed the vulnerability of
 European powers to diseases emerging from their colonial
 domains, and the capacity of these diseases to emerge in
-Europe. By the end of the 18th century, however, the preexisting forms of ad-hoc and uncoordinated quarantine of
+Europe. By the end of the th century, however, the preexisting forms of ad-hoc and uncoordinated quarantine of
 ships at port by European powers was being tested, especially
 in the Mediterranean. Epidemics of plague and cholera that
 would claim hundreds of thousands of lives in Europe—while
@@ -91,12 +91,12 @@ But quarantines were costly, and were also an effective tactic
 for imposing trade tariffs and enacting trade wars under the
 guise of public health. A new system was needed to better
 manage the spread of infectious disease.
-From 1851 to 1938, 14 conferences were held to
+From  to ,  conferences were held to
 standardise international regulations for the establishment
 of quarantine and the sanitary management of plague,
-cholera, and yellow fever. In 1892, the first International
+cholera, and yellow fever. In , the first International
 
-1
+
 
 Perspectives
 
@@ -104,59 +104,59 @@ Further reading
 Campbell L. Chinese in UK report
 “shocking” levels of racism after
 coronavirus outbreak.
-The Guardian, Feb 9, 2020
+The Guardian, Feb , 
 Tavernise S, Oppel Jr RA. Spit on,
 yelled at, attacked: ChineseAmericans fear for their safety.
 The New York Times,
-March 23, 2020
+March , 
 West Ridgeway J. Letter to the
 Secretary of State for the
 Colonies, The Right Honorable
 Joseph Chamberlain M P from
 Ceylon Governor
 Joseph West Ridgeway.
-Dec 7, 1898, 65, FO 83/1691,
+Dec , , , FO /,
 British National Archives at Kew
 Winslow C-EA. International
 Organization for Health.
-Jan 23, 1945, 2,
-R6150/8A/42169/41755,
+Jan , , ,
+R/A//,
 League of Nations Archive
 Risse GB. Plague, fear, and politics
 in San Francisco’s Chinatown.
 Baltimore: The Johns Hopkins
-University Press, 2012
+University Press, 
 Mohr JC. Plague and fire: battling
-black death and the 1900 burning
+black death and the  burning
 of Honolulu’s Chinatown.
 New York and Oxford: Oxford
-University Press, 2006
+University Press, 
 Harrison M. Contagion:
 how commerce has spread
 disease. New Haven:
-Yale University Press, 2013
+Yale University Press, 
 Harrison M. Quarantine,
 pilgrimage, and colonial trade:
-India 1866–1900.
-Indian Econ Soc Hist Rev 1992;
-29: 117–44
+India –.
+Indian Econ Soc Hist Rev ;
+: –
 White AIR. Global risks, divergent
 pandemics: contrasting
 responses to bubonic plague and
-smallpox in 1901 Cape Town.
-Soc Sci Hist 2018; 42: 135–58
+smallpox in  Cape Town.
+Soc Sci Hist ; : –
 King NB. Security, disease,
 commerce: ideologies of
 postcolonial global health.
-Soc Stud Sci 2002; 32: 763–89
+Soc Stud Sci ; : –
 Hoffman SJ. The evolution,
 etiology and eventualities of the
 global health security regime.
-Health Pol Plann 2010; 25: 510–22
+Health Pol Plann ; : –
 Lakoff A. Two regimes of global
 health. Humanity Int J Human
 Rights Humanitarian Develop
-2010; 1: 59–79
+; : –
 Taylor RC. The politics of securing
 borders and the identities of
 disease. In: Dingwall R,
@@ -164,9 +164,9 @@ Hoffman LM, Staniland K, eds.
 Pandemics and emerging
 infectious diseases. Oxford:
 John Wiley & Sons, Ltd,
-2013: 72–84
+: –
 
-2	
+	
 
 without being exposed to sanitary surveillance “there would
 have been great peril to the Colony for these Coolies being
@@ -176,7 +176,7 @@ Such xenophobic sentiments were shared elsewhere.
 The heightened scrutiny and bias against non-Europeans
 who were blamed for spreading disease have historically
 resulted in aggressive racist and xenophobic responses
-carried out in the name of health controls. In 1901 in
+carried out in the name of health controls. In  in
 Cape Town, South Africa, an epidemic of bubonic plague
 resulted in the quarantine and forced removal of most of
 the city’s black African population to a racially segregated
@@ -185,8 +185,8 @@ viewed as part of the blueprint for future forced removals
 and a precursor to racially segregated South African
 townships before and during Apartheid.
 Similar scrutiny was a feature of the policing of the Hajj.
-Under the International Sanitary Conventions from 1892 to
-1938, Muslim pilgrims travelling from India were perceived
+Under the International Sanitary Conventions from  to
+, Muslim pilgrims travelling from India were perceived
 in Europe as a threat because of their potential to meet
 and spread disease to European Muslims during the Hajj,
 who would then return to Europe by passage through
@@ -202,7 +202,7 @@ USA has a history of anti-Chinese sentiment in response
 to epidemics. Historian James Mohr has described how in
 Honolulu, doctors, colonial administrators, and the general
 US colonial population lamented the outbreak of bubonic
-plague in 1900 because it prompted fears that the city would
+plague in  because it prompted fears that the city would
 become associated with Asia, where plague was then present.
 As plague spread in Honolulu and countries around the
 world closed their borders or quarantined all vessels arriving
@@ -218,12 +218,12 @@ quarantine. Ultimately, the public health authorities burned
 contaminated buildings, but fires spread beyond their
 control and consumed most of Chinatown in flames. Similar
 anti-Chinese responses occurred in San Francisco during
-the plague epidemic of 1900–04, when Chinese-specific
+the plague epidemic of –, when Chinese-specific
 quarantines were enacted.
 My own research suggests that the concern for the trading
 relationships central to US economic growth were pivotal
 
-to US Congress endorsing the creation of WHO. In a 1945
+to US Congress endorsing the creation of WHO. In a 
 report accompanying the resolution that ultimately heralded
 US support for WHO, it stated that: “Particularly in our
 shrinking world, the spread of disease via airplane or other
@@ -232,15 +232,15 @@ present danger. Thus to protect ourselves that we must help
 wipe out disease everywhere…The records of our export trade
 show that countries with relatively high living standards buy
 most of our goods. If the rest of the world continues in illhealth and abject poverty our own economy will suffer.”
-In 1948, the UN and World Health Assembly transferred
+In , the UN and World Health Assembly transferred
 responsibility for the International Sanitary Conventions to
 WHO in its charter. The International Sanitary Conventions
 were reformed and ultimately renamed under WHO to
-the International Health Regulations in 1969, which
-were revised to their current form in 2005. More recently,
+the International Health Regulations in , which
+were revised to their current form in . More recently,
 nations have aligned infectious disease control policy
 alongside concerns for national security.
-In the current pandemic of COVID-19, we also see the
+In the current pandemic of COVID-, we also see the
 links between epidemic risk, xenophobic responses, and the
 global economy. Verbal and physical attacks on people of
 Asian descent and descriptions of the disease as “the Chinese
@@ -251,14 +251,14 @@ markets and distinct drops in share prices in European and
 US financial markets. What was once an initial economic
 concern for global trade as it related to China has now had
 effects on all scales of the economy from small businesses to
-the Fortune 500 and potentially on a scale we have not seen
-since the worst financial crises of the 20th century.
+the Fortune  and potentially on a scale we have not seen
+since the worst financial crises of the th century.
 When we think about the framing of disease threats, we
 must recognise that the history of international infectious
 disease control has largely been shaped by a distinctly
 European perspective, prioritising epidemic threats that
 arose from colonial (or now post-colonial) sites that
-threatened to spread disease and affect trade. COVID-19
+threatened to spread disease and affect trade. COVID-
 is a serious and dangerous pandemic, but we must ask
 ourselves who our responses are designed to protect
 and who are they meant to vilify? In a pandemic, the
@@ -274,9 +274,9 @@ with no basis in public health or facts.
 Alexandre I R White
 Center for Medical Humanities and Social Medicine, Johns Hopkins
 University and Johns Hopkins School of Medicine, Baltimore,
-MD 21205–2113, USA
+MD –, USA
 alexandrewhite@jhu.edu
 
-www.thelancet.com Published online March 27, 2020 https://doi.org/10.1016/S0140-6736(20)30737-6
+www.thelancet.com Published online March ,  https://doi.org/./S-()-
 
 

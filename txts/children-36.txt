@@ -1,86 +1,86 @@
 Articles
 
-Clinical and epidemiological features of 36 children with
-coronavirus disease 2019 (COVID-19) in Zhejiang, China:
+Clinical and epidemiological features of  children with
+coronavirus disease  (COVID-) in Zhejiang, China:
 an observational cohort study
 Haiyan Qiu*, Junhua Wu*, Liang Hong, Yunling Luo, Qifa Song, Dong Chen
 
 Summary
 
-Background Since December, 2019, an outbreak of coronavirus disease 2019 (COVID-19) has spread globally. Little is
-known about the epidemiological and clinical features of paediatric patients with COVID-19.
-Methods We retrospectively retrieved data for paediatric patients (aged 0–16 years) with confirmed COVID-19 from
+Background Since December, , an outbreak of coronavirus disease  (COVID-) has spread globally. Little is
+known about the epidemiological and clinical features of paediatric patients with COVID-.
+Methods We retrospectively retrieved data for paediatric patients (aged – years) with confirmed COVID- from
 electronic medical records in three hospitals in Zhejiang, China. We recorded patients’ epidemiological and clinical
 features.
-Findings From Jan 17 to March 1, 2020, 36 children (mean age 8·3 [SD 3·5] years) were identified to be infected with
-severe acute respiratory syndrome coronavirus 2. The route of transmission was by close contact with family members
-(32 [89%]) or a history of exposure to the epidemic area (12 [33%]); eight (22%) patients had both exposures. 19 (53%)
-patients had moderate clinical type with pneumonia; 17 (47%) had mild clinical type and either were asymptomatic
-(ten [28%]) or had acute upper respiratory symptoms (seven [19%]). Common symptoms on admission were fever
-(13 [36%]) and dry cough (seven [19%]). Of those with fever, four (11%) had a body temperature of 38·5°C or higher,
-and nine (25%) had a body temperature of 37·5–38·5°C. Typical abnormal laboratory findings were elevated creatine
-kinase MB (11 [31%]), decreased lymphocytes (11 [31%]), leucopenia (seven [19%]), and elevated procalcitonin
-(six [17%]). Besides radiographic presentations, variables that were associated significantly with severity of COVID-19
+Findings From Jan  to March , ,  children (mean age · [SD ·] years) were identified to be infected with
+severe acute respiratory syndrome coronavirus . The route of transmission was by close contact with family members
+( [%]) or a history of exposure to the epidemic area ( [%]); eight (%) patients had both exposures.  (%)
+patients had moderate clinical type with pneumonia;  (%) had mild clinical type and either were asymptomatic
+(ten [%]) or had acute upper respiratory symptoms (seven [%]). Common symptoms on admission were fever
+( [%]) and dry cough (seven [%]). Of those with fever, four (%) had a body temperature of ·°C or higher,
+and nine (%) had a body temperature of ·–·°C. Typical abnormal laboratory findings were elevated creatine
+kinase MB ( [%]), decreased lymphocytes ( [%]), leucopenia (seven [%]), and elevated procalcitonin
+(six [%]). Besides radiographic presentations, variables that were associated significantly with severity of COVID-
 were decreased lymphocytes, elevated body temperature, and high levels of procalcitonin, D-dimer, and creatine
-kinase MB. All children received interferon alfa by aerosolisation twice a day, 14 (39%) received lopinavir–ritonavir
-syrup twice a day, and six (17%) needed oxygen inhalation. Mean time in hospital was 14 (SD 3) days. By Feb 28, 2020,
+kinase MB. All children received interferon alfa by aerosolisation twice a day,  (%) received lopinavir–ritonavir
+syrup twice a day, and six (%) needed oxygen inhalation. Mean time in hospital was  (SD ) days. By Feb , ,
 all patients were cured.
-Interpretation Although all paediatric patients in our cohort had mild or moderate type of COVID-19, the large
+Interpretation Although all paediatric patients in our cohort had mild or moderate type of COVID-, the large
 proportion of asymptomatic children indicates the difficulty in identifying paediatric patients who do not have clear
 epidemiological information, leading to a dangerous situation in community-acquired infections.
 Funding Ningbo Clinical Research Center for Children’s Health and Diseases, Ningbo Reproductive Medicine Centre,
 and Key Scientific and Technological Innovation Projects of Wenzhou.
-Copyright © 2020 Elsevier Ltd. All rights reserved.
+Copyright ©  Elsevier Ltd. All rights reserved.
 
 Introduction
 Coronaviruses are non-segmented positive-stranded
-RNA viruses with a roughly 30 kb genome surrounded
+RNA viruses with a roughly  kb genome surrounded
 by a protein envelope. Most coronaviruses cause diseases
-in their particular host species;1 those that can infect
+in their particular host species; those that can infect
 humans through cross-species transmission have
 become an important threat to public health. Two serious
 coronavirus disease outbreaks have happened in the past
 two decades: severe acute respiratory syndrome (SARS)
-in 2003,2 and Middle East respiratory syndrome (MERS)
-in 2012.3
-Since December, 2019, severe acute respiratory syn­
-drome coronavirus 2 (SARS-CoV-2) has been recognised
+in , and Middle East respiratory syndrome (MERS)
+in .
+Since December, , severe acute respiratory syn­
+drome coronavirus  (SARS-CoV-) has been recognised
 as the causal factor in a series of severe cases of
 pneumonia originating in Wuhan in Hubei province,
-China.4 This disease has been named coronavirus disease
-2019 (COVID-19) by WHO. SARS-CoV-2 has been shown
+China. This disease has been named coronavirus disease
+ (COVID-) by WHO. SARS-CoV- has been shown
 to cause disease via a mechanism analogous to the SARS
 
 coronavirus, with potential damage to vital organs such
 as lung, heart, liver, and kidney, and infection poses a
 considerable risk to patients by the high prevalence of
-pneumonia.5 By March 1, 2020, SARS-CoV-2 had led
-to 80 
-981 confirmed cases of COVID-19 in China,
-and 44 067 cases in 117 countries.6 A cohort study of
-44 672 Chinese cases reported that 2·1% of patients were
-younger than 20 years, and 1·2% were asymptomatic.7
+pneumonia. By March , , SARS-CoV- had led
+to  
+ confirmed cases of COVID- in China,
+and   cases in  countries. A cohort study of
+  Chinese cases reported that ·% of patients were
+younger than  years, and ·% were asymptomatic.
 Pneumonia is the leading cause of mortality in
-children.8 Distinct immunological responses to viral
+children. Distinct immunological responses to viral
 infections can exist in children and result in severe
-damage to vital organs.9 Although short-to-medium-term
+damage to vital organs. Although short-to-medium-term
 outcomes for children who recovered from SARS seemed
 good, the disease caused exercise impairment after more
-than 6 months.10 A comprehensive literature search
-indicated that MERS was rare in children (31 cases
-identified between 2012 and 2016),11 because transmission
+than  months. A comprehensive literature search
+indicated that MERS was rare in children ( cases
+identified between  and ), because transmission
 depends heavily on animal exposure and direct contact
 
-www.thelancet.com/infection Published online March 25, 2020 https://doi.org/10.1016/S1473-3099(20)30198-5	
+www.thelancet.com/infection Published online March ,  https://doi.org/./S-()-	
 
-Lancet Infect Dis 2020
+Lancet Infect Dis 
 Published Online
-March 25, 2020
-https://doi.org/10.1016/
-S1473-3099(20)30198-5
+March , 
+https://doi.org/./
+S-()-
 See Online/Comment
-https://doi.org/10.1016/
-S1473-3099(20)30236-X
+https://doi.org/./
+S-()-X
 For the Chinese translation of
 the abstract see Online for
 appendix
@@ -109,7 +109,7 @@ Correspondence to:
 Prof Qifa Song, Department of
 Microbiology, Ningbo Municipal
 Centre for Disease Control and
-Prevention, Ningbo 315010,
+Prevention, Ningbo ,
 Zhejiang, China
 songqf@nbcdc.org.cn
 or
@@ -117,58 +117,58 @@ Prof Dong Chen, Department of
 Infectious Diseases, Wenzhou
 Central Hospital and Sixth
 People’s Hospital of Wenzhou,
-Wenzhou 325000,
+Wenzhou ,
 Zhejiang, China
-chendong_wz@126.com
+chendong_wz@.com
 
-1
+
 
 Articles
 
 Research in context
 Evidence before this study
-We searched PubMed from Nov 1, 2019, to March 1, 2020, for
-studies published in any language using the terms “COVID-19”,
-“coronavirus disease 2019”, “novel coronavirus”, “pediatric
+We searched PubMed from Nov , , to March , , for
+studies published in any language using the terms “COVID-”,
+“coronavirus disease ”, “novel coronavirus”, “pediatric
 patients”, “children”, “transmission”, “clinical feature”,
-and “epidemiological features”. We found 13 studies about
-coronavirus disease 2019 (COVID-19) in children. These studies
+and “epidemiological features”. We found  studies about
+coronavirus disease  (COVID-) in children. These studies
 were related to treatment recommendations, CT features in
-15 children, case reports, and COVID-19 in infants. To our
+ children, case reports, and COVID- in infants. To our
 knowledge, no study has been done to comprehensively
-investigate a cohort of paediatric patients with COVID-19 and
+investigate a cohort of paediatric patients with COVID- and
 their distinctive clinical features. Published work about adult
 patients has shown that manifestations vary strikingly by
 individual. Since children are different from adults in many
 aspects, such as immunological development, we aimed to
 investigate the clinical and epidemiological features of
-paediatric patients with COVID-19.
+paediatric patients with COVID-.
 Added value of this study
-Between Jan 17 and March 1, 2020, 661 cases of COVID-19 were
+Between Jan  and March , ,  cases of COVID- were
 reported in Ningbo and Wenzhou (Zhejiang province, China).
-Of these cases, 36 were in children. All children with COVID-19
+Of these cases,  were in children. All children with COVID-
 
 in the household or health-care facilities. Collectively,
 these two coronavirus diseases did not widely affect
 children because of the short-term epidemic of SARS
 and the strict transmission route of MERS. In a study of
-15 children with COVID-19 (aged 4–14 years), six patients
-had small nodular ground-glass opacities in the lungs.12
-At the time of the COVID-19 outbreak, all schools were
+ children with COVID- (aged – years), six patients
+had small nodular ground-glass opacities in the lungs.
+At the time of the COVID- outbreak, all schools were
 on the spring festival holiday, which might have
 prevented children from exposure to transmission
 sources. However, the school community is a place that
 can enhance rapid spread of the highly infectious
-SARS-CoV-2.
+SARS-CoV-.
 Ningbo and Wenzhou are two cities in Zhejiang
-province, located 900 km east of Wuhan. On Jan 17, 2020,
-the first COVID-19 case was reported in Wenzhou. Up to
-March 1, 2020, 661 cases of COVID-19 had been reported
-in Ningbo and Wenzhou, of which 36 were in children.
+province, located  km east of Wuhan. On Jan , ,
+the first COVID- case was reported in Wenzhou. Up to
+March , ,  cases of COVID- had been reported
+in Ningbo and Wenzhou, of which  were in children.
 We aimed to describe the epidemiological and clinical
 features of these paediatric patients, information that is
 urgently needed for prevention and treatment of
-COVID-19 in children.
+COVID- in children.
 
 Methods
 
@@ -178,45 +178,45 @@ Zhejiang province, China (Ningbo Women and Children’s
 Hospital, The Third Affiliated Hospital of Wenzhou
 Medical University, and Wenzhou Central Hospital of
 Wenzhou). We included all paediatric patients (aged
-0–16 years) with laboratory confirmed COVID-19. The
-diagnosis of COVID-19 was based on guidelines issued by
+– years) with laboratory confirmed COVID-. The
+diagnosis of COVID- was based on guidelines issued by
 the National Health Commission of the People’s Republic
-2	
+	
 
 had been infected either by close contact with adults infected
-with severe acute respiratory syndrome coronavirus 2
-(SARS-CoV-2) or by exposure to the epidemic area. Although
+with severe acute respiratory syndrome coronavirus 
+(SARS-CoV-) or by exposure to the epidemic area. Although
 fever, cough, and pneumonia were the most common signs,
 about half the children had mild disease with no presenting
-symptoms. Fewer children with COVID-19 had obvious
-symptoms compared with adult patients with COVID-19 and
-paediatric patients with H1N1 influenza described in previous
+symptoms. Fewer children with COVID- had obvious
+symptoms compared with adult patients with COVID- and
+paediatric patients with HN influenza described in previous
 studies.
 Implications of all the available evidence
-By contrast with findings in adults, children with COVID-19 had
+By contrast with findings in adults, children with COVID- had
 milder clinical manifestations; nearly half of paediatric
 patients were asymptomatic (ie, no fever and no cough).
 This asymptomatic condition is relevant if community-acquired
 transmission becomes the primary mode; identification of
 paediatric patients without presenting symptoms will become a
 great challenge. Fortunately, the number of children infected with
-SARS-CoV-2 accounted for a small proportion of total people
+SARS-CoV- accounted for a small proportion of total people
 infected, and paediatric patients also had clear epidemiological
 information. Devising measures to protect children from
-infection with SARS-CoV-2 is very important.
+infection with SARS-CoV- is very important.
 
-of China.13 We screened all patients who had cough, fever,
+of China. We screened all patients who had cough, fever,
 and radiographic presentation at the initial assessment, or
 who underwent epidemiological investigation because of a
 history of exposure to epidemic areas or close contact
-with an infected individual. We confirmed SARS-CoV-2
+with an infected individual. We confirmed SARS-CoV-
 infection by RT-PCR of samples taken from upper naso­
 pharyngeal swabs. Epide­
 miological investigation was
 focused on the route of transmission, and we assessed
 travel history, residence in epidemic areas, and close
-contact with patients with confirmed COVID-19 within
-14 days.
+contact with patients with confirmed COVID- within
+ days.
 This study was approved by the ethics committee of
 Ningbo Women and Children’s Hospital and followed the
 Declaration of Helsinki. Written consent was obtained
@@ -224,45 +224,45 @@ from the guardians of the patients.
 
 Procedures
 Sample collection, RT-PCR, and interpretation of results
-was done as previously described.14 Two sets of primers
-were used for two target genes (ie, open reading frame 1ab
-[ORF1ab] and nucleocapsid protein [N]) according to the
+was done as previously described. Two sets of primers
+were used for two target genes (ie, open reading frame ab
+[ORFab] and nucleocapsid protein [N]) according to the
 protocol issued by the National Institute for Viral Disease
-Control and Prevention in China (panel 1).15
+Control and Prevention in China (panel ).
 On admission, patients were assessed for clinical
 type, according to guidelines for scoring paediatric
-patients with COVID-19 (recommendations issued by the
+patients with COVID- (recommendations issued by the
 paediatrics branch of the Chinese Medical Association;
-panel 2).16 The therapeutic principles included general
+panel ). The therapeutic principles included general
 support therapy; monitoring of lung, liver, kidney, and
 myocardial functions; active control over high fever;
 oxygen uptake if necessary; and antiviral treatment
 with interferon alfa and lopinavir–ritonavir. Treatment
 
-www.thelancet.com/infection Published online March 25, 2020 https://doi.org/10.1016/S1473-3099(20)30198-5
+www.thelancet.com/infection Published online March ,  https://doi.org/./S-()-
 
 Articles
 
 Total
-(n=36)
+(n=)
 
-Panel 1: Primers for targets
-Target 1: open reading frame 1ab (ORF1ab)
+Panel : Primers for targets
+Target : open reading frame ab (ORFab)
 Forward primer: CCCTGTGGGTTTTACACTTAA
 Reverse primer: ACGATTGTGCATCAGCTGA
-Probe: 5ʹ-VIC-CCGTCTGCGGTATGTGGAAAGGTTATGG-BHQ1-3ʹ
-Target 2: nucleocapsid protein (N)
+Probe: ʹ-VIC-CCGTCTGCGGTATGTGGAAAGGTTATGG-BHQ-ʹ
+Target : nucleocapsid protein (N)
 Forward primer: GGGGAACTTCTCCTGCTAGAAT
 Reverse primer: CAGACATTTTGCTCTCAAGCTG
-Probe: 5ʹ-FAM-TTGCTGCTGCTTGACAGATT-TAMRA-3ʹ
+Probe: ʹ-FAM-TTGCTGCTGCTTGACAGATT-TAMRA-ʹ
 
-Panel 2: Definitions of clinical types of COVID-19 in
+Panel : Definitions of clinical types of COVID- in
 paediatric patients
 Mild disease
 •	 Upper respiratory symptoms (eg, pharyngeal congestion,
 sore throat, and fever) for a short duration or
 asymptomatic infection
-•	 Positive RT-PCR test for SARS-CoV-2
+•	 Positive RT-PCR test for SARS-CoV-
 •	 No abnormal radiographic and septic presentation
 Moderate disease
 •	 Mild pneumonia
@@ -273,8 +273,8 @@ conditions
 Severe disease
 Mild or moderate clinical features, plus any manifestations
 that suggest disease progression:
-•	 Rapid breath (≥70 breaths per min for infants aged
-<1 year; ≥50 breaths per min for children aged >1 year)
+•	 Rapid breath (≥ breaths per min for infants aged
+< year; ≥ breaths per min for children aged > year)
 •	Hypoxia
 •	 Lack of consciousness, depression, coma, convulsions
 •	 Dehydration, difficulty feeding, gastrointestinal dysfunction
@@ -289,395 +289,395 @@ Rapid disease progression, plus any other conditions:
 inhalation through nasal catheters or masks)
 •	 Septic shock
 •	 Organ failure that needs monitoring in the ICU
-COVID-19=coronavirus disease 2019. SARS-CoV-2=severe acute respiratory syndrome
-coronavirus 2. ARDS=acute respiratory distress syndrome. ICU=intensive care unit.
+COVID-=coronavirus disease . SARS-CoV-=severe acute respiratory syndrome
+coronavirus . ARDS=acute respiratory distress syndrome. ICU=intensive care unit.
 
 outcomes were defined as improved, cured, and failed.
 Improved outcome referred to the end of fever and
 improve­­
 ment in pneumonia (via CT scan) and im­
 provement in upper respiratory manifestations. Cured
-outcome referred to normal body temperature for 3 days,
+outcome referred to normal body temperature for  days,
 
 Mild cases
-(n=17)
+(n=)
 
 Moderate cases
-(n=19)
+(n=)
 
 p value*
 
 Epidemiological data
 Female patients
 
-13 (36%)
+ (%)
 
-7 (41%)
+ (%)
 
-6 (32%)
+ (%)
 
 Male patients
 
-23 (64%)
+ (%)
 
-10 (59%)
+ (%)
 
-13 (68%)
+ (%)
 
 Age, years (SD, range)
-Age ≤5 years
+Age ≤ years
 
-8·3 (3·5, 1–16)
+· (·, –)
 
-7·5 (3·2, 1–16)
+· (·, –)
 
-9·0 (3·6, 3–16)
+· (·, –)
 
-0·70
+·
 ··
-0·099
+·
 
-10 (28%)
+ (%)
 
-8 (80%)
+ (%)
 
-2 (20%)
+ (%)
 
 ··
 
 History of exposure to epidemic area
 
-12 (33%)
+ (%)
 
-5 (29%)
+ (%)
 
-7 (37%)
+ (%)
 
-0·70
+·
 
-Family members with COVID-19
+Family members with COVID-
 
-32 (89%)
+ (%)
 
-16 (94%)
+ (%)
 
-16 (84%)
+ (%)
 
-0·60
+·
 
 Dry cough
 
-7 (19%)
+ (%)
 
-3 (18%)
+ (%)
 
-4 (21%)
+ (%)
 
 ··
 
 Dyspnoea or tachypnoea
 
-1 (3%)
+ (%)
 
-1 (5%)
+ (%)
 
 ··
 
 Pharyngeal congestion
 
-1 (3%)
+ (%)
 
-1 (6%)
+ (%)
 
 Sore throat
 
-2 (6%)
+ (%)
 
-1 (6%)
+ (%)
 
 Symptoms
 ··
 
 ··
-1 (5%)
+ (%)
 
 Vomiting or diarrhoea
 
-2 (6%)
+ (%)
 
 Body temperature, °C
 
-37·8 (0·4)
+· (·)
 
-37·6 (0·3)
+· (·)
 
-38·0 (0·4)
+· (·)
 
-13 (36%)
+ (%)
 
-4 (24%)
+ (%)
 
-9 (47%)
-
-··
-
-3 (8%)
-
-1 (6%)
-
-2 (10%)
+ (%)
 
 ··
 
-6·1 (2·1)
+ (%)
 
-6·5 (2·3)
+ (%)
 
-5·8 (1·9)
+ (%)
 
-0·32
+··
 
-7
+· (·)
 
-2
+· (·)
 
-5
+· (·)
 
-2·4 (0·8)
+·
 
-2·8 (1·0)
 
-2·0 (0·7)
 
-Fever (body temperature >37°C)
+
+
+
+
+· (·)
+
+· (·)
+
+· (·)
+
+Fever (body temperature >°C)
 Headache
 
 ··
 
-2 (10%)
+ (%)
 
 ··
 ··
 ··
-0·0020
+·
 
 Laboratory tests (reference values)
-White blood cells (4–10 × 10⁹ cells per L)
+White blood cells (– × ⁹ cells per L)
 Decreased (n)
-Lymphocytes (1·1–3·2 × 10⁹ cells per L)
+Lymphocytes (·–· × ⁹ cells per L)
 Decreased (n)
-Procalcitonin (<0·5 ng/mL)
+Procalcitonin (<· ng/mL)
 Increased (n)
-C-reactive protein (<8 mg/L)
+C-reactive protein (< mg/L)
 Increased (n)
-D-dimer (<0·5 μg/mL)
+D-dimer (<· μg/mL)
 Increased (n)
 Erythrocyte sedimentation rate
-(0–20 mm/h)
+(– mm/h)
 Increased (n)
-Creatine kinase (55–170 U/L)
+Creatine kinase (– U/L)
 Increased (n)
-Creatine kinase MB (<18 U/L)
+Creatine kinase MB (< U/L)
 Increased (n)
-Alanine aminotransferase (<40 U/L)
+Alanine aminotransferase (< U/L)
 Increased (n)
-Aspartate transferase (<40 U/L)
+Aspartate transferase (< U/L)
 Increased (n)
-Creatinine (40–110 µmol/L)
+Creatinine (– µmol/L)
 Increased (n)
-Blood urea nitrogen (3–7 mmol/L)
+Blood urea nitrogen (– mmol/L)
 Increased (n)
-Oxygen saturation (92–100%)
+Oxygen saturation (–%)
 Decreased (n)
 
-11
 
-2
 
-9
 
-0·15 (0·13)
 
-0·32 (0·19)
 
-6
 
-1
+· (·)
 
-5
+· (·)
 
-5 (2)
 
-4 (1)
 
-5 (2)
 
-1
 
-0
 
-1
 
-0·29 (0·20)
+ ()
 
-0·21 (0·18)
+ ()
 
-0·36 (0·21)
+ ()
 
-3
 
-1
 
-2
 
-7 (2)
 
-6 (2)
 
-7 (2)
 
-0·24 (0·17)
+· (·)
 
-0
-96 (47)
-1
-19 (10)
-11
-21 (14)
-2
-30 (11)
-3
-56 (12)
+· (·)
 
-0
+· (·)
 
-0
 
-80 (44)
 
-110 (56)
 
-0
 
-24 (12)
 
-4
 
-7
+ ()
 
-21 (12)
+ ()
 
-20 (13)
+ ()
 
-2
+· (·)
 
-0
 
-32 (10)
+ ()
 
-28 (11)
+ ()
 
-2
+ ()
 
-1
+ ()
 
-58 (11)
+ ()
 
-54 (13)
 
-0
 
-0
 
-3·8 (0·5)
 
-3·7 (0·4)
+ ()
 
-3·9 (0·5)
+ ()
 
-0
-0
 
-··
-0·0039
-··
-0·072
-··
-0·028
-··
-0·14
-··
-0·085
 
-1
+ ()
 
-14 (9)
 
-0
 
-98·1 (0·4)
+
+
+ ()
+
+ ()
+
+
+
+
+
+ ()
+
+ ()
+
+
+
+
+
+ ()
+
+ ()
+
+
+
+
+
+· (·)
+
+· (·)
+
+· (·)
+
+
+
 
 ··
-0·0083
-
-0
-
-0
-
-98·2 (0·3)
-
-98 (0·3)
-
-0
-
-0
-
-0·0084
+·
 ··
-0·82
+·
 ··
-0·26
+·
 ··
-0·32
+·
 ··
-0·20
+·
+
+
+
+ ()
+
+
+
+· (·)
+
 ··
-0·054
+·
+
+
+
+
+
+· (·)
+
+ (·)
+
+
+
+
+
+·
+··
+·
+··
+·
+··
+·
+··
+·
+··
+·
 ··
 
 Radiography
 Pulmonary ground-glass opacities
 
-19 (53%)
+ (%)
 
 ··
 
-19 (100%)
+ (%)
 
 ··
 
-(Table 1 continues on next page)
+(Table  continues on next page)
 
 plus improved outcomes and two negative results on
-RT-PCR for SARS-CoV-2. Failed outcome referred to
+RT-PCR for SARS-CoV-. Failed outcome referred to
 disease progression to critical illness or death. Patients
 who were discharged from hospital had to be quarantined
-for 2 weeks.
+for  weeks.
 
-www.thelancet.com/infection Published online March 25, 2020 https://doi.org/10.1016/S1473-3099(20)30198-5	
+www.thelancet.com/infection Published online March ,  https://doi.org/./S-()-	
 
-3
+
 
 Articles
 
 Total
-(n=36)
+(n=)
 
 Mild cases
-(n=17)
+(n=)
 
 Moderate cases
-(n=19)
+(n=)
 
 p value*
 
@@ -685,77 +685,77 @@ p value*
 Treatment
 Oxygen inhalation
 
-6 (17%)
+ (%)
 
-1 (6%)
+ (%)
 
-5 (26%)
+ (%)
 
 ··
 
 Interferon alfa
 
-36 (100%)
+ (%)
 
-17 (100%)
+ (%)
 
-19 (100%)
+ (%)
 
 ··
 
 Lopinavir–ritonavir
 
-14 (39%)
+ (%)
 
-2 (12%)
+ (%)
 
-12 (63%)
+ (%)
 
 ··
 
-Time taken to become SARS-CoV-2
+Time taken to become SARS-CoV-
 PCR-negative, days (SD, range)
 
-10 (2, 7–22)
+ (, –)
 
-9 (2, 7–12)
+ (, –)
 
-11 (2, 8–22)
+ (, –)
 
-3 (2, 2–5)
+ (, –)
 
-2 (2, 2–4)
+ (, –)
 
-3 (2, 2–5)
+ (, –)
 
-0·14
+·
 
-14 (3, 10–20)
+ (, –)
 
-12 (3, 10–16)
+ (, –)
 
-15 (4, 12–20)
+ (, –)
 
-0·017
+·
 
 Duration of fever after admission, days
 (SD, range)†
 Duration of hospitalisation, days
 (SD, range)
 
-0·0050
+·
 
-Data are n (%) or mean (SD), unless otherwise indicated. COVID-19=coronavirus disease 2019. SARS-CoV-2=severe
-acute respiratory syndrome coronavirus 2. *p values indicate the difference between paediatric patients with mild
+Data are n (%) or mean (SD), unless otherwise indicated. COVID-=coronavirus disease . SARS-CoV-=severe
+acute respiratory syndrome coronavirus . *p values indicate the difference between paediatric patients with mild
 clinical type (asymptomatic or upper respiratory infection) and those with moderate clinical type with pneumonia.
-†Data for 13 patients.
+†Data for  patients.
 
-Table 1: Epidemiological and clinical features of paediatric patients with COVID-19 stratified by
+Table : Epidemiological and clinical features of paediatric patients with COVID- stratified by
 two clinical types
 
-Figure 1: Chest CT scans from two paediatric patients with coronavirus disease 2019
-(Left) CT of 10-year-old boy showing multiple opacities in lower lobes of both lungs (arrow). (Right) CT of
-1·5-year-old girl showing multiple ground-glass opacities with a big patchy opacity in the right lung (arrows).
+Figure : Chest CT scans from two paediatric patients with coronavirus disease 
+(Left) CT of -year-old boy showing multiple opacities in lower lobes of both lungs (arrow). (Right) CT of
+·-year-old girl showing multiple ground-glass opacities with a big patchy opacity in the right lung (arrows).
 
 We obtained data retrospectively from electronic
 medical records, and these were reviewed by two trained
@@ -769,9 +769,9 @@ no­logical responses, and measurement of bio­markers for
 monitoring lung, liver, myocardial, and renal functions.
 We compared the prevalence of abnormal clinical indices
 of the paediatric patients with previously reported data
-for 175 adults with COVID-19 in Wenzhou,17 44 paediatric
-patients with SARS in Hong Kong,10,18 and 167 Chinese
-paediatric patients with H1N1 influenza.19
+for  adults with COVID- in Wenzhou,  paediatric
+patients with SARS in Hong Kong,, and  Chinese
+paediatric patients with HN influenza.
 
 Statistical analysis
 We presented continuous variables as mean (SD) and
@@ -780,13 +780,13 @@ of continuous variables between groups using inde­
 pendent group t tests when values were normally dis­
 tributed; otherwise, we used the Mann-Whitney U test.
 We compared proportions for categorical variables
-4	
+	
 
 bet­
 ween groups using Fisher’s exact test, because of
-limited numbers. We judged a two-sided α less than 0·05
+limited numbers. We judged a two-sided α less than ·
 statistically significant. All data analyses were done with
-SPSS version 20.
+SPSS version .
 
 Role of the funding source
 The funder had no role in study design, data collection,
@@ -796,495 +796,495 @@ the study and had final responsibility for the decision to
 submit for publication.
 
 Results
-Between Jan 17 and March 1, 2020, 661 COVID-19 cases
+Between Jan  and March , ,  COVID- cases
 were reported in Ningbo and Wenzhou in China; of these
-cases, 36 (5%) were in children (aged 1–16 years; mean
-age 8·3 [3·5] years). 13 (36%) of 36 patients were female
-(table 1). The route of transmission for paediatric patients
+cases,  (%) were in children (aged – years; mean
+age · [·] years).  (%) of  patients were female
+(table ). The route of transmission for paediatric patients
 was either by close contact with family members with
-COVID-19 (32 [89%]) or a history of exposure to epidemic
-areas (12 [33%]), or both (eight [22%]). 17 (47%) of
-36 children had mild clinical type, with ten (28%) patients
-asymptomatic and seven (19%) showing acute upper
-respiratory symptoms. The remaining 19 (53%) paediatric
+COVID- ( [%]) or a history of exposure to epidemic
+areas ( [%]), or both (eight [%]).  (%) of
+ children had mild clinical type, with ten (%) patients
+asymptomatic and seven (%) showing acute upper
+respiratory symptoms. The remaining  (%) paediatric
 patients had moderate clinical type, characteristic of mild
-pneumonia (table 1). No severe and critically ill cases were
+pneumonia (table ). No severe and critically ill cases were
 seen.
-On admission, frequent symptoms were fever (13 [36%])
-and dry cough (seven [19%]). Of 13 patients with fever,
-four (11%) had a body temperature of 38·5°C or higher
-and nine (25%) had a body temperature of 37·5–38·5°C.
+On admission, frequent symptoms were fever ( [%])
+and dry cough (seven [%]). Of  patients with fever,
+four (%) had a body temperature of ·°C or higher
+and nine (%) had a body temperature of ·–·°C.
 Other symptoms were recorded infrequently, including
-sore throat (two [6%]), pharyngeal congestion (one [3%]),
-dyspnoea or tachypnoea (one [3%]), and vomiting or
-diarrhoea (two [6%]). Neither neurological symptoms nor
+sore throat (two [%]), pharyngeal congestion (one [%]),
+dyspnoea or tachypnoea (one [%]), and vomiting or
+diarrhoea (two [%]). Neither neurological symptoms nor
 signs of cardiac, liver, or renal failure were recorded.
 Generally, two types of abnormal radiographic presen­
 tations were seen: multiple opacities and patchy opacities.
-19 (53%) paediatric patients had pulmonary ground-glass
-opacities on CT scan, suggesting pneu­monia (figure 1).
+ (%) paediatric patients had pulmonary ground-glass
+opacities on CT scan, suggesting pneu­monia (figure ).
 Pneumonia plus either fever or cough was seen in
-11 (30%) paediatric patients and eight (22%) had pneu­
-monia as the only symptom. Ten (28%) children showed
-no symptoms of pneumonia, five (14%) reported fever
-only, and two (5%) only had a dry cough.
-Table 1 shows findings of laboratory examinations
+ (%) paediatric patients and eight (%) had pneu­
+monia as the only symptom. Ten (%) children showed
+no symptoms of pneumonia, five (%) reported fever
+only, and two (%) only had a dry cough.
+Table  shows findings of laboratory examinations
 related to immunological responses and cardiac, liver,
 and renal damage, according to mild or moderate clinical
 type. Abnormal findings in paediatric patients were
-increased serum creatine kinase MB (11 [31%]), decreased
-lymphocytes (11 [31%]), leucopenia (seven [19%]), and
-increased procalcitonin (six [17%]). Some features
+increased serum creatine kinase MB ( [%]), decreased
+lymphocytes ( [%]), leucopenia (seven [%]), and
+increased procalcitonin (six [%]). Some features
 differed significantly between mild and moderate clinical
-type of COVID-19, including decreased lymphocytes
-(p=0·0083), raised body temperature (p=0·0020), and
-high levels of procalcitonin (p=0·0039), D-dimer
-(p=0·028), and creatine kinase MB (p=0·0084). Children
+type of COVID-, including decreased lymphocytes
+(p=·), raised body temperature (p=·), and
+high levels of procalcitonin (p=·), D-dimer
+(p=·), and creatine kinase MB (p=·). Children
 
-www.thelancet.com/infection Published online March 25, 2020 https://doi.org/10.1016/S1473-3099(20)30198-5
+www.thelancet.com/infection Published online March ,  https://doi.org/./S-()-
 
 Articles
 
 with moderate clinical type also had a positive PCR result
-for longer (p=0·0050) and spent more days in hospital
-(p=0·017) than did those with mild clinical type.
-Table 2 shows findings of laboratory examinations
+for longer (p=·) and spent more days in hospital
+(p=·) than did those with mild clinical type.
+Table  shows findings of laboratory examinations
 related to immunological responses and cardiac, liver,
 and renal damage, according to age group. Ten patients
-were aged 5 years or younger and 26 patients were
-16 years or younger but older than 5 years. The older
-children had decreased lymphocytes (p=0·029), elevated
-procalcitonin (p=0·032), and decreased creatine kinase
-(p=0·032) compared with the younger patients.
+were aged  years or younger and  patients were
+ years or younger but older than  years. The older
+children had decreased lymphocytes (p=·), elevated
+procalcitonin (p=·), and decreased creatine kinase
+(p=·) compared with the younger patients.
 Treatments and primary manifestations were traced to
 assess disease progression and outcome, and four case
 types were identified: asymptomatic, upper respiratory
 symptoms or fever only, pneumonia only, and both
 pneumonia and upper respiratory symptoms or fever
-(figure 2). On admission, all children were treated with
-interferon alfa by aerosolisation twice a day, 14 (39%)
+(figure ). On admission, all children were treated with
+interferon alfa by aerosolisation twice a day,  (%)
 received lopinavir–ritonavir syrup twice a day, and
-six (17%) needed oxygen inhalation (table 1). In the
-13 patients with fever, mean duration of fever was 3 (SD 2)
-days. Improve­ment in pneumonia was seen 4–10 days
-after treatment initiation. SARS-CoV-2 RT-PCR results
-became negative after a mean of 10 (SD 2) days of
+six (%) needed oxygen inhalation (table ). In the
+ patients with fever, mean duration of fever was  (SD )
+days. Improve­ment in pneumonia was seen – days
+after treatment initiation. SARS-CoV- RT-PCR results
+became negative after a mean of  (SD ) days of
 treatment, regardless of the various initial manifestations
-of patients (figure 2). The mean number of days in
-hospital was 14 (SD 3) days. By Feb 28, 2020, all patients
+of patients (figure ). The mean number of days in
+hospital was  (SD ) days. By Feb , , all patients
 were cured, according to the criteria for cured outcome,
-and quarantined for a further 2 weeks. Follow-up is
+and quarantined for a further  weeks. Follow-up is
 continuing every week, with samples taken to measure
-serum IgG and IgM and SARS-CoV-2 in blood, faeces,
+serum IgG and IgM and SARS-CoV- in blood, faeces,
 and nasopharyngeal swabs.
-The comparison of paediatric patients with COVID-19
-with adult patients with COVID-19 in the same city
-(table 3) showed that paediatric patients had a
+The comparison of paediatric patients with COVID-
+with adult patients with COVID- in the same city
+(table ) showed that paediatric patients had a
 significantly lower prevalence of abnormal values of
 several variables indicating disease severity, such as
-fever (36% for children and 86% for adults), cough
-(19% and 62%), pneumonia (53% and 95%), elevated
-C-reactive protein (3% and 49%), and severe disease
-type (0% and 23%; p<0·0001 for all features).
+fever (% for children and % for adults), cough
+(% and %), pneumonia (% and %), elevated
+C-reactive protein (% and %), and severe disease
+type (% and %; p<· for all features).
 Nevertheless, no differences were noted between
 children and adults in prevalence of leucopenia,
 lymphopenia, and elevated myocardial enzymes. When
 compared with children with SARS, paediatric patients
-with COVID-19 had much milder disease in terms of
+with COVID- had much milder disease in terms of
 the prevalence of fever, cough, pneumonia, and severe
-case type. Compared with children with H1N1 influenza,
-paediatric patients with COVID-19 had fewer upper
+case type. Compared with children with HN influenza,
+paediatric patients with COVID- had fewer upper
 respiratory symptoms (eg, cough and pharyngeal
 congestion) but pneumonia was more frequent. Notably,
 when the three groups of patients with coronavirus
 infections were compared with the paediatric patients
-with H1N1 influenza, the most striking difference was
-that patients with H1N1 influenza had a much higher
+with HN influenza, the most striking difference was
+that patients with HN influenza had a much higher
 prevalence of pharyngeal congestion and a lower
 prevalence of pneumonia.
 
-Age 0 to ≤5 years
-(n=10)
+Age  to ≤ years
+(n=)
 
-Age >5 to ≤16 years p value
-(n=26)
+Age > to ≤ years p value
+(n=)
 
 Epidemiological data
 Female patients
 
-4 (40%)
+ (%)
 
-9 (35%)
+ (%)
 
 ..
 
 Male patients
 
-6 (60%)
+ (%)
 
-17 (65%)
+ (%)
 
 ..
 
 History of exposure to epidemic area
 
-2 (20%)
+ (%)
 
-10 (38%)
+ (%)
 
 ..
 
-10 (100%)
+ (%)
 
-22 (85%)
+ (%)
 
-0·60
+·
 
-Family members with COVID-19
+Family members with COVID-
 Symptoms
 Dry cough
 Body temperature, °C
-Fever (body temperature >37°C)
+Fever (body temperature >°C)
 
-1 (10%)
+ (%)
 
-6 (23%)
+ (%)
 
-37·7 (0·3)
+· (·)
 
-37·9 (0·4)
+· (·)
 
-0·16
-
-..
-
-3 (30%)
-
-10 (38%)
+·
 
 ..
 
-6 (60%)
+ (%)
 
-13 (50%)
-
-0·70
-
-6·5 (2·2)
-
-5·9 (2·0)
-
-0·44
-
-2
-
-5
+ (%)
 
 ..
 
-2·9 (1·1)
+ (%)
 
-2·2 (0·7)
+ (%)
 
-0·029
+·
+
+· (·)
+
+· (·)
+
+·
+
+
+
+
+
+..
+
+· (·)
+
+· (·)
+
+·
 
 Radiography
 Pulmonary ground-glass opacities
 Laboratory tests (reference values)
-White blood cells (4–10 × 10⁹ cells per L)
+White blood cells (– × ⁹ cells per L)
 Decreased (n)
-Lymphocytes (1·1–3·2 × 109 cells per L)
+Lymphocytes (·–· ×  cells per L)
 Decreased (n)
-Procalcitonin (<0·5 ng /mL)
+Procalcitonin (<· ng /mL)
 Increased (n)
-C-reactive protein (<8 mg/L)
+C-reactive protein (< mg/L)
 Increased (n)
-D-dimer (<0·5 μg/mL)
+D-dimer (<· μg/mL)
 Increased (n)
-Creatine kinase (55–170 U/L)
+Creatine kinase (– U/L)
 Increased (n)
-Creatine kinase MB (<18 U/L)
+Creatine kinase MB (< U/L)
 Increased (n)
-Oxygen saturation (92–100%)
+Oxygen saturation (–%)
 Decreased (n)
 Mild cases
 
-2
 
-9
 
-0·13 (0·15)
 
-0·28 (0·19)
 
-1
+· (·)
 
-5
+· (·)
 
-..
 
-4 (1)
 
-5 (2)
 
-0·14
-
-0·032
-
-0
-
-1
 
 ..
 
-0·20 (0·18)
+ ()
 
-0·32 (0·20)
+ ()
 
-0·11
+·
 
-0
-124 (54)
-1
-21 (14)
-5
-98·2 (0·3)
-0
-4 (40%)
+·
 
-3
-85 (44)
-0
-18 (7)
-6
-98·1 (0·3)
-0
-13 (50%)
+
+
+
 
 ..
-0·032
+
+· (·)
+
+· (·)
+
+·
+
+
+ ()
+
+ ()
+
+· (·)
+
+ (%)
+
+
+ ()
+
+ ()
+
+· (·)
+
+ (%)
+
 ..
-0·40
+·
 ..
-0·38
+·
 ..
-0·70
+·
+..
+·
 
 Therapy and outcomes
 Oxygen inhalation
 
-1 (10%)
+ (%)
 
-5 (19%)
+ (%)
 
-10 (100%)
+ (%)
 
-26 (100%)
+ (%)
 
 Lopinavir–ritonavir
 
-1 (10%)
+ (%)
 
-13 (50%)
+ (%)
 
 ..
 
-Time taken to become SARS-CoV-2
+Time taken to become SARS-CoV-
 PCR-negative, days (SD, range)
 
-9 (2, 7–14)
+ (, –)
 
-11 (2, 8–22)
+ (, –)
 
-0·011
+·
 
-13 (3, 10–18)
+ (, –)
 
-15 (4, 13–20)
+ (, –)
 
-0·16
+·
 
 Interferon alfa
 
 Duration of hospitalisation, days (SD, range)
 
 ..
->0·99
+>·
 
-Data are n (%) or mean (SD), unless otherwise indicated. COVID-19=coronavirus disease 2019. SARS-CoV-2=severe
-acute respiratory syndrome coronavirus 2. *p values indicate the difference between paediatric patients with mild
+Data are n (%) or mean (SD), unless otherwise indicated. COVID-=coronavirus disease . SARS-CoV-=severe
+acute respiratory syndrome coronavirus . *p values indicate the difference between paediatric patients with mild
 clinical type (asymptomatic or upper respiratory infection) and those with moderate clinical type (mild pneumonia).
 
-Table 2: Comparison of clinical features between paediatric patients, by age group
+Table : Comparison of clinical features between paediatric patients, by age group
 
 Discussion
-SARS-CoV-2 is an emerging contagious pathogen
+SARS-CoV- is an emerging contagious pathogen
 causing a high prevalence of pneumonia in infected
 individuals. Understanding the clinical features in
 paediatric patients is important for diagnosis and
 effective treatment of this illness. The findings of our
-study show that the main clinical features of COVID-19
+study show that the main clinical features of COVID-
 in children were fever, dry cough, and pneumonia.
-Paediatric patients acquired COVID-19 by clear
+Paediatric patients acquired COVID- by clear
 transmission routes, including close contact with family
 members, a history of exposure to epidemic areas, or
 both of these. No other sources, such as a hospital stay or
 
-www.thelancet.com/infection Published online March 25, 2020 https://doi.org/10.1016/S1473-3099(20)30198-5	
+www.thelancet.com/infection Published online March ,  https://doi.org/./S-()-	
 
-5
+
 
 Articles
 
-Patient 1, asymptomatic
+Patient , asymptomatic
 
 Day
 
-1
 
-2
 
-3
 
-4
 
-5
 
-6
 
-7
 
-8
 
-9
 
-10
 
-11
 
-12
 
-13
 
-14
 
-15
 
-16
 
-3
 
-4
 
-5
 
-6
 
-7
 
-8
 
-9
 
-10
 
-11
 
-12
 
-13
 
-14
 
-15
 
-16
 
-9
 
-10
 
-11
 
-12
 
-13
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ··
 
-16
 
-17
 
-9
 
-10
 
-11
 
-12
+
+
+
+
+
+
 
 ··
 
-18
 
-19
 
-20
 
-Patient 2, fever only
 
-Day
 
-1
 
-2
-
-Patient 3, pneumonia only
+Patient , fever only
 
 Day
 
-1
 
-2
 
-3
 
-5
 
-4
-
-6
-
-7
-
-8
-
-Patient 4, pneumonia and fever
+Patient , pneumonia only
 
 Day
 
-1
 
-2
 
-3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Patient , pneumonia and fever
+
+Day
+
+
+
+
+
+
 
 Admission to hospital
 Discharged from hospital
 
-4
 
-5
 
-6
+
+
+
 
 Normal body temperature
 Fever
 
-7
 
-8
+
+
 Positive RT-PCR
 Pneumonia
 
@@ -1295,15 +1295,15 @@ Interferon alfa treatment
 Lopinavir–ritonavir
 treatment
 
-Figure 2: Trajectory of COVID-19 disease progression and treatment in four paediatric patients with different manifestations
-Patient 1: male (aged 1·5 years), asymptomatic; 10 days to become SARS-CoV-2 PCR-negative. Patient 2: male (aged 5·2 years), only symptom was fever for 4 days;
-9 days to become SARS-CoV-2 PCR-negative. Patient 3: male (aged 6 years), only symptom was pneumonia for 12 days; 10 days to become SARS-CoV-2 PCR-negative.
-Patient 4: female (aged 7·5 years), symptoms were fever for 3 days and pneumonia for 12 days; 10 days to become SARS-CoV-2 PCR-negative. COVID-19=coronavirus
-disease 2019. SARS-CoV-2=severe acute respiratory syndrome coronavirus 2.
+Figure : Trajectory of COVID- disease progression and treatment in four paediatric patients with different manifestations
+Patient : male (aged · years), asymptomatic;  days to become SARS-CoV- PCR-negative. Patient : male (aged · years), only symptom was fever for  days;
+ days to become SARS-CoV- PCR-negative. Patient : male (aged  years), only symptom was pneumonia for  days;  days to become SARS-CoV- PCR-negative.
+Patient : female (aged · years), symptoms were fever for  days and pneumonia for  days;  days to become SARS-CoV- PCR-negative. COVID-=coronavirus
+disease . SARS-CoV-=severe acute respiratory syndrome coronavirus .
 
-6	
+	
 
-www.thelancet.com/infection Published online March 25, 2020 https://doi.org/10.1016/S1473-3099(20)30198-5
+www.thelancet.com/infection Published online March ,  https://doi.org/./S-()-
 
 Articles
 
@@ -1311,9 +1311,9 @@ unclear routes of transmission, were identified. This
 transmission feature means that identification of
 these paediatric patients was straightforward. However,
 previous work has shown that potential transmission
-routes of SARS-CoV-2 can be highly variable,20 compared
-with MERS coronavirus, which is less transmissible.11
-This situation could be altered if COVID-19 persists for a
+routes of SARS-CoV- can be highly variable, compared
+with MERS coronavirus, which is less transmissible.
+This situation could be altered if COVID- persists for a
 long time in an area with increased risk for communityacquired infections.
 Among the paediatric patients in our study, just under
 a third were asymptomatic. Moreover, a fifth had
@@ -1323,224 +1323,224 @@ including cough and fever. All asymptomatic patients and
 children who did not present with pneu­monia needed
 laboratory and radiographic examinations for diagnosis.
 The large proportion of children with asymptomatic
-SARS-CoV-2 infection contrasts with paediatric patients
-with H1N1 influenza19 and SARS,10 and adult patients with
-COVID-19,17 in terms of presenting symptoms such as
-cough and pharyngeal congestion (table 3), indicating
-SARS-CoV-2 has little effect on the upper respiratory tract
-of children. COVID-19 is highly transmissible, similar to
-SARS and H1N1 influenza, but can have a covert
+SARS-CoV- infection contrasts with paediatric patients
+with HN influenza and SARS, and adult patients with
+COVID-, in terms of presenting symptoms such as
+cough and pharyngeal congestion (table ), indicating
+SARS-CoV- has little effect on the upper respiratory tract
+of children. COVID- is highly transmissible, similar to
+SARS and HN influenza, but can have a covert
 presentation in children.
 Pneumonia is the leading infectious cause of death in
-children younger than 5 years.21 Although COVID-19 in
+children younger than  years. Although COVID- in
 children seemed to be mild in term of presenting symptoms,
-the prevalence of pneumonia with COVID-19 (53%) was
-higher than with H1N1 influenza (11%), but very similar to
-the prevalence with SARS (65%).18 A striking characteristic
-of COVID-19 is that it affects several vital organs (eg, lungs
+the prevalence of pneumonia with COVID- (%) was
+higher than with HN influenza (%), but very similar to
+the prevalence with SARS (%). A striking characteristic
+of COVID- is that it affects several vital organs (eg, lungs
 and heart), as shown by increased amounts of myocardial
-enzymes, even though all children with COVID-19 had the
-mild or moderate clinical type (table 3). With high mortality
-in adult patients with COVID-19 in epidemic areas6
-(eg, >4% mortality in Wuhan), paediatric patients should
+enzymes, even though all children with COVID- had the
+mild or moderate clinical type (table ). With high mortality
+in adult patients with COVID- in epidemic areas
+(eg, >% mortality in Wuhan), paediatric patients should
 continue to be monitored after discharge from hospital.
 Compared with adults, children rarely have comorbid­
 ities such as hypertension, cardiovascular disease, and
 diabetes. Paediatric patients in our study had a lower
 prevalence of pneumonia and symptoms such as fever,
 cough, and dyspnoea compared with adult patients with
-COVID-19 (table 3). However, in our study, the prevalence
+COVID- (table ). However, in our study, the prevalence
 of leucopenia, lymphopenia, and increased myocardial
-enzymes in children with COVID-19 was similar to that in
+enzymes in children with COVID- was similar to that in
 adults. Notably, adults have a much higher prevalence of
 increased C-reactive protein than do children, suggesting
 a much milder immunological response in children and
-less immune damage.22 Except for antiviral drugs, no
+less immune damage. Except for antiviral drugs, no
 special treatments (eg, glucocorticoid therapy and invasive
 mechanical ventilation) were administered, and few
 children needed inhaled oxygen. Taking all these findings
 into con­
-sideration, the presentation of COVID-19 in
+sideration, the presentation of COVID- in
 paediatric patients is much milder than in adults. It is
 noteworthy that few patients with coronavirus disease
-(ie, COVID-19 and SARS) have pharyngeal congestion or
+(ie, COVID- and SARS) have pharyngeal congestion or
 
 Children with
-COVID-19
-(n=36)
+COVID-
+(n=)
 Age, years
 
 Adults with
-COVID-19
-(n=175)17
+COVID-
+(n=)
 
 Children with Children with
-SARS (n=44)10 H1N1
+SARS (n=) HN
 influenza
-(n=167)19
+(n=)
 
-8·3 (3·5)
+· (·)
 
-45 (14)
+ ()
 
-12·2 (4·1)
+· (·)
 
 Fever
 
-13 (36%)
+ (%)
 
-150 (86%)
+ (%)
 
-44 (100%)
+ (%)
 
 Cough
 
-7 (19%)
+ (%)
 
-109 (62%)
+ (%)
 
-28 (64%)
+ (%)
 
-138 (83%)
+ (%)
 
 Pharyngeal congestion or sore throat
 
-1 (3%)
+ (%)
 
-8 (5%)
+ (%)
 
-6 (14%)
+ (%)
 
-159 (95%)
+ (%)
 
-23 (13%)
+ (%)
 
-4 (9%)
+ (%)
 
-12 (7%)
+ (%)
 
-<5%
+<%
 
-0
 
-<5%
+
+<%
 
 Dyspnoea
 
-1 (3%)
+ (%)
 
 Asymptomatic*
 
-10 (28%)
+ (%)
 
 Pneumonia
 
-19 (53%)
+ (%)
 
 Comorbidities or complications
 (except pneumonia and bronchitis)
 Mild and moderate cases
 
-0
-36 (100%)
 
-166 (95%)
+ (%)
 
-40/62 (65%)†
+ (%)
 
-4·1 (3·5)
-153 (92%)
+/ (%)†
 
-18 (11%)
+· (·)
+ (%)
 
-10 (6%)
+ (%)
 
-5 (11%)
+ (%)
 
-7 (4%)
-135 (81%)
+ (%)
 
-136 (77%)
+ (%)
+ (%)
 
-35 (79%)
+ (%)
+
+ (%)
 
 Severe cases
 
-0
 
-39 (23%)
 
-9 (21%)
+ (%)
 
-32 (19%)
+ (%)
+
+ (%)
 
 Leucopenia
 
-7 (19%)
+ (%)
 
-44 (25%)
+ (%)
 
-15 (34%)
+ (%)
 
-65 (39%)
+ (%)
 NA
 
 Lymphopenia
 
-11 (31%)
+ (%)
 
-61 (35%)
+ (%)
 
-34 (77%)
+ (%)
 
 Myocardial enzymes elevated
 
-11 (31%)
+ (%)
 
-39 (22%)
+ (%)
 
-3 (7%)
+ (%)
 
 Liver enzymes elevated
 
-2 (6%)
+ (%)
 
-32 (18%)
+ (%)
 
-21 (48%)
+ (%)
 
-12 (7%)
+ (%)
 
 Elevated C-reactive protein
 
-1 (3%)
+ (%)
 
-86 (49%)
+ (%)
 
 NA
 
-42 (25%)
+ (%)
 
-14 (39%)
+ (%)
 
-170 (97%)
+ (%)
 
 Antiviral therapy
 
-42 (96%)
+ (%)
 
-18 (11%)
+ (%)
 
-167 (100%)
+ (%)
 
-Data are n (%) or mean (SD). COVID-19=coronavirus disease 2019. SARS=severe acute respiratory syndrome. NA=not
+Data are n (%) or mean (SD). COVID-=coronavirus disease . SARS=severe acute respiratory syndrome. NA=not
 available. *No pneumonia, no upper respiratory symptoms, and no fever. †The prevalence of abnormal radiographic
-presentations in children with SARS was obtained from reference 18.
+presentations in children with SARS was obtained from reference .
 
-Table 3: Comparison of prevalence of clinical features between children with COVID-19, adults with
-COVID-19, children with H1N1 influenza, and children with SARS
+Table : Comparison of prevalence of clinical features between children with COVID-, adults with
+COVID-, children with HN influenza, and children with SARS
 
-sore throat, which contrasts with patients with H1N1
+sore throat, which contrasts with patients with HN
 influenza, despite the high prevalence of cough and fever
 in all patients. Pharyngeal congestion is more like an
 upper respiratory symptom than is fever (which is a
@@ -1550,34 +1550,34 @@ The findings of our study also showed that, although
 all paediatric cases were mild or moderate, the number
 of days spent in hospital and time needed for these
 patients to have negative PCR results was still
-considerable (table 1, figure 2). The time to achieve a
+considerable (table , figure ). The time to achieve a
 negative PCR result seemed to be unaffected by severity
 of disease in terms of symptoms and the presence of
 pneumonia and treatment choices. Nevertheless, fever
 resolved faster in mild cases than in moderate cases
-(figure 2). Considering that delayed clearance of viral
+(figure ). Considering that delayed clearance of viral
 RNA in patients’ stools is a potential risk for
-transmission,23 particularly in patients in rehabilitation,
+transmission, particularly in patients in rehabilitation,
 the reliability of viral RNA-negative criteria in
 asymptomatic patients, in the long run, needs further
 investigation.
 The major limitation of our study was the small sample
 size. However, most results were consistent within the
 study and, with several case reports on children with
-COVID-19, we believe our conclusions are valid. Since
-COVID-19 is spreading in more countries and has
+COVID-, we believe our conclusions are valid. Since
+COVID- is spreading in more countries and has
 become an urgent public health event, we present an
 early report on paediatric patients and expect additional
 data to improve our findings.
 
-www.thelancet.com/infection Published online March 25, 2020 https://doi.org/10.1016/S1473-3099(20)30198-5	
+www.thelancet.com/infection Published online March ,  https://doi.org/./S-()-	
 
-7
+
 
 Articles
 
 In conclusion, our study shows that paediatric patients
-with COVID-19 have a simple transmission mode, either
+with COVID- have a simple transmission mode, either
 by close contact with infected adults or by exposure to
 epidemic areas. Although fever, dry cough, and mild
 pneumonia are common manifestations, nearly half of
@@ -1591,113 +1591,113 @@ HQ and JW designed the study and did the literature search. LH and YL
 were responsible for disease diagnosis and treatment and data collection.
 DC collected and analysed data. QS analysed data and wrote the report.
 
-8	
-9	
-10	
-11	
-12	
-13	
+	
+	
+	
+	
+	
+	
 
-14	
+	
 
 Declaration of interests
 We declare no competing interests.
 Acknowledgments
 This study was funded by Ningbo Clinical Research Center for
 Children’s Health and Diseases, Project of Ningbo Reproductive
-Medicine Centre (PPXK2018-06), and Key Scientific and Technological
-Innovation Projects of Wenzhou (ZY202004).
+Medicine Centre (PPXK-), and Key Scientific and Technological
+Innovation Projects of Wenzhou (ZY).
 References
-1	 Shi Z, Hu Z. A review of studies on animal reservoirs of the SARS
-coronavirus. Virus Res 2008; 133: 74–87.
-2	 Donnelly CA, Ghani AC, Leung GM, et al. Epidemiological
+	 Shi Z, Hu Z. A review of studies on animal reservoirs of the SARS
+coronavirus. Virus Res ; : –.
+	 Donnelly CA, Ghani AC, Leung GM, et al. Epidemiological
 determinants of spread of causal agent of severe acute respiratory
-syndrome in Hong Kong. Lancet 2003; 361: 1761–66.
-3	 Cauchemez S, Fraser C, Van Kerkhove MD, et al. Middle East
+syndrome in Hong Kong. Lancet ; : –.
+	 Cauchemez S, Fraser C, Van Kerkhove MD, et al. Middle East
 respiratory syndrome coronavirus: quantification of the extent of
 the epidemic, surveillance biases, and transmissibility.
-Lancet Infect Dis 2014; 14: 50–56.
-4	 Wu P, Hao X, Lau EHY, et al. Real-time tentative assessment of the
+Lancet Infect Dis ; : –.
+	 Wu P, Hao X, Lau EHY, et al. Real-time tentative assessment of the
 epidemiological characteristics of novel coronavirus infections in
-Wuhan, China, as at 22 January 2020. Euro Surveill 2020; 25: 2000044.
-5	 Hamming I, Timens W, Bulthuis ML, Lely AT, Navis G,
-van Goor H. Tissue distribution of ACE2 protein, the functional
+Wuhan, China, as at  January . Euro Surveill ; : .
+	 Hamming I, Timens W, Bulthuis ML, Lely AT, Navis G,
+van Goor H. Tissue distribution of ACE protein, the functional
 receptor for SARS coronavirus: a first step in understanding SARS
-pathogenesis. J Pathol 2004; 203: 631–37.
-6	 WHO. Coronavirus disease 2019 (COVID-19): situation report—41.
-March 1, 2020. https://www.who.int/docs/default-source/
-coronaviruse/situation-reports/20200301-sitrep-41-covid-19.pdf
-(accessed March 12, 2020).
-7	 Novel Coronavirus Pneumonia Emergency Response Epidemiology
-Team. The epidemiological characteristics of an outbreak of 2019
-novel coronavirus diseases (COVID-19) in China.
-Zhonghua Liu Xing Bing Xue Za Zhi 2020; 41: 145–51.
+pathogenesis. J Pathol ; : –.
+	 WHO. Coronavirus disease  (COVID-): situation report—.
+March , . https://www.who.int/docs/default-source/
+coronaviruse/situation-reports/-sitrep--covid-.pdf
+(accessed March , ).
+	 Novel Coronavirus Pneumonia Emergency Response Epidemiology
+Team. The epidemiological characteristics of an outbreak of 
+novel coronavirus diseases (COVID-) in China.
+Zhonghua Liu Xing Bing Xue Za Zhi ; : –.
 
-8	
+	
 
-15	
+	
 
-16	
-17	
+	
+	
 
-18	
-19	
-20	
-21	
-22	
-23	
+	
+	
+	
+	
+	
+	
 
 Dagan R, Bhutta ZA, de Quadros CA, et al. The remaining
 challenge of pneumonia: the leading killer of children.
-Pediatr Infect Dis J 2011; 30: 1–2.
+Pediatr Infect Dis J ; : –.
 Campbell H, Nair H. Child pneumonia at a time of epidemiological
-transition. Lancet Glob Health 2015; 3: e65–66.
+transition. Lancet Glob Health ; : e–.
 Leung CW, Kwan YW, Ko PW, et al. Severe acute respiratory
-syndrome among children. Pediatrics 2004; 113: e535–43.
+syndrome among children. Pediatrics ; : e–.
 Al-Tawfiq JA, Kattan RF, Memish ZA. Middle East respiratory
 syndrome coronavirus disease is rare in children: an update from
-Saudi Arabia. World J Clin Pediatr 2016; 5: 391–96.
+Saudi Arabia. World J Clin Pediatr ; : –.
 Feng K, Yun YX, Wang XF, et al. Analysis of CT features of
-15 children with 2019 novel coronavirus infection.
-Zhonghua Er Ke Za Zhi 2020; 58: E007.
+ children with  novel coronavirus infection.
+Zhonghua Er Ke Za Zhi ; : E.
 National Health and Health Commission of the People’s Republic
-of China. Diagnosis and treatment guidelines for 2019 novel
-coronavirus pneumonia (draft version 5). Feb 4, 2020. http://www.
-nhc.gov.cn/yzygj/s7653p/202002/3b09b894ac9b4204a79db5b891
-2d4440.shtml (accessed March 12, 2020; in Chinese).
+of China. Diagnosis and treatment guidelines for  novel
+coronavirus pneumonia (draft version ). Feb , . http://www.
+nhc.gov.cn/yzygj/sp//bbacbadbb
+d.shtml (accessed March , ; in Chinese).
 Wang D, Hu B, Hu C, et al. Clinical characteristics of
-138 hospitalized patients with 2019 novel coronavirus-infected
-pneumonia in Wuhan, China. JAMA 2020; published online
-Feb 7, 2020. DOI:10.1001/jama.2020.1585.
+ hospitalized patients with  novel coronavirus-infected
+pneumonia in Wuhan, China. JAMA ; published online
+Feb , . DOI:./jama...
 National Institute for Viral Disease Control and Prevention.
-Novel primers and probes for detection of novel coronavirus 2019.
-Jan 21, 2020. http://ivdc.chinacdc.cn/kyjz/202001/t20200121_211337.
-html (accessed March 12, 2020; in Chinese).
+Novel primers and probes for detection of novel coronavirus .
+Jan , . http://ivdc.chinacdc.cn/kyjz//t_.
+html (accessed March , ; in Chinese).
 Chen Z, Fu J, Shu Q, et al. Diagnosis and treatment
-recommendation for pediatric coronavirus disease-19.
-Zhejiang Da Xue Xue Bao Yi Xue Ban 2020; 49: 1–8 (in Chinese).
+recommendation for pediatric coronavirus disease-.
+Zhejiang Da Xue Xue Bao Yi Xue Ban ; : – (in Chinese).
 Chen D, Li X, Song Q, Hu C, Su F, Dai J. Hypokalemia and clinical
-implications in patients with coronavirus disease 2019 (COVID-19).
-Feb 29, 2020. https://www.medrxiv.org/content/10.1101/2020.02.27.2
-0028530v1 (accessed March 12, 2020).
+implications in patients with coronavirus disease  (COVID-).
+Feb , . https://www.medrxiv.org/content/./...
+v (accessed March , ).
 Babyn PS, Chu WC, Tsou IY, et al. Severe acute respiratory
 syndrome (SARS): chest radiographic features in children.
-Pediatr Radiol 2004; 34: 47–58.
-Wang Z, Li X, Li D, Li Y. Clinical features of 167 children with the
-novel influenza A (H1N1) virus infection in Xi’an, China.
-Turk J Pediatr 2012; 54: 99–104.
+Pediatr Radiol ; : –.
+Wang Z, Li X, Li D, Li Y. Clinical features of  children with the
+novel influenza A (HN) virus infection in Xi’an, China.
+Turk J Pediatr ; : –.
 Tang B, Bragazzi NL, Li Q, Tang S, Xiao Y, Wu J. An updated
 estimation of the risk of transmission of the novel coronavirus
-(2019-nCov). Infect Dis Model 2020; 5: 248–55.
+(-nCov). Infect Dis Model ; : –.
 Wardlaw T, Salama P, Johansson EW, Mason E. Pneumonia:
-the leading killer of children. Lancet 2006; 368: 1048–50.
+the leading killer of children. Lancet ; : –.
 Standage SW, Wong HR. Biomarkers for pediatric sepsis and septic
-shock. Expert Rev Anti Infect Ther 2011; 9: 71–79.
+shock. Expert Rev Anti Infect Ther ; : –.
 Ling Y, Xu S-B, Lin Y-X, et al. Persistence and clearance of viral
-RNA in 2019 novel coronavirus disease rehabilitation patients.
-Chin Med J 2020; published online Feb 28, 2020.
-DOI:10.1097/CM9.0000000000000774.
+RNA in  novel coronavirus disease rehabilitation patients.
+Chin Med J ; published online Feb , .
+DOI:./CM..
 
-www.thelancet.com/infection Published online March 25, 2020 https://doi.org/10.1016/S1473-3099(20)30198-5
+www.thelancet.com/infection Published online March ,  https://doi.org/./S-()-
 
 

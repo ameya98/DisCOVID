@@ -1,53 +1,53 @@
 Correspondence
 
 CT screening for early
-diagnosis of SARS-CoV-2
+diagnosis of SARS-CoV-
 infection
 Authors’ reply
 
 We appreciate the concerns raised
 by Yongshun Huang and colleagues
-regarding our Article1 on radiological
-findings in coronavirus disease 2019
-(COVID-19). During the outbreak of
-COVID-19 in China in January, and
-February, 2020, timely diagnosis was
+regarding our Article on radiological
+findings in coronavirus disease 
+(COVID-). During the outbreak of
+COVID- in China in January, and
+February, , timely diagnosis was
 a crucial step for infection control,
 especially in the epidemic area of
 Wuhan, Hubei province. However,
 RT-PCR kits were not sufficiently
 provided to hospitals in Wuhan until
-Jan 16, 2020. Before then, there
+Jan , . Before then, there
 was less capacity of kits to meet the
 rapidly increasing clinical demand.
 Furthermore, the total positive rate
 of RT-PCR for throat swab samples
-was reported to be less than 60%.2
+was reported to be less than %.
 The diagnostic sensitivity of viral
 pneumonia by chest radiography was
-relatively low,3 whereas CT had a high
-sensitivity for diagnosis of COVID-19,
+relatively low, whereas CT had a high
+sensitivity for diagnosis of COVID-,
 making it a potential primary tool
-for COVID-19 detection in epidemic
-areas.2 Additionally, according to the
+for COVID- detection in epidemic
+areas. Additionally, according to the
 guideline for diagnosis and treatment
-of COVID-19 by the Chinese Ministry
-of Health (fifth trial edition),4 clinically
+of COVID- by the Chinese Ministry
+of Health (fifth trial edition), clinically
 suspected cases in Hubei province
 were mainly those with imaging
 
 features consistent with pneumonia.
 We agree that there should be clear
 criteria for CT use in diagnosis of
-COVID-19. In fact, we do not recom­
+COVID-. In fact, we do not recom­
 mend CT for screening or early diagnosis
 in all areas or for all populations. In our
-study, group 1 (preclinical) included
+study, group  (preclinical) included
 health-care workers (ten nurses and
 five physicians) from two hospitals
 in Wuhan, who were on the frontline
 during the outbreak peak. All
-15 participants had close contact
+ participants had close contact
 with confirmed cases and willingly
 underwent CT scanning as a screening
 measure. Our Article retrospectively
@@ -59,9 +59,9 @@ other reasons. Based on this discovery in
 an epidemic area, we have proposed the
 potential role of CT in asymptomatic
 high-risk individuals with a history
-of exposure to COVID-19 patients in
+of exposure to COVID- patients in
 epidemic areas. Compared with another
-recent publication,5 the discrepancy in
+recent publication, the discrepancy in
 CT positive rates might be attributed
 to variable sample sizes, different
 demographic features, and potential
@@ -76,15 +76,15 @@ disproportionate risk–benefit ratio.
 Fortunately, under well controlled
 epidemic conditions in Wuhan,
 the RT-PCR assay or severe acute
-respiratory syndrome coronavirus 2
+respiratory syndrome coronavirus 
 antibody test are the first choices for
-screening for COVID-19 at present.
+screening for COVID- at present.
 
-Lancet Infect Dis 2020
+Lancet Infect Dis 
 Published Online
-March 26, 2020
-https://doi.org/10.1016/
-S1473-3099(20)30247-4
+March , 
+https://doi.org/./
+S-()-
 
 We declare no competing interests.
 
@@ -93,47 +93,47 @@ Osamah Alwalid, *Chuansheng Zheng
 hqzcsxh@sina.com
 Department of Radiology, Union Hospital, Tongji
 Medical College, Huazhong University of Science
-and Technology, Wuhan, Hubei 430022, China
+and Technology, Wuhan, Hubei , China
 (HS, XH, YC, OA, CZ); and Hubei Province Key
 Laboratory of Molecular Imaging, Wuhan, Hubei,
 China (HS, XH, YC, OA, CZ)
-1	
+	
 
-2	
+	
 
-3	
-4	
+	
+	
 
-5	
+	
 
 Shi H, Han X, Jiang N, et al. Radiological
-findings from 81 patients with COVID-19
+findings from  patients with COVID-
 pneumonia in Wuhan, China: a descriptive
-study. Lancet Infect Dis 2020; published online
-Feb 24. https://doi.org/10.1016/ S14733099(20)30086-4.
+study. Lancet Infect Dis ; published online
+Feb . https://doi.org/./ S()-.
 Ai T, Yang Z, Hou H, et al. Correlation of chest
 CT and RT-PCR testing in coronavirus disease
-2019 (COVID-19) in China: a report of
-1014 cases. Radiology 2020; published online
-Feb 26. DOI:10.1148/radiol.2020200642.
+ (COVID-) in China: a report of
+ cases. Radiology ; published online
+Feb . DOI:./radiol..
 Franquet T. Imaging of pulmonary viral
-pneumonia. Radiology 2011; 260: 18–39.
+pneumonia. Radiology ; : –.
 General Office of National Health Committee.
 Notice on the issuance of a program for the
 diagnosis and treatment of novel coronavirus
-(2019-nCoV) infected pneumonia
-(fifth trial edition). Feb 5, 2020. http://www.
-nhc.gov.cn/yzygj/s7652m/202002/
-e84bd30142ab4d8982326326e4db22ea.
-shtml (accessed March 20, 2020).
+(-nCoV) infected pneumonia
+(fifth trial edition). Feb , . http://www.
+nhc.gov.cn/yzygj/sm//
+ebdabdedbea.
+shtml (accessed March , ).
 Zhibin H, Song C. Screening and management
 of asymptomatic infection of corona virus
-disease 2019 (COVID-19). Chin J Prev Med
-2020; published online March 8. DOI:10.3760/
-cma.j.cn112150-20200229-00220.
+disease  (COVID-). Chin J Prev Med
+; published online March . DOI:./
+cma.j.cn--.
 
-www.thelancet.com/infection Published online March 26, 2020 https://doi.org/10.1016/S1473-3099(20)30247-4	
+www.thelancet.com/infection Published online March ,  https://doi.org/./S-()-	
 
-1
+
 
 

@@ -1,71 +1,71 @@
 Articles
 
 Clinical features and obstetric and neonatal outcomes
-of pregnant patients with COVID-19 in Wuhan, China:
+of pregnant patients with COVID- in Wuhan, China:
 a retrospective, single-centre, descriptive study
 Nan Yu*, Wei Li *, Qingling Kang, Zhi Xiong, Shaoshuai Wang, Xingguang Lin, Yanyan Liu, Juan Xiao, Haiyi Liu, Dongrui Deng, Suhua Chen,
 Wanjiang Zeng, Ling Feng, Jianli Wu
 
 Summary
 
-Background In December, 2019, coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome
-coronavirus 2 (SARS-CoV-2) emerged in Wuhan, China. The number of affected pregnant women is increasing, but
-scarce information is available about the clinical features of COVID-19 in pregnancy. This study aimed to clarify the
-clinical features and obstetric and neonatal outcomes of pregnant patients with COVID-19.
-Methods In this retrospective, single-centre study, we included all pregnant women with COVID-19 who were
+Background In December, , coronavirus disease  (COVID-) caused by severe acute respiratory syndrome
+coronavirus  (SARS-CoV-) emerged in Wuhan, China. The number of affected pregnant women is increasing, but
+scarce information is available about the clinical features of COVID- in pregnancy. This study aimed to clarify the
+clinical features and obstetric and neonatal outcomes of pregnant patients with COVID-.
+Methods In this retrospective, single-centre study, we included all pregnant women with COVID- who were
 admitted to Tongji Hospital in Wuhan, China. Clinical features, treatments, and maternal and fetal outcomes were
 assessed.
-Findings Seven patients, admitted to Tongji Hospital from Jan 1, to Feb 8, 2020, were included in our study. The mean
-age of the patients was 32 years (range 29–34 years) and the mean gestational age was 39 weeks plus 1 day (range
-37 weeks to 41 weeks plus 2 days). Clinical manifestations were fever (six [86%] patients), cough (one [14%] patient),
-shortness of breath (one [14%] patient), and diarrhoea (one [14%] patient). All the patients had caesarean section
-within 3 days of clinical presentation with an average gestational age of 39 weeks plus 2 days. The final date of followup was Feb 12, 2020. The outcomes of the pregnant women and neonates were good. Three neonates were tested for
-SARS-CoV-2 and one neonate was infected with SARS-CoV-2 36 h after birth.
+Findings Seven patients, admitted to Tongji Hospital from Jan , to Feb , , were included in our study. The mean
+age of the patients was  years (range – years) and the mean gestational age was  weeks plus  day (range
+ weeks to  weeks plus  days). Clinical manifestations were fever (six [%] patients), cough (one [%] patient),
+shortness of breath (one [%] patient), and diarrhoea (one [%] patient). All the patients had caesarean section
+within  days of clinical presentation with an average gestational age of  weeks plus  days. The final date of followup was Feb , . The outcomes of the pregnant women and neonates were good. Three neonates were tested for
+SARS-CoV- and one neonate was infected with SARS-CoV-  h after birth.
 Interpretation The maternal, fetal, and neonatal outcomes of patients who were infected in late pregnancy appeared
 very good, and these outcomes were achieved with intensive, active management that might be the best practice in
-the absence of more robust data. The clinical characteristics of these patients with COVID-19 during pregnancy were
-similar to those of non-pregnant adults with COVID-19 that have been reported in the literature.
+the absence of more robust data. The clinical characteristics of these patients with COVID- during pregnancy were
+similar to those of non-pregnant adults with COVID- that have been reported in the literature.
 Funding National Natural Science Foundation of China, Hubei Provincial Natural Science Foundation of China.
-Copyright © 2020 Elsevier Ltd. All rights reserved.
+Copyright ©  Elsevier Ltd. All rights reserved.
 
 Introduction
-In December, 2019, a series of pneumonia cases of
+In December, , a series of pneumonia cases of
 unknown cause emerged in Wuhan (Hubei, China), with
-clinical presentations resembling viral pneumonia.1–3
+clinical presentations resembling viral pneumonia.–
 Deep sequencing analysis from lower respiratory tract
 samples indicated a novel coronavirus that was later
-named severe acute respiratory syndrome coronavirus 2
-(SARS-CoV-2).4 Thus far, more than 49 000 confirmed
+named severe acute respiratory syndrome coronavirus 
+(SARS-CoV-). Thus far, more than   confirmed
 cases, including health-care workers, have been identified
 in Wuhan, and many cases have been confirmed in other
 provinces in China, and in Italy, Iran, South Korea,
-Spain, and other countries worldwide.5–9 The number
-of pregnant women with COVID-19 is also increasing;
-there were already more than 30 pregnant patients with
-COVID-19 in China by Feb 8, 2020.
+Spain, and other countries worldwide.– The number
+of pregnant women with COVID- is also increasing;
+there were already more than  pregnant patients with
+COVID- in China by Feb , .
 At present, information regarding the epidemiology and
 clinical features of pneumonia in pregnancy caused by
-COVID-19 is scarce.10 Furthermore, there is no previous
-treatment experience with COVID-19 in pregnancy. Up to
+COVID- is scarce. Furthermore, there is no previous
+treatment experience with COVID- in pregnancy. Up to
 now, seven liveborn infants have been delivered by
-pregnant women with COVID-19 at Tongji Hospital
+pregnant women with COVID- at Tongji Hospital
 
 (Wuhan, China). We aim to describe epidemiological,
 clinical, laboratory, and radiological characteristics, treat­
 ment, and maternal and fetal outcomes of full-term
-pregnant women confirmed to have SARS-CoV-2 infection.
+pregnant women confirmed to have SARS-CoV- infection.
 
-Lancet Infect Dis 2020
+Lancet Infect Dis 
 Published Online
-March 24, 2020
-https://doi.org/10.1016/
-S1473-3099(20)30176-6
+March , 
+https://doi.org/./
+S-()-
 See Online/Comment
-https://doi.org/10.1016/
-S1473-3099(20)30191-2
+https://doi.org/./
+S-()-
 For the Chinese translation of
 the abstract see Online for
-appendix 1
+appendix 
 *Joint first authors
 Department of Obstetrics and
 Gynecology, Tongji Hospital,
@@ -86,48 +86,48 @@ Obstetrics and Gynecology,
 Tongji Hospital, Tongji Medical
 College, Huazhong University of
 Science and Technology, Wuhan,
-Hubei 430030, China
-jianliwu_tj@163.com
+Hubei , China
+jianliwu_tj@.com
 
 Methods
 
 Study design and participants
 For this retrospective, single-centre study, we recruited
-patients from Jan 1 to Feb 8, 2020, at Tongji Hospital,
+patients from Jan  to Feb , , at Tongji Hospital,
 Tongji Medical College, Huazhong University of Science
 and Technology (Wuhan, China). According to the
 arrangements put in place by the Chinese Government,
 pregnant women were admitted centrally to the hospital
 from all of Wuhan without selectivity. All pregnant
 women in Tongji Hospital who were diagnosed with
-COVID-19 according to the WHO interim guidance were
-enrolled in this study.4 Among them, three patients were
+COVID- according to the WHO interim guidance were
+enrolled in this study. Among them, three patients were
 directly admitted to Tongji hospital for fever and four
 patients were transferred from other hospitals across
 Wuhan. This study was approved by the ethics committee
 of Tongji Hospital, and written informed consent was
 
-www.thelancet.com/infection Published online March 24, 2020 https://doi.org/10.1016/S1473-3099(20)30176-6	
+www.thelancet.com/infection Published online March ,  https://doi.org/./S-()-	
 
-1
+
 
 Articles
 
 Research in context
 Evidence before this study
-We searched PubMed and Google Scholar on Feb 8, 2020, for
+We searched PubMed and Google Scholar on Feb , , for
 articles describing the features of patients in pregnancy infected
-with severe acute respiratory syndrome coronavirus 2
-(SARS-CoV-2; previously known as 2019 novel coronavirus
-[2019-nCoV]), using the search terms “novel coronavirus” or
-“2019 novel coronavirus” or “2019-nCoV” and “pregnancy” or
+with severe acute respiratory syndrome coronavirus 
+(SARS-CoV-; previously known as  novel coronavirus
+[-nCoV]), using the search terms “novel coronavirus” or
+“ novel coronavirus” or “-nCoV” and “pregnancy” or
 “maternal infection” or “neonatal outcomes”. We also searched
 the China National Knowledge Infrastructure database and
 Wanfang Data using the same terms in Chinese. We found
 several epidemiological, clinical, laboratory, management,
 and outcomes studies regarding the epidemiology and clinical
-features of pneumonia caused by SARS-CoV-2. We identified no
-reports on management of pregnant women with COVID-19
+features of pneumonia caused by SARS-CoV-. We identified no
+reports on management of pregnant women with COVID-
 and scarce evidence of mother-to-child vertical transmission.
 Added value of this study
 We assessed the incubation period, clinical manifestations,
@@ -153,7 +153,7 @@ and symptoms on admission, comorbidities, laboratory
 results, co­
 infection with other respiratory pathogens,
 chest radiography and CT findings, treatment received
-for COVID-19, and clinical maternal, fetal, and neonatal
+for COVID-, and clinical maternal, fetal, and neonatal
 outcomes.
 
 We obtained epidemiological, demographic, clinical,
@@ -170,14 +170,14 @@ records or clarification was needed, data were obtained
 by direct communication with attending doctors and
 other health­care providers. All data were checked by two
 physicians (WL and NY).
-Laboratory confirmation of SARS-CoV-2 infection was
+Laboratory confirmation of SARS-CoV- infection was
 done at Tongji Hospital. Throat­swab specimens from
 the upper respiratory tract that were obtained from all
 patients at admission were maintained in viral transport
-medium. SARS-CoV-2 infection was confirmed by real­
+medium. SARS-CoV- infection was confirmed by real­
 time RT-­
 PCR using the same protocol as described
-previously.3 Real-time RT-­PCR detection reagents were
+previously. Real-time RT-­PCR detection reagents were
 provided by Tongji Hospital. Other respiratory viruses,
 including influenza A virus, influenza B virus,
 respiratory syncytial virus, parainfluenza virus, and
@@ -189,26 +189,26 @@ tracheal aspirates were obtained at
 admission for the identification of possible causative
 bacteria or fungi. Addit­ionally, all patients were given
 chest CT examinations. All the patients delivered infants
-2	
+	
 
 management, therapeutic schedule, and maternal and fetal
 outcomes of full-term pregnant women confirmed to have
-COVID-19 pneumonia caused by SARS-CoV-2 infection. With
+COVID- pneumonia caused by SARS-CoV- infection. With
 intensive, active management, the outcomes of the pregnant
 women and neonates were good. Although one neonate was
-found to be infected with SARS-CoV-2 36 h postpartum, up to
+found to be infected with SARS-CoV-  h postpartum, up to
 the follow-up day, no pneumonia and other clinical symptoms
 and signs were found in all seven neonates. To the best of our
 knowledge, we provide the first evidence that clinical features
-of COVID-19 in full-term pregnant women were similar to those
-of non-pregnant adult patients with COVID-19 and outcomes
+of COVID- in full-term pregnant women were similar to those
+of non-pregnant adult patients with COVID- and outcomes
 were good following intensive active management of the
 disease.
 
 Outcomes
 
 Statistical analysis
-Statistical analysis was done using SPSS, version 20.0.
+Statistical analysis was done using SPSS, version ..
 Continuous variables are directly expressed as ranges.
 Categorical variables are expressed as number (%).
 
@@ -220,77 +220,77 @@ access to all the data in the study and takes final
 responsibility for the decision to submit for publication.
 
 Results
-Between Jan 1 and Feb 8, 2020, seven pregnant patients
-with COVID-19 were included in this study (table 1).
+Between Jan  and Feb , , seven pregnant patients
+with COVID- were included in this study (table ).
 None of them had a history of exposure to Huanan
 Seafood Wholesale Market, and none of them were
 medical staff. Three of the seven patients were
 primiparous and four were multiparous, with a mean
-age of 32 years (range 29–34 years) and mean gestational
-age of 39 weeks plus 1 day (range 37 weeks to 41 weeks
-plus 2 days) at admission. Two (29%) patients had
+age of  years (range – years) and mean gestational
+age of  weeks plus  day (range  weeks to  weeks
+plus  days) at admission. Two (%) patients had
 chronic diseases (hypothyroidism and polycystic ovary
 
-www.thelancet.com/infection Published online March 24, 2020 https://doi.org/10.1016/S1473-3099(20)30176-6
+www.thelancet.com/infection Published online March ,  https://doi.org/./S-()-
 
 Articles
 
 Age, years
 Gravida (parity)
 
-Patient 1
+Patient 
 
-Patient 2
+Patient 
 
-Patient 3
+Patient 
 
-Patient 4
+Patient 
 
-Patient 5
+Patient 
 
-Patient 6
+Patient 
 
-Patient 7
+Patient 
 
-34
 
-30
 
-31
 
-33
 
-29
 
-34
 
-34
 
-2 (0)
 
-2 (0)
 
-2 (1)
 
-1 (0)
 
-2 (1)
 
-39 + 6
 
-38 + 5
 
-41 + 2
+ ()
 
-2 (1)
+ ()
 
-37
+ ()
 
-40 + 4
+ ()
 
-38 + 2
+ ()
 
-38 + 4
+ + 
+
+ + 
+
+ + 
+
+ ()
+
+
+
+ + 
+
+ + 
+
+ + 
 
 Exposure to Huanan seafood No
 market
@@ -374,24 +374,24 @@ admission, weeks + days
 
 No
 
-5 (1)
+ ()
 
 Pneumonia-related manifestations
 Fever (days)
 
-Yes (3)
+Yes ()
 
-Yes (4)
+Yes ()
 
-Yes (14)
+Yes ()
 
 No
 
-Yes (3)
+Yes ()
 
-Yes (4)
+Yes ()
 
-Yes (8)
+Yes ()
 
 Cough
 
@@ -441,57 +441,57 @@ No
 
 No
 
-5
 
-7
 
-4
 
-2
 
-9
 
-5
 
-3
+
+
+
+
+
+
+
 
 Incubation period, days
 
-Table 1: Maternal characteristics of seven patients with COVID-19
+Table : Maternal characteristics of seven patients with COVID-
 
-syndrome) and three (43%) patients had uterine scarring.
-The average incubation period was 5 days (range
-2–9 days). On admission, six (86%) patients had fever,
-one (14%) patient had cough, one (14%) patient had
-shortness of breath, and one (14%) patient had diarrhoea
-(table 1).
-Clinical outcomes were followed up to Feb 12, 2020. Data
+syndrome) and three (%) patients had uterine scarring.
+The average incubation period was  days (range
+– days). On admission, six (%) patients had fever,
+one (%) patient had cough, one (%) patient had
+shortness of breath, and one (%) patient had diarrhoea
+(table ).
+Clinical outcomes were followed up to Feb , . Data
 from laboratory tests showed that all patients had a normal
-leucocyte count and five (71%) had neutrophil levels above
-the normal range (appendix 2 pp 1–2). Lymphocytes were
-below the normal range in five (71%) patients, platelets
-were below the normal range in two (29%) patients, and
+leucocyte count and five (%) had neutrophil levels above
+the normal range (appendix  pp –). Lymphocytes were
+below the normal range in five (%) patients, platelets
+were below the normal range in two (%) patients, and
 D-dimer was above the normal range in all patients.
-Two (29%) patients had differing degrees of liver function
+Two (%) patients had differing degrees of liver function
 abnormality, as well as increased alanine aminotransferase
 or aspartate aminotransferase, or both. Regarding
 infection-related biomarkers, procalcitonin (measured in
 six patients) and erythrocyte sedimentation rate (measured
-in five patients) were above the normal ranges in four (57%)
+in five patients) were above the normal ranges in four (%)
 patients and all patients had abnormally high con­
-centrations of C-­reactive protein. Interleukin-6 was tested
+centrations of C-­reactive protein. Interleukin- was tested
 in four patients, all of whom had levels above the normal
-range. Two patients had H1N1 and one had Legionella
-pneumophila co-infections. According to chest CT, six (86%)
+range. Two patients had HN and one had Legionella
+pneumophila co-infections. According to chest CT, six (%)
 patients had bilateral pneumonia and the remaining
-one (14%) had unilateral pneumonia (appendix 2 pp 1–2;
+one (%) had unilateral pneumonia (appendix  pp –;
 figure).
 All patients received oxygen therapy, via nasal catheter, in
 isolation. All patients received antiviral treatment,
-including oseltamivir (75 mg every 12 h, orally), ganciclovir
-(0·25 g every 12 h, intravenously), and interferon (40 μg
-daily, atomisation inhalation) and arbidol tablets (200 mg
-three times daily, orally; appendix 2 p 2). Traditional
+including oseltamivir ( mg every  h, orally), ganciclovir
+(· g every  h, intravenously), and interferon ( μg
+daily, atomisation inhalation) and arbidol tablets ( mg
+three times daily, orally; appendix  p ). Traditional
 
 A
 
@@ -502,41 +502,41 @@ C
 D
 
 Figure: Chest CT of four patients
-Patient 1 (A), patient 3 (B), patient 4 (C), and patient 6 (D). The brightness of both lungs is diffusely decreased,
+Patient  (A), patient  (B), patient  (C), and patient  (D). The brightness of both lungs is diffusely decreased,
 showing a large area of multiple ground-glass opacities or patchy shadow with an uneven density.
 
 Chinese medicines, such as Jinyebaidu granules and
 Lianhuaqingwen capsules, were also given. All patients
-were given antibiotic treatment: two (29%) patients were
-treated with a single antibiotic and five (71%) patients were
+were given antibiotic treatment: two (%) patients were
+treated with a single antibiotic and five (%) patients were
 given combination therapy. The antibiotics used were
-cephalosporins, quinolones, and macrolides. Five (71%)
+cephalosporins, quinolones, and macrolides. Five (%)
 patients were also treated with methylprednisolone after
-caesarean section (appendix 2 p 2).
+caesarean section (appendix  p ).
 All the patients had caesarean section after con­sultation
 with a multidisciplinary team. The time of delivery was
 
-www.thelancet.com/infection Published online March 24, 2020 https://doi.org/10.1016/S1473-3099(20)30176-6	
+www.thelancet.com/infection Published online March ,  https://doi.org/./S-()-	
 
-See Online for appendix 2
+See Online for appendix 
 
-3
+
 
 Articles
 
-Patient 1
+Patient 
 
-Patient 2
+Patient 
 
-Patient 3
+Patient 
 
-Patient 4
+Patient 
 
-Patient 5
+Patient 
 
-Patient 6
+Patient 
 
-Patient 7
+Patient 
 
 Pregnancy outcome
 
@@ -572,62 +572,62 @@ Normal
 
 Birthweight, g
 
-3250
 
-3350
 
-3200
 
-3000
 
-3500
 
-3300
 
-3250
 
-Apgar score (1 min)
 
-8–9
 
-8–9
 
-8–9
 
-8–9
 
-8–9
 
-8–9
 
-Apgar score (5 min)
+Apgar score ( min)
 
-9–10
+–
 
-9–10
+–
 
-9–10
+–
 
-9–10
+–
 
-9–10
+–
 
-9–10
+–
+
+Apgar score ( min)
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
 
 Admission to neonatology department
-Nucleic acid test of SARS-CoV-2
+Nucleic acid test of SARS-CoV-
 
 Yes
-Positive (36 h)
+Positive ( h)
 
 No
 Not tested
 
 Days of follow-up
 
-40
 
-28
+
+
 
 Neonatal complications
 
@@ -637,101 +637,101 @@ No
 
 Yes
 Negative
-28
+
 No
 
 No
 Not tested
-28
+
 No
 
 No
 Not tested
-28
+
 No
 
 No
 Not tested
-28
+
 No
 
-8–9
-9–10
+–
+–
 Yes
 Negative
-28
+
 No
 
 None of the women were admitted to intensive care. Normal=no respiratory symptoms or fever or neonatal complications, such as neonatal respiratory distress syndrome,
-feeding abnormalities, or abnormal growth or development. SARS-CoV-2=severe acute respiratory syndrome coronavirus 2.
+feeding abnormalities, or abnormal growth or development. SARS-CoV-=severe acute respiratory syndrome coronavirus .
 
-Table 2: Maternal and neonatal outcomes of seven patients with COVID-19
+Table : Maternal and neonatal outcomes of seven patients with COVID-
 
-from 37 weeks to 41 weeks plus 5 days, with a mean of
-39 weeks plus 2 days (appendix 2 p 3). Regarding
+from  weeks to  weeks plus  days, with a mean of
+ weeks plus  days (appendix  p ). Regarding
 anaesthesia, six patients had combined spinal and
 epidural anaesthesia and one received general anaesthesia.
 Intraoperative oxygen saturation was maintained at a
-minimum of 98%, mean intraoperative infusion volume
-was 1036 mL (range 500–1500 mL), mean intraoperative
-bleeding volume was 193 mL (50–300 mL), and mean
-oxytocin use was 26 units (20–30 units).
+minimum of %, mean intraoperative infusion volume
+was  mL (range – mL), mean intraoperative
+bleeding volume was  mL (– mL), and mean
+oxytocin use was  units (– units).
 The outcomes of the pregnant women were good.
 There were no intesive care unit admissions for mothers
 throughout the study period, including before and after
-delivery. At the end of follow-up (March 12, 2020), all
+delivery. At the end of follow-up (March , ), all
 patients had been discharged from the hospital per the
 following discharge criteria: body temperature returned
-to normal for more than 3 days; respiratory symptoms
+to normal for more than  days; respiratory symptoms
 improved significantly; pulmonary imaging showed a
 significant improvement in acute exudative lesions; and
 nucleic acid test of respiratory specimens such as results
 of sputum and nasopharyngeal swabs were negative
-twice in a row (sampling interval ≥24 h). The neonatal
+twice in a row (sampling interval ≥ h). The neonatal
 birthweights and Apgar scores were normal. Four infants
-were taken home and were not tested for SARS-CoV-2;
+were taken home and were not tested for SARS-CoV-;
 no fever, pathological jaundice, or other symptoms were
-reported during the follow-up call at 28 days after birth.
+reported during the follow-up call at  days after birth.
 Another three infants remained for observation in the
-neonatology department and were tested for SARS-CoV-2.
+neonatology department and were tested for SARS-CoV-.
 Nucleic acid test for the throat swab of one neonate (child
-of patient 1) was positive at 36 h after birth; nucleic acid
+of patient ) was positive at  h after birth; nucleic acid
 tests for the other two were negative. Subsequently, this
 infected neonate was transferred to Wuhan Children’s
 Hospital, a designated hospital for children infected with
-COVID-19. After admission, the neonate had no fever
+COVID-. After admission, the neonate had no fever
 and cough, with mild shortness of breath symptoms.
 Chest x-ray revealed mild pulmonary infection. The
 shortness of breath relieved quickly under neonatal
 care and monitoring. The neonate was discharged after
-2 weeks following two consecutive negative nucleic acid
-test results. At 28 days after birth, the remaining three
+ weeks following two consecutive negative nucleic acid
+test results. At  days after birth, the remaining three
 neonates were healthy and had no respiratory symptoms
-or fever (table 2).
-4	
+or fever (table ).
+	
 
 Discussion
 This is a descriptive study on the clinical characteristics
 and obstetric and neonatal outcomes of pregnant women
-infected with COVID-19. At present, few cases of infected
+infected with COVID-. At present, few cases of infected
 pregnant women have been reported. This study is one of
 the first to report the maternal, fetal, and neonatal
-outcomes of pregnant women with COVID-19 who are in
+outcomes of pregnant women with COVID- who are in
 their third trimesters. We have presented seven cases of
-COVID-19 in late pregnancy with good outcomes for
+COVID- in late pregnancy with good outcomes for
 both mother and infant.
 Human coronaviruses are among the most common
-pathogens that cause respiratory infection. SARS-CoV-2
-has enveloped virions that measure about 50–200 nm in
-diameter with a single positive-sense RNA genome.11
-COVID-19 is transmitted through respiratory droplets,
+pathogens that cause respiratory infection. SARS-CoV-
+has enveloped virions that measure about – nm in
+diameter with a single positive-sense RNA genome.
+COVID- is transmitted through respiratory droplets,
 physical contact, and aerosols, and there is evidence of
-human-­to-­human transmission.12–13 None of our pregnant
+human-­to-­human transmission.– None of our pregnant
 patients had a history of exposure to Huanan Seafood
 Wholesale Market, but all of them lived in the epidemic
 area. In terms of clinical manifestations, the common
 symptoms of these pregnant women at the onset of
-COVID-19 were fever and cough, and the less common
+COVID- were fever and cough, and the less common
 symptoms were diarrhoea and shortness of breath.
 Laboratory tests showed that absolute lymphocyte counts
 were reduced, C-reactive protein, erythrocyte sedimen­
@@ -739,20 +739,20 @@ tation rate, and D-dimer were increased, and leucocytes
 were normal in most of the seven pregnant patients. In
 our study, these patients showed a pattern of clinical
 characteristics similar to those reported in non-pregnant
-adults with COVID-19.
-Because COVID-19 is an emerging infectious disease,
+adults with COVID-.
+Because COVID- is an emerging infectious disease,
 the optimal treatment for affected individuals has not yet
 been established. In our study, most patients were treated
 with ribavirin, corticosteroids, and antibiotics. Although
 remdesivir and other antiviral drugs have been used in the
-clinical treatment of patients with COVID-19, no data of
-their safety and efficacy as COVID-19 treatments have
+clinical treatment of patients with COVID-, no data of
+their safety and efficacy as COVID- treatments have
 been published. No safety concerns have been identified
 related to the use of traditional Chinese medicine in our
 study. Five of our patients were treated with steroids
-(methylprednisolone 1–2 mg/kg per day); however, animal
+(methylprednisolone – mg/kg per day); however, animal
 
-www.thelancet.com/infection Published online March 24, 2020 https://doi.org/10.1016/S1473-3099(20)30176-6
+www.thelancet.com/infection Published online March ,  https://doi.org/./S-()-
 
 Articles
 
@@ -760,7 +760,7 @@ studies have shown that the use of large doses of
 corticosteroids during pregnancy might lead to fetal
 malformation, and some studies have shown that the easy
 passage of corticosteroids through the placenta might
-increase the incidence of low birthweight in infants.14
+increase the incidence of low birthweight in infants.
 Therefore, steroids were only used after caesarean section
 in this study. Thus far, no complications related to the
 steroids have been recorded in the mothers and infants,
@@ -777,38 +777,38 @@ the sake of safety considerations. Timely use of antibiotics
 to prevent secondary bacterial infections and strengthen
 immune support treatment can reduce complications
 and mortality, so antibiotics were used routinely after
-operation.15 COVID-19 pneumonia in pregnancy is a com­
+operation. COVID- pneumonia in pregnancy is a com­
 plicated clinical scenario, and a multidisciplinary team of
 medical personnel is needed to care for and treat these
 patients comprehensively. Relevant specialty areas include
 obstetrics, infectious diseases, internal medicine, paedia­
 trics, anaesthesia, psychology, and infection control. No
-medical staff had SARS-Cov-2 infections during the whole
+medical staff had SARS-Cov- infections during the whole
 treatment period.
 The sequence similarity between SARS and
-SARS-CoV-2 is as high as 79%;16 the mortality rate of
-SARS infection is 10%,17 and the mortality rate of SARS
-in pregnant women was 25%.18 Studies have reported
-that the mortality rate of patients with COVID-19 is
-about 1·4%.19 In our study, the maternal, fetal, and
-neonatal outcomes of pregnant women with COVID-19
+SARS-CoV- is as high as %; the mortality rate of
+SARS infection is %, and the mortality rate of SARS
+in pregnant women was %. Studies have reported
+that the mortality rate of patients with COVID- is
+about ·%. In our study, the maternal, fetal, and
+neonatal outcomes of pregnant women with COVID-
 pneumonia are better than those with SARS infection.
 This might be associated with our small number of
 cases and short delivery time (ie, as soon as possible
 after diagnosis). Previous studies have shown no
 evidence of perinatal SARS infection in infants born to
-mothers who had SARS infection during pregnancy.18,20
-One neonate in our study was infected with COVID-19
-36 h after birth. However, the viral nucleic acid tests of
+mothers who had SARS infection during pregnancy.,
+One neonate in our study was infected with COVID-
+ h after birth. However, the viral nucleic acid tests of
 the placenta and cord blood in this patient were negative
-for SARS-CoV-2, so intrauterine vertical transmission
+for SARS-CoV-, so intrauterine vertical transmission
 might not have occurred; thus, further study is needed.
 However, this study has several limitations. First, only
-seven pregnant women with COVID-19 were included in
+seven pregnant women with COVID- were included in
 the analyses. More infected pregnant women and
 comparative studies (eg, cohorts, case-control) should be
 analysed to get a more comprehensive understanding of
-COVID-19 in pregnancy. Second, all enrolled patients
+COVID- in pregnancy. Second, all enrolled patients
 were in the third trimester, so the effect of the virus
 infection on the fetus in the first or second trimester is
 unknown. Third, due to the short time of the outbreak,
@@ -817,12 +817,12 @@ the long-term out­comes of the neonates and whether
 mother-to-child transmission exists require further
 study. However, the data in this study permit an early
 assessment of the clinical characteristics and maternal
-and fetal outcomes of COVID-19 in late pregnancy in
+and fetal outcomes of COVID- in late pregnancy in
 women in Wuhan, China.
 In conclusion, the clinical characteristics of these
-patients with COVID-19 during late pregnancy are
+patients with COVID- during late pregnancy are
 similar to those reported by non-pregnant adults with
-COVID-19. The maternal, fetal, and neonatal outcomes
+COVID-. The maternal, fetal, and neonatal outcomes
 of those pregnant women infected in late pregnancy
 appear very good, and these outcomes are achieved with
 intensive, active management, which might be the best
@@ -841,91 +841,91 @@ Declaration of interests
 We declare no competing interests.
 Acknowledgments
 This work was financially supported by the National Natural Science
-Foundation of China (81701530; 81701476) and Hubei Provincial Natural
-Science Foundation of China (2017CFB626). We thank Dr He Xiao
+Foundation of China (; ) and Hubei Provincial Natural
+Science Foundation of China (CFB). We thank Dr He Xiao
 (Urological Surgery, Wuhan Children’s Hospital [Wuhan Maternal and
 Child Healthcare Hospital], Tongji Medical College, Huazhong
 University of Science and Technology, Wuhan, China) for providing
 information of the neonate who was transferred to Wuhan Children’s
 Hospital.
 References
-1	 Lu H, Stratton CW, Tang Y-W. Outbreak of pneumonia of unknown
+	 Lu H, Stratton CW, Tang Y-W. Outbreak of pneumonia of unknown
 etiology in Wuhan, China: the mystery and the miracle. J Med Virol
-2020; published online Jan 16. DOI:10.1002/jmv.25678.
-2	 Hui DSI, I Azhar E, Madani TA, et al. The continuing 2019-nCoV
+; published online Jan . DOI:./jmv..
+	 Hui DSI, I Azhar E, Madani TA, et al. The continuing -nCoV
 epidemic threat of novel coronaviruses to global health - the latest
-2019 novel coronavirus outbreak in Wuhan, China. Int J Infect Dis
-2020; 91: 264–66.
-3	 Huang C, Wang Y, Li X, et al. Clinical features of patients infected
-with 2019 novel coronavirus in Wuhan, China. Lancet 2020;
-395: 497–506.
-4	 WHO. Clinical management of severe acute respiratory infection
-when novel coronavirus (2019-nCoV) infection is suspected: interim
-guidance. Jan 28, 2020. https://www.who.int/docs/default-source/
+ novel coronavirus outbreak in Wuhan, China. Int J Infect Dis
+; : –.
+	 Huang C, Wang Y, Li X, et al. Clinical features of patients infected
+with  novel coronavirus in Wuhan, China. Lancet ;
+: –.
+	 WHO. Clinical management of severe acute respiratory infection
+when novel coronavirus (-nCoV) infection is suspected: interim
+guidance. Jan , . https://www.who.int/docs/default-source/
 coronaviruse/clinical-management-of-novel-cov.pdf (accessed
-Jan 28, 2020).
-5	 WHO. Novel coronavirus—China. Jan 12, 2020. http://www.who.
-int/csr/don/12-january-2020-novel-coronavirus-china/en/ (accessed
-Jan 19, 2020).
-6	 WHO. Novel coronavirus—Thailand (ex-China). Jan 14, 2020.
-http://www.who.int/csr/don/14-january-2020-novel-coronavirusthailand/en/ (accessed Jan 19, 2020).
-7	 WHO. Novel coronavirus—Japan (ex-China). Jan 17, 2020.
-https://www.who.int/csr/don/17-january-2020-novel-coronavirusjapan-ex-china/en/ (accessed Jan 19, 2020).
-8	 WHO. Novel coronavirus—Republic of Korea (ex-China).
-Jan 21, 2020. http://www.who.int/csr/don/21-january-2020-novelcoronavirus-republic-of-korea-ex-china/en/ (accessed Jan 23, 2020).
-9	 WHO. Coronavirus disease 2019 (COVID-19) situation report 53.
-March 13, 2020. https://www.who.int/docs/default-source/
-coronaviruse/situation-reports/20200313-sitrep-53-covid-19.pdf
-(accessed March 13, 2020).
+Jan , ).
+	 WHO. Novel coronavirus—China. Jan , . http://www.who.
+int/csr/don/-january--novel-coronavirus-china/en/ (accessed
+Jan , ).
+	 WHO. Novel coronavirus—Thailand (ex-China). Jan , .
+http://www.who.int/csr/don/-january--novel-coronavirusthailand/en/ (accessed Jan , ).
+	 WHO. Novel coronavirus—Japan (ex-China). Jan , .
+https://www.who.int/csr/don/-january--novel-coronavirusjapan-ex-china/en/ (accessed Jan , ).
+	 WHO. Novel coronavirus—Republic of Korea (ex-China).
+Jan , . http://www.who.int/csr/don/-january--novelcoronavirus-republic-of-korea-ex-china/en/ (accessed Jan , ).
+	 WHO. Coronavirus disease  (COVID-) situation report .
+March , . https://www.who.int/docs/default-source/
+coronaviruse/situation-reports/-sitrep--covid-.pdf
+(accessed March , ).
 
-www.thelancet.com/infection Published online March 24, 2020 https://doi.org/10.1016/S1473-3099(20)30176-6	
+www.thelancet.com/infection Published online March ,  https://doi.org/./S-()-	
 
-5
+
 
 Articles
 
-10	 Huijun C, Juanjuan G, Chen W, et al. Clinical characteristics and
-intrauterine vertical transmission potential of COVID-19 infection
+	 Huijun C, Juanjuan G, Chen W, et al. Clinical characteristics and
+intrauterine vertical transmission potential of COVID- infection
 in nine pregnant women: a retrospective review of medical records.
-Lancet 2020; published online Feb 12, 2020. https://doi.org/10.1016/
-S0140-6736(20)30360-3.
-11	 Xu XT, Chen P, Wang JF, et al. Evolution of the novel coronavirus
+Lancet ; published online Feb , . https://doi.org/./
+S-()-.
+	 Xu XT, Chen P, Wang JF, et al. Evolution of the novel coronavirus
 from the ongoing Wuhan outbreak and modeling of its spike
-protein for risk of human transmission. Sci China Life Sci 2020;
-63: 457–60.
-12	 Chinese Academy of Sciences. Wuhan coronavirus has strong
-ability to infect humans. Jan 21, 2020. https://view.inews.qq.com/
-w2/20200121A0M08X00?tbkt=F&strategy=&openid=o04IBALMrLy
-GDxbWNOPoDM1IfGs&uid=&refer=wx_hot (accessed
-Jan 29, 2020).
-13	 Chan JF, Yuan S, Kok KH, et al. A familial cluster of pneumonia
-associated with the 2019 novel coronavirus indicating person-toperson transmission: a study of a family cluster. Lancet 2020;
-395: 514–23.
-14	 Tegethoff M, Pryce C, Meinlschmidt G. Effects of intrauterine
+protein for risk of human transmission. Sci China Life Sci ;
+: –.
+	 Chinese Academy of Sciences. Wuhan coronavirus has strong
+ability to infect humans. Jan , . https://view.inews.qq.com/
+w/AMX?tbkt=F&strategy=&openid=oIBALMrLy
+GDxbWNOPoDMIfGs&uid=&refer=wx_hot (accessed
+Jan , ).
+	 Chan JF, Yuan S, Kok KH, et al. A familial cluster of pneumonia
+associated with the  novel coronavirus indicating person-toperson transmission: a study of a family cluster. Lancet ;
+: –.
+	 Tegethoff M, Pryce C, Meinlschmidt G. Effects of intrauterine
 exposure to synthetic glucocorticoids on fetal, newborn, and infant
 hypothalamic-pituitary-adrenal axis function in humans:
-a systematic review. Endocr Rev 2009; 30: 753–89.
+a systematic review. Endocr Rev ; : –.
 
-6	
+	
 
-15	 Chen N, Zhou M, Dong X, et al. Epidemiological and clinical
-characteristics of 99 cases of 2019 novel coronavirus pneumonia in
-Wuhan, China: a descriptive study. Lancet 2020; 395: 507–13.
-16	 Lu R, Zhao X, Li J, et al. Genomic characterisation and
-epidemiology of 2019 novel coronavirus: implications for virus
-origins and receptor binding. Lancet 2020; 395: 565–74.
-17	 WHO. Summary of probable SARS cases with onset of illness from
-1 November 2002 to 31 July 2003. https://www.who.int/csr/sars/
-country/table2004_04_21/en/ (accessed Feb 12, 2020).
-18	 Wong SF, Chow KM, Leung TN, et al. Pregnancy and perinatal
+	 Chen N, Zhou M, Dong X, et al. Epidemiological and clinical
+characteristics of  cases of  novel coronavirus pneumonia in
+Wuhan, China: a descriptive study. Lancet ; : –.
+	 Lu R, Zhao X, Li J, et al. Genomic characterisation and
+epidemiology of  novel coronavirus: implications for virus
+origins and receptor binding. Lancet ; : –.
+	 WHO. Summary of probable SARS cases with onset of illness from
+ November  to  July . https://www.who.int/csr/sars/
+country/table__/en/ (accessed Feb , ).
+	 Wong SF, Chow KM, Leung TN, et al. Pregnancy and perinatal
 outcomes of women with severe acute respiratory syndrome.
-Am J Obstet Gynecol 2004; 191: 292–97.
-19	 Guan W-J, Ni Z-Y, Hu Y, et al. Clinical characteristics of coronavirus
-disease 2019 in China. N Engl J Med 2020; published online Feb 28.
-DOI:10.1056/NEJMoa2002032.
-20	 Shek CC, Ng PC, Fung GP, et al. Infants born to mothers with
-severe acute respiratory syndrome. Pediatrics 2003; 112: e254.
+Am J Obstet Gynecol ; : –.
+	 Guan W-J, Ni Z-Y, Hu Y, et al. Clinical characteristics of coronavirus
+disease  in China. N Engl J Med ; published online Feb .
+DOI:./NEJMoa.
+	 Shek CC, Ng PC, Fung GP, et al. Infants born to mothers with
+severe acute respiratory syndrome. Pediatrics ; : e.
 
-www.thelancet.com/infection Published online March 24, 2020 https://doi.org/10.1016/S1473-3099(20)30176-6
+www.thelancet.com/infection Published online March ,  https://doi.org/./S-()-
 
 
