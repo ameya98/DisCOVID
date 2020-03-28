@@ -21,7 +21,7 @@ def keywords_yake(text_file, num_keywords):
         text = f.read()
 
     # Extract keywords with YAKE.
-    kw_extractor = yake.KeywordExtractor(dedupLim=0.9, dedupFunc='seqm', top=num_keywords)
+    kw_extractor = yake.KeywordExtractor(dedupLim=0.6, dedupFunc='jaro', top=num_keywords)
     keywords = kw_extractor.extract_keywords(text)
 
     # Lower the score, more the relevance.
