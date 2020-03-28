@@ -13,6 +13,11 @@ For *yake* (from [official repository](https://github.com/LIAAD/yake)):
 pip3 install git+https://github.com/LIAAD/yake
 ```
 
+For *rake_nltk* (another keyword extractor):
+```bash
+pip3 install rake_nltk
+```
+
 For *sortedcontainers* (for the index creation):
 ```bash
 pip3 install sortedcontainers
