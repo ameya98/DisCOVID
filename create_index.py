@@ -7,7 +7,7 @@ import argparse
 import pickle
 
 # Internal dependencies.
-from get_keywords import keywords
+from get_keywords import get_keyword_extractor
 
 if __name__ == "__main__":
 
@@ -19,6 +19,8 @@ if __name__ == "__main__":
                         help='Directory where text files are present.')
     parser.add_argument('-n', dest='num_keywords', default=20, type=int,
                         help='Number of keywords to extract.')
+    parser.add_argument('--alg', dest='algorithm', default='yake', choices=('rake', 'yake'),
+                        help='Keyword extraction algorithm to use.')
     args = vars(parser.parse_args())
 
     # Our index is a sorted dictionary of keywords.
@@ -29,9 +31,13 @@ if __name__ == "__main__":
     TXTS_DIR = args['txtsdir']
     documents = os.listdir(TXTS_DIR)
 
+    # Load keyword extraction algorithm.
+    algorithm = args['algorithm']
+    keywords = get_keyword_extractor(algorithm)
+    
     # Number of keywords per document.
     num_keywords_per_document = args['num_keywords']
-
+    
     for document in documents:
         document_full_path = TXTS_DIR + '/' + document
         doc_keywords = keywords(document_full_path, num_keywords_per_document)
