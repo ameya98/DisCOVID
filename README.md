@@ -88,12 +88,13 @@ and query (with queries stored in *queries.yaml*) with:
 ```
 which gives me:
 ```bash
-covid: []
-venezuala: [(0.009363438602675899, 'txts//venezuelan_migrants.txt', 'venezuelan migrants'), (0.014595880688234019, 'txts//venezuelan_migrants.txt', 'venezuela')]
-venezuela: [(0.008879725403320333, 'txts//venezuelan_migrants.txt', 'venezuelan migrants'), (0.013935548869104048, 'txts//venezuelan_migrants.txt', 'venezuela')]
-medic: [(0.03432131266823987, 'txts//antihypertensive.txt', 'med'), (0.03564305671895848, 'txts//venezuelan_migrants.txt', 'medical')]
-hyper: []
-corona: []
+covid: [(6.94191921041655e-05, 'txts//outbreak-update-7.txt', 'covid'), (0.0004443634551284221, 'txts//children-36.txt', 'covid')]
+corona: [(0.002717349750564567, 'txts//antimicrobial-Agents-Chemotherapy-2020.txt', 'coronavirus'), (0.005543175840332845, 'txts//children-corona.txt', 'coronavirus')]
+venezuala: [(0.009458640249675531, 'txts//venezuelan_migrants.txt', 'venezuelan migrants')]
+venezuela: [(0.008970008953965818, 'txts//venezuelan_migrants.txt', 'venezuelan migrants')]
+medic: [(0.0015031011723993745, 'txts//hiv-drug-trial.txt', 'medical society'), (0.005073313181321498, 'txts//mitigate-spread.txt', 'median')]
+hyperactive: [(0.05283157880395907, 'txts//children-36.txt', 'c-reactive')]
+social: [(4.7374173566215475e-05, 'txts//social-distancing.txt', 'social distancing measures'), (0.006873273194797273, 'txts//hiv-drug-trial.txt', 'society')]
 ```
 
 ## Support
