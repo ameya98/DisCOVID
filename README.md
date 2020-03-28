@@ -81,6 +81,15 @@ and query (with queries stored in *queries.yaml*) with:
 ```bash
 ./query.py queries.yaml index.pkl
 ```
+which gives me:
+```bash
+covid: []
+venezuala: [(0.009363438602675899, 'txts//venezuelan_migrants.txt', 'venezuelan migrants'), (0.014595880688234019, 'txts//venezuelan_migrants.txt', 'venezuela')]
+venezuela: [(0.008879725403320333, 'txts//venezuelan_migrants.txt', 'venezuelan migrants'), (0.013935548869104048, 'txts//venezuelan_migrants.txt', 'venezuela')]
+medic: [(0.03432131266823987, 'txts//antihypertensive.txt', 'med'), (0.03564305671895848, 'txts//venezuelan_migrants.txt', 'medical')]
+hyper: []
+corona: []
+```
 
 ## Support
 Python 3.5+
