@@ -2,7 +2,7 @@
 Team 88's repository for the JHU Design Challenge.
 
 ## Installation
-Instructions are for an Ubuntu (16.04+) system.
+Instructions are for an Ubuntu (16.04+) system.  
 For *pdftotext*:
 ```bash
 sudo apt install poppler-utils
@@ -11,6 +11,16 @@ sudo apt install poppler-utils
 For *yake* (from [official repository](https://github.com/LIAAD/yake)):
 ```bash
 pip3 install git+https://github.com/LIAAD/yake
+```
+
+For *sortedcontainers* (for the index creation):
+```bash
+pip3 install sortedcontainers
+```
+
+For *yaml* and *strsimpy* (for the queries):
+```bash
+pip3 install PyYAML strsimpy
 ```
 
 ## Usage
@@ -31,9 +41,22 @@ Once the PDF files are converted to text, extract keywords from a text file with
 ```
 which outputs keywords and scores, in order of increasing relevance.
 
+Create the index file (for a bunch of text files) with:
+```bash
+./create_index.py index-file --txts text-dir -n num-keywords
+```
+which creates a binary file storing the index.
+
+Query the generated index file with queries stored in a YAML file:
+```bash
+./query_file.py query-file index-file
+```
+which outputs (score, document, keyword) pairs. Use the '-h' option, and see options for the similarity function (*'--sim'*) (supported options are: Normalized Leveshtein, Jaro-Winkler and Exact, all of which have range [0, 1].) and a threshold (*'--thres'*) which should also be in [0, 1].
+
 ## Examples
 Running
 ```bash
+./convert_to_text.py --pdfs pdfs/ --txts txts/
 ./get_keywords.py txts/venezuelan_migrants.txt -n 10
 ```
 gives me:
@@ -48,6 +71,24 @@ gives me:
 0.0576: venezuelan ngo médicos
 0.0579: migrants
 0.0625: venezuelan health system
+```
+
+I can create an index file (*index.pkl*) with:
+```bash
+./create_index.py index.pkl --txts txts/
+```
+and query (with queries stored in *queries.yaml*) with:
+```bash
+./query.py queries.yaml index.pkl
+```
+which gives me:
+```bash
+covid: []
+venezuala: [(0.009363438602675899, 'txts//venezuelan_migrants.txt', 'venezuelan migrants'), (0.014595880688234019, 'txts//venezuelan_migrants.txt', 'venezuela')]
+venezuela: [(0.008879725403320333, 'txts//venezuelan_migrants.txt', 'venezuelan migrants'), (0.013935548869104048, 'txts//venezuelan_migrants.txt', 'venezuela')]
+medic: [(0.03432131266823987, 'txts//antihypertensive.txt', 'med'), (0.03564305671895848, 'txts//venezuelan_migrants.txt', 'medical')]
+hyper: []
+corona: []
 ```
 
 ## Support
