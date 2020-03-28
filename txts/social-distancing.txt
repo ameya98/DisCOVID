@@ -1,0 +1,949 @@
+TECHNICAL REPORT
+
+Considerations relating to social
+distancing measures in response to
+COVID-19 – second update
+23 March 2020
+What is new in this update
+
+
+
+
+Additional information about workplace closures
+Discussion of the term ‘social distancing’ vis-à-vis the practice of ‘physical distancing’
+Discussion of the importance of promoting solidarity and mutual community support when social distancing
+measures are implemented
+
+Scope of this document
+This document aims to support public health preparedness planning and response activities based upon social
+distancing measures aimed at minimising the spread of COVID-19.
+Social distancing is an action taken to minimise contact with other individuals; social distancing measures comprise
+one category of non-pharmaceutical countermeasures (NPCs)1 aimed at reducing disease transmission and thereby
+also reducing pressure on health services [1, 2].
+This document builds upon and supports existing ECDC documents, including guidelines for the use of nonpharmaceutical measures to delay and mitigate the impact of 2019-nCoV [2], a rapid risk assessment: outbreak of
+novel coronavirus disease – sixth update [4a], a technical report on the use of evidence in decision-making during
+public health emergencies [5], and a guidance document on community engagement for public health events
+caused by communicable disease threats in the EU/EEA [15].
+
+1
+
+Other NPCs include personal protective measures (hand and respiratory hygiene, cough etiquette, and use of respirators or
+facemasks) and environmental measures (routine cleaning of frequently used surfaces, clothes and objects; minimising the
+sharing of objects; and ensuring appropriate ventilation.)
+
+Erratum. On 26 March 2020, the first bullet point in Table 1 on page 3 was revised. The version of this document initially
+published stated: ‘Confirmed or suspected cases of COVID19 are isolated [...] or recommended to self-isolate at home (mild
+cases).’ This has now been amended to ensure consistency with other ECDC publications.
+Suggested citation: European Centre for Disease Prevention and Control. Considerations relating to social distancing measures in
+response to COVID-19 – second update. Stockholm: ECDC; 2020.
+© European Centre for Disease Prevention and Control, Stockholm, 2020.
+
+ECDC REPORT
+
+Guidance for social distancing measures aimed at minimising the spread of SARS-CoV-2
+
+Target audience
+Public health authorities in the EU/EEA Member States and the United Kingdom.
+
+Key points
+
+
+
+
+
+Social distancing aims, through a variety of means, to minimise physical contact between individuals and
+thereby to reduce the possibility for new infections.
+Decisions on when and how to implement social distancing measures should always be informed by
+evidence, but they will very rarely be purely evidence based. Social and political considerations will also
+need to be taken into account.
+The detection of COVID-19 cases and/or deaths outside of known chains of transmission is a strong signal
+that social distancing measures, such as closures of workplaces/schools, cancellations of mass gatherings,
+and the quarantine of affected areas, should be considered.
+The early, decisive, rapid, coordinated and comprehensive implementation of measures, closures and
+quarantines is likely to be more effective in slowing the spread of the virus than a delayed implementation.
+
+Background
+With the rapidly escalating COVID-19 pandemic, governments in all countries have been urged by WHO to regard
+control of the disease as a ‘top priority’ [3]; ECDC has made a similar call for EU/EEA Member States [4, 4a]. This
+short guide discusses various aspects of the implementation of social distancing measures, including the decisionmaking process and some of the socio-economic effects that they may bring about.
+
+Decision-making for social distancing
+measures
+The COVID-19 pandemic is an emerging, rapidly evolving situation for which social distancing measures may be
+justified and implemented as a core component of the response. Public health authorities should ensure that
+decision makers are aware of, and understand, the current scientific uncertainties related to the virus [5]. These
+uncertainties include, among other issues:
+
+
+
+
+
+
+
+The precise mode(s) of transmission of the virus, and the possibility of aerosol transmission
+How long someone needs to be exposed in order to be infected
+The minimum infectious dose/number of infectious viral particles needed to initiate infection
+The degree of infectivity prior to onset of symptoms, and how long a person is infectious after recovery
+Whether seasonality will affect transmission
+Immune responses in humans and duration of immunity.
+
+Mathematical modelling of the effects of social distancing interventions can support decision-making, based on the
+local contact patterns and known or assumed parameters of infectiousness, incubation time and duration of
+immunity [30].
+Public health authorities should recognise that extra-scientific factors (e.g. feasibility of implementing scientific
+advice, time pressure, socio-political factors, institutional factors, economic interests, pressure from neighbouring
+countries etc.) are inherent to the decision-making process. These factors will also influence the implementation of
+any proposed response measures [1, 5]. Decisions should therefore always be evidence informed, but they will
+very rarely be purely evidence based.
+Lessons identified from previous influenza pandemics (e.g. from 1918, 1957, 1968, 2009), annual seasonal
+influenza epidemics, and from the SARS outbreak in 2003 may be taken into account in the decision-making and
+implementation process [31, 32]. However, it is important to bear in mind that COVID-19 is a new disease with its
+own, as yet incompletely understood, properties.
+
+Objectives of social distancing measures
+The term ‘social distancing’ refers to efforts that aim, through a variety of means, to decrease or interrupt
+transmission of COVID-19 in a population (sub-)group by minimising physical contact between potentially infected
+individuals and healthy individuals, or between population groups with high rates of transmission and population
+groups with no or a low level of transmission. Community-level social distancing measures are needed in parallel
+
+2
+
+ECDC REPORT
+
+Guidance for social distancing measures aimed at minimising the spread of SARS-CoV-2
+
+with containment efforts (e.g. contact tracing [33]) whenever it becomes clear that containment alone is no longer
+sufficient as a means of delaying the peak of the epidemic, decreasing the peak magnitude to protect healthcare
+capacity, or protecting vulnerable groups at risk of severe outcomes (Figure 1). There are several different types of
+social distancing measures (Table 1), and these can be categorised in ‘layers’, in ascending order of scale. Each
+progressive layer of measures includes all measures from the previous layers.
+It is important to note that the term ‘social distancing’ focuses on reducing physical contact as a means of
+interrupting transmission, but while reduction of social contact may be an outcome of that, it is not a specific aim.
+Indeed, the success of social distancing measures that are implemented over an extended period may depend on
+ensuring that people maintain social contact – from a distance – with friends, family and colleagues. Internetbased communications are therefore a key tool for ensuring a successful social distancing strategy.
+Figure 1. Illustration of the objectives of social distancing measures to reduce and delay the peak of
+the epidemic and protect healthcare capacity
+
+Table 1: Description of social distancing measures and their rationale, at individual and group level
+Social distancing measure
+
+Description
+
+Rationale
+
+Individual social distancing
+Isolation2 of cases
+
+ Confirmed or suspected cases of
+COVID19 are isolated, meaning either
+hospitalised (usually for moderate or
+severe cases) to provide care, or managed
+in dedicated isolation facilities or at home
+(mild cases)
+ In a situation of widespread community
+transmission, a blanket recommendation
+for individuals with symptoms to stay home
+may be given
+ Isolation of cases can be voluntary or
+mandatory
+
+ Separating sick from healthy persons to avoid
+transmission
+
+Quarantine2 of contacts
+
+ Healthy person(s) who have had a high- or
+low-risk contact with a confirmed COVID19 case, according to the contact
+investigation
+ Quarantine of cases can be voluntary or
+mandatory2
+
+ Usually recommended to self-quarantine in a safe
+area or at home, and self-monitor for appearance
+of COVID-19-compatible symptoms; if symptoms
+are detected, a test may be carried out promptly
+ Separation from other healthy persons to avoid
+transmission if disease develops, even during
+asymptomatic or subclinical phases of the disease
+
+2
+
+In the context of public health, confirmed or suspected patients of an infectious disease (‘cases’) are isolated while their
+contacts (depending on the epidemiology of the disease), who are in general healthy persons, are quarantined. The word
+quarantine has an inherent enforcement meaning. Sometimes ‘voluntary self-isolation’, or even ‘voluntary quarantine’, or ‘selfquarantine’ are used to infer that persons comply voluntarily to public health recommendations.
+
+3
+
+ECDC REPORT
+
+Guidance for social distancing measures aimed at minimising the spread of SARS-CoV-2
+
+Social distancing measure
+Stay-at-home
+recommendations
+
+Description
+
+Rationale
+
+ Blanket recommendation for the public to
+stay at home and avoid mass gatherings
+and close contacts with people, especially
+known high-risk groups
+
+ Recommendations for voluntary social distancing
+of persons, particularly the high-risk groups, in
+order to reduce transmission, avoid increased
+morbidity, and thereby decrease the pressure to
+the health system
+
+Social distancing affecting multiple persons
+Closure of educational
+institutions
+
+ Schools (including day care centres,
+kindergartens, primary and secondary
+schools)
+ Closure of higher educational institutions
+(including universities, research institutes,
+etc.)
+
+ Preventing contact among children is a known
+prevention measure in influenza outbreaks and
+pandemics
+ Universities and other educational institutions are
+also areas where large numbers of people
+congregate in confined spaces
+ In studies of influenza outbreaks, both measures
+usually have the biggest effect when applied early
+in the transmission phase and when they last until
+the circulation of the pathogen decreases (i.e. after
+several weeks) [34]
+ Need to also prevent meeting/gathering of youths
+outside school in order to ensure effectiveness
+
+Workplace closures
+
+ Closure of offices, factories, retail outlets,
+agricultural production, construction,
+restaurants, cafes/bars, sports clubs,
+haulage/transport etc.
+ Can include: flexible working
+schedules/shifts for employees;
+opportunities for distance
+working/teleworking; encouraging physical
+distancing measures within the workspace;
+increased use of email and
+teleconferences to reduce close contacts;
+reduced contact between employees and
+customers; reduced contact between
+employees; adoption of flexible leave
+policies; and promoting the use of other
+personal protective and environmental
+countermeasures
+
+ The aim is to avoid transmission among mediumto-large numbers of people in confined spaces
+over extended periods
+ Depending on the proximity of people working in
+different workplace settings as well as the rate and
+nature of their interactions, different individuals and
+groups will be at higher risk of infection than
+others. Closures can therefore be targeted to these
+areas.
+
+Measures for special
+populations
+
+Measures to limit outside visitors and limit the
+contact between the inmates/patients in
+confined settings, such as:
+ Long-term care facilities, either for the
+elderly or persons with special needs
+ Psychiatric institutions
+ Homeless shelters
+ Prisons
+
+ These institutions house a large percent of people
+in high-risk groups for severe disease and poor
+outcome, are often densely populated, and
+outbreaks of COVID-19 can lead to significant
+morbidity and mortality
+ Measures should be applied early in the outbreak
+and be continued until the circulation of COVID-19
+decreases in the community
+
+Mass gathering cancellations
+
+ Cultural events (theatres, cinemas,
+concerts, etc.)
+ Sporting events (football, indoor and
+outdoor athletic games, marathon runs
+etc.)
+ Festivals, faith-based events
+ Conferences, meetings, trade fairs, etc.
+
+ To avoid transmission among large numbers of
+people in confined spaces
+ For some events – even though they may be
+conducted outdoors (e.g. football matches) –
+attendees may be in close contact on public
+transportation, at the entrance and exit, etc.
+
+Cordon sanitaire/mandatory
+quarantine of a building or
+residential area(s)
+
+ Refers to the quarantine and closing off of
+a building or whole residential area (city,
+region, etc.)
+
+ Limiting the contact between high-incidence areas
+and those with no or low levels of transmission
+ This measure implies that the measures above
+(e.g. school and higher education closures,
+cancellations of mass gatherings) are also
+implemented in order to maximise social distancing
+within the cordon sanitaire
+
+4
+
+ECDC REPORT
+
+Guidance for social distancing measures aimed at minimising the spread of SARS-CoV-2
+
+When to initiate social distancing measures
+and exit strategies
+There is uncertainty over the effectiveness of most social distancing measures as a means of controlling COVID-19.
+However, due to the relatively high transmissibility of the virus, the impact of such measures on the peak
+magnitude of the epidemic and the potential delay of the peak is likely to depend on how early the measures are
+taken in the context of the local epidemiological situation. In addition, layering of multiple measures is likely to
+increase the composite effectiveness of individual measures.
+Observational and modelling evidence from past pandemics (e.g. influenza pandemics) and from the experiences
+with COVID-19 in China indicates that the early, decisive, rapid, coordinated and comprehensive implementation of
+social distancing measures are likely to be more effective in slowing the spread of the virus than delayed actions
+[6-8]: it is estimated that if a range of non-pharmaceutical interventions, including social distancing, had been
+conducted one week, two weeks, or three weeks earlier in China, the number of COVID-19 cases could have been
+reduced by 66%, 86%, and 95%, respectively, while also significantly reducing the number of affected areas [9].
+There is no one-size-fits-all method of deciding on the best time to enact social distancing measures that involve
+closures, cancellations or quarantine of entire affected areas. In an epidemiological situation between scenario 3
+(localised outbreaks that start to merge, becoming indistinct) and scenario 4 (widespread sustained transmission of
+COVID-19) [4], the detection of COVID-19 cases and/or deaths outside of known chains of transmission provides a
+signal that such social distancing measures should be implemented. In addition, data support the simultaneous
+implementation of several layers of social distancing at once, rather than one by one [7]. For example, if schools
+are closed but workplaces remain open, parents and caregivers may need to ask grandparents to take care of their
+(possibly infected) children while they continue working. This could lead directly to increased transmission to
+individuals who are at high risk of severe disease.
+In the meantime, as a means of facilitating public acceptance of social distancing measures, it is important that an
+anticipated end date is established and communicated as soon as possible. It should also be made clear to the
+population that a) the measures could be extended if circumstances require it, and that b) some measures may be
+removed or reduced while others remain in place. In addition, plans should be drawn up and communicated to the
+public that there is the possibility of re-imposing large-scale social distancing measures if there is a resurgence of
+transmission following the lifting of measures. ECDC is currently working on an analysis of possible exit strategies
+(including timing). The results will be included in the next edition of this document.
+Note that in the absence of mass vaccination programmes, the development of sufficient levels of immunity in the
+population through natural infection (‘herd immunity’) is the only way to eventually decrease transmission
+opportunities in the community. Ultimately, when ‘herd immunity’ is sufficient, social distancing measures become
+obsolete.
+
+Considerations when implementing social
+distancing measures
+Some of the generic challenges authorities will face when implementing social distance measures are presented
+below; details of the specific measures are given in Table 2 below.
+
+Social and political factors
+Every EU/EEA country has a specific social, political and constitutional context. What may be acceptable and
+feasible in one setting may not be in another. Societal norms and values underpinning freedom of movement and
+travel will need to be weighed against precautionary principles and the public acceptance of risks [10]. It is
+important to consider, anticipate and plan for mitigation, while keeping in mind the considerable public reaction
+that social distancing measures may cause. There is no one-size-fits-all approach for implementation of social
+distancing measures.
+
+5
+
+ECDC REPORT
+
+Guidance for social distancing measures aimed at minimising the spread of SARS-CoV-2
+
+Human rights and proportionality of response
+Restrictive public health measures must always respect existing national legislation, as well as international legal
+and ethical principles, such as the UN Siracusa Principles [11] and the International Health Regulations, Article 3
+[12]. On this basis, the following conditions should be met:
+‘Public necessity, demonstrated effectiveness and scientific rationale, proportionality and least infringement,
+reciprocity, justice and fairness’ [13].
+It is important, for example, that people should not be quarantined to protect the wider population if they
+themselves are then isolated in a high-transmission setting. Furthermore, quarantine should not differentiate
+between social or economic groups in a population [14].
+
+Risk communication
+A comprehensive risk communication strategy should be developed. It should, among other things, present to the
+public the rationale and justification behind the implemented social distancing measures. In addition to informing
+the population about mandated measures, a key component of this should be to encourage people to take action
+at a personal level as a means of protecting themselves. Different audiences should be targeted (for example
+through minority languages). A monitoring system should also be put in place to observe public perceptions and
+opinions of both the outbreak and the response to the outbreak [15].
+
+Countering stigma
+Evidence from previous infectious disease epidemics indicates that people and/or groups who have been subjected
+to quarantine or self-isolation – even if not infected themselves – may be stigmatised [16], which can undermine
+their capacity to adhere to the public health measures in place and may have longer-term social implications [17].
+It is important for the authorities to proactively address potential stigma by promoting a sense of solidarity in the
+population: everyone is to some extent at risk, and that ‘we are all in this together’ [18].
+
+Support for people and communities subjected to social
+distancing measures
+To facilitate adherence to, and implementation of, social isolation measures, a support system should be prepared
+and communicated to ensure the continued provision of essential services and supplies (e.g. food, medication and
+access to healthcare) to people and communities subjected to social distancing measures [19, 20]. Consideration
+should also be given to the potential effects of the social distancing measures on mental health of the affected
+individuals [17, 19]. Encouraging contact with friends, family and other networks via internet-based
+communications systems, social media and phone is an important means of promoting mental well-being. The
+benefits of encouraging people to engage in physical activity – whether in their homes or, alone, outside – should
+also be stressed, as should advice to eat healthy, well-balanced meals; drink enough water; and try to avoid
+smoking, alcohol and drugs [35].
+
+Special support for vulnerable groups
+Vulnerable individuals – for example the elderly, those with underlying health conditions, disabled people, people
+with mental health problems, homeless people, and undocumented migrants – will require extra support [4a].
+Authorities may want to consider coordinating with, and supporting, civil society and religious groups that already
+work with these populations [15].
+
+Promoting solidarity and mutual community support
+There is anecdotal evidence from several countries where rigorous quarantine measures have been implemented of
+communities spontaneously engaging in shows of mutual support. These have included singing together and
+applauding health workers from the balconies of apartment buildings; hanging banners with encouraging messages
+(e.g. ‘Andrà tutto bene’ in Italy, which translates as ‘Everything will be alright’); donations of food and face masks;
+and people reaching out to elderly or otherwise vulnerable neighbours to make sure that they feel supported and
+remembered. From the business community, there have also been offers from the producers of alcoholic drinks to
+turn their focus and activities towards the provision of hand sanitiser, which is in short supply in many settings.
+Official acknowledgment and promotion of such gestures of solidarity and mutual community support may facilitate
+stronger adherence to these very challenging measures for the population.
+
+6
+
+ECDC REPORT
+
+Guidance for social distancing measures aimed at minimising the spread of SARS-CoV-2
+
+Financial compensation for lost income and employment
+Restrictive social distancing measures carry with them short- and possibly medium-term financial burdens [1].
+Families, communities and businesses will be affected, with low-wage and gig-economy (zero-hour contracts)
+workers facing particular challenges. Financial compensation for losses incurred may be seen as an essential
+component of the wider preventive strategy because it may facilitate adherence to the prescribed public health
+measures [22].
+
+Ensuring business continuity
+Business continuity management is the process by which an organisation ensures that its most critical activities and
+processes are operational regardless of incidents or disruptions. Some business continuity measures, such as
+teleworking, may also reduce transmission of the virus [23]. Business continuity should be ensured for those
+essential services for which the societal consequences of disruption would be high (e.g. law enforcement,
+healthcare, fire services, long-term care facilities, pharmacies, grocery shops, internet providers, prisons, and the
+utilities (water, gas, electricity) sector). Business continuity support should also be provided to non-critical and
+smaller businesses, which may be more prone to failure [24].
+
+Process and impact evaluation
+The epidemiological and social effects of mandated social distancing measures should be monitored throughout the
+period of enforcement and should be adapted accordingly in real time. Once the measures have been lifted, it will
+be important to conduct a systematic, comprehensive post-event evaluation in each setting in order to identify
+lessons and thereby inform future practice, for example in the event of a resurgence of the epidemic [1, 15].
+Table 2. Overview of implementation, stakeholders, considerations and potential barriers per type of
+social distancing measure to be implemented
+Social distancing measure
+Individual social distancing
+Isolation of cases
+Quarantine of contacts
+Stay-at-home
+recommendations
+
+Stakeholders (in addition to
+public health authorities)
+Authorities at local and/or national
+levels responsible for:
+ Internal affairs
+ Judicial system and law
+enforcement bodies
+
+7
+
+Considerations and potential barriers
+ In the phase of widespread transmission, confirmed
+COVID-19 cases with mild symptoms, or people with
+symptoms consistent with COVID-19, may be requested
+to self-isolate at home
+ Mandatory isolation of cases and/or and quarantine of
+their contacts should be considered if persons do not
+comply with voluntary isolation or self-quarantine
+ Teleworking may not be an option for all quarantined
+cases, and personal financial losses may occur
+ Essential services (healthcare, schools, utilities, etc.) may
+be severely affected if identified cases and/or contacts
+include key workers
+ Environmental cleaning should be conducted along with
+the use of other personal protective measures (hand
+hygiene and respiratory etiquette) while on self-isolation
+ Face masks should be used at all times by symptomatic,
+ill people when in contact with other people in the
+household in order to avoid infecting them
+
+ECDC REPORT
+
+Guidance for social distancing measures aimed at minimising the spread of SARS-CoV-2
+
+Stakeholders (in addition to
+public health authorities)
+Social distancing affecting multiple persons
+Closure of educational
+Ministries/authorities at local
+institutions:
+and/or national levels
+ Schools (including day care responsible for:
+centres, kindergartens,
+ Health
+primary and secondary
+ Education
+schools) [25]
+ Internal affairs
+ Higher education
+ Regional education
+institutions closure
+authorities
+(universities, research
+ Foreign affairs
+institutes, academic
+ Deans/boards of public and
+institutes, etc.)
+private universities
+ Boards of research
+institutions
+ Parent associations
+ Student associations
+Social distancing measure
+
+Workplace closures:
+ Offices
+ Factories
+ Retail Outlets
+ Construction
+ Restaurants, cafes/bars
+ Sports clubs
+ Haulage/transport
+
+
+
+
+
+
+
+
+Considerations and potential barriers
+Considerations for educational institutions
+ Need to ensure continuity of education, but be aware of
+unequal access to digital education
+ Dropout rates may increase while schools and
+universities are closed
+ Social isolation because educational institutions are a
+hub of social activity and human interaction
+ Community and financial pressures to remain open
+Schools
+ Parents may miss work and will incur financial losses;
+some may lose their jobs, which could disproportionately
+affect one-parent households
+ Adverse effect on health system because a significant
+percentage of women work in the health sector and may
+need to stay home to care for children
+ Adverse effect on children’s nutrition because many rely
+on meals provided at schools
+Higher education
+ Universities may need to cancel other mass gathering
+events, e.g. conferences, project meetings, workshops,
+etc., therefore incurring loss of funds
+ Research trips and field work may need to be
+postponed/cancelled, therefore incurring loss of funds
+ Consider the needs of visiting students and teaching staff
+from other countries who may have specific visas and/or
+limited resources
+ Special considerations and instructions are needed for
+dormitories
+ Research laboratories may need to maintain skeleton
+staff to take care of long-lasting and/or costly
+experiments, or feed/take care of laboratory animals
+Considerations for workplaces
+ Every effort should be made to ensure that essential
+services are maintained (e.g. law enforcement,
+healthcare, fire services, long-term care facilities,
+pharmacies, grocery shops, internet providers, prisons,
+and utilities such as water, gas and electricity), even if
+they can only be manned by skeleton staff
+ Wherever possible, employees should telework from
+home and use videoconferencing tools for meetings
+ Teleworking may not be an option in all cases, and
+substantial personal financial losses and/or loss of
+employment may occur
+ Low-wage and gig-economy (zero-hour contracts)
+workers may face particular challenges
+ Some social distancing measures can be taken while
+workplaces remain open (see Table 1)
+ Financial compensation from the state for losses incurred
+may be seen as an essential component of the wider
+preventive strategy because it may facilitate adherence to
+the prescribed public health measures
+
+Trade Ministry
+Finance Ministry
+Emergency services
+Employers
+Business federations
+Trade Unions
+
+8
+
+ECDC REPORT
+
+Social distancing measure
+Measures for special confined
+populations, including:
+ Long-term care facilities
+[26]
+ Psychiatric institutions
+ Prisons, etc.
+
+Mass gathering cancellation,
+Including:
+ Culture events (theatres,
+cinemas, concerts, etc.)
+ Sporting events (football,
+indoor and outdoor athletic
+games, marathons, etc.)
+ Festivals
+ Faith-based events
+ Conferences
+[27, 28]
+
+Cordon sanitaire:
+Mandatory quarantine of a
+building or residential area(s)
+[29]
+
+Guidance for social distancing measures aimed at minimising the spread of SARS-CoV-2
+
+Stakeholders (in addition to
+public health authorities)
+Ministries/ authorities at local
+and/or national levels
+responsible for:
+ Health
+ Interior affairs
+ Judicial system and law
+enforcement bodies
+
+Considerations and potential barriers
+Considerations for institutions
+ Increased mental-health issues (e.g. depression) among
+patients/inmates and further alienation of
+patients/inmates from society
+ Strict instructions to staff of such institutions saying that
+they should not come to work if they experience
+symptoms of respiratory illness and/or fever
+ Virtual family visits can be organised if outside visitors are
+not allowed for an extended period of time
+ Need to ensure appropriate infection control within
+facilities
+Prisons
+ Prisoner discontent; riots
+
+Ministries/authorities at local
+and/or national levels responsible
+for:
+ Health
+ Interior affairs
+ Foreign affairs
+ Culture and religious affairs
+ Event-organising committees
+(national and international
+levels)
+ Regional and local
+authorities
+ Professional associations
+and boards
+ Religious leaders and
+organisations
+
+All mass gathering events
+ Financial losses for organisers and possible rise in
+unemployment
+ Financial losses for attendees (ticket fees,
+accommodation fees, transportation fees, etc.)
+ Financial losses for affiliated businesses (media, catering,
+sponsorships, etc.)
+ Damage to brand names
+ Subsequent decreases in tourism
+ Decreased revenue from taxes
+ Disappointment from fans who consider cancellation an
+overreaction (with potential accompanying political cost)
+
+Ministries/ authorities at local
+and/or national levels (may need
+to escalate to the highest
+government authority) responsible
+for:
+ Health
+ Interior
+ Regional & local authorities
+ Businesses and trade unions
+ Homeowner and rental
+associations
+ Judicial system and law
+enforcement bodies
+ Civil protection
+ Long-term care facilities
+ Prisons
+ Mental health care facilities
+ Community and faith leaders
+ Education
+
+All areas
+ Consideration of which categories of activities and
+individuals could be exempted from the restrictions
+ Considering the needs of older adults, persons with
+disabilities, and other vulnerable individuals (e.g.
+homeless people, people with mental health problems,
+and undocumented migrants)
+ Timing of the announcement in order to minimise the
+number of people seeking to ‘escape’ before enforcement
+ Need to ensure availability of basic necessities including
+food, water, medicine, and sanitation supplies
+ Functioning utilities (water, gas, electricity, internet)
+ Human rights of people living in the area
+ Significant financial losses throughout the region
+ Need to frequently revisit rationale to ensure that social
+distancing measures are still needed
+ Need to ensure access to health services for the
+population within the cordon
+ Need to ensure appropriate measures are taken within
+the cordon to decrease transmission within the population
+
+Faith-based events
+Given that religious leaders play a strong role in shaping
+opinions, they need to be engaged early in the process in
+order to facilitate adherence
+
+Businesses
+ Financial losses for most or all businesses
+ Loss of employment
+ Change in patterns of commerce
+ Interrupted supply/delivery
+Note: For details of these measures and their rationale, please see Table 1.
+
+9
+
+ECDC REPORT
+
+Guidance for social distancing measures aimed at minimising the spread of SARS-CoV-2
+
+Contributing authors (in alphabetical order)
+Cornelia Adlhoch, Agoritsa Baka, Massimo Ciotti, Joana Gomes Dias, John Kinsman, Katrin Leitmeyer, Angeliki
+Melidou, Teymur Noori, Anastasia Pharris, Pasi Penttinen, Paul Riley, Andreea Salajan, Jonathan Suk, Svetla
+Tsolova, Marieke van der Werf, Emma Wiltshire, Andrea Würz
+
+10
+
+ECDC REPORT
+
+Guidance for social distancing measures aimed at minimising the spread of SARS-CoV-2
+
+References
+1.
+
+Anderson R, Heesterbeek H, Klinkenberg D, Hollingswort T. How will country-based mitigation measures
+influence the course of the COVID-19 epidemic? Lancet. 2020.
+
+2.
+
+European Centre for Disease Prevention and Control. Guidelines for the use of non-pharmaceutical
+measures to delay and mitigate the impact of 2019-nCoV. Stockholm: ECDC; 2020.
+
+3.
+
+COVID-19: ‘Top priority’ must be on containment, insists WHO’s Tedros: UN News; 2020. Available from:
+https://news.un.org/en/story/2020/03/1058461.
+
+4.
+
+European Centre for Disease Prevention and Control. Outbreak of novel coronavirus disease 2019 (COVID19): increased transmission globally – fifth update. Stockholm: ECDC; 2020.
+
+4a.
+
+European Centre for Disease Prevention and Control. Novel coronavirus disease 2019 (COVID-19)
+pandemic: increased transmission in the EU/EEA and the UK – sixth update, 12 March 2020. Stockholm:
+ECDC; 2020.
+
+5.
+
+European Centre for Disease Prevention and Control. The use of evidence in decision making during public
+health emergencies. Stockholm: ECDC; 2019.
+
+6.
+
+WHO. Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19). Geneva: World
+Health Organization; 2020.
+
+7.
+
+Hatchett R, Mecher C, Lipsitch M. Public health interventions and epidemic intensity during the 1918
+influenza pandemic PNAS. 2007;104 (18):7582–7.
+
+8.
+
+Medicine Io. Modeling community containment for pandemic influenza: a letter report. Washington, DC:
+National Academies Press; 2006.
+
+9.
+
+Lai S, Ruktanonchai N, Zhou L, Prosper O, Luo W, Floyd J. Effect of non-pharmaceutical interventions for
+containing the COVID-19 outbreak: an observational and modelling study. medRxiv. 2020.
+
+10.
+
+Ipsos Mori. Poll of 8 countries finds majority say coronavirus poses a threat to the world 2020. Available
+from: https://www.ipsos.com/ipsos-mori/en-uk/poll-8-countries-finds-majority-say-coronavirus-posesthreat-world.
+
+11.
+
+United Nations, Economic and Social Council (UNESCO). Siracusa principles on the limitation and derogation
+provisions in the international covenant on civil and political rights, U.N. Doc. E/CN.4/1985/4, Annex (1985).
+United Nations; 1985 [Available from: http://hrlibrary.umn.edu/instree/siracusaprinciples.html.
+
+12.
+
+WHO. International Health Regulations. 3 ed. Geneva: World Health Organization; 2005.
+
+13.
+
+Calain P, Poncin M. Reaching out to Ebola victims: coercion, persuasion or an appeal for self-sacrifice? Soc
+Sci Med. 2015;147:126-33.
+
+14.
+
+Gonsalves G, Kapczynski A, Ko A, Parmet W, Burris S. Achieving A Fair and Effective COVID-19 Response:
+An Open Letter to Vice-President Mike Pence, and Other Federal, State and Local Leaders from Public
+Health and Legal Experts in the United States.: Yale School of Public Health, Yale Law School; 2020.
+
+15.
+
+European Centre for Disease Prevention and Control. Guidance on community engagement for public health
+events caused by communicable disease threats in the EU/EEA. Stockholm: ECDC; 2020.
+
+16.
+
+Desclaux A, Badjib D, Ndioneb A, Sow K. Accepted monitoring or endured quarantine? Ebola contacts'
+perceptions in Senegal. Social Science & Medicine. 2017;178:38-45.
+
+17.
+
+Brooks S, Webster R, Smith L, Woodland L, Wessely S, Greenberg N. The psychological impact of
+quarantine and how to reduce it: rapid review of the evidence. Lancet. 2020.
+
+18.
+
+Brown L, Trujillo L, Macintyre K. Interventions to Reduce HIV/AIDS Stigma: What Have We Learned? :
+Horizons Program, Tulane University; 2001.
+
+19.
+
+DiGiovanni C, Conley J, Chiu D, Zaborski J. Factors Influencing Compliance with Quarantine in Toronto
+During the 2003 SARS Outbreak. Biosecurity and Bioterrorism: Biodefense Strategy, Practice, and Science.
+2004;2(4):265-72.
+
+20.
+
+Barbera J, Macintyre A, Gostin L. Large-scale quarantine following biological terrorism in the United States –
+Scientific Examination, Logistic and Legal Limits, and Possible Consequences. JAMA. 2001;286(21):2711-7.
+
+21.
+
+European Centre for Disease Prevention and Control. Outbreak of novel coronavirus disease 2019 (COVID19): increased transmission globally – fifth update, 2 March 2020. Stockholm: ECDC; 2020.
+
+22.
+
+European Centre for Disease Prevention and Control. Community and institutional public health emergency
+preparedness synergies – enablers and barriers. Case studies on acute gastroenteritis in two EU/EEA
+Member States. Stockholm: ECDC; 2019.
+
+23.
+
+Willem L, Hoang T, Funk S, Coletti P, Beutels P, Hens N. SOCRATES: An online tool leveraging a social
+contact data sharing initiative to assess mitigation strategies for COVID-19. medRxiv. 2020.
+
+11
+
+ECDC REPORT
+
+Guidance for social distancing measures aimed at minimising the spread of SARS-CoV-2
+
+24.
+
+International Organization for Standardization. ISO 22301:2019 Security and resilience — Business
+continuity management systems — Requirements. Geneva: ISO; 2019.
+
+25.
+
+UNESCO. Covid-19 and education 2020 [Available from: https://en.unesco.org/themes/educationemergencies/coronavirus-school-closures.
+
+26.
+
+CDC – Centers for Disease Control and Prevention. Strategies to prevent the spread of covid-19 in long-term
+care facilities (LTCF). Atlanta: CDC; 2020. Available from: https://www.cdc.gov/coronavirus/2019ncov/healthcare-facilities/prevent-spread-in-long-term-care-facilities.html.
+
+27.
+
+Abubakar I, Gautret P, Brunette GW, Blumberg L, Johnson D, Poumerol G, et al. Global perspectives for
+prevention of infectious diseases associated with mass gatherings. The Lancet Infectious Diseases.
+2012;12(1):66-74.
+
+28.
+
+World Health Organization. Key planning recommendations for mass gatherings in the context of the
+current COVID-19 outbreak - Interim Guidance WHO; 2020 14 February 2020
+
+29.
+
+CDC – Centers for Disease Control and Prevention. Preventing COVID-19 spread in communities. Atlanta:
+CDC; 2020.
+
+30.
+
+Imperial College COVID-19 Response Team. Impact of non-pharmaceutical interventions (NPIs) to reduce
+COVID19 mortality and healthcare demand. 16 March 2020. London: Imperial College; 2020. Available
+from: https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/ImperialCollege-COVID19-NPI-modelling-16-03-2020.pdf
+
+31.
+
+Qualls N, Levitt A, Kanade N, et al. Community mitigation guidelines to prevent pandemic influenza —
+United States, 2017. MMWR Recomm Rep 2017;66(No. RR-1):1–34. Available from:
+http://dx.doi.org/10.15585/mmwr.rr6601a1
+
+32.
+
+World Health Organisation. Non-pharmaceutical public health measures for mitigating the risk and impact of
+epidemic and pandemic influenza. Geneva: WHO; 2019. Available from:
+https://www.who.int/influenza/publications/public_health_measures/publication/en/
+
+33.
+
+European Centre for Disease Prevention and Control. Resource estimation for contact tracing, quarantine
+and monitoring activities for COVID-19 cases in the EU/EEA. ECDC: Stockholm; 2020.
+
+34.
+
+Ali ST, Cowling BJ, Lau E, Fang VJ, Leung GM. Mitigation of influenza B epidemic with school closures, Hong
+Kong, 2018. Emerging infectious diseases, 24(11), 2071–2073. Available from:
+https://doi.org/10.3201/eid2411.180612
+
+35.
+
+Public Health England. Guidance on social distancing for everyone in the UK – 20 March 2020 [internet,
+accessed 23 Mar 2020]. London: PHE; 2020. Available from:
+https://www.gov.uk/government/publications/covid-19-guidance-on-social-distancing-and-for-vulnerablepeople/guidance-on-social-distancing-for-everyone-in-the-uk-and-protecting-older-people-and-vulnerableadults
+
+12
+
+

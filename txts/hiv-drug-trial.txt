@@ -1,0 +1,1982 @@
+The
+
+n e w e ng l a n d j o u r na l
+
+of
+
+m e dic i n e
+
+Original Article
+
+A Trial of Lopinavir–Ritonavir in Adults
+Hospitalized with Severe Covid-19
+B. Cao, Y. Wang, D. Wen, W. Liu, Jingli Wang, G. Fan, L. Ruan, B. Song, Y. Cai,
+M. Wei, X. Li, J. Xia, N. Chen, J. Xiang, T. Yu, T. Bai, X. Xie, L. Zhang, C. Li,
+Y. Yuan, H. Chen, Huadong Li, H. Huang, S. Tu, F. Gong, Y. Liu, Y. Wei, C. Dong,
+F. Zhou, X. Gu, J. Xu, Z. Liu, Y. Zhang, Hui Li, L. Shang, K. Wang, K. Li, X. Zhou,
+X. Dong, Z. Qu, S. Lu, X. Hu, S. Ruan, S. Luo, J. Wu, L. Peng, F. Cheng, L. Pan,
+J. Zou, C. Jia, Juan Wang, X. Liu, S. Wang, X. Wu, Q. Ge, J. He, H. Zhan, F. Qiu,
+L. Guo, C. Huang, T. Jaki, F.G. Hayden, P.W. Horby, D. Zhang, and C. Wang​​
+
+A BS T R AC T
+BACKGROUND
+
+No therapeutics have yet been proven effective for the treatment of severe illness
+caused by SARS-CoV-2.
+METHODS
+
+We conducted a randomized, controlled, open-label trial involving hospitalized
+adult patients with confirmed SARS-CoV-2 infection, which causes the respiratory
+illness Covid-19, and an oxygen saturation (Sao2) of 94% or less while they were
+breathing ambient air or a ratio of the partial pressure of oxygen (Pao2) to the
+fraction of inspired oxygen (Fio2) of less than 300 mm Hg. Patients were randomly
+assigned in a 1:1 ratio to receive either lopinavir–ritonavir (400 mg and 100 mg,
+respectively) twice a day for 14 days, in addition to standard care, or standard care
+alone. The primary end point was the time to clinical improvement, defined as the
+time from randomization to either an improvement of two points on a seven-category
+ordinal scale or discharge from the hospital, whichever came first.
+
+The authors’ full names, academic degrees, and affiliations are listed in the
+Appendix. Address reprint requests to
+Dr. Cao at ­caobin_ben@​­163​.­com, to Dr.
+C. Wang at c­ yh-birm@​­263​.­net, or to Dr.
+D. Zhang at ­1813886398@​­qq​.­com.
+Drs. Cao, Y. Wang, Wen, W. Liu, Jingli
+Wang, Fan, L. Ruan, Song, Cai, and M. Wei
+and Drs. D. Zhang and C. Wang contributed equally to this article.
+This article was published on March 18,
+2020, and last updated on March 20, 2020,
+at NEJM.org.
+DOI: 10.1056/NEJMoa2001282
+Copyright © 2020 Massachusetts Medical Society.
+
+RESULTS
+
+A total of 199 patients with laboratory-confirmed SARS-CoV-2 infection underwent
+randomization; 99 were assigned to the lopinavir–ritonavir group, and 100 to the
+standard-care group. Treatment with lopinavir–ritonavir was not associated with a
+difference from standard care in the time to clinical improvement (hazard ratio for
+clinical improvement, 1.24; 95% confidence interval [CI], 0.90 to 1.72). Mortality
+at 28 days was similar in the lopinavir–ritonavir group and the standard-care group
+(19.2% vs. 25.0%; difference, −5.8 percentage points; 95% CI, −17.3 to 5.7). The percentages of patients with detectable viral RNA at various time points were similar. In
+a modified intention-to-treat analysis, lopinavir–ritonavir led to a median time to
+clinical improvement that was shorter by 1 day than that observed with standard
+care (hazard ratio, 1.39; 95% CI, 1.00 to 1.91). Gastrointestinal adverse events were
+more common in the lopinavir–ritonavir group, but serious adverse events were
+more common in the standard-care group. Lopinavir–ritonavir treatment was
+stopped early in 13 patients (13.8%) because of adverse events.
+CONCLUSIONS
+
+In hospitalized adult patients with severe Covid-19, no benefit was observed with lopinavir–ritonavir treatment beyond standard care. Future trials in patients with severe
+illness may help to confirm or exclude the possibility of a treatment benefit. (Funded
+by Major Projects of National Science and Technology on New Drug Creation and
+Development and others; Chinese Clinical Trial Register number, ChiCTR2000029308.)
+n engl j med﻿﻿  nejm.org﻿
+
+The New England Journal of Medicine
+Downloaded from nejm.org on March 28, 2020. For personal use only. No other uses without permission.
+Copyright © 2020 Massachusetts Medical Society. All rights reserved.
+
+1
+
+The
+
+B
+
+n e w e ng l a n d j o u r na l
+
+eginning in December 2019, a novel
+coronavirus, designated SARS-CoV-2, has
+caused an international outbreak of respiratory illness termed Covid-19. The full spectrum
+of Covid-19 ranges from mild, self-limiting respiratory tract illness to severe progressive pneumonia, multiorgan failure, and death.1-4 Thus far,
+there are no specific therapeutic agents for coronavirus infections. After the emergence of severe
+acute respiratory syndrome (SARS) in 2003, screening of approved drugs identified lopinavir, a
+human immunodeficiency virus (HIV) type 1
+aspartate protease inhibitor, as having in vitro
+inhibitory activity against SARS-CoV, the virus
+that causes SARS in humans.5-7 Ritonavir is combined with lopinavir to increase its plasma halflife through the inhibition of cytochrome P450.
+An open-label study published in 2004 suggested,
+by comparison with a historical control group
+that received only ribavirin, that the addition of
+lopinavir–ritonavir (400 mg and 100 mg, respectively) to ribavirin reduced the risk of adverse
+clinical outcomes (acute respiratory distress syndrome [ARDS] or death) as well as viral load
+among patients with SARS.5 However, the lack of
+randomization and a contemporary control group
+and the concomitant use of glucocorticoids and
+ribavirin in that study made the effect of lopinavir–ritonavir difficult to assess. Similarly, lopinavir has activity, both in vitro8 and in an animal
+model,9 against Middle East respiratory syndrome
+coronavirus (MERS-CoV), and case reports have
+suggested that the combination of lopinavir–ritonavir with ribavirin and interferon alfa resulted in
+virologic clearance and survival.10-12 However, because convincing data about the efficacy of this
+approach in humans are lacking,12 a clinical trial
+(with recombinant interferon beta-1b) for MERS
+is currently under way (ClinicalTrials.gov number,
+NCT02845843).13-15
+To evaluate the efficacy and safety of oral
+lopinavir–ritonavir for SARS-CoV-2 infection, we
+conducted a randomized, controlled, open-label
+trial, LOTUS China (Lopinavir Trial for Suppression of SARS-Cov-2 in China), in adult patients
+hospitalized with Covid-19.
+
+of
+
+m e dic i n e
+
+Tec or Sansure Biotech) for SARS-CoV-2 in a respiratory tract sample tested by the local Center
+for Disease Control (CDC) or by a designated diagnostic laboratory. Male and nonpregnant female
+patients 18 years of age or older were eligible if
+they had a diagnostic specimen that was positive
+on RT-PCR, had pneumonia confirmed by chest
+imaging, and had an oxygen saturation (Sao2) of
+94% or less while they were breathing ambient
+air or a ratio of the partial pressure of oxygen
+(Pao2) to the fraction of inspired oxygen (Fio2)
+(Pao2:Fio2) at or below 300 mg Hg. Exclusion
+criteria included a physician decision that involvement in the trial was not in the patient’s best interest, presence of any condition that would not
+allow the protocol to be followed safely, known
+allergy or hypersensitivity to lopinavir–ritonavir,
+known severe liver disease (e.g., cirrhosis, with
+an alanine aminotransferase level >5× the upper
+limit of the normal range or an aspartate aminotransferase level >5× the upper limit of the normal range), use of medications that are contraindicated with lopinavir–ritonavir and that could
+not be replaced or stopped during the trial period (see the Supplementary Appendix, available
+with the full text of this article at NEJM.org);
+pregnancy or breast-feeding, or known HIV infection, because of concerns about the development
+of resistance to lopinavir–ritonavir if used without
+combining with other antiretrovirals. Patients who
+were unable to swallow received lopinavir–ritonavir
+through a nasogastric tube.
+Trial Design and Oversight
+
+This was an open-label, individually randomized,
+controlled trial conducted from January 18, 2020,
+through February 3, 2020 (the date of enrollment of the last patient), at Jin Yin-Tan Hospital,
+Wuhan, Hubei Province, China. Because of the
+emergency nature of the trial, placebos of lopinavir–ritonavir were not prepared. Eligible patients were randomly assigned in a 1:1 ratio to
+receive either lopinavir–ritonavir (400 mg and
+100 mg, orally; freely provided by the national
+health authority) twice daily, plus standard care,
+or standard care alone, for 14 days. Standard care
+comprised, as necessary, supplemental oxygen,
+noninvasive and invasive ventilation, antibiotic
+Me thods
+agents, vasopressor support, renal-replacement
+Patients
+therapy, and extracorporeal membrane oxygenPatients were assessed for eligibility on the basis ation (ECMO). To balance the distribution of oxyof a positive reverse-transcriptase–polymerase- gen support between the two groups as an indicachain-reaction (RT-PCR) assay (Shanghai ZJ Bio- tor of severity of respiratory failure, randomization
+
+2
+
+n engl j med﻿﻿  nejm.org﻿
+
+The New England Journal of Medicine
+Downloaded from nejm.org on March 28, 2020. For personal use only. No other uses without permission.
+Copyright © 2020 Massachusetts Medical Society. All rights reserved.
+
+Trial of Lopinavir–Ritonavir in Severe Covid-19
+
+was stratified on the basis of respiratory support
+methods at the time of enrollment: no oxygen
+support or oxygen support with nasal duct or
+mask, or high-flow oxygen, noninvasive ventilation, or invasive ventilation including ECMO. The
+permuted block (four patients per block) randomization sequence, including stratification, was
+prepared by a statistician not involved in the trial,
+using SAS software, version 9.4 (SAS Institute). To
+minimize allocation bias, we performed allocation
+concealment with an interactive Web-based response system until randomization was finished
+on the system through a computer or phone.
+The trial was approved by the institutional
+review board of Jin Yin-Tan Hospital. Written
+informed consent was obtained from all patients
+or from the patient’s legal representative if the
+patient was too unwell to provide consent. The
+trial was conducted in accordance with the principles of the Declaration of Helsinki and the
+Good Clinical Practice guidelines of the International Conference on Harmonisation. The authors
+were responsible for designing the trial and for
+compiling and analyzing the data. The authors
+vouch for the completeness and accuracy of the
+data and for the adherence of the trial to the protocol. Full details about the trial design are provided in the protocol, available at NEJM.org.
+Clinical and Laboratory Monitoring
+
+tained for all 199 patients who were still alive at
+every time point. Sampling did not stop when a
+swab at a given time point was negative. Baseline
+throat swabs were tested for detection of E gene,
+RdRp gene, and N gene, and samples on the subsequent visits were quantitatively and qualitatively
+detected for E gene. Clinical data were recorded on
+paper case record forms and then double-entered
+into an electronic database and validated by trial
+staff.
+Outcome Measures
+
+The primary end point was the time to clinical
+improvement, defined as the time from randomization to an improvement of two points (from
+the status at randomization) on a seven-category
+ordinal scale or live discharge from the hospital,
+whichever came first. The end point of clinical
+improvement was used in our previous influenza
+study17 and was also recommended by the WHO
+R&D Blueprint expert group.18 Ordinal scales have
+been used as end points in clinical trials in patients hospitalized with severe influenza.16-19 The
+seven-category ordinal scale consisted of the following categories: 1, not hospitalized with resumption of normal activities; 2, not hospitalized,
+but unable to resume normal activities; 3, hospitalized, not requiring supplemental oxygen; 4,
+hospitalized, requiring supplemental oxygen; 5,
+hospitalized, requiring nasal high-flow oxygen
+therapy, noninvasive mechanical ventilation, or
+both; 6, hospitalized, requiring ECMO, invasive
+mechanical ventilation, or both; and 7, death.
+Other clinical outcomes included clinical status as assessed with the seven-category ordinal
+scale on days 7 and 14, mortality at day 28, the
+duration of mechanical ventilation, the duration
+of hospitalization in survivors, and the time (in
+days) from treatment initiation to death. Virologic
+measures included the proportions with viral
+RNA detection over time and viral RNA titer areaunder-the-curve (AUC) measurements.
+Safety outcomes included adverse events that
+occurred during treatment, serious adverse events,
+and premature discontinuation of treatment. Adverse events were classified according to the
+National Cancer Institute Common Terminology
+Criteria for Adverse Events, version 4.0.
+
+Patients were assessed once daily by trained nurses
+using diary cards that captured data on a sevencategory ordinal scale and on safety from day 0
+to day 28, hospital discharge, or death. Safety was
+monitored by the Good Clinical Practice office
+from Jin Yin-tan Hospital. Other clinical data
+were recorded using the WHO-ISARIC (World
+Health Organization–International Severe Acute
+Respiratory and Emerging Infections Consortium) case record form (https://isaric​.­tghn​.­org).16
+Serial oropharyngeal swab samples were obtained on day 1 (before lopinavir–ritonavir was
+administered) and on days 5, 10, 14, 21, and 28
+until discharge or death had occurred and were
+tested at Teddy Clinical Research Laboratory
+(Tigermed–DiAn Joint Venture), using quantitative real-time RT-PCR (see the Supplementary Appendix). RNA was extracted from clinical samples
+with the MagNA Pure 96 system, detected and
+quantified by Cobas z480 qPCR (Roche), with the Statistical Analysis
+use of LightMix Modular SARS-CoV-2 (COVID19) The trial was initiated in rapid response to the
+assays (TIB MOBIOL). These samples were ob- Covid-19 public health emergency, at which time
+n engl j med﻿﻿  nejm.org﻿
+
+The New England Journal of Medicine
+Downloaded from nejm.org on March 28, 2020. For personal use only. No other uses without permission.
+Copyright © 2020 Massachusetts Medical Society. All rights reserved.
+
+3
+
+The
+
+n e w e ng l a n d j o u r na l
+
+there was very limited information about clinical
+outcomes in hospitalized patients with Covid-19.
+The original total sample size was set at 160,
+since it would provide the trial with 80% power
+to detect a difference, at a two-sided significance level of α = 0.05, of 8 days in the median
+time to clinical improvement between the two
+groups, assuming that the median time in the
+standard-care group was 20 days and that 75%
+of the patients would reach clinical improvement. The planned enrollment of 160 patients in
+the trial occurred quickly, and the assessment at
+that point was that the trial was underpowered;
+thus, a decision was made to continue enrollment by investigators. Subsequently, when another agent (remdesivir) became available for
+clinical trials, we decided to suspend enrollment
+in this trial.
+Primary efficacy analysis was on an intention-to-treat basis and included all the patients
+who had undergone randomization. The time to
+clinical improvement was assessed after all patients had reached day 28, with failure to reach
+clinical improvement or death before day 28
+considered as right-censored at day 28 (rightcensoring occurs when an event may have occurred after the last time a person was under
+observation, but the specific timing of the event
+is unknown). The time to clinical improvement
+was portrayed by Kaplan–Meier plot and compared with a log-rank test. Hazard ratios with
+95% confidence intervals were calculated by
+means of the Cox proportional-hazards model.
+Five patients who had been assigned to the lopinavir–ritonavir group did not receive any doses
+(three of them died within 24 hours) but were
+included in the intention-to-treat analysis, since
+no reciprocal removals occurred in the standardcare group. A modified intention-to-treat analysis
+that excluded three early deaths was also performed. Post hoc analyses include subgroup analysis for National Early Warning Score 2 (NEWS2)19
+of 5 or below or greater than 5 and those who
+underwent randomization up to 12 days or more
+than 12 days after the onset of illness.
+Because the statistical analysis plan did not
+include a provision for correcting for multiplicity
+in tests for secondary or other outcomes, results
+are reported as point estimates and 95% confidence intervals. The widths of the confidence intervals have not been adjusted for multiplicity, so
+
+4
+
+of
+
+m e dic i n e
+
+the intervals should not be used to infer definitive
+treatment effects for secondary outcomes. Safety
+analyses were based on the patients’ actual treatment exposure. Statistical analyses were conducted with SAS software, version 9.4 (SAS Institute).
+
+R e sult s
+Patients
+
+Of the 199 patients who underwent randomization, 99 patients were assigned to receive lopinavir–ritonavir and 100 patients to standard care
+alone. Of the 99 patients assigned to receive lopinavir–ritonavir, 94 (94.9%) received treatment as
+assigned (Fig. 1). In the lopinavir–ritonavir group,
+5 patients did not receive any doses of lopinavir–
+ritonavir: 3 because of early death within 24 hours
+after randomization and 2 others because the attending physician refused to prescribe lopinavir–
+ritonavir after randomization.
+The median age of patients was 58 years (interquartile range [IQR], 49 to 68 years), and 60.3%
+of the patients were men (Table 1). The median
+interval time between symptom onset and randomization was 13 days (IQR, 11 to 16 days) (Table 2). There were no important between-group
+differences in demographic characteristics, baseline laboratory test results, distribution of ordinal
+scale scores, or NEWS2 scores at enrollment.
+During the trial, systemic glucocorticoids were
+administered in 33.0% of the patients in the
+lopinavir–ritonavir group and in 35.7% of those
+in the standard-care group.
+Primary Outcome
+
+Patients assigned to lopinavir–ritonavir did not
+have a time to clinical improvement different from
+that of patients assigned to standard care alone in
+the intention-to-treat population (median, 16 day
+vs. 16 days; hazard ratio for clinical improvement, 1.31; 95% confidence interval [CI], 0.95 to
+1.85; P = 0.09) (Fig. 2). In the modified intentionto-treat population, the median time to clinical
+improvement was 15 days in the lopinavir–ritonavir group, as compared with 16 days in the
+standard-care group (hazard ratio, 1.39; 95% CI,
+1.00 to 1.91) (Table S1 and Fig. S1 in the Supplementary Appendix). In the intention-to-treat population, lopinavir–ritonavir treatment within 12
+days after the onset of symptoms was not found
+to be associated with shorter time to clinical
+
+n engl j med﻿﻿  nejm.org﻿
+
+The New England Journal of Medicine
+Downloaded from nejm.org on March 28, 2020. For personal use only. No other uses without permission.
+Copyright © 2020 Massachusetts Medical Society. All rights reserved.
+
+Trial of Lopinavir–Ritonavir in Severe Covid-19
+
+improvement (hazard ratio, 1.25; 95% CI, 0.77
+to 2.05); similar results were found regarding
+later treatment with lopinavir–ritonavir (hazard
+ratio, 1.30; 95% CI, 0.84 to 1.99) (Fig. S2A and
+S2B). No significant differences were observed
+when the time to clinical improvement was assessed by NEWS2 score at entry in the intention-to-treat population (Fig. S3A and S3B). In
+addition, when the time to clinical deterioration (defined as a one-category increase on the
+seven-category scale) was compared between the
+two groups, no difference was observed (hazard
+ratio for clinical deterioration, 1.01; 95% CI,
+0.76 to 1.34) (Fig. S4).
+
+care group for either the intention-to-treat population (19.2% vs. 25.0%; difference, −5.8 percentage points; 95% CI, −17.3 to 5.7) or the modified
+intention-to treat population (16.7% vs. 25.0%;
+difference, −8.3 percentage points; 95% CI, −19.6
+to 3.0) (Table 3).
+Patients in the lopinavir–ritonavir group had
+a shorter stay in the intensive care unit (ICU)
+than those in the standard-care group (median,
+6 days vs. 11 days; difference, −5 days; 95% CI,
+−9 to 0), and the duration from randomization
+to hospital discharge was numerically shorter
+(median, 12 days vs. 14 days; difference, 1 day;
+95% CI, 0 to 3]). In addition, the percentage of
+patients with clinical improvement at day 14 was
+Secondary Outcomes
+higher in the lopinavir–ritonavir group than in
+The 28-day mortality was numerically lower in the the standard-care group (45.5% vs. 30.0%; diflopinavir–ritonavir group than in the standard- ference, 15.5 percentage points; 95% CI, 2.2 to
+
+357 Participants were assessed
+for eligibility
+158 Were excluded
+113 Did not meet eligibility criteria
+31 Did not have family consent
+14 Had other reason
+
+199 Underwent randomization
+
+99 Were assigned to the lopinavir–ritonavir
+group and were included in the
+intention-to-treat population
+
+100 Were assigned to the standard care
+group and were included in the
+intention-to-treat population
+
+3 Died within 24 hours after
+admission and did not
+receive lopinavir–ritonavir
+
+100 Were included in the modified
+intention-to-treat population
+
+96 Were included in the modified
+intention-to-treat population
+2 Did not receive
+lopinavir–ritonavir
+
+1 Received lopinavir–ritonavir
+on day 10
+
+95 Were included in the safety population
+
+99 Were included in the safety population
+
+Figure 1. Randomization and Treatment Assignment.
+
+n engl j med﻿﻿  nejm.org﻿
+
+The New England Journal of Medicine
+Downloaded from nejm.org on March 28, 2020. For personal use only. No other uses without permission.
+Copyright © 2020 Massachusetts Medical Society. All rights reserved.
+
+5
+
+The
+
+n e w e ng l a n d j o u r na l
+
+of
+
+m e dic i n e
+
+Table 1. Demographic and Clinical Characteristics of the Patients at Baseline.*
+Total
+(N = 199)
+
+Lopinavir–Ritonavir
+(N = 99)
+
+Standard Care
+(N = 100)
+
+58.0 (49.0–68.0)
+
+58.0 (50.0–68.0)
+
+58.0 (48.0–68.0)
+
+120 (60.3)
+
+61 (61.6)
+
+59 (59.0)
+
+Diabetes
+
+23 (11.6)
+
+10 (10.1)
+
+13 (13.0)
+
+Cerebrovascular disease
+
+13 (6.5)
+
+5 (5.1)
+
+8 (8.0)
+
+6 (3.0)
+
+5 (5.1)
+
+1 (1.0)
+
+36.5 (36.4–36.8)
+
+36.5 (36.4–37.0)
+
+36.5 (36.5–36.8)
+
+182 (91.5)
+
+89 (89.9)
+
+93 (93.0)
+16 (16.0)
+
+Characteristic
+Age, median (IQR) — yr
+Male sex — no. (%)
+Coexisting conditions — no. (%)
+
+Cancer
+Body temperature, median (IQR) — °C
+Fever — no. (%)
+
+37 (18.8)
+
+21 (21.6)
+
+Systolic blood pressure <90 mm Hg — no. (%)
+
+Respiratory rate >24/min — no. (%)
+
+2 (1.0)
+
+2 (2.0)
+
+0
+
+White-cell count (×10−9/liter) — median (IQR)
+
+7.0 (5.1–9.4)
+
+7.3 (5.3–9.6)
+
+6.9 (4.9–9.1)
+
+137 (70.3)
+
+64 (67.4)
+
+73 (73.0)
+
+20 (10.3)
+
+12 (12.6)
+
+8 (8.0)
+
+4–10 ×10−9/liter — no. (%)
+<4 ×10−9/liter — no. (%)
+−9/liter
+
+— no. (%)
+
+38 (19.5)
+
+19 (20.0)
+
+19 (19.0)
+
+Lymphocyte count (×10−9/liter) — median (IQR)
+
+0.9 (0.6–1.2)
+
+0.8 (0.6–1.4)
+
+0.9 (0.5–1.2)
+
+≥1.0 ×10−9/liter — no. (%)
+
+73 (37.4)
+
+37 (38.9)
+
+36 (36.0)
+
+<1.0 ×10−9/liter — no. (%)
+
+122 (62.6)
+
+58 (61.1)
+
+64 (64.0)
+
+207.0 (158.0–284.0)
+
+201.0 (155.0–287.0)
+
+210.0 (163.0–269.5)
+
+186 (95.4)
+
+91 (95.8)
+
+95 (95.0)
+
+>10 ×10
+
+−9/liter)
+
+Platelet count (×10
+
+— median (IQR)
+
+≥100 ×10−9/liter — no. (%)
+−9/liter
+
+9 (4.6)
+
+4 (4.2)
+
+5 (5.0)
+
+69.5 (57.2–82.5)
+
+70.7 (56.4–82.7)
+
+67.4 (58.4–82.5)
+
+≤133 μmol/liter — no. (%)
+
+189 (96.9)
+
+93 (96.9)
+
+96 (97.0)
+
+>133 μmol/liter — no. (%)
+
+6 (3.1)
+
+3 (3.1)
+
+3 (3.0)
+
+34.0 (26.0–45.0)
+
+33.0 (25.0–42.0)
+
+34.0 (27.0–45.0)
+
+≤40 U/liter — no. (%)
+
+155 (79.5)
+
+78 (81.3)
+
+77 (77.8)
+
+>40 U/liter — no. (%)
+
+40 (20.5)
+
+18 (18.8)
+
+22 (22.2)
+
+33.0 (22.0–55.0)
+
+33.0 (22.0–53.5)
+
+34.0 (22.0–59.0)
+
+115 (59.0)
+
+61 (63.5)
+
+54 (54.5)
+
+<100 ×10
+
+— no. (%)
+
+Serum creatinine (μmol/liter) — median (IQR)
+
+Aspartate aminotransferase (U/liter) — median (IQR)
+
+Alanine aminotransferase (U/liter) — median (IQR)
+≤50 U/liter — no. (%)
+>50 U/liter — no. (%)
+
+80 (41.0)
+
+35 (36.5)
+
+45 (45.5)
+
+325.0 (245.0–433.0)
+
+322.0 (243.0–409.0)
+
+327.0 (245.0–470.0)
+
+≤245 U/liter — no. (%)
+
+50 (25.8)
+
+24 (25.3)
+
+26 (26.3)
+
+>245 U/liter — no. (%)
+
+144 (74.2)
+
+71 (74.7)
+
+73 (73.7)
+
+Lactate dehydrogenase (U/liter) — median (IQR)
+
+Creatine kinase (U/liter) — median (IQR)
+
+69.0 (44.0–115.0)
+
+57.0 (42.0–126.0)
+
+72.0 (45.0–110.0)
+
+≤185 U/liter — no. (%)
+
+168 (86.6)
+
+81 (85.3)
+
+87 (87.9)
+
+> 185 U/liter — no. (%)
+
+26 (13.4)
+
+14 (14.7)
+
+12 (12.1)
+
+*	The values shown are based on available data. Laboratory values for white-cell count, lymphocyte count, platelet count, lactate dehydrogenase, and creatine kinase were available for 95 patients in the lopinavir–ritonavir group; and values for serum creatinine, aspartate aminotransferase, and alanine aminotransferase were available for 96 patients in that group. Laboratory values for serum creatinine, aspartate
+aminotransferase, alanine aminotransferase, lactate dehydrogenase, and creatine kinase were available for 99 patients in the standard-care
+group. To convert the values for creatinine to milligrams per deciliter, divide by 88.4. IQR denotes interquartile range.
+
+6
+
+n engl j med﻿﻿  nejm.org﻿
+
+The New England Journal of Medicine
+Downloaded from nejm.org on March 28, 2020. For personal use only. No other uses without permission.
+Copyright © 2020 Massachusetts Medical Society. All rights reserved.
+
+Trial of Lopinavir–Ritonavir in Severe Covid-19
+
+Table 2. Patients’ Status and Treatments Received at or after Enrollment.*
+Characteristic
+NEWS2 score at day 1 — median (IQR)
+
+Total
+(N = 199)
+
+Lopinavir–Ritonavir
+(N = 99)
+
+Standard Care
+(N = 100)
+
+5.0 (4.0–6.0)
+
+5.0 (4.0–6.0)
+
+5.0 (4.0–7.0)
+
+Seven-category scale at day 1
+3: Hospitalization, not requiring supplemental oxygen — no. (%)
+
+28 (14.1)
+
+11 (11.1)
+
+17 (17.0)
+
+4: Hospitalization, requiring supplemental oxygen — no. (%)
+
+139 (69.8)
+
+72 (72.7)
+
+67 (67.0)
+
+5: Hospitalization, requiring HFNC or noninvasive mechanical
+ventilation — no. (%)
+
+31 (15.6)
+
+15 (15.2)
+
+16 (16.0)
+
+1 (0.5)
+
+1 (1.0)
+
+0
+
+13 (11–16)
+
+13 (11–17)
+
+13 (10–16)
+
+Earlier (≤12 days of symptom onset) — no. (%)
+
+90 (45.2)
+
+42 (42.4)
+
+48 (48.0)
+
+Later (>12 days of symptom onset) — no. (%)
+
+109 (54.8)
+
+57 (57.6)
+
+52 (52.0)
+
+Mean viral load — log10 copies per ml at day 1
+
+4.0±2.1
+
+4.4±2.0
+
+3.7±2.1
+
+Using interferon at enrollment — no. (%)
+
+22 (11.1)
+
+9 (9.1)
+
+13 (13.0)
+
+44 (22.1)
+
+17 (17.2)
+
+27 (27.0)
+
+9 (4.5)
+
+3 (3.0)
+
+6 (6.0)
+
+Noninvasive mechanical ventilation
+
+29 (14.6)
+
+10 (10.1)
+
+19 (19.0)
+
+Invasive mechanical ventilation
+
+32 (16.1)
+
+14 (14.1)
+
+18 (18.0)
+
+6: Hospitalization, requiring ECMO, invasive mechanical
+ventilation, or both — no. (%)
+Days from illness onset to randomization — median (IQR)
+
+Treatments during study period — no. (%)
+Vasopressors
+Renal-replacement therapy
+
+ECMO
+Antibiotic agent
+Glucocorticoid therapy
+Days from illness onset to glucocorticoid therapy —
+median (IQR)
+Days of glucocorticoid therapy — median (IQR)
+
+4 (2.0)
+
+2 (2.0)
+
+2 (2.0)
+
+189 (95.0)
+
+94 (94.9)
+
+95 (95.0)
+
+67 (33.7)
+
+32 (32.3)
+
+35 (35.0)
+
+13 (11–17)
+
+13 (12–19)
+
+13 (9–17)
+
+6 (3–11)
+
+7 (3–11)
+
+6 (2–12)
+
+*	Plus–minus values are means ±SD. ECMO denotes extracorporeal membrane oxygenation, HFNC high-flow nasal cannula for oxygen therapy, and NEWS2 National Early Warning Score 2.
+
+28.8) (Fig. S5). There were no significant differences for other outcomes such as duration of
+oxygen therapy, duration of hospitalization, and
+time from randomization to death.
+Virology
+
+RNA loads over time did not differ between the
+lopinavir–ritonavir recipients and those receiving
+standard care (Fig. 3), including analysis according to duration of illness (Fig. S6).
+The percentage of patients with detectable viral RNA for SARS-CoV-2 was similar in the lopinavir–ritonavir group and the standard-care group
+on any sampling day (day 5, 34.5% vs. 32.9%; day
+10, 50.0% vs. 48.6%; day 14, 55.2% vs. 57.1%;
+day 21, 58.6% vs. 58.6%; and day 28, 60.3% vs.
+58.6%) (Table S2).
+
+A total of 69 patients (35%) who had a diagnostic respiratory tract sample that was positive on
+RT-PCR had a negative RT-PCR result on the
+throat swab taken after consent. The mean (±SD)
+baseline viral RNA loads in the throat swabs
+taken after consent were slightly higher in the
+lopinavir–ritonavir group than in the standard- Safety
+care group at randomization (4.4±2.0 log10 cop- A total of 46 patients (48.4%) in the lopinavir–
+ies per milliliter vs. 3.7±2.1) (Table 2). The viral ritonavir group and 49 (49.5%) in the standard-
+
+n engl j med﻿﻿  nejm.org﻿
+
+The New England Journal of Medicine
+Downloaded from nejm.org on March 28, 2020. For personal use only. No other uses without permission.
+Copyright © 2020 Massachusetts Medical Society. All rights reserved.
+
+7
+
+The
+
+n e w e ng l a n d j o u r na l
+
+Cumulative Improvement Rate
+
+1.0
+0.9
+Lopinavir–ritonavir
+
+0.8
+0.7
+
+Control
+
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0.0
+
+1
+
+4
+
+8
+
+12
+
+16
+
+20
+
+24
+
+28
+
+50
+60
+
+33
+39
+
+26
+32
+
+22
+30
+
+Day
+No. at Risk
+Lopinavir–ritonavir
+Control
+
+99
+100
+
+98
+100
+
+93
+98
+
+78
+88
+
+Figure 2. Time to Clinical Improvement in the Intention-to-Treat Population.
+
+care group reported adverse events between randomization and day 28 (Table 4). Gastrointestinal
+adverse events including nausea, vomiting, and
+diarrhea were more common in lopinavir–ritonavir
+group than in the standard-care group (Table 4).
+The percentages of patients with laboratory abnormalities were similar in the two groups (Table 4). Serious adverse events occurred in 51 patients: 19 events in the lopinavir–ritonavir group
+and 32 events in the standard-care group (Table 4). There were 4 serious gastrointestinal adverse events in the lopinavir–ritonavir group but
+none in the standard-care group; all 4 events were
+judged by the investigators to be related to the
+trial medication. Respiratory failure, acute kidney
+injury, and secondary infection were more common in patients receiving standard care. All deaths
+during the observation period were judged by
+the site investigators to be unrelated to the intervention.
+
+Discussion
+This randomized trial found that lopinavir–ritonavir treatment added to standard supportive care
+was not associated with clinical improvement or
+mortality in seriously ill patients with Covid-19
+different from that associated with standard
+care alone. However, in the modified intentionto-treat analysis, which excluded three patients
+with early death, the between-group difference in
+8
+
+of
+
+m e dic i n e
+
+the median time to clinical improvement (median,
+15 days vs. 16 days) was significant, albeit modest. Of note, the overall mortality in this trial
+(22.1%) was substantially higher than the 11% to
+14.5% mortality reported in initial descriptive
+studies of hospitalized patients with Covid-19,1,2
+which indicates that we enrolled a severely ill
+population.
+Our patient population was heterogeneous with
+regard to duration and severity of illness at enrollment. In a post hoc subgroup analysis, the
+difference in mortality between the lopinavir–
+ritonavir group and the standard-care group was
+observed to be numerically greater among patients treated within 12 days after the onset of
+symptoms than among those treated later. The
+question of whether earlier lopinavir–ritonavir
+treatment in Covid-19 could have clinical benefit
+is an important one that requires further study.
+The finding is consistent with studies showing
+that patients with SARS-CoV-2 viral pneumonia
+have progression in the second week of illness1
+and with the time-to-treatment effects observed
+in previous antiviral studies in SARS20 and severe
+influenza.21-23 In addition, we found that the numbers of lopinavir–ritonavir recipients who had serious complications (acute kidney injury and secondary infections) or requiring noninvasive or
+invasive mechanical ventilation for respiratory
+failure were fewer than in those not receiving
+treatment. These observations are hypothesisgenerating and require additional studies to determine whether lopinavir–ritonavir treatment
+given at a certain stage of illness can reduce some
+complications in Covid-19.
+We did not find that adding lopinavir–ritonavir treatment reduced viral RNA loads or duration
+of viral RNA detectability as compared with standard supportive care alone. SARS-CoV-2 RNA was
+still detected in 40.7% of the patients in the
+lopinavir–ritonavir group at end of the trial (day
+28). A recent report showed that the median
+duration of viral shedding in Covid-19 was 20
+days in patients with severe illness and could be
+as long as 37 days.24 Neither that study nor the
+current one found evidence that lopinavir–ritonavir exerted a significant antiviral effect. The
+reasons for the apparent lack of antiviral effect
+are uncertain, but the sampling methods used in
+the current trial were most likely suboptimal.
+Samples were taken only intermittently (on days
+1, 5, 10, 14, 21, and 28), and more frequent sam-
+
+n engl j med﻿﻿  nejm.org﻿
+
+The New England Journal of Medicine
+Downloaded from nejm.org on March 28, 2020. For personal use only. No other uses without permission.
+Copyright © 2020 Massachusetts Medical Society. All rights reserved.
+
+Trial of Lopinavir–Ritonavir in Severe Covid-19
+
+Table 3. Outcomes in the Intention-to-Treat Population.*
+Characteristic
+Time to clinical improvement — median no.
+of days (IQR)
+Day 28 mortality — no. (%)
+Earlier (≤12 days after onset of symptoms)
+Later (>12 days after onset of symptoms)
+Clinical improvement — no. (%)
+Day 7
+Day 14
+Day 28
+ICU length of stay — median no. of days
+(IQR)
+Of survivors
+Of nonsurvivors
+Duration of invasive mechanical ventilation —
+median no. of days (IQR)
+Oxygen support — days (IQR)
+Hospital stay — median no. of days (IQR)
+Time from randomization to discharge — median no. of days (IQR)
+Time from randomization to death — median
+no. of days (IQR)
+Score on seven-category scale at day 7 — no.
+of patients (%)
+2: Not hospitalized, but unable to resume
+normal activities
+3: Hospitalization, not requiring supplemental oxygen
+4: Hospitalization, requiring supplemental
+oxygen
+5: Hospitalization, requiring HFNC or
+noninvasive mechanical ventilation
+6: Hospitalization, requiring ECMO, invasive mechanical ventilation, or both
+7: Death
+Seven-category scale at day 14 — no. of patients (%)
+2: Not hospitalized, but unable to resume
+normal activities
+3: Hospitalization, not requiring supplemental oxygen
+4: Hospitalization, requiring supplemental
+oxygen
+5: Hospitalization, requiring HFNC or
+noninvasive mechanical ventilation
+6: Hospitalization, requiring ECMO, invasive mechanical ventilation, or both
+7: Death
+
+Total
+(N = 199)
+
+Lopinavir–Ritonavir
+(N = 99)
+
+Standard Care
+(N = 100)
+
+Difference†
+
+16.0 (15.0 to 17.0)
+
+16.0 (13.0 to 17.0)
+
+16.0 (15.0 to 18.0)
+
+1.31 (0.95 to 1.80)‡
+
+44 (22.1)
+21 (23.3)
+23 (21.1)
+
+19 (19.2)§
+8 (19.0)
+11 (19.3)
+
+25 (25.0)
+13 (27.1)
+12 (23.1)
+
+−5.8 (−17.3 to 5.7)
+−8.0 (−25.3 to 9.3)
+−3.8 (−19.1 to 11.6)
+
+8 (4.0)
+75 (37.7)
+148 (74.4)
+10 (5 to 14)
+
+6 (6.1)
+45 (45.5)
+78 (78.8)
+6 (2 to 11)
+
+2 (2.0)
+30 (30.0)
+70 (70.0)
+11 (7 to 17)
+
+4.1 (−1.4 to 9.5)
+15.5 (2.2 to 28.8)
+8.8 (−3.3 to 20.9)
+−5 (−9 to 0)
+
+10 (8 to 17)
+10 (4 to 14)
+5 (3 to 9)
+
+9 (5 to 44)
+6 (2 to 11)
+4 (3 to 7)
+
+11 (9 to 14)
+12 (7 to 17)
+5 (3 to 9)
+
+−1 (−16 to 38)
+−6 (−11 to 0)
+−1 (−4 to 2)
+
+13 (8 to 16)
+15 (12 to 17)
+13 (10 to 16)
+
+12 (9 to 16)
+14 (12 to 17)
+12 (10 to 16)
+
+13 (6 to 16)
+16 (13 to 18)
+14 (11 to 16)
+
+0 (−2 to 2)
+1 (0 to 2)
+1 (0 to 3)
+
+10 (6 to 15)
+
+9 (6 to 13)
+
+12 (6 to 15)
+
+−3 (−6 to 2)
+
+4 (2.0)
+
+4 (4.0)
+
+0
+
+29 (14.6)
+
+12 (12.1)
+
+17 (17.0)
+
+109 (54.8)
+
+58 (58.6)
+
+51 (51.0)
+
+35 (17.6)
+
+14 (14.1)
+
+21 (21.0)
+
+10 (5.0)
+
+6 (6.1)
+
+4 (4.0)
+
+12 (6.0)
+
+5 (5.1)
+
+7 (7.0)
+
+71 (35.7)
+
+43 (43.4)
+
+28 (28.0)
+
+32 (16.1)
+
+8 (8.1)
+
+24 (24.0)
+
+45 (22.6)
+
+25 (25.3)
+
+20 (20.0)
+
+11 (5.5)
+
+5 (5.1)
+
+6 (6.0)
+
+8 (4.0)
+
+3 (3.0)
+
+5 (5.0)
+
+32 (16.1)
+
+15 (15.2)
+
+17 (17.0)
+
+*	Clinical improvement was defined as a decline of two categories on the modified seven-category ordinal scale of clinical status, or hospital
+discharge. ICU denotes intensive care unit.
+†	Differences were expressed as rate differences or median differences (Hodges–Lehmann estimate) and 95% confidence intervals.
+‡	The hazard ratio for clinical improvement was estimated by Cox proportional-risk model.
+§	This total includes 3 patients who died within 24 hours after randomization and did not receive lopinavir–ritonavir.
+
+n engl j med﻿﻿  nejm.org﻿
+
+The New England Journal of Medicine
+Downloaded from nejm.org on March 28, 2020. For personal use only. No other uses without permission.
+Copyright © 2020 Massachusetts Medical Society. All rights reserved.
+
+9
+
+The
+
+n e w e ng l a n d j o u r na l
+
+8
+7
+
+Viral Load
+(log10 copies/ml)
+
+6
+5
+4
+3
+2
+
+Lopinavir–ritonavir
+Control
+
+1
+0
+1
+
+5
+
+10
+
+14
+
+21
+
+28
+
+Day
+
+Figure 3. Mean Change from Baseline in SARS-CoV-2 Viral RNA Load
+by qPCR on Throat Swabs.
+I bars indicate 95% confidence intervals. Results less than the lower limit of
+quantification of polymerase-chain-reaction (PCR) assay and greater than
+the limit of qualitative detection are imputed with 1 log10 copies per milliliter; results for patients with viral-negative RNA are imputed with 0 log10
+copies per milliliter. Among the 199 patients, 130 (59 patients in the lopinavir–ritonavir group and 71 in the standard-care group) had virologic data
+that were used for viral load calculation, whereas the rest of the patients
+had undetectable viral RNA on throat swabs over the time.
+
+pling in the first 5 days could have provided
+more detailed characterization of viral load kinetics in the two groups over this critical period.
+In addition, previous studies have shown that
+throat-swab specimens have lower viral loads
+than nasopharyngeal samples,25 and importantly, we were unable to do sampling of lower respiratory tract secretions. Of note, depending on
+cell type used, the 50% effective concentrations
+(EC50) of lopinavir in vitro for SARS-CoV has
+ranged from 4.0 to 10.7 μg per milliliter,5,6,8 although other studies reported that lopinavir was
+inactive26 or that higher concentrations (25 μg
+per milliliter) were required for inhibition.7 For
+MERS-CoV, the EC50 values have ranged from 5 to
+approximately 7 μg per milliliter).1,8,13 Both the
+mean peak (9.6 μg per milliliter) and trough
+(5.5 μg per milliliter) serum concentrations of
+lopinavir in adults just approach these concentrations. Whether the EC50 value is an adequate
+threshold and whether unbound lopinavir concentrations in human plasma are sufficient for
+inhibition of SARS-CoV-2 are questionable.1
+Nearly 14% of lopinavir–ritonavir recipients
+
+10
+
+of
+
+m e dic i n e
+
+were unable to complete the full 14-day course of
+administration. This was due primarily to gastrointestinal adverse events, including anorexia,
+nausea, abdominal discomfort, or diarrhea, as well
+as two serious adverse events, both acute gastritis.
+Two recipients had self-limited skin eruptions.
+Such side effects, including the risks of hepatic
+injury, pancreatitis, more severe cutaneous eruptions, and QT prolongation, and the potential
+for multiple drug interactions due to CYP3A inhibition, are well documented with this drug combination. The side-effect profile observed in the
+current trial arouses concern about the use of
+higher or more prolonged lopinavir–ritonavir
+dose regimens in efforts to improve outcomes.
+Our trial has several limitations. In particular, the trial was not blinded, so it is possible
+that knowledge of the treatment assignment
+might have influenced clinical decision-making
+that could have affected the ordinal scale measurements we used. We will continue to follow
+these patients to evaluate their long-term prognosis. The characteristics of the patients at baseline were generally balanced across the two groups,
+but the somewhat higher throat viral loads in the
+lopinavir–ritonavir group raise the possibility
+that this group had more viral replication. Although we did not observe differences between
+groups in the frequency of use of concurrent pharmacologic interventions, such as glucocorticoids,
+this might have been another confounder. In addition, approximately 45% and 40% of the patients in lopinavir–ritonavir group had positive
+RNA detection by throat swabs on day 14 and day
+28, respectively, but we do not know if infectious
+virus was still present, since we did not attempt
+virus isolation or assess the possible emergence
+of SARS-CoV-2 variants with reduced susceptibility to lopinavir. Finally, we do not have data
+on the lopinavir exposure levels in these seriously and often critically ill patients.
+In conclusion, we found that lopinavir–ritonavir treatment did not significantly accelerate
+clinical improvement, reduce mortality, or diminish throat viral RNA detectability in patients with
+serious Covid-19. These early data should inform
+future studies to assess this and other medication
+in the treatment of infection with SARS-CoV-2.
+Whether combining lopinavir–ritonavir with other antiviral agents, as has been done in SARS5,20
+and is being studied in MERS-CoV,15 might en-
+
+n engl j med﻿﻿  nejm.org﻿
+
+The New England Journal of Medicine
+Downloaded from nejm.org on March 28, 2020. For personal use only. No other uses without permission.
+Copyright © 2020 Massachusetts Medical Society. All rights reserved.
+
+Trial of Lopinavir–Ritonavir in Severe Covid-19
+
+Table 4. Summary of Adverse Events in the Safety Population.*
+Event
+
+Lopinavir–Ritonavir (N = 95)
+Any Grade
+
+Grade 3 or 4
+
+Standard Care (N = 99)
+Any Grade
+
+Grade 3 or 4
+
+number (percent)
+Any adverse event
+
+46 (48.4)
+
+20 (21.1)
+
+49 (49.5)
+
+11 (11.1)
+
+Lymphopenia
+
+16 (16.8)
+
+12 (12.6)
+
+12 (12.1)
+
+5 (5.1)
+
+Nausea
+
+9 (9.5)
+
+1 (1.1)
+
+0
+
+0
+
+Thrombocytopenia
+
+6 (6.3)
+
+1 (1.1)
+
+10 (10.1)
+
+2 (2.0)
+
+Leukopenia
+
+7 (7.4)
+
+1 (1.1)
+
+13 (13.1)
+
+0
+
+Vomiting
+
+6 (6.3)
+
+0
+
+0
+
+0
+
+Increased aspartate aminotransferase
+
+2 (2.1)
+
+2 (2.1)
+
+5 (5.1)
+
+4 (4.0)
+
+Abdominal discomfort
+
+4 (4.2)
+
+0
+
+2 (2.1)
+
+0
+
+Diarrhea
+
+4 (4.2)
+
+0
+
+0
+
+0
+
+Stomach ache
+
+4 (4.2)
+
+1 (1.1)
+
+1 (1.0)
+
+0
+
+Neutropenia
+
+4 (4.2)
+
+1 (1.1)
+
+8 (7.6)
+
+0
+
+Increased total bilirubin
+
+3 (3.2)
+
+3 (3.2)
+
+3 (3.0)
+
+2 (2.0)
+
+Increased creatinine
+
+2 (2.1)
+
+2 (2.1)
+
+7 (7.1)
+
+6 (6.1)
+
+Anemia
+
+2 (2.1)
+
+2 (2.1)
+
+5 (5.0)
+
+4 (4.0)
+
+Rash
+
+2 (2.1)
+
+0
+
+0
+
+0
+
+Hypoalbuminemia
+
+1 (1.1)
+
+1 (1.1)
+
+4 (4.0)
+
+1 (1.0)
+
+Increased alanine aminotransferase
+
+1 (1.1)
+
+1 (1.1)
+
+4 (4.0)
+
+1 (1.0)
+
+0
+
+0
+
+1 (1.0)
+
+0
+
+Increased creatine kinase
+Decreased appetite
+
+2 (2.1)
+
+0
+
+0
+
+0
+
+Prolonged QT interval
+
+1 (1.1)
+
+0
+
+0
+
+0
+
+Sleep disorders and disturbances
+
+1 (1.1)
+
+0
+
+0
+
+0
+
+Facial flushing
+
+1 (1.1)
+
+0
+
+0
+
+0
+
+Serious adverse event
+
+19 (20.0)
+
+17 (17.9)
+
+32 (32.3)
+
+31 (31.3)
+
+12 (12.6)
+
+12 (12.6)
+
+27 (27.3)
+
+27 (27.3)
+
+Acute kidney injury
+
+3 (3.2)
+
+2 (2.1)
+
+6 (6.1)
+
+5 (5.1)
+
+Secondary infection
+
+1 (1.1)
+
+1 (1.1)
+
+6 (6.1)
+
+6 (6.1)
+
+Shock
+
+2 (2.1)
+
+2 (2.1)
+
+2 (2.0)
+
+2 (2.0)
+
+Severe anemia
+
+3 (3.2)
+
+3 (3.2)
+
+0
+
+0
+
+Acute gastritis
+
+2 (2.1)
+
+0
+
+0
+
+0
+
+Hemorrhage of lower digestive tract
+
+2 (2.1)
+
+1 (1.1)
+
+0
+
+0
+2 (2.0)
+
+Respiratory failure or ARDS
+
+0
+
+0
+
+2 (2.0)
+
+Unconsciousness
+
+Pneumothorax
+
+1 (1.1)
+
+0
+
+0
+
+0
+
+Disseminated intravascular coagulation
+
+1 (1.1)
+
+0
+
+1 (1.0)
+
+1 (1.0)
+
+Sepsis
+
+0
+
+0
+
+1 (1.0)
+
+1 (1.0)
+
+Acute heart failure
+
+0
+
+0
+
+1 (1.0)
+
+1 (1.0)
+
+*	Adverse events that occurred in more than 1 patient after randomization through day 28 are shown. Some patients
+had more than one adverse event. Since there are no adverse event grades criteria for serum levels of hypersensitivity
+troponin (cardiac biomarker) and serum lipid, the proportions of patients with values worse than baseline values are
+listed here. The proportion of increased hypersensitivity troponin was higher in the standard-care group than in the
+lopinavir–ritonavir group (14.1% vs. 9.5%). A total of 55 patients (52.4%) in the standard-care group and 65 (68.4%) in
+the lopinavir–ritonavir group had lipid levels that were normal at enrollment but abnormal after enrollment. All deaths
+were due to respiratory failure. ARDS indicates acute respiratory distress syndrome.
+
+n engl j med﻿﻿  nejm.org﻿
+
+The New England Journal of Medicine
+Downloaded from nejm.org on March 28, 2020. For personal use only. No other uses without permission.
+Copyright © 2020 Massachusetts Medical Society. All rights reserved.
+
+11
+
+The
+
+n e w e ng l a n d j o u r na l
+
+hance antiviral effects and improve clinical outcomes remains to be determined.
+Supported by grants from Major Projects of National Science and Technology on New Drug Creation and Development
+(2020ZX09201001) and (2020ZX09201012); the Chinese Academy of Medical Sciences (CAMS) Emergency Project of Covid-19
+(2020HY320001); and a National Science Grant for Distinguished
+Young Scholars (81425001/H0104). Dr. Jaki is a recipient of a
+National Institute for Health Research Senior Research Fellowship (2015-08-001). Dr. Horby reports receiving funding from the
+Wellcome Trust, the Bill and Melinda Gates Foundation, and the
+United Kingdom Department of Health and Social Care.
+
+of
+
+m e dic i n e
+
+Disclosure forms provided by the authors are available with
+the full text of this article at NEJM.org.
+A data sharing statement provided by the authors is available
+with the full text of this article at NEJM.org.
+We thank all patients who participated in this trial and their
+families. We also thank Bandar Al Knawy and Yaseen Arabi
+for sharing the MIRACLE trial documentation and meeting
+reports from WHO Novel Coronavirus R&D. Teddy Clinical
+Research Laboratory (Shanghai) served as the central laboratory, and Roche Diagnostics (Shanghai) provided instruments
+and SARS-CoV-2 assay detection. We dedicate this work to the
+memory of health care workers who have given their lives in
+the care of patients with Covid-19.
+
+Appendix
+The authors’ full names and academic degrees are as follows: Bin Cao, M.D., Yeming Wang, M.D., Danning Wen, M.D., Wen Liu, M.S.,
+Jingli Wang, M.D., Guohui Fan, M.S., Lianguo Ruan, M.D., Bin Song, M.D., Yanping Cai, M.D., Ming Wei, M.D., Xingwang Li, M.D.,
+Jiaan Xia, M.D., Nanshan Chen, M.D., Jie Xiang, M.D., Ting Yu, M.D., Tao Bai, M.D., Xuelei Xie, M.D., Li Zhang, M.D., Caihong Li,
+M.D., Ye Yuan, M.D., Hua Chen, M.D., Huadong Li, M.D., Hanping Huang, M.D., Shengjing Tu, M.D., Fengyun Gong, M.D., Ying Liu,
+M.S., Yuan Wei, M.D., Chongya Dong, Ph.D., Fei Zhou, M.D., Xiaoying Gu, Ph.D., Jiuyang Xu, M.D., Zhibo Liu, M.D., Yi Zhang, M.D.,
+Hui Li, M.D., Lianhan Shang, M.D., Ke Wang, M.D., Kunxia Li, M.D., Xia Zhou, M.D., Xuan Dong, M.D., Zhaohui Qu, M.D., Sixia Lu,
+M.D., Xujuan Hu, M.D., Shunan Ruan, M.S., Shanshan Luo, M.D., Jing Wu, M.D., Lu Peng, M.D., Fang Cheng, M.D., Lihong Pan, M.D.,
+Jun Zou, M.D., Chunmin Jia, M.D., Juan Wang, M.D., Xia Liu, M.D., Shuzhen Wang, M.S., Xudong Wu, M.S., Qin Ge, M.S., Jing He,
+M.S., Haiyan Zhan, M.S., Fang Qiu, M.S., Li Guo, Ph.D., Chaolin Huang, M.D., Thomas Jaki, Ph.D., Frederick G. Hayden, M.D., Peter W. Horby, M.D., Dingyu Zhang, M.D., and Chen Wang, M.D.
+The authors’ affiliations are as follows: the Department of Pulmonary and Critical Care Medicine, Center of Respiratory Medicine,
+National Clinical Research Center for Respiratory Diseases (B.C., Yeming Wang, G.F., F.Z., X.G., Z.L., Y.Z., Hui Li, L.S., C.W.), and the
+Institute of Clinical Medical Sciences (G.F., X.G.), China–Japan Friendship Hospital, the Institute of Respiratory Medicine, Chinese
+Academy of Medical Sciences (B.C., Yeming Wang, F.Z., Z.L., Y.Z., Hui Li, C.W.), the Clinical and Research Center of Infectious Diseases, Beijing Ditan Hospital, Capital Medical University (Xingwang Li), Peking University Clinical Research Institute, Peking University First Hospital (C.D.), Tsinghua University School of Medicine (Jiuyang Xu), Beijing University of Chinese Medicine (L.S.), NHC Key
+Laboratory of Systems Biology of Pathogens and Christophe Merieux Laboratory, Institute of Pathogen Biology, Chinese Academy of
+Medical Sciences (L.G.), and Peking Union Medical College (L.G., C.W.), Beijing, and Jin Yin-tan Hospital, Wuhan (D.W., W.L., Jingli
+Wang, L.R., B.S., Y.C., M.W., Jiaan Xia, N.C., Jie Xiang, T.Y., T.B., X.X., L.Z., C.L., Y.Y., H.C., Huadong Li, H.H., S.T., F.G., Y.L., Yuan
+Wei, K.W., K.L., X.Z., X.D., Z.Q., Sixia Lu, X.H., S.R., Shanshan Luo, Jing Wu, Lu Peng, F.C., Lihong Pan, J.Z., C.J., Juan Wang, Xia
+Liu, S.W., X.W., Q.G., J.H., H.Z., F.Q., C.H., D.Z.) — all in China; Lancaster University, Lancaster (T.J.), and the University of Oxford,
+Oxford (P.W.H.) — both in the United Kingdom; and the University of Virginia School of Medicine, Charlottesville (F.G.H.).
+
+References
+1.	 Huang C, Wang Y, Li X, et al. Clinical
+features of patients infected with 2019
+novel coronavirus in Wuhan, China. Lancet 2020;​395:​497-506.
+2.	 Chen N, Zhou M, Dong X, et al. Epidemiological and clinical characteristics of
+99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive
+study. Lancet 2020;​395:​507-13.
+3.	 Wang D, Hu B, Hu C, et al. Clinical
+characteristics of 138 hospitalized patients with 2019 novel coronavirus-infected pneumonia in Wuhan, China. JAMA
+2020 February 7 (Epub ahead of print).
+4.	 Liu K, Fang YY, Deng Y, et al. Clinical
+characteristics of novel coronavirus cases
+in tertiary hospitals in Hubei Province.
+Chin Med J (Engl) 2020 February 7 (Epub
+ahead of print).
+5.	 Chu CM, Cheng VC, Hung IF, et al.
+Role of lopinavir/ritonavir in the treatment
+of SARS: initial virological and clinical
+findings. Thorax 2004;​59:​252-6.
+6.	 Chen F, Chan KH, Jiang Y, et al. In
+vitro susceptibility of 10 clinical isolates
+of SARS coronavirus to selected antiviral
+compounds. J Clin Virol 2004;​31:​69-75.
+
+12
+
+7.	 Wu C-Y, Jan J-T, Ma S-H, et al. Small
+
+molecules targeting severe acute respiratory syndrome human coronavirus. Proc
+Natl Acad Sci U S A 2004;​101:​10012-7.
+8.	 de Wilde AH, Jochmans D, Posthuma
+CC, et al. Screening of an FDA-approved
+compound library identifies four smallmolecule inhibitors of Middle East respiratory syndrome coronavirus replication
+in cell culture. Antimicrob Agents Chemother 2014;​58:​4875-84.
+9.	 Chan JF-W, Yao Y, Yeung M-L, et al.
+Treatment with lopinavir/ritonavir or
+interferon-β1b improves outcome of
+MERS-CoV infection in a nonhuman primate model of common marmoset. J Infect Dis 2015;​212:​1904-13.
+10.	Kim UJ, Won E-J, Kee S-J, Jung S-I,
+Jang H-C. Combination therapy with lopinavir/ritonavir, ribavirin and interferon-α
+for Middle East respiratory syndrome.
+Antivir Ther 2016;​21:​455-9.
+11.	Spanakis N, Tsiodras S, Haagmans
+BL, et al. Virological and serological
+analysis of a recent Middle East respiratory syndrome coronavirus infection
+case on a triple combination antiviral
+
+regimen. Int J Antimicrob Agents 2014;​
+44:​528-32.
+12.	 Min C-K, Cheon S, Ha N-Y, et al. Comparative and kinetic analysis of viral shedding and immunological responses in
+MERS patients representing a broad spectrum of disease severity. Sci Rep 2016;​6:​
+25359.
+13.	 Chan JFW, Chan K-H, Kao RYT, et al.
+Broad-spectrum antivirals for the emerging Middle East respiratory syndrome
+coronavirus. J Infect 2013;​67:​606-16.
+14.	Hart BJ, Dyall J, Postnikova E, et al.
+Interferon-β and mycophenolic acid are
+potent inhibitors of Middle East respiratory syndrome coronavirus in cell-based
+assays. J Gen Virol 2014;​95:​571-7.
+15.	 Arabi YM, Alothman A, Balkhy HH, et
+al. Treatment of Middle East Respiratory
+Syndrome with a combination of lopinavirritonavir and interferon-β1b (MIRACLE
+trial): study protocol for a randomized
+controlled trial. Trials 2018;​19:​81.
+16.	 International Severe Acute Respiratory and Emerging Infections Consortium
+(ISARIC) home page (https://isaric​
+.tghn​
+.org/​).
+
+n engl j med﻿﻿  nejm.org﻿
+
+The New England Journal of Medicine
+Downloaded from nejm.org on March 28, 2020. For personal use only. No other uses without permission.
+Copyright © 2020 Massachusetts Medical Society. All rights reserved.
+
+Trial of Lopinavir–Ritonavir in Severe Covid-19
+
+17.	 Wang Y, Fan G, Salam A, et al. Com-
+
+parative effectiveness of combined favipiravir and oseltamivir therapy versus oseltamivir monotherapy in critically ill
+patients with influenza virus infection.
+J Infect Dis 2019 December 11 (Epub
+ahead of print).
+18.	Coronavirus disease (COVID-2019)
+R&D. Geneva:​World Health Organization
+(http://www​.who​.int/​blueprint/​priority​
+-­d iseases/​key​-­action/​novel​-­coronavirus/​
+en/​).
+19.	 National Early Warning Score (NEWS)
+2:​standardising the assessment of acuteillness severity in the NHS. London:​Royal
+College of Physicians, 2017 (https://www​
+.rcplondon​.ac​.uk/​projects/​outputs/​national​
+-­early​-­warning​-­score​-­news​-­2).
+20.	 Chan KS, Lai ST, Chu CM, et al. Treat-
+
+ment of severe acute respiratory syndrome
+with lopinavir/ritonavir: a multicentre retrospective matched cohort study. Hong
+Kong Med J 2003;​9:​399-406.
+21.	 Muthuri SG, Venkatesan S, Myles PR,
+et al. Effectiveness of neuraminidase inhibitors in reducing mortality in patients
+admitted to hospital with influenza A
+H1N1pdm09 virus infection: a meta-analysis of individual participant data. Lancet
+Respir Med 2014;​2:​395-404.
+22.	Louie JK, Yang S, Acosta M, et al.
+Treatment with neuraminidase inhibitors
+for critically ill patients with influenza A
+(H1N1)pdm09. Clin Infect Dis 2012;​
+55:​
+1198-204.
+23.	 Katzen J, Kohn R, Houk JL, Ison MG.
+Early oseltamivir after hospital admission
+is associated with shortened hospitaliza-
+
+tion: a 5-year analysis of oseltamivir timing and clinical outcomes. Clin Infect Dis
+2019;​69:​52-8.
+24.	Zhou F, Yu T, Du R, et al. Clinical
+course and risk factors for mortality of
+adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study.
+Lancet 2020 March 11 (Epub ahead of
+print).
+25.	 Zou L, Ruan F, Huang M, et al. SARSCoV-2 viral load in upper respiratory specimens of infected patients. N Engl J Med.
+DOI:​ 10.1056/NEJMc2001737.
+26.	 Yamamoto N, Yang R, Yoshinaka Y, et
+al. HIV protease inhibitor nelfinavir inhibits replication of SARS-associated
+coronavirus. Biochem Biophys Res Commun 2004;​318:​719-25.
+Copyright © 2020 Massachusetts Medical Society.
+
+n engl j med﻿﻿  nejm.org﻿
+
+The New England Journal of Medicine
+Downloaded from nejm.org on March 28, 2020. For personal use only. No other uses without permission.
+Copyright © 2020 Massachusetts Medical Society. All rights reserved.
+
+13
+
+

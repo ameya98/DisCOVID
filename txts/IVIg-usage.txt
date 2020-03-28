@@ -1,0 +1,1502 @@
+High-dose intravenous immunoglobulin
+as a therapeutic option for deteriorating patients with
+Coronavirus Disease 2019
+
+t
+cr
+ip
+
+M.D 3, Hui Song, M.D3, Yang Han, PhD 1, Ling Lin, M.D1, Lianguo Ruan, M.D3*,
+
+us
+
+Taisheng Li, M.D, PhD1*
+
+an
+
+1. Department of Infectious Diseases, Peking Union Medical College Hospital,
+
+M
+
+Chinese Academy of Medical Sciences, Beijing, China
+2. Tsinghua-Peking Center for Life Sciences, School of Medicine, Tsinghua
+
+ed
+
+University, Beijing, China.
+
+3. Department of Infectious Diseases, Jin Yin-tan Hospital, Wuhan, China
+These authors contribute equally to this work.
+
+ce
+pt
+
+*
+
+Ac
+
+*Corresponding to Taisheng Li and Lianguo Ruan:
+1 Taisheng Li
+Department of Infectious Diseases, Peking Union Medical College Hospital, Chinese
+Academy of Medical Sciences
+© The Author(s) 2020. Published by Oxford University Press on behalf of Infectious Diseases Society of
+America.
+This is an Open Access article distributed under the terms of the Creative Commons AttributionNonCommercial-NoDerivs licence (http://creativecommons.org/licenses/by-nc-nd/4.0/), which permits
+non-commercial reproduction and distribution of the work, in any medium, provided the original work is
+not altered or transformed in any way, and that the work is properly cited. For commercial re-use, please
+contact journals.permissions@oup.com
+
+Downloaded from https://academic.oup.com/ofid/advance-article-abstract/doi/10.1093/ofid/ofaa102/5810740 by guest on 28 March 2020
+
+Wei Cao, M.D1, Xiaosheng Liu PhD2, Tao Bai, M.D 3, Hongwei Fan, M.D 1, Ke Hong,
+
+1# Shuai Fu Yuan, Beijing, China, 100730
+Tel.: 86- 10-69155086; Fax: 86-10-69155046
+Email: litsh@263.net
+
+cr
+ip
+
+t
+
+Department of Infectious Diseases, Jin Yin-tan Hospital, Wuhan, China
+No 1, Yintan Road, Dongxihu District, Wuhan, Hubei province, China, 430023
+Tel: 86-15807145269
+
+Ac
+
+ce
+pt
+
+ed
+
+M
+
+an
+
+us
+
+Email: jianxing1014@foxmail.com
+
+2
+
+Downloaded from https://academic.oup.com/ofid/advance-article-abstract/doi/10.1093/ofid/ofaa102/5810740 by guest on 28 March 2020
+
+2. Lianguo Ruan
+
+Abstract:
+The outbreak of Coronavirus Disease 2019 (COVID-19) has spread rapidly in China.
+Till now, no definite effective treatment has been identified. We reported on three
+
+cr
+ip
+
+t
+
+(IVIg) with satisfactory recovery. Based on these observations, randomized studies of
+high-dose IVIg should be considered in deteriorating patients infected with COVID-19.
+
+us
+
+Keywords: Coronavirus Disease 2019, SARS-COV-2, high-dose intravenous
+
+Ac
+
+ce
+pt
+
+ed
+
+M
+
+an
+
+immunoglobulin, immunomodulation
+
+3
+
+Downloaded from https://academic.oup.com/ofid/advance-article-abstract/doi/10.1093/ofid/ofaa102/5810740 by guest on 28 March 2020
+
+patients of severe COVID-19 who received high-dose intravenous immunoglobulin
+
+The outbreak of pneumonia of unknown cause that first occurred in Wuhan, China,
+December 2019, has recently been assessed by WHO as a pandemic. The pneumonia is
+caused by a novel coronavirus, severe acute respiratory syndrome coronavirus 2
+
+cr
+ip
+
+t
+
+designated coronavirus disease 2019 (COVID-19) by WHO. As of March 12, 2020, a
+total of 80981 cases had been reported in China, including 3173 reported deaths.
+Meanwhile, number of confirmed patients continues to grow out of China and 45309
+
+us
+
+cases had already been reported[1]. The relatively high infectivity, rapid progression of
+
+an
+
+lung involvement, and lack of definite effective treatment, make it urgent to develop
+
+M
+
+efficient measures of management based on the pathogenesis of COVID-19. Although
+many empirical therapeutic options have been introduced on several operational
+
+ed
+
+recommendations, including existing and new generation of antivirals, steroids, and
+traditional Chinese medicine, the optimal strategy for severe COVID-19 remains
+
+ce
+pt
+
+unclear.
+
+The clinical spectrum of SARS-CoV-2 infection is quite wide, and includes
+
+Ac
+
+asymptomatic infection, mild type with only upper respiratory tract illness, common
+type with pulmonary infiltrations, severe type with respiratory distress and critically ill
+patients that needs intubation or intensive care[2]. Clinical features of those with
+pneumonia include fever, cough, and in many cases a sudden and accelerating
+respiratory distress originated from interstitial pneumonia. In those who rapidly
+progressed to critical conditions, reduced peripheral lymphocyte counts and elevated
+inflammatory factors were observed, indicating an overwhelming immune response[3,
+4
+
+Downloaded from https://academic.oup.com/ofid/advance-article-abstract/doi/10.1093/ofid/ofaa102/5810740 by guest on 28 March 2020
+
+(SARS-COV-2, previously known as 2019-nCoV), and the disease it caused was later
+
+4]. Previous experiences in SARS showed that the main pathogenesis of organ
+dysfunction lay on the overall cytokine dysregulation. Similarly, the point when status
+deterioration starts in patients with COVID-19 should be a critical window of
+
+cr
+ip
+
+t
+
+received high-dose intravenous immunoglobulin (IVIg) at the time of respiratory
+distress initiation, with satisfactory clinical and radiographic recovery.
+
+us
+
+Case presentation
+
+an
+
+Patient 1
+
+M
+
+On Jan 22, 2020, a 56-year-old man was admitted to Jin Yin-tan Hospital, Wuhan, China.
+Patient had sore throat since Jan 19, and reported fever for two days before admission,
+
+ed
+
+with the highest temperature of 38.2 degrees Celsius. He was given oseltamivir and
+azithromycin by a local clinic to empirically cover community-acquired respiratory
+
+ce
+pt
+
+pathogens, yet without any improvement. On Jan 21, he came to the Emergency
+Department of Jin Yin-tan Hospital, and a CT scan was done showing scattered
+
+Ac
+
+interstitial patches and pleural thickening on the right side (Figure 1). Oropharyngeal
+swab was positive for SARS-COV2 by real-time reverse-transcriptase–polymerasechain-reaction (rRT-PCR) assay. He was previously generally healthy, and denied any
+exposure or direct contact with the Huanan seafood market.
+On admission, he was afebrile, with the blood pressure 125/80mmHg, pulse 86
+beats per minute, respiratory rate 20 breaths per minute, and oxygen saturation 96%
+when breathing ambient air. Both lungs were clear on auscultation, and the remainder
+5
+
+Downloaded from https://academic.oup.com/ofid/advance-article-abstract/doi/10.1093/ofid/ofaa102/5810740 by guest on 28 March 2020
+
+opportunity for intervention. Here we reported on three patients with COVID-19, who
+
+of the examination was unremarkable. Laboratory results reflected a significant
+lymphocytopenia with a lymphocyte count 0.48×109/L (1.1-3.2). His inflammatory
+markers were elevated, with the erythrocyte sedimentation rate (ESR) 49mm/1h (0-15),
+
+cr
+ip
+
+t
+
+functions were within the normal range (Table 1). Detections of antigens were negative
+for Influenza A and B, as well as for H7 subtype avian influenza virus.
+
+The patient was diagnosed COVID-19, common type. Supportive care and
+
+us
+
+empirical moxifloxacin were given with a close monitoring of the clinical status. He
+
+an
+
+had intermittent fever, but the vital signs remained largely stable until Jan 26 when
+
+M
+
+cough and shortness of breath developed. The oxygen saturation decreased to 91% at
+ambient air, and hsCRP further elevated to 106.2mg/L. A CT scan on Jan 29 showed
+
+ed
+
+progressing infiltrations bilaterally compared to that of Jan 21(Figure 1A).
+The diagnosis was modified to COVID-19, severe type. High-dose IVIg was started
+
+ce
+pt
+
+from Jan 28 (hospital day 7), at 25 grams per day for five days (body weight 66
+kilograms). Moxifloxacin was continued till Feb 2. On the same day following IVIg
+
+Ac
+
+infusion, patient became afebrile. No adverse event was reported. Over the next few
+days, his clinical status gradually improved. The supplemental oxygen was
+discontinued, and his oxygen saturation level returned to 97 to 98% on Feb 3 at ambient
+air. Test results on Feb 5 showed recovered lymphocyte count to 1.6×109/L. The ESR
+decreased to 31mm/h, and hsCRP returned to normal range. The CT scan showed partial
+resolution of previous lesions (Figure 1A). Two consecutive oropharyngeal swabs on
+Feb 2 and 3 were both negative for 2019-nCoV. Patient was discharged on Feb 5.
+6
+
+Downloaded from https://academic.oup.com/ofid/advance-article-abstract/doi/10.1093/ofid/ofaa102/5810740 by guest on 28 March 2020
+
+and the high-sensitive C-reactive protein (hsCRP) 57.8mg/L (0-5). The liver and renal
+
+Patient 2
+A 34-year-old man presented with fever and dry cough for 10 days, and was admitted
+
+cr
+ip
+
+t
+
+Celsius with dry cough. On Jan 28, he began to feel short of breath and came to a local
+hospital. An oropharyngeal swab was confirmed positive for SARS-COV2, and patient
+was transferred to Jin Yin-tan Hospital the next day. He had a two-year history of
+
+us
+
+hypertension well controlled by valsartan and felodipine, and denied any exposure or
+
+an
+
+direct contact with the seafood market.
+
+M
+
+The physical examination showed a body temperature of 37.5°C, blood pressure
+138/90 mmHg, pulse 86 beats per minute, respiratory rate 26 breaths per minute, and
+
+ed
+
+oxygen saturation was 90% when breathing ambient air. Laboratory results on
+admission reflected mild thrombocytopenia at 97×109/L (120-350), and moderately
+
+ce
+pt
+
+elevated inflammation markers including ESR 58mm/1h and hsCRP 82mg/L. The level
+of creatine kinase was elevated at 1081U/L (50-310), and myoglobin was mildly
+
+Ac
+
+increased to 153.8ng/ml (0-146.9) (Table 1). IgM tests for respiratory pathogens were
+negative for influenza A and B, parainfluenza, respiratory syncytial virus (RSV),
+adenovirus, mumps virus and microvirus B19. A CT scan on Jan 30 indicated bilateral
+infiltrations and opacities, more prominent on the right side (Figure1B).
+Patient was diagnosed COVID-19, severe type. IVIg was administered
+immediately at the dose of 25 grams per day for five days (body weight 63kg). Patient
+became afebrile from the second day of IVIg treatment, with a gradual improvement of
+7
+
+Downloaded from https://academic.oup.com/ofid/advance-article-abstract/doi/10.1093/ofid/ofaa102/5810740 by guest on 28 March 2020
+
+on Jan 29, 2020 to Jin Yin-tan Hospital. Patient reported fever up to 38.5 degrees
+
+breathing difficulty. CT scan was repeated on Feb 3, showing prominent absorption
+compared with that of Jan 30 (Figure 1B). The nasal PCR testing turned negative for
+SARS-COV2 on Feb 3, and he was discharged on Feb 5.
+
+t
+cr
+ip
+
+A 35-year-old woman was admitted to Jin Yin-tan Hospital on Jan 24, 2020. She
+reported malaise and low-grade fever (maximal 37.3 degrees Celsius) with mild
+
+us
+
+coughing since Jan 19. A CT scan from local hospital showed mild ground-glass
+
+an
+
+opacities. Her nasopharyngeal swab was positive for 2019-nCoV, and oral
+
+M
+
+lopinavir/ritonavir was prescribed while being closely monitored. Patient developed
+high-degree fever around 39 degrees Celsius on Jan 22 yet with no obvious shortness
+
+ed
+
+of breath, and got admitted on Jan 24. She was previous generally healthy, but reported
+close contact with her colleague who had been diagnosed COVID-19 a few days before.
+
+ce
+pt
+
+On admission, she was afebrile, with the blood pressure 105/68 mmHg, pulse 91
+
+beats per minute, respiratory rate 20 breaths per minute, and oxygen saturation was 98%
+
+Ac
+
+with ambient air. Her lungs were clear to auscultation. Laboratory studies revealed mild
+lymphocytopenia with a lymphocyte count of 0.85×109/L, and slightly elevated hsCRP
+at 41.4mg/L (Table 1). IgM tests for respiratory pathogens were reported negative for
+influenza A and B, parainfluenza, RSV, adenovirus, mumps virus and microvirus B19.
+A chest CT scan on Jan 24 showed multiple ground-glass opacities and infiltrations
+bilaterally, more advanced than that of Jan 20 (Figure 1C).
+Lopinavir/ritonavir was continued to complete the two-week course. Patient’s
+8
+
+Downloaded from https://academic.oup.com/ofid/advance-article-abstract/doi/10.1093/ofid/ofaa102/5810740 by guest on 28 March 2020
+
+Patient 3
+
+temperature was between 37.5-38.5 degrees Celsius. On Jan 29, she developed
+shortness of breath, and the oxygen saturation decreased to 92% at ambient air.
+Prominent deterioration was also noticed from chest CT, accompanied by further
+
+cr
+ip
+
+t
+
+(Figure 1C).
+Her clinical diagnosis grading was modified from common to severe type, and IVIg
+was administered from Jan 29 at 25 grams per day for five days (body weight 56kg).
+
+us
+
+Meanwhile, methylprednisolone 40mg per day was given for three days. Fever subsided
+
+an
+
+after the first day of enhanced treatment. Her symptoms improved significantly two
+
+M
+
+days later when oxygen saturation returned to 98% at ambient air. Negative PCR testing
+for SARS-COV2 were confirmed on Feb 2 and 3. The chest CT scan revealed
+
+ce
+pt
+
+ed
+
+radiographic resolution (Figure 1C). She was discharged on Feb 9.
+
+Discussion
+
+Although confirmed cases of COVID-19 rapidly accumulated during the past two
+
+Ac
+
+months, our understanding of the clinical spectrum and pathophysiological changes of
+this infection still remains very limited. Nevertheless, no definite treatment has been
+identified, which makes it extremely difficult for clinical management. Here we report
+a case series of COVID-19, all of whom were successfully treated by high-dose IVIg at
+the early stage of clinical deterioration. Based on these observations, a high-dose IVIg
+administered at the appropriate point, could successfully block the progression of
+disease cascade, and finally improve the outcome of COVID-19.
+9
+
+Downloaded from https://academic.oup.com/ofid/advance-article-abstract/doi/10.1093/ofid/ofaa102/5810740 by guest on 28 March 2020
+
+reduction of lymphocyte counts to 0.6×109/L, and elevation of hsCRP to 69.5mg/L
+
+The natural history of SARS-CoV-2 infection does not simply resemble any of the
+previously known coronaviruses. Up to date, we have noticed quite a wide clinical
+spectrum of SARS-CoV-2 infection, including asymptomatic infection, mild upper
+
+cr
+ip
+
+t
+
+reported symptomatic cases including our patients and many others, followed a similar
+track of progression. The infection often started with mild or moderate unspecific
+symptoms, including but is not limited to low-grade fever, sore throat, coughing, fatigue
+
+us
+
+and malaise, similar to that of a common cold. The initial symptoms would alleviate or
+
+an
+
+persist for around 3-7 days, when high-grade fever developed and respiratory distress
+
+M
+
+became quite prominent. Some of these patients would also have gastrointestinal
+symptoms during this period. However, if we look at the CT series as shown here, which
+
+ed
+
+were quite typical of most COVID-19 patients, we would have a very strong impression
+that most of the lesions started from the peripheral, especially the subpleural region
+
+ce
+pt
+
+when ARDS developed[5]. These features indicated an hematogenous or lymphatic
+distribution or spreading of pathogenic factors rather than direct inspiration.
+
+Ac
+
+Based on these observations, we deduced that symptomatic COVID-19 mainly
+
+consists of three phases, including a starting phase, spanning the acquisition of the virus
+and subsequent viremia; and in many but not all patients an accelerating phase, when
+virus-induced secondary damage of targeting organs and tissue occurs, including the
+lungs, the heart, the gastrointestinal tract, and even an overall inflammatory storm. The
+third phase is the final recovery phase. This was demonstrated by not only the clinical
+features but also the laboratory dynamics, including progressive lymphocytopenia and
+10
+
+Downloaded from https://academic.oup.com/ofid/advance-article-abstract/doi/10.1093/ofid/ofaa102/5810740 by guest on 28 March 2020
+
+respiratory tract illness, and those with pulmonary infiltrations. A large proportion of
+
+elevated inflammation markers at the time of acceleration. Therefore, strategies against
+COVID-19 should also be specified according to the course of infection. The best
+timing of antivirals, if there are any, may lie on the phase before acceleration. When
+
+cr
+ip
+
+t
+
+point when potent suppression of inflammatory cascade could save the patients from
+fatal immune-mediated injuries, as shown here. Moreover, from the experiences of our
+
+even no effective antiviral drugs were given.
+
+us
+
+patients, once if the acceleration of disease could be stopped, it seemed to work well
+
+an
+
+As a result, high-dose IVIg at 0.3-0.5g per kg weight per day for five days was
+
+M
+
+used in our patients as a potent and safe immune modulator. Dose of IVIg was
+determined based on the well-established practice in immune modulation therapy for
+
+ed
+
+other diseases, including the neuromuscular disorders, autoimmune thrombocytopenic
+purpura, et al[6, 7], with a consideration of potential cardiac or renal impairment in
+
+ce
+pt
+
+severe COVID-19 patients. None of the three patients reported any adverse events. All
+patients were clinically improved shortly following the administration, with the
+
+Ac
+
+temperature back to normal in one to two days, and breathing difficulties alleviating in
+3-5 days. Confounding factors did exist, including the use of different antivirals in two
+of the three patients at various time points, and short course of steroids in Patient 3.
+Moreover, in Patient 2, valsartan, an angiotensin receptor 1 blocker (AT1R), had been
+used for treating hypertension. As angiotensin-converting enzyme 2 (ACE2) has been
+identified as the major receptor binding domain of SARS-CoV-2[8, 9], there has been
+a hypothesis that higher expression of ACE2 following chronically medication of AT1R
+11
+
+Downloaded from https://academic.oup.com/ofid/advance-article-abstract/doi/10.1093/ofid/ofaa102/5810740 by guest on 28 March 2020
+
+clinical deterioration began, the first few days of deterioration may present a critical
+
+may protect SARS-CoV-2 infected patients against acute lung injury rather than putting
+them at higher risk, though currently remains unproved[10]. Nevertheless, from the
+timeline and patterns of disease course in these three patients, it was most probable that
+
+cr
+ip
+
+t
+
+IVIg is a blood product containing polyclonal immunoglobulin G isolated and
+pooled from healthy donors, and has been used for over 30 years. As a complex
+preparation, it contains a large number of bioactive moieties, and the entirety of effects
+
+us
+
+is not yet fully understood. IVIg of higher dose has been a choice of immunomodulatory
+
+an
+
+therapy for autoimmune or inflammatory disease, and for prophylaxis and treatment of
+
+M
+
+severe infections especially in immunocompromised patients[11, 12]. Several theories
+have been proposed to explain its potential immunomodulatory mechanisms, including
+
+ed
+
+the Fc-mediated and Fab-mediated approaches[13, 14]. In previous studies of SARS
+and Middle East respiratory syndrome (MERS), IVIg therapy has exhibited various
+
+ce
+pt
+
+clinical benefits with good tolerance [15-17]. Considering its efficacy in improving
+passive immunity and modulating immune inflammation, and the overall safety profile,
+
+Ac
+
+high-dose IVIg could be considered a promising option at the early stage of clinical
+deterioration of patents with COVID-19.
+Our report is limited by the small numbers of patients we included, and more
+
+evidence is needed to confirm the conclusion. However, it provided an important
+therapeutic clue under current situation of rapid disease spreading. The timing of IVIg
+administration is very critical in practice. Patients might not receive much benefit when
+overall systemic damage has already taken place. Currently, a randomized controlled
+12
+
+Downloaded from https://academic.oup.com/ofid/advance-article-abstract/doi/10.1093/ofid/ofaa102/5810740 by guest on 28 March 2020
+
+high-dose IVIg was playing the leading role in their recovery.
+
+trial evaluating the efficiency of high-dose IVIg therapy in severe COVID-19 has been
+initiated (NCT 04261426), which would bring more evidence for IVIg using in treating
+
+cr
+ip
+us
+an
+M
+ed
+ce
+pt
+Ac
+
+13
+
+Downloaded from https://academic.oup.com/ofid/advance-article-abstract/doi/10.1093/ofid/ofaa102/5810740 by guest on 28 March 2020
+
+t
+
+such patients.
+
+Acknowledgement
+We are grateful to the patients for their consent to publish this case series. We thank
+all the nurses and clinical staff who provided care for these patients and who are
+
+t
+cr
+ip
+
+Author contribution
+
+T.L. and W.C designed the use of IVIg in these patients. W.C and X.L drafted the
+
+us
+
+manuscript. L.R, T.B., K.H and H.S took clinical care of these three patients and
+
+an
+
+collected all the data and imaging studies. H.F, Y.H and L.L reviewed the literature
+
+M
+
+and critically revised the manuscript. All authors reviewed the manuscript, provided
+
+ed
+
+feedback and approved the manuscript in its final form.
+
+Competing interests
+
+Ac
+
+ce
+pt
+
+All authors declared no competing financial interests.
+
+14
+
+Downloaded from https://academic.oup.com/ofid/advance-article-abstract/doi/10.1093/ofid/ofaa102/5810740 by guest on 28 March 2020
+
+providing continuous care to other patients in China.
+
+References
+1.
+
+Real-time updates: National Outbreak Map of New Coronary Virus Pneumonia.
+Available at: https://news.sina.cn/zt_d/yiqing0121. Accessed Mar 12, 2020.
+
+2.
+
+National Health Commission of the People's Republic of China. Chinese
+
+）
+
+Infection
+
+(Pilot
+
+4th
+
+version).
+
+Available
+
+at:
+
+http://www.gov.cn/zhengce/zhengceku/2020-
+
+cr
+ip
+
+t
+
+CoV2
+
+01/28/5472673/files/0f96c10cc09d4d36a6f9a9f0b42d972b.pdf. Accessed Mar
+
+3.
+
+us
+
+12, 2020.
+
+Huang C, Wang Y, Li X, et al. Clinical features of patients infected with 2019
+
+4.
+
+an
+
+novel coronavirus in Wuhan, China. Lancet (London, England) 2020.
+Zhu N, Zhang D, Wang W, et al. A Novel Coronavirus from Patients with
+
+5.
+
+M
+
+Pneumonia in China, 2019. The New England journal of medicine 2020.
+Chung M, Bernheim A, Mei X, et al. CT Imaging Features of 2019 Novel
+
+6.
+
+ed
+
+Coronavirus (2019-nCoV). Radiology 2020: 200230.
+Patwa HS, Chaudhry V, Katzberg H, Rae-Grant AD, So YT, Amer Acad N.
+
+ce
+pt
+
+Evidence-based guideline: Intravenous immunoglobulin in the treatment of
+neuromuscular disorders Report of the Therapeutics and Technology
+Assessment Subcommittee of the American Academy of Neurology. Neurology
+2012; 78(13): 1009-15.
+Godeau B, Caulier MT, Decuypere L, et al. Intravenous immunoglobulin for
+
+Ac
+
+7.
+
+adults with autoimmune thrombocytopenic purpura: results of a randomized
+trial comparing 0 center dot 5 and 1 g/kg bw. British Journal of Haematology
+1999; 107(4): 716-9.
+
+8.
+
+Lu R, Zhao X, Li J, et al. Genomic characterisation and epidemiology of 2019
+novel coronavirus: implications for virus origins and receptor binding. Lancet
+2020.
+
+9.
+
+Wan Y, Shang J, Graham R, Baric RS, Li F. Receptor recognition by novel
+15
+
+Downloaded from https://academic.oup.com/ofid/advance-article-abstract/doi/10.1093/ofid/ofaa102/5810740 by guest on 28 March 2020
+
+Recommendations for Diagnosis and Treatment of Novel Coronavirus（SARS-
+
+coronavirus from Wuhan: An analysis based on decade-long structural studies
+of SARS. J Virol 2020.
+10.
+
+Gurwitz D. Angiotensin receptor blockers as tentative SARS-CoV-2
+therapeutics. Drug development research 2020.
+Galeotti C, Kaveri SV, Bayry J. IVIG-mediated effector functions in
+autoimmune and inflammatory diseases. Int Immunol 2017; 29(11): 491-8.
+
+t
+
+De Ranieri D, Fenny NS. Intravenous Immunoglobulin in the Treatment of
+
+cr
+ip
+
+12.
+
+Primary Immunodeficiency Diseases. Pediatric Annals 2017; 46(1): E8-E12.
+13.
+
+Hartung HP. Advances in the understanding of the mechanism of action of IVIg.
+
+14.
+
+us
+
+J Neurol 2008; 255: 3-6.
+
+Wiedeman AE, Santer DM, Yan W, Miescher S, Kaesermann F, Elkon KB.
+
+an
+
+Contrasting Mechanisms of Interferon-alpha Inhibition by Intravenous
+Immunoglobulin After Induction by Immune Complexes Versus Toll-like
+
+15.
+
+M
+
+Receptor Agonists. Arthritis and Rheumatism 2013; 65(10): 2713-23.
+Khanna N, Widmer AF, Decker M, et al. Respiratory syncytial virus infection
+
+ed
+
+in patients with hematological diseases: Single-center study and review of the
+literature. Clin Infect Dis 2008; 46(3): 402-12.
+Wang JT, Sheng WH, Fang CT, et al. Clinical manifestations, laboratory
+
+ce
+pt
+
+16.
+
+findings, and treatment outcomes of SARS patients. Emerg Infect Dis 2004;
+10(5): 818-24.
+
+Arabi YM, Arifi AA, Balkhy HH, et al. Clinical Course and Outcomes of
+
+Ac
+
+17.
+
+Critically Ill Patients With Middle East Respiratory Syndrome Coronavirus
+Infection. Ann Intern Med 2014; 160(6): 389-+.
+
+16
+
+Downloaded from https://academic.oup.com/ofid/advance-article-abstract/doi/10.1093/ofid/ofaa102/5810740 by guest on 28 March 2020
+
+11.
+
+RBC
+
+(1012/L)
+
+Hb (g/L)
+PLT
+
+(109/L)
+
+Illness Day 9,
+
+Illness Day 18,
+
+Illness Day 12,
+
+Range
+
+Hospital Day 1
+
+Hospital Day 6
+
+Hospital Day 15
+
+Hospital Day 2
+
+3.5-9.5
+4.3-5.8
+130-175
+120-350
+
+Illness Day 6,
+
+Illness Day 11,
+
+Illness Day 14,
+
+Hospital Day 6
+
+Hospital Day 1
+
+Hospital Day 6
+
+Hospital Day 9
+
+3.91
+
+3.06↓
+
+3.39↓
+
+4.4
+
+8.74
+
+4.74
+
+4.4
+
+4.26↓
+
+4.02↓
+
+5.21
+
+4.92
+
+4.25
+
+4.34
+
+3.83
+
+139
+
+128↓
+
+147
+
+139
+
+127
+
+126
+
+114
+
+210
+
+241
+
+97↓
+
+—
+
+153
+
+274
+
+287
+
+144
+147
+3.4
+
+5.82
+
+1.1-3.2
+
+0.48↓
+
+0.58↓
+
+1.63
+
+ESR (mm/h)
+
+0-15
+
+49↑
+
+—
+
+31↑
+
+hsCRP (mg/L)
+
+0-5
+
+57.8↑
+
+106.2↑
+
+3.11
+
+2.27
+
+1.86
+
+2.46
+
+3.42
+
+1.2
+
+1.04↓
+
+0.85↓
+
+0.60↓
+
+0.85↓
+
+58.8↑
+
+—
+
+40↑
+
+41.5↑
+
+4.3
+
+82.0↑
+
+25.1↑
+
+41.1↑
+
+69.5↑
+
+6.6↑
+
+—
+
+16.6
+
+—
+
+—
+
+M
+
+LYM# (109/L)
+
+Illness Day 16,
+
+6.61
+
+1.8-6.3
+
+NEUT#
+
+Patient 3c
+
+4.22
+
+6.51↑
+
+(109/L)
+
+ip
+t
+
+Illness Day 4,
+
+us
+
+WBC
+
+(109/L)
+
+Reference
+
+an
+
+Measure
+
+Patient 2b
+
+cr
+
+Patient 1a
+
+96.3
+
+36.5
+
+—
+
+0-28
+
+1.1
+
+1.3
+
+—
+
+3.6
+
+—
+
+0
+
+—
+
+—
+
+21.8-274.66
+
+459.57↑
+
+563.02↑
+
+806.99↑
+
+632.55↑
+
+85.91
+
+—
+
+232.62↑
+
+PCT (ng/mL)
+
+<0.05
+
+—
+
+TBIL (μmol/L)
+
+0-26
+
+15.5
+
+SF (ng/mL)
+
+ALT (U/L)
+
+9-50
+
+AST (U/L)
+
+14-40
+
+ALB (g/L)
+
+40-55
+
+ALP (U/L)
+
+45-125
+
+γ-GT (U/L)
+
+10-60
+
+CRE (μmol/L)
+
+57-97
+
+UA (μmol/L)
+
+208-428
+
+CK (U/L)
+
+50-310
+
+—
+
+pt
+e
+
+hsTnI (pg/mL)
+
+<0.05
+
+<0.05
+
+<0.05
+
+0.05
+
+<0.05
+
+<0.05
+
+<0.05
+
+15.4
+
+6.5
+
+15
+
+—
+
+8.4
+
+—
+
+5.9
+
+14
+
+60↑
+
+52↑
+
+—
+
+15
+
+—
+
+20
+
+34
+
+40
+
+54↑
+
+—
+
+25
+
+—
+
+11↓
+
+39.3↓
+
+34.2↓
+
+39.6↓
+
+32.4↓
+
+—
+
+33.4↓
+
+—
+
+33.0↓
+
+47
+
+47
+
+46
+
+60
+
+—
+
+47
+
+—
+
+26↓
+
+17
+
+19
+
+29
+
+87↑
+
+—
+
+15
+
+—
+
+33
+
+88.8
+
+69.2
+
+63
+
+72.7
+
+—
+
+51.6
+
+—
+
+47
+
+191↓
+
+99↓
+
+195↓
+
+472↑
+
+—
+
+201
+
+—
+
+131↓
+
+267
+
+81
+
+51
+
+1081↑
+
+—
+
+46
+
+—
+
+32↓
+
+20
+36
+
+Ac
+ce
+
+Mb (ng/mL)
+
+d
+
+0-146.9
+
+153.8↑
+
+17
+
+Downloaded from https://academic.oup.com/ofid/advance-article-abstract/doi/10.1093/ofid/ofaa102/5810740 by guest on 28 March 2020
+
+Table 1. Laboratory tests of the three patients before and after infusion of high-dose intravenous immunoglobulin.
+
+296↑
+
+651↑
+
+—
+
+0-1.5
+
+0.37
+
+—
+
+—
+
+0.43
+
+—
+
+PT (sec)
+
+10.5-13.5
+
+10.6
+
+—
+
+10.2↓
+
+11.3
+
+—
+
+PTA (%)
+
+0.8-1.2
+
+129.7↑
+
+—
+
+117.4
+
+95.5
+
+—
+
+FIB (g/L)
+
+2-4
+
+4.1↑
+
+—
+
+3.7
+
+4.4↑
+
+was initiated on hospital day 7.
+
+bIVIg
+
+was initiated on hospital day 2.
+
+cIVIg
+
+was initiated on hospital day 6.
+
+↓The
+
+value in the patient was below normal.
+
+↑The
+
+value in the patient was above normal.
+
+222
+
+—
+
+—
+
+1.55↑
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+us
+
+aIVIg
+
+—
+
+—
+
+an
+
+D-dimer (ug/mL)
+
+163
+
+ip
+t
+
+315↑
+
+cr
+
+308↑
+
+M
+
+Abbreviation: WBC, white-cell count; RBC, red-cell count; Hb, hemoglobn; PLT, platelet count; NEUT#, absolute neutrophil count; LYM#, absolute lymphocyte count; ESR, erythrocyte
+sedimentation rate; hsCRP, hypersensitive C-reactive protein; Mb, myoglobin; hsTn, hypersensitive troponin; SF, serum ferritin; PCT, procalcitonin; TBIL, total bilirubin; ALT, alanine
+aminotransferase; AST, aspartase aminotransferase; ALB, albumin; ALP, alkaline phosphatase; γ-GT, γ -glutamyltransferase; CRE, creatinine; UA, urine acid; CK, creatinekinase; LDH, lactate
+
+Ac
+ce
+
+pt
+e
+
+d
+
+dehydrogenase; PT, prothrombin time; PTA, prothrombin activity; FIB, fibrinogen.
+
+18
+
+Downloaded from https://academic.oup.com/ofid/advance-article-abstract/doi/10.1093/ofid/ofaa102/5810740 by guest on 28 March 2020
+
+120-250
+
+LDH (U/L)
+
+Figure Legends
+Figure 1 Chest CT scan of Patient 1(A), Patient 2(B) and Patient 3(C) before and
+
+cr
+ip
+us
+an
+M
+ed
+ce
+pt
+Ac
+
+19
+
+Downloaded from https://academic.oup.com/ofid/advance-article-abstract/doi/10.1093/ofid/ofaa102/5810740 by guest on 28 March 2020
+
+t
+
+following high-dose intravenous immunoglobulin (IVIg) with days of illness.
+
+ed
+
+ce
+pt
+
+Ac
+
+us
+an
+
+M
+
+cr
+ip
+
+t
+
+Downloaded from https://academic.oup.com/ofid/advance-article-abstract/doi/10.1093/ofid/ofaa102/5810740 by guest on 28 March 2020
+
+20
+
+

@@ -1,0 +1,251 @@
+The
+
+n e w e ng l a n d j o u r na l
+
+of
+
+m e dic i n e
+
+C or r e sp ondence
+
+Transmission of 2019-nCoV Infection
+from an Asymptomatic Contact in Germany
+To the Editor: The novel coronavirus (2019nCoV) from Wuhan is currently causing concern
+in the medical community as the virus is spreading around the world.1 Since identification of the
+virus in late December 2019, the number of cases
+from China that have been imported into other
+countries is on the rise, and the epidemiologic
+picture is changing on a daily basis. We are reporting a case of 2019-nCoV infection acquired
+outside Asia in which transmission appears to
+have occurred during the incubation period in
+the index patient.
+A 33-year-old otherwise healthy German businessman (Patient 1) became ill with a sore throat,
+chills, and myalgias on January 24, 2020. The
+following day, a fever of 39.1°C (102.4°F) developed, along with a productive cough. By the
+evening of the next day, he started feeling better
+and went back to work on January 27.
+Before the onset of symptoms, he had attended
+meetings with a Chinese business partner at his
+company near Munich on January 20 and 21.
+The business partner, a Shanghai resident, had
+visited Germany between January 19 and 22.
+During her stay, she had been well with no signs
+or symptoms of infection but had become ill on
+her flight back to China, where she tested posithis week's letters
+970	
+
+Transmission of 2019-nCoV Infection from an
+Asymptomatic Contact in Germany
+
+972	
+
+Dapagliflozin in Patients with Heart Failure and
+Reduced Ejection Fraction
+
+974	
+
+A Smartwatch to Identify Atrial Fibrillation
+
+976	
+
+Focused Cardiac Ultrasonography for Left
+Ventricular Systolic Function
+
+tive for 2019-nCoV on January 26 (index patient
+in Fig. 1) (see Supplementary Appendix, available
+at NEJM.org, for details on the timeline of symptom development leading to hospitalization).
+On January 27, she informed the company
+about her illness. Contact tracing was started,
+and the above-mentioned colleague was sent to
+the Division of Infectious Diseases and Tropical
+Medicine in Munich for further assessment. At
+presentation, he was afebrile and well. He reported no previous or chronic illnesses and had
+no history of foreign travel within 14 days before
+the onset of symptoms. Two nasopharyngeal
+swabs and one sputum sample were obtained
+and were found to be positive for 2019-nCoV on
+quantitative reverse-transcriptase–polymerasechain-reaction (qRT-PCR) assay.2 Follow-up qRTPCR assay revealed a high viral load of 108 copies
+per milliliter in his sputum during the following
+days, with the last available result on January 29.
+On January 28, three additional employees at
+the company tested positive for 2019-nCoV (Patients 2 through 4 in Fig. 1). Of these patients,
+only Patient 2 had contact with the index patient;
+the other two patients had contact only with
+Patient 1. In accordance with the health authorities, all the patients with confirmed 2019nCoV infection were admitted to a Munich infectious diseases unit for clinical monitoring and
+isolation. So far, none of the four confirmed
+patients show signs of severe clinical illness.
+This case of 2019-nCoV infection was diagnosed in Germany and transmitted outside Asia.
+However, it is notable that the infection appears
+to have been transmitted during the incubation
+period of the index patient, in whom the illness
+was brief and nonspecific.3
+The fact that asymptomatic persons are potential sources of 2019-nCoV infection may war-
+
+n engl j med 382;10  nejm.org  March 5, 2020
+
+The New England Journal of Medicine
+Downloaded from nejm.org on March 28, 2020. For personal use only. No other uses without permission.
+Copyright © 2020 Massachusetts Medical Society. All rights reserved.
+
+Correspondence
+
+C Contact with Patient 1
+Flight to
+China
+
+Index Patient
+
+Visit to Germany
+
+Symptoms
+
+Attended business
+meetings
+
+Positive PCR
+Positive PCR
+Symptoms
+
+Attended business
+meetings
+
+Patient 1
+
+Positive PCR
+Symptoms
+
+Attended business
+meetings
+
+Patient 2
+
+Patient 3
+
+C
+
+Patient 4
+Jan.
+19
+
+Jan.
+20
+
+Symptoms
+
+C
+C
+
+C
+
+C
+
+C
+
+Jan.
+21
+
+Jan.
+22
+
+Jan.
+23
+
+Jan.
+24
+
+Positive PCR
+
+Positive PCR
+Symptoms
+
+Jan.
+25
+
+Jan.
+26
+
+Jan.
+27
+
+Jan.
+28
+
+Jan.
+29
+
+Date
+
+Figure 1. Timeline of Exposure to Index Patient with Asymptomatic 2019-CoV Infection in Germany.
+
+rant a reassessment of transmission dynamics of
+the current outbreak. In this context, the detection of 2019-nCoV and a high sputum viral load
+in a convalescent patient (Patient 1) arouse concern about prolonged shedding of 2019-nCoV
+after recovery. Yet, the viability of 2019-nCoV
+detected on qRT-PCR in this patient remains to
+be proved by means of viral culture.
+Despite these concerns, all four patients who
+were seen in Munich have had mild cases and
+were hospitalized primarily for public health
+purposes. Since hospital capacities are limited
+— in particular, given the concurrent peak of
+the influenza season in the northern hemisphere — research is needed to determine
+whether such patients can be treated with appropriate guidance and oversight outside the
+hospital.
+Camilla Rothe, M.D.
+Mirjam Schunk, M.D.
+Peter Sothmann, M.D.
+Gisela Bretzel, M.D.
+Guenter Froeschl, M.D.
+Claudia Wallrauch, M.D.
+Thorbjörn Zimmer, M.D.
+Verena Thiel, M.D.
+Christian Janke, M.D.
+University Hospital LMU Munich
+Munich, Germany
+rothe@lrz.uni-muenchen.de
+
+Wolfgang Guggemos, M.D.
+Michael Seilmaier, M.D.
+Klinikum München-Schwabing
+Munich, Germany
+
+Christian Drosten, M.D.
+Charité Universitätsmedizin Berlin
+Berlin, Germany
+
+Patrick Vollmar, M.D.
+Katrin Zwirglmaier, Ph.D.
+Sabine Zange, M.D.
+Roman Wölfel, M.D.
+Bundeswehr Institute of Microbiology
+Munich, Germany
+
+Michael Hoelscher, M.D., Ph.D.
+University Hospital LMU Munich
+Munich, Germany
+Disclosure forms provided by the authors are available with
+the full text of this letter at NEJM.org.
+This letter was published on January 30, 2020, and updated on
+February 6, 2020, at NEJM.org.
+1. Zhu N, Zhang D, Wang W, et al. A novel coronavirus from
+patients with pneumonia in China, 2019. N Engl J Med 2020;382:
+727-33.
+2. Corman V, Bleicker T, Brünink S, et al. Diagnostic detection of Wuhan coronavirus 2019 by real-time RT-PCR. Geneva:
+World Health Organization, January 13, 2020 (https://www
+.who.int/docs/default-source/coronaviruse/wuhan-virus-assay
+-v1991527e5122341d99287a1b17c111902.pdf).
+3. Callaway E, Cyranoski D. China coronavirus: six questions
+scientists are asking. Nature 2020;577:605-7.
+DOI: 10.1056/NEJMc2001468
+
+n engl j med 382;10
+
+nejm.org
+
+March 5, 2020
+
+The New England Journal of Medicine
+Downloaded from nejm.org on March 28, 2020. For personal use only. No other uses without permission.
+Copyright © 2020 Massachusetts Medical Society. All rights reserved.
+
+

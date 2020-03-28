@@ -1,0 +1,258 @@
+The
+
+n e w e ng l a n d j o u r na l
+
+ined tissue samples that were not required for
+the diagnostic studies to determine the extractable levels of validated tissue profibrotic markers3 and compared the levels in the two groups.
+Fragments from five normal lungs were also
+included in the study as a control. The 20 patients in the treated group and the untreated
+group had a mean forced vital capacity that was
+70% of the predicted volume and a mean diffusing capacity for carbon monoxide that was 55%
+of the predicted volume. (The clinical and demographic characteristics of the patients are provided in the Supplementary Appendix, available
+with the full text of this letter at NEJM.org.)
+Among the patients who received EGCG, tissue levels of extractable type I collagen, which
+was probably either poorly cross-linked or new
+collagen, were near the normal reference levels
+and were significantly lower than the levels in
+the untreated patients (P = 0.001) (Fig. 1A and
+1B). Likewise, in the treated patients, tissue levels of snail family transcriptional repressor 1
+(SNAI1) and phosphorylated SMAD3 were also
+significantly lower than those in the control
+cohort. There was no evidence of a betweengroup difference in levels of total SMAD3 or
+alpha smooth-muscle actin (α-SMA) among the
+various groups. The empirical correlation between the degree of reduction in collagen I protein and phosphorylated SMAD3 levels was
+positive, which was consistent with collagen
+expression driven by TGFβ1 signaling (Fig. 1C).
+We observed no evidence of correlation with collagen messenger RNAs (see the Supplementary
+Appendix), which suggests that the inhibition of
+LOXL2 collagen cross-linking may substantially
+contribute to reduced accumulation of collagen I.
+Serum biomarkers indicative of progression
+of idiopathic pulmonary fibrosis (IPF) do not
+decrease in response to drugs that have been
+approved for use in such patients by the Food
+and Drug Administration.4,5 Surprisingly, during
+14 days of EGCG treatment, we found decreased
+
+of
+
+m e dic i n e
+
+amounts of two fibroblast-derived serum biomarkers, cartilage oligomeric matrix protein
+and periostin, which have been associated with
+IPF activity and prognosis,5 a finding that is
+consistent with an antifibrotic effect (Fig. 1D
+and 1E). Our data suggest that in patients with
+interstitial lung disease, EGCG treatment was
+associated with a reduction in fibrogenesis and
+thus may provide equipoise for the performance of a long-term, randomized clinical
+trial of ECGC involving patients with this condition.
+Harold A. Chapman, M.D.
+Ying Wei, M.D.
+University of California, San Francisco
+San Francisco, CA
+hal​.­chapman@​­ucsf​.­edu
+
+and Others
+Drs. Chapman and Wei contributed equally to this letter.
+A complete list of authors is available with the full text of this
+letter at NEJM.org.
+Supported by a grant (to Dr. Chapman) from the Three Lakes
+Foundation and grants (R01 HL142265, to Dr. Chapman; R21
+AG052744, to Dr. Le Saux; and K23 HL138190, to Dr. Oldham)
+from the National Institutes of Health. Authors who were
+employees of Pliant Therapeutics performed assays using their
+Nanostring equipment at no cost to the study.
+Disclosure forms provided by the authors are available with
+the full text of this letter at NEJM.org.
+1.	 Akhurst RJ, Hata A. Targeting the TGFβ signalling pathway
+in disease. Nat Rev Drug Discov 2012;​11:​790-811.
+2.	 Lacouture ME, Morris JC, Lawrence DP, et al. Cutaneous
+keratoacanthomas/squamous cell carcinomas associated with
+neutralization of transforming growth factor β by the monoclonal antibody fresolimumab (GC1008). Cancer Immunol Immunother 2015;​64:​437-46.
+3.	 Wei Y, Kim TJ, Peng DH, et al. Fibroblast-specific inhibition
+of TGF-β1 signaling attenuates lung and tumor fibrosis. J Clin
+Invest 2017;​127:​3675-88.
+4.	 Maher TM, Stowasser S, Nishioka Y, et al. Biomarkers of
+extracellular matrix turnover in patients with idiopathic pulmonary fibrosis given nintedanib (INMARK study): a randomised,
+placebo-controlled study. Lancet Respir Med 2019;​7:​771-9.
+5.	 Neighbors M, Cabanski CR, Ramalingam TR, et al. Prognostic and predictive biomarkers for patients with idiopathic pulmonary fibrosis treated with pirfenidone: post-hoc assessment
+of the CAPACITY and ASCEND trials. Lancet Respir Med 2018;​6:​
+615-26.
+DOI: 10.1056/NEJMc1915189
+
+A Locally Transmitted Case of SARS-CoV-2 Infection in Taiwan
+To the Editor: Since December 2019, an out- and has spread to several countries, typically by
+break of infection with the novel coronavirus travelers returning from China.1,2 Of the 3 mil(SARS-CoV-2) has developed in Wuhan, China, lion Taiwanese persons who work in China,
+
+n engl j med 382;11  nejm.org  March 12, 2020
+
+The New England Journal of Medicine
+Downloaded from nejm.org on March 28, 2020. For personal use only. No other uses without permission.
+Copyright © 2020 Massachusetts Medical Society. All rights reserved.
+
+Correspondence
+
+2000 work in Wuhan, so the risk of imported
+SARS-CoV-2 infection to Taiwan from China is
+high. As of January 29, there were 7 confirmed
+imported cases of infection with SARS-CoV-2 to
+Taiwan. We identified a case of locally transmitted infection in Taiwan from a wife to her husband.
+On January 25, 2020, a 52-year-old woman
+with a history of type 2 diabetes presented with
+fever to an emergency department in central
+Taiwan. She was admitted to the hospital because of suspicion of pneumonia associated with
+SARS-CoV-2 infection. She had lived in Wuhan
+from October 21, 2019, to January 20, 2020. She
+returned to Taiwan from Wuhan on January 20
+on an airplane. On the same day, a throat swab
+was obtained from another passenger on that
+flight; that passenger was confirmed to have the
+first known imported case of SARS-CoV-2 infection in Taiwan when the swab was found to be
+positive for the virus on January 21.
+Fever and myalgia developed in the woman
+on January 25, a total of 5 days after she returned to Taiwan from Wuhan. She reported
+that she did not have cough, dyspnea, chest
+pain, or diarrhea. Chest radiography showed diffuse infiltrates in the bilateral lower lungs (Fig.
+1A). Assays to detect influenza viruses and a
+respiratory panel to detect adenovirus, human
+rhinovirus, parainfluenza virus, respiratory syncytial virus, Bordetella pertussis, Chlamydia pneumoniae, and Mycoplasma pneumoniae were all negative. A throat swab was positive for SARS-CoV-2
+on real-time reverse-transcription–polymerasechain-reaction (RT-PCR) assays on January 273,4;
+this was the fifth confirmed imported case of
+Covid-19 (the illness caused by SARS-CoV-2 infection) in Taiwan.
+On day 1 of hospitalization, the patient received supportive therapies, and oseltamivir and
+levofloxacin were added as empirical therapy on
+day 3 of hospitalization after SARS-CoV-2 was
+detected on RT-PCR. Cough, rhinorrhea, and
+sore throat developed on day 5, and chest radiography revealed progressive diffuse interstitial
+opacities and consolidation in the bilateral parahilar areas and lower lung fields (Fig. 1B). She
+continued to receive supportive therapy with
+oseltamivir and levofloxacin, but she did not
+receive oxygen therapy. As of February 11, she
+remained hospitalized, but her vital signs were
+stable and she was not receiving oxygen therapy.
+
+n engl j med 382;11
+
+A
+
+B
+
+Figure 1. Imaging of the Wife’s Chest.
+Panel A shows diffuse infiltrates in the bilateral lower
+lungs on a radiograph obtained on day 1 (on admission),
+and Panel B shows progressive diffuse interstitial opacities and consolidation in the bilateral lower lung fields
+on a radiograph obtained on day 5 after admission.
+
+The patient’s 50-year-old husband is a music
+producer who works primarily at home in Taiwan. He reported that he had not traveled to any
+region where SARS-CoV-2 transmission was known
+to be occurring and that he had no known contacts with any person returning from such a re-
+
+nejm.org
+
+March 12, 2020
+
+The New England Journal of Medicine
+Downloaded from nejm.org on March 28, 2020. For personal use only. No other uses without permission.
+Copyright © 2020 Massachusetts Medical Society. All rights reserved.
+
+The
+
+n e w e ng l a n d j o u r na l
+
+gion; this was confirmed by an investigation by
+the government health care unit in Taiwan. On
+January 21, he met his wife when she returned
+to Taiwan. They shared a bedroom and meals
+at home.
+On January 25, the husband sought medical
+treatment at the same time as his wife. He presented only with rhinorrhea; he did not have
+fever, cough, dyspnea, chest pain, or diarrhea.
+He was admitted to the hospital because of concern regarding Covid-19, given his close contact
+with his wife. A complete blood count and chest
+radiography did not show any abnormalities. Assays for influenza viruses and a respiratory panel
+were negative, but SARS-CoV-2 was detected on
+RT-PCR on January 28.
+The husband’s symptoms developed on the
+same day as those of his wife, January 25. This
+suggests transmission shortly after his wife returned to Taiwan. During the hospital stay, he
+had rhinorrhea, and myalgia developed on January 27, but he did not have fever (see Fig. S1 in
+the Supplementary Appendix, available with the
+full text of this letter at NEJM.org). He received
+supportive therapy without any antiviral agents
+or antibiotics. As of February 11, he remained
+hospitalized, but his vital signs were stable and
+he was not receiving oxygen therapy.
+
+of
+
+m e dic i n e
+
+Local transmission of SARS-CoV-2 infection
+occurred in this couple in Taiwan. So far, no secondary case from this couple has been identified.
+Ying-Chu Liu, M.D.
+Ching-Hui Liao, M.D.
+Chin-Fu Chang, M.D.
+Chu-Chung Chou, M.D., Ph.D.
+Yan-Ren Lin, M.D., Ph.D.
+Changhua Christian Hospital
+Changhua City, Taiwan
+h6213.lac@gmail.com
+Disclosure forms provided by the authors are available with
+the full text of this letter at NEJM.org.
+This letter was published on February 12, 2020, at NEJM.org.
+1.	 Zhu N, Zhang D, Wang W, et al. A novel coronavirus from
+patients with pneumonia in China, 2019. N Engl J Med 2020;382:
+727-33.
+2.	 Novel coronavirus (2019-nCoV):​situation report-10, 30 January 2020. Geneva:​World Health Organization, 2020 (https://
+www​.who​.int/​docs/​default​-­source/​coronaviruse/​situation​-­reports/​
+20200130​-­sitrep​-­10​-­ncov​.pdf).
+3.	 Corman V, Bleicker T, Brünink S, et al. Diagnostic detection
+of Wuhan coronavirus 2019 by real-time RT-PCR. Geneva:​World
+Health Organization, January 13, 2020 (https://www​.who​.int/​
+docs/​default​-­source/​coronaviruse/​w uhan​-­v irus​-­assay​-­v1991527
+e5122341d99287a1b17c111902​.pdf).
+4.	 Phan LT, Nguyen TV, Luong QC, et al. Importation and human-to-human transmission of a novel coronavirus in Vietnam.
+N Engl J Med 2020;382:872-4.
+DOI: 10.1056/NEJMc2001573
+
+Total Hip Arthroplasty or Hemiarthroplasty for Hip Fracture
+To the Editor: In a multicenter, randomized,
+controlled trial, the investigators who conducted
+the Hip Fracture Evaluation with Alternatives of
+Total Hip Arthroplasty versus Hemi-Arthroplasty
+(HEALTH) trial (Dec. 5 issue)1 compared the results of total hip arthroplasty with hemiarthroplasty in elderly patients with displaced femoral
+neck fractures. The results should be interpreted
+with caution. First, patient outcomes were analyzed within 24 months after surgery. Considering that implant survivorship in hip arthroplasty
+generally starts to diverge 10 years after surgery,
+such a short-term follow-up does not allow for
+appreciation of the ultimate outcomes of the procedures.2 It is not surprising that the authors observed such analogous postoperative outcomes in
+this short-term postoperative period. Second, recent studies have highlighted a similar 3-month
+
+cost with both procedures3 and have indicated an
+increased risk of reoperation after the conversion
+of hemiarthroplasty to total hip arthroplasty as
+compared with primary total hip arthroplasty
+and revision surgery.4 These findings beg the
+question of which procedure is more clinically
+and economically effective. In sum, further comparisons of long-term ultimate outcomes with
+in-depth cost-effectiveness analyses are needed
+to illustrate the best treatment choice for selected
+patients with hip fracture.
+Liang Gao, M.D.
+Saarland University Medical Center
+Homburg, Germany
+lianggao22@​­gmail​.­com
+
+Zhihua Han, M.D.
+Shanghai General Hospital
+Shanghai, China
+
+n engl j med 382;11  nejm.org  March 12, 2020
+
+The New England Journal of Medicine
+Downloaded from nejm.org on March 28, 2020. For personal use only. No other uses without permission.
+Copyright © 2020 Massachusetts Medical Society. All rights reserved.
+
+

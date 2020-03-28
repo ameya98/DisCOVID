@@ -1,0 +1,740 @@
+Received: 2 February 2020
+
+|
+
+Accepted: 5 February 2020
+
+DOI: 10.1002/jmv.25700
+
+SHORT COMMUNICATION
+
+Genomic variance of the 2019‐nCoV coronavirus
+Carmine Ceraolo | Federico M. Giorgi
+Department of Pharmacy and Biotechnology,
+University of Bologna, Bologna, Italy
+Correspondence
+Federico M. Giorgi, Department of Pharmacy
+and Biotechnology, University of Bologna, Via
+Selmi 3, 40126 Bologna, Italy.
+Email: federico.giorgi@unibo.it
+Funding information
+Ministero dellʼIstruzione, dellʼUniversità e
+della Ricerca, Grant/Award Number:
+Montalcini 2016
+
+Abstract
+There is a rising global concern for the recently emerged novel coronavirus (2019‐
+nCoV). Full genomic sequences have been released by the worldwide scientific
+community in the last few weeks to understand the evolutionary origin and molecular
+characteristics of this virus. Taking advantage of all the genomic information currently
+available, we constructed a phylogenetic tree including also representatives of other
+coronaviridae, such as Bat coronavirus (BCoV) and severe acute respiratory
+syndrome. We confirm high sequence similarity (>99%) between all sequenced 2019‐
+nCoVs genomes available, with the closest BCoV sequence sharing 96.2% sequence
+identity, confirming the notion of a zoonotic origin of 2019‐nCoV. Despite the low
+heterogeneity of the 2019‐nCoV genomes, we could identify at least two hypervariable genomic hotspots, one of which is responsible for a Serine/Leucine variation in
+the viral ORF8‐encoded protein. Finally, we perform a full proteomic comparison with
+other coronaviridae, identifying key aminoacidic differences to be considered for
+antiviral strategies deriving from previous anti‐coronavirus approaches.
+KEYWORDS
+
+biostatistics & bioinformatics, CLUSTAL analysis, coronavirus, data visualization, virus
+classification
+
+1 | INTRODUCTION
+
+No vaccine for 2019‐nCoV has been publicly released, but a
+World effort has arisen toward the characterization of the mole-
+
+Coronaviridae (CoVs) are the largest known single‐stranded RNA
+
+cular determinants and evolutionary features of this novel virus. An
+
+viruses.1 They have been categorized in three groups, based on
+
+initial comparison of 10 genomic sequences from 2019‐nCoV
+
+phylogenetic analyses and antigenic criteria,2 specifically: (a) alpha‐
+
+specimens has reported a low heterogeneity of this viruses with
+
+CoVs, responsible for gastrointestinal disorders in human, dogs, pigs,
+
+intersample sequence identity above 99.9%.6 There are currently
+
+and cats; (b) beta‐CoVs, including the Bat coronavirus (BCoV), the
+
+54 2019‐nCoV complete genome sequences from the Global In-
+
+human severe acute respiratory syndrome (SARS) virus and the
+
+itiative for Sharing all Influenza Data (Gisaid7) and from GenBank,8
+
+Middle Eastern respiratory syndrome (MERS) virus; (c) gamma‐CoVs,
+
+plus two partial sequences obtained by the Spallanzani hospital in
+
+which infect avian species.
+
+Rome, Italy (also from Gisaid).
+
+Very recently, a novel beta‐CoVs coronavirus (2019‐nCoV) origi-
+
+In this short report, we set out to characterize the hetero-
+
+nating from the province of Wuhan, China, has been causally linked to
+
+geneity of all 2019‐nCoV genomes and proteomes available at
+
+severe respiratory infections in humans. At the time of writing, 14 441
+
+the moment of the study, comparing them to other re-
+
+cases of 2019‐nCoV‐related pneumonia cases have been reported in
+
+presentative coronaviridae, specifically SARS, MERS, and BCoV.
+
+China, plus 118 cases from 23 other countries. There are currently 315
+
+We will generate phylogenetic trees of the 2019‐nCoV cases and
+
+deaths linked to this pathogen (source: World Health Organization re-
+
+apply entropy‐based analyses of position‐wise variance and
+
+port, 02 February 2020). Phylogenetic relationships between Bat and
+
+categorical principal component analysis (CATPCA) as an alter-
+
+Human coronaviridae have been discovered for SARS3 and more recently
+
+native method to estimate the sequence distance between all
+
+4
+
+5
+
+also for 2019‐nCoV, suggesting events of inter‐species transmissions.
+522
+
+|
+
+© 2020 Wiley Periodicals, Inc.
+
+analyzed viruses.
+
+wileyonlinelibrary.com/journal/jmv
+
+J Med Virol. 2020;92:522–528.
+
+CERAOLO
+
+AND
+
+|
+
+GIORGI
+
+2 | METHODS
+
+523
+
+with a Tamura‐Nei Maximum Likelihood estimation12 with 100
+bootstraps for model robustness estimation.
+
+All genomic sequences were collected on 02 February 2020 from
+GenBank8 or Gisaid.7
+
+The results are shown in Figure 1 as a phylogenetic tree representation. All the human 2019‐nCoV appear very similar to
+
+MSA was performed using MUSCLE v3.8.31.9
+
+each other, despite the different locations of sampling. Bat cor-
+
+MSA visualization was generated via Jalview v 2.11.0.10
+
+onaviridae appears to be the closet homologs. Two specific
+
+Phylogenetic model generation and tree visualization were done
+
+specimens gathered in 2013 and 2015 in China from the bat
+
+using MEGAX v 10.1.7,11 using the Maximum Likelihood method and
+
+species Rhinolophus affinis and Rhinolophus sinicus appear to be
+
+Tamura‐Nei model.12 The tree structure was validated by running the
+
+located between the BCoV and the human 2019‐nCoV groups,
+
+analysis on 100 bootstrapped input datasets.13
+
+supporting the notion of a zoonotic transfer from bats to hu-
+
+CATPCA was performed on R version 3.6.1 using the package
+14
+
+FactoMineR.
+
+Specifically, an MSA FASTA file from MUSCLE is loaded in
+
+R and converted into a categorical matrix, with genomes as rows and
+
+mans. 4 Human SARS sequences group with BCoV sequences more
+distantly related to 2019‐nCoV genomes. Finally, MERS genomes
+are the most genetically distinct amongst the other sequences.
+
+nucleotide coordinates as columns. Factors are defined as A, C, G, T, N,
+
+A purely topological representation of a bootstrapped Maximum
+
+or—(gap), as described in results. Then, the FactoMineR multiple corre-
+
+Likelihood tree (Figure S1) shows that 2019‐nCoV sequences are
+
+spondence analysis algorithms is run with default parameters and custom
+
+highly similar to each other, with poor support to the existence of
+
+R functions are used to plot the component values for each genome.
+
+distinct subgroups.
+
+Pairwise protein identity and coverage were calculated using
+BLAST protein v2.6.015 with BLOSUM62 matrix and default para-
+
+The global multiple sequence alignment (MSA) is available as
+Supporting Information File S1.
+
+meters. Nucleotide sequence identity and coverage were calculated
+using BLAST nucleotide v2.6.0.15
+Prediction of structural protein disorder was performed using
+GLOBPLOT2, an implementation of the Russell/Linding algorithm.16
+
+3.2 | Genomic divergence from other
+beta‐coronaviridae
+Given the high homogeneity between 2019‐nCoV genomes, we de-
+
+3 | RESULTS
+
+veloped a novel method to classify genomic sequences, based on
+CATPCA.14 Briefly, this analysis finds the eigenvectors describing the
+
+3.1 | Phylogenetic analysis
+
+highest variance within a categorical dataset, like ours. Our dataset
+derived from the MUSCLE MSA of 70 genomes and generated
+
+We collected 53 full genomic 2019‐nCoV sequences from the Gisaid
+
+32 206 positions: the categories in each coordinate could be A
+
+database (Table S1), plus the GenBank‐deposited sequence from the
+
+(Adenine), C (Cytosine), G (Guanine; T [Thymine], although being an
+
+Wuhan seafood market pneumonia virus isolate Wuhan‐Hu‐1
+
+single strand RNA virus, it would be more appropriate to use U
+
+(NC_045512.2) and two partial sequences from Italian isolates
+
+[Uracil]), N (Nucleotide, uncertain location: very rare in this dataset,
+
+(EPI_ISL_406959 and EPI_ISL_406960). To compare 2019‐nCoVs with
+
+and accounting for only nine positions, or 0.0004% of all the data).
+
+closely related viral species, we obtained six sequences from distinct
+
+Our analysis shows similar results for phylogenetic tree re-
+
+human SARS genomes from GenBank (the reference NC_004718.3, plus
+
+presentations. In Figure 2A, we show the catPCA of the first com-
+
+the genomes AY274119.3, GU553363.1, DQ182595.1, AY297028.1,
+
+ponents for all analyzed genomes. The MERS/non‐MERS grouping
+
+and AY515512.1). We also obtained six BCoV genomic sequences
+
+accounts for the largest variance, while SARS and SARS‐like BCoVs
+
+(DQ022305.2, DQ648857.1, JX993987.1, KJ473816.1, MG772934.1,
+
+cluster together. While 2019‐nCoV constitute a tightly similar clus-
+
+EPI_ISL_402131). Finally, as more distantly related beta‐CoVs we ana-
+
+ter, the two bat virus sequences MG772934.1 and EPI_ISL_402131
+
+lyzed also MERS genomes from GenBank entries JX869059.2 and
+
+appear to be linking the human 2019‐nCoV to the Bat coronaviridae.
+A catPCA analysis on the sole 2019‐nCoV sequences highlights
+
+KT368829.1.
+Similarly to a previous report with 10 virus specimens,6 we detected
+
+some internal variability (Figure 2B), with two likely outliers identi-
+
+very high conservation between the 56 analyzed 2019‐nCoV genomes,
+
+fied in the genome EPI_ISL_406862 (collected in Germany) and
+
+with sequence identity above 99%. We found a bat CoV genome (Gisaid
+
+EPI_ISL_406592 (collected in Shenzhen, China).
+
+EPI_ISL_402131) with 96.2% sequence identity (and query coverage
+above 99%) to the 2019‐nCoV reference sequence (NC_045512.2),
+while the previously reported closest bat CoV (bat‐SL‐CoVZC45) has a
+6
+
+sequence similarity of 88%.
+
+The reference human SARS genome
+
+3.3 | Genomic variance estimation within
+2019‐nCoV genomes
+
+(NC_004718.3) appears more distant from the reference 2019‐nCoV,
+with sequence identity of 80.26% and query coverage of 98%.
+
+Although the variability within the 2019‐nCoV genomes is very low,
+
+We aligned all the 70 coronavirus sequences using MUSCLE9 and
+
+we set out to discover possible hotspots of hypervariability within the
+
+inferred the evolutionary relationships between these sequences
+
+viral population. We analyzed the approximately 30 000 nt of multiple
+
+524
+
+|
+
+CERAOLO
+
+AND
+
+GIORGI
+
+F I G U R E 1 Phylogenetic tree of all the 2019‐nCov sequences available at 02‐Feb‐2020 (branches shown in blue), plus six Bat coronavirus
+sequences (default black, as they are split in multiple taxa), six human SARS (green) and two MERS (orange). The percentage of bootstraps
+supporting each branch is reported. Branches corresponding to partitions reproduced in less than 50% bootstrap replicates are collapsed.
+MERS, Middle Eastern respiratory syndrome; SARS, severe acute respiratory syndrome
+
+CERAOLO
+
+AND
+
+|
+
+GIORGI
+
+525
+
+F I G U R E 2 Categorical principal component analysis of the projected variance in the entire coronaviridae genome dataset considered in this
+study (A) and in the 2019‐nCoV subset only (B). Human 2019‐nCoV are shown as blue circles, other genomes as grey diamonds
+
+genome alignments performed on the 54 full 2019‐nCoV genomes.
+
+22 amino acid stretch in the protein entry 6P65, with a nonsignificant
+
+Our analysis shows that these viruses have largely the same genomic
+
+E‐value of 0.848. We, therefore, employed de novo methods to infer the
+
+arrangement as the SARS species.17 A large gene encoding for a
+
+structural features of ORF8. One important effect we could detect is a
+
+polyprotein (ORF1ab) at the 5′ end of the genome is followed by four
+
+significant effect of Serine in ORF8‐S in inducing structural disorder in
+
+major structural protein‐coding genes: S = Spike protein, E = Envelope
+
+the protein C‐terminal portion, which is not predicted to be present in
+
+protein, M = Membrane protein, and N = Nucleocapsid protein. There
+
+the ORF8‐L (Figure 4B), using the Russell/Linding algorithm.16 More-
+
+are also at least six other accessory open reading frames (ORFs)
+
+over, it did not escape our attention that the ORF8‐S could theoretically
+
+(Figure 3A).
+
+generate a novel phosphorylation target for the mammalian host
+
+For each position of the multialigned 54 2019‐nCoV, we calcu-
+
+Serine/Threonine kinases of the host organism. So, we searched for
+
+lated Shannon Entropy as a measure of the position variability.18
+
+ORF8 homologous substrates in the Mammalia NCBI nr protein data-
+
+Apart from the 5′ and 3′ ends, likely nonprotein coding and less
+
+base, but could not find matches within the E‐value threshold of 1.
+
+homogeneous, we identified two hotspots of hypervariability at
+positions 8789 and 28151 (Figure 3B,C).
+Position 8789 witnesses the presence of either T (U) or C, and it
+falls within the polyprotein gene. It causes a synonymous variation in
+
+3.4 | Protein conservation within 2019‐nCoV and
+between other beta‐coronaviridae
+
+the nucleotide triplet encoding for Serine 2839 (amino acid coordinates
+based on the reference genome NC_045512.2), so it is likely not to
+
+We performed a cross‐species analysis for all proteins encoded by
+
+introduce phenotypical differences between the different strains.
+
+the 2019‐nCoV and its relatives. We, therefore, analyzed the protein
+
+On the other hand, position 28151 falls within ORF8 and is char-
+
+sequences encoded by all ORFs in these genomes
+
+acterized by the presence of either a C or a U. This causes a Ser/Leu
+change in amino acid (aa) 84, which can affect the conformation of the
+peptide, given that Serine is a polar amino acid, and Leucine is nonpolar.
+Aa84 appears to be nonconserved also across other coronaviridae
+(Figure 4A, black arrow).
+
+• Wuhan NC_045512.2 (GenBank reference genome for 2019‐
+nCoV)
+• BCoV bat‐SL‐CoVZXC21 MG772934.1 (Bat virus similar to 2019‐
+nCoV)
+
+We analyzed the alternative isoforms of 2019‐nCoV ORF8‐aa84
+alternative isoforms, dubbed ORF8‐L (Leucine) and ORF8‐S (Serine).
+Unfortunately, no crystal structures of close homologs to the ORF8
+
+• Bat SARS coronavirus HKU3‐1 DQ022305.2 (Bat virus more
+distantly related to 2019‐nCoV)
+• SARS NC_004718.3 (GenBank reference genome for SARS)
+
+protein are available for a reliable homology modeling to measure the
+structural impact of this amino acid substitution. The closest 3D model
+19
+
+to 2019‐nCoV ORF8 available in Protein Data Bank
+
+is a short
+
+Our analysis shows a close homology for all proteins with Bat
+sequence MG772934.1 (>80%), and more distant with the other Bat
+
+526
+
+|
+
+CERAOLO
+
+AND
+
+GIORGI
+
+F I G U R E 3 Variability within 54 2019‐nCoV full genomic sequences. A, location of major structural protein‐encoding genes (red
+boxes; S = Spike protein, E = Envelope protein, M = Membrane protein, N = Nucleocapsid protein) and accessory protein ORFs (blue
+boxes) on the meta‐genomic sequence derived from the MSA of all genomes. B, Shannon entropy values across genomic locations. The
+two coordinates with the highest entropy (excluding the 5′ and 3′ highly variable UnTranslated regions) are indicated. C, Zoom‐in of
+the MSA describing the two most variable locations in the core genome, in the ORF1ab (left) and in ORF8 (right). MSA, multiple
+sequence alignment
+
+sequence and SARS reference. Query (2019‐nCoV) coverage was
+
+please refer also to Figure 4C and Figures S2 and S3. As
+
+always above 99.0%. Generally, we could observe high conservation
+
+previously observed, the N protein in 2019‐nCoV differs from the
+
+for structural proteins E, M, and A across the beta‐coronavirus
+
+SARS ortholog in the structurally relevant amino acids 380 and 410.4
+
+family, while accessory proteins (especially ORF8) seem to have
+much stricter evolutionary constraints (Table 1).
+On average, nCoV shares 91.1% of protein sequences with Bat
+
+4 | D IS C U S S I O N
+
+virus MG772934.1, 79.7% with Bat virus DQ022305.2%, and 77.1%
+with the SARS proteome.
+
+Our results highlight a high level of conservation within 2019‐
+
+For further visual confirmation, via MSA, of the conservation
+
+nCoV genomes sequenced so far, and a clear origin from other
+
+between SARS and 2019‐nCoV, especially in structural proteins,
+
+beta‐CoVs, specifically BCoVs, SARS and MERS. Our analysis
+
+CERAOLO
+
+AND
+
+|
+
+GIORGI
+
+527
+
+F I G U R E 4 A, MSA of the coronavirus proteins encoded by ORF8 in representative sequences for the 2019‐nCoV (Wuhan), BCoVs (Bat
+SARS‐like and Bat SARS) and SARS viruses. B, Alignment of ORF8‐L and ORF8‐S, two isoforms varying at amino acid position 84 (indicated by a
+red dot). The diagram shows in larger blue the Globplot‐predicted intrinsically disordered regions in the two isoforms. C, MSA of the
+coronavirus Nucleocapside proteins. MSA, multiple sequence alignment
+
+confirms previous results highlighting the BCoV as a likely evo-
+
+potential implications in epitope definition and possible repurposing
+
+lutionary link between the SARS viruses and the current epidemic
+
+of anti‐SARS drugs and vaccines.
+
+2019‐nCoV. 4 We could confirm this result both with standard
+
+Our analysis found low variability (>99% sequence identity)
+
+phylogenetic analysis and a newly developed visualization
+
+within the 56 2019‐nCoV genomes available at the time of writing,
+
+method for genomic distances, based on CATPCA.
+
+with only two core positions of high variability, one a silent variant in
+
+The similarity between 2019‐nCoV and the closest Bat relative is
+
+the ORF1ab locus, and the other as an amino acid polymorphism in
+
+very high: all proteins in the coronavirus proteome (with the
+
+ORF8. The mutation in ORF8 resulting in one of its two variants,
+
+exception of ORF10) have identities of above 85%, with full con-
+
+ORF8‐L and ORF8‐S, is predicted to be affecting the structural dis-
+
+servation of the genome length (~30 kb). We could report also the
+
+order of the protein. Specifically, the amino acidic region aa83‐aa89
+
+specific amino acids that changed between SARS and nCoV, with
+
+is more likely to be disordered in the ORF8‐S isoform.
+
+|
+
+528
+
+CERAOLO
+
+T A B L E 1 Percentage identity between the human reference nCoV
+proteins and other coronavirus representatives
+Gene
+
+Bat
+MG772934.1
+
+Bat
+DQ022305.2
+
+SARS
+NC_004718.3
+
+ORF1ab (polyprotein)
+
+95.15%
+
+85.78%
+
+86.12%
+
+S (Spike)
+
+80.32%
+
+76.04%
+
+75.96%
+
+Orf3a
+
+92.00%
+
+72.99%
+
+72.36%
+
+E (Envelope)
+
+100%
+
+94.74%
+
+94.74%
+
+M (Membrane)
+
+98.65%
+
+90.99%
+
+90.54%
+
+ORF6
+
+93.44%
+
+67.21%
+
+68.85%
+
+ORF7a
+
+88.43%
+
+88.52%
+
+85.25%
+
+ORF7b
+
+93.02%
+
+79.07%
+
+81.40%
+
+ORF8
+
+94.21%
+
+57.02%
+
+30.16%
+
+N (Nucleocapsid)
+
+94.27%
+
+89.55%
+
+90.52%
+
+ORF10
+
+73.20%
+
+74.23%
+
+72.45%
+
+In conclusion, our analysis confirms low variability within the
+new epidemic virus 2019‐nCoV sequenced specimens, while
+highlighting at least two nucleotide positions of higher variability
+within protein‐coding regions, and specific amino acid divergences
+compared to BCoVs and SARS.4 These findings shed a cautiously
+optimistic light on the possibility of finding effective treatment for
+this novel coronavirus, starting from already existing anti‐beta‐
+coronaviridae compounds,20 which will be dealing with a relatively
+homogenous viral population.
+A C K N O W L E D GM E N T S
+We would like to thank the Italian Ministry of University and Research
+for funding. Also, we would like to acknowledge the fruitful discussions
+with our colleagues Daniele Mercatelli, Simone Di Giacomo and Giorgio
+Milazzo. Also, a big acknowledgment to Eleonora Fornasari for help with
+graphics.
+OR CID
+Federico M. Giorgi
+
+http://orcid.org/0000-0002-7325-9908
+
+REFERENC ES
+1. Cui J, Li F, Shi Z‐L. Origin and evolution of pathogenic coronaviruses. Nat
+Rev Microbiol. 2019;17(3):181‐192. https://doi.org/10.1038/s41579‐018‐
+0118‐9
+2. Schoeman D, Fielding BC. Coronavirus envelope protein: current knowledge. Virol J. 2019;16(1):69. https://doi.org/10.1186/s12985‐019‐1182‐0
+3. Hu B, Ge X, Wang L‐F, Shi Z. Bat origin of human coronaviruses. Virol
+J. 2015;12(1):221. https://doi.org/10.1186/s12985‐015‐0422‐1
+4. Benvenuto D, Giovannetti M, Ciccozzi A, Spoto S, Angeletti S,
+Ciccozzi M. The 2019‐new coronavirus epidemic: evidence for virus
+evolution. J Med Virol. 2020. https://doi.org/10.1002/jmv.25688
+5. Lu H, Stratton CW, Tang Y. Outbreak of pneumonia of unknown
+etiology in Wuhan China: the mystery and the miracle. J Med Virol.
+2020. https://doi.org/10.1002/jmv.25678
+
+AND
+
+GIORGI
+
+6. Lu R, Zhao X, LI J, et al. Genomic characterisation and epidemiology of
+2019 novel coronavirus: implications for virus origins and receptor
+binding. The Lancet. 2020:S0140673620302518. https://doi.org/10.
+1016/S0140‐6736(20)30251‐8
+7. Shu Y, McCauley J. GISAID: global initiative on sharing all influenza data—from vision to reality. Euro Surveill. Mar. 2017;22(13):
+1‐3. https://doi.org/10.2807/1560‐7917.ES.2017.22.13.30494
+8. Sayers EW, Cavanaugh M, Clark K, Ostell J, Pruitt KD, Karsch‐
+Mizrachi I. GenBank. Nucleic Acids Res. 2019;47(D1):D94‐D99.
+https://doi.org/10.1093/nar/gky989
+9. Edgar RC. MUSCLE: multiple sequence alignment with high accuracy and
+high throughput. Nucleic Acids Res. 2004;32(5):1792‐1797. https://doi.org/
+10.1093/nar/gkh340
+10. Waterhouse AM, Procter JB, Martin DMA, Clamp M, Barton GJ.
+Jalview Version 2—a multiple sequence alignment editor and analysis
+workbench. Bioinformatics. 2009;25(9):1189‐1191. https://doi.org/10.
+1093/bioinformatics/btp033
+11. Kumar S, Stecher G, Li M, Knyaz C, Tamura K. MEGA X: molecular evolutionary genetics analysis across computing platforms. Mol Biol Evol. 2018;
+35(6):1547‐1549. https://doi.org/10.1093/molbev/msy096
+12. Tamura K, Nei M. Estimation of the number of nucleotide substitutions in
+the control region of mitochondrial DNA in humans and chimpanzees.
+Mol Biol Evol. 1993;10(3):512‐526. https://doi.org/10.1093/oxfordjournals.
+molbev.a040023
+13. Felsenstein J. Confidence limits on phylogenies: an approach using the
+bootstrap. Evolution. 1985;39(4):783‐791. https://doi.org/10.1111/j.
+1558‐5646.1985.tb00420.x
+14. Le S, Joss J, Husson F. FactoMineR: an R package for multivariate
+analysis. J Stat Softw. 2008;25(1):1‐18.
+15. Altschul SF, Gish W, Miller W, Myers EW, Lipman DJ. Basic local
+alignment search tool. J Mol Biol. 1990;215(3):403‐410. https://doi.
+org/10.1016/S0022‐2836(05)80360‐2
+16. Linding R. GlobPlot: exploring protein sequences for globularity and
+disorder. Nucleic Acids Res. 2003;31(13):3701‐3708. https://doi.org/
+10.1093/nar/gkg519
+17. Narayanan K, Huang C, Makino S. SARS coronavirus accessory proteins.
+Virus Res. 2008;133(1):113‐121. https://doi.org/10.1016/j.virusres.2007.
+10.009
+18. Manaresi E, Conti I, Bua G, Bonvicini F, Gallinella G. A Parvovirus B19
+synthetic genome: sequence features and functional competence.
+Virology. 2017;508:54‐62. https://doi.org/10.1016/j.virol.2017.05.006
+19. Burley SK, Berman HM, Kleywegt GJ, Markley JL, Nakamura H,
+Velankar S. Protein Data Bank (PDB): The Single Global Macromolecular Structure Archive. In: Wlodawer A, Dauter Z,
+Jaskolski M, eds. Protein Crystallography. 1607. New York, NY:
+Springer New York; 2017:627‐641.
+20. Anand K. Coronavirus main proteinase (3CLpro) structure: basis for
+design of anti‐SARS drugs. Science. 2003;300(5626):1763‐1767.
+https://doi.org/10.1126/science.1085658
+
+SUPPO RTING IN F ORMATION
+Additional supporting information may be found online in the Supporting Information section.
+
+How to cite this article: Ceraolo C, Giorgi FM. Genomic
+variance of the 2019‐nCoV coronavirus. J Med Virol. 2020;92:
+522–528. https://doi.org/10.1002/jmv.25700
+
+

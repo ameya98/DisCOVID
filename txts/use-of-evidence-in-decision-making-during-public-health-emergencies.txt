@@ -1,0 +1,1070 @@
+TECHNICAL REPORT
+
+The use of evidence in decisionmaking during public health
+emergencies
+
+www.ecdc.europa.eu
+
+ECDC TECHNICAL REPORT
+
+The use of evidence in decision-making
+during public health emergencies
+Report on an Expert Workshop, 5–6 December 2018
+
+This report of the European Centre for Disease Prevention and Control (ECDC) was coordinated by Massimo Ciotti,
+Jonathan Suk and Svetla Tsolova (ECDC). It is based on a workshop (expert consultation) organised by Genny
+Pecere and Andreea Salajan (ECDC).
+
+Acknowledgements
+
+We would like to thank all meeting participants for their active contributions and comments on earlier versions of
+the report. We would also like to thank the meeting rapporteur, Megan Osler (Svea Scientific), for the first draft of
+the report.
+
+Suggested citation: European Centre for Disease Prevention and Control. The use of evidence in decision-making
+during public health emergencies. Stockholm: ECDC; 2019
+Stockholm, July 2019
+ISBN: 978-92-9498-374-9
+DOI: 10.2900/63594
+Catalogue number: TQ-03-19-508-EN-N
+© European Centre for Disease Prevention and Control, 2019
+Cover picture: © ThinkStock
+Reproduction is authorised, provided the source is acknowledged.
+For any use or reproduction of photos or other material that is not under the EU copyright, permission must be
+sought directly from the copyright holders.
+
+ii
+
+TECHNICAL REPORT
+
+Use of evidence in decision-making during public health emergencies
+
+Contents
+Abbreviations ............................................................................................................................................... iv
+Executive summary ........................................................................................................................................1
+1 Background ................................................................................................................................................2
+2 Evidence and decision-making ......................................................................................................................3
+What is ‘evidence’? ...................................................................................................................................3
+Why is evidence important? .......................................................................................................................3
+What is evidence-based decision-making? ...................................................................................................3
+Who are the decision makers? ...................................................................................................................3
+What is known about evidence use in decision-making? ...............................................................................3
+What is known about decision-making during public health emergencies? ......................................................4
+3 Barriers to evidence-based decision-making during public health emergencies ..................................................5
+Uncertainty ..............................................................................................................................................5
+Time pressure ..........................................................................................................................................5
+Sociopolitical factors..................................................................................................................................5
+Pressure from neighbouring countries .........................................................................................................6
+Economic interests ....................................................................................................................................6
+Communication challenges ........................................................................................................................6
+Institutional settings .................................................................................................................................7
+Community engagement ...........................................................................................................................7
+4 Modes of knowledge transition .....................................................................................................................8
+Boundary organisations .............................................................................................................................8
+Networks .................................................................................................................................................8
+Expanding expert influence and engagement ..............................................................................................8
+Enhancing knowledge access .....................................................................................................................9
+5 Options for further action........................................................................................................................... 10
+Strengthen knowledge transfer ................................................................................................................ 10
+Foster networking between actors and disciplines ...................................................................................... 10
+Develop knowledge base on evidence uptake in decision-making ................................................................ 11
+Conclusion .................................................................................................................................................. 12
+References .................................................................................................................................................. 13
+Annex 1. List of participants .......................................................................................................................... 16
+
+iii
+
+Use of evidence in decision-making during public health emergencies
+
+Abbreviations
+AAR
+
+After-action review
+
+EC
+
+European Commission
+
+ECDC
+
+European Centre for Disease Prevention and Control
+
+EEA
+
+European Economic Area
+
+EPIET
+
+European Programme for Intervention Epidemiology Training
+
+EU
+
+European Union
+
+EVIPNet
+
+Evidence-informed policy network
+
+GPP
+
+General preparedness plan
+
+HIV
+
+Human Immunodeficiency Virus
+
+HSC
+
+Health Security Committee
+
+MMR
+
+Measles, mumps, rubella vaccine
+
+NFP
+
+National focal point
+
+OCP
+
+Operational contact points
+
+RRA
+
+Rapid risk assessment
+
+RHM
+
+Roma health mediators
+
+TBE
+
+Tick-borne encephalitis
+
+WHO
+
+World Health Organization
+
+UN
+
+United Nations
+
+UNAIDS
+
+Joint United Nations Programme on HIV/AIDS
+
+iv
+
+TECHNICAL REPORT
+
+TECHNICAL REPORT
+
+Use of evidence in decision-making during public health emergencies
+
+Executive summary
+Public health institutes and centres for disease control are responsible for safeguarding national health security and
+generating evidence to inform national health initiatives. This duty is most challenging during public health
+emergencies, when time is limited, scientific uncertainties and political pressures are high, and irrefutable evidence
+to support a decision may be lacking. In order for such decisions to be evidence-based, politicians need scientific
+input from experts who understand public health risks and can frame evidence within the appropriate context.
+However, the consensus from this workshop was that the process of including evidence in public health decisionmaking and policy is clearly not systematic and is complicated by many barriers. Moreover, many of today’s health
+crises are cross-border, and European legislation, such as Decision 1082/2013/EU of the European Parliament and
+of the Council of 22 October 2013 on serious cross-border threats to health, requires Member States to collaborate
+in order to enhance the interoperability of evidence-based preparedness planning.
+To enhance the impact of public health institutes’ work on decision-making for public health preparedness and
+response, ECDC arranged an expert workshop on 5-6 December 2018, which brought together public health
+scientists, public practitioners with experience in managing health crises, and social and political scientists. This
+workshop sought to identify and address the links between scientific evidence and decision-making in public health
+emergencies, and to address the key challenges faced by public health experts when advising decision makers.
+During the meeting, participants were asked to present research findings or real-world examples focussing on the
+following themes: identification of major barriers to the acceptance and use of scientific and technical evidence in
+decision-making during public health emergencies; lessons learned from past outbreaks; enhancement of
+knowledge translation (i.e. the transfer of technical knowledge to decision makers) and engagement of experts in
+decision-making processes, and recommendations to ECDC and public health institutes on how to overcome
+barriers to evidence-based decision-making. There are numerous barriers to the acceptance and use of scientific
+and technical evidence in decision-making during public health emergencies and these include the challenges of
+accounting for uncertainties and political factors; communication of complex scientific information to decision
+makers, and the effects of different institutional contexts on evidence uptake.
+Mechanisms and actions identified during the workshop for overcoming barriers to evidence-based decision-making
+included strengthening knowledge transfer; improving networking between actors and disciplines, and developing
+effective approaches for promoting the uptake of evidence in public health decision-making. The social and political
+science perspective should be included in these activities to provide a more comprehensive view of the challenges
+to decision-making during public health emergencies.
+
+1
+
+Use of evidence in decision-making during public health emergencies
+
+TECHNICAL REPORT
+
+1 Background
+Evidence-based decision-making is central to public health: public health institutes and national centres for disease
+control are tasked with supporting governments in developing evidence-informed action. This responsibility is most
+challenging during a public health emergency, when time is limited, scientific uncertainties and political pressures
+tend to be high, and irrefutable evidence may be lacking.
+The relationship between the evidence provided by experts and the decisions ultimately taken is complex. Existing
+literature is limited and suggests that crisis management decisions are not always evidence-based, which can result
+in public criticism and scrutiny. Conversely, public criticism and scrutiny may lead to crisis management decisions
+being taken that are not evidence-based. To enhance the impact of work done by public health institutes on
+decision-making for public health preparedness and response, it is necessary to better understand the mechanisms
+through which scientific evidence feeds into decision-making processes during emergencies and the context in
+which these mechanisms operate.
+In the context of a public health emergency, there are three common challenges to evidence-based decisionmaking in terms of response action during disease outbreak:
+•
+•
+•
+
+obstacles or barriers (e.g. ranging from uncertainty concerning risks, to insufficient medication or mistrust in
+government that ultimately shape decisions and response measures
+variability in how decision makers (and the stakeholders to whom they are accountable) interpret and apply
+evidence; and
+decision-making during public health emergencies may be constrained because decision makers are often
+facing competing demands on their time, thereby limiting their ability to consider and act upon the available
+evidence.
+
+To tackle these challenges and to further examine barriers to and facilitators of evidence-based decision-making
+while identifying priority areas where ECDC can positively influence the process for public health experts, an expert
+workshop (~30 participants) was convened at ECDC’s premises in Stockholm on 5–6 December 2018. The meeting
+consisted of both plenary and group working sessions focussing on four key questions:
+•
+•
+•
+•
+
+What are the major barriers to evidence-based decision-making during public health emergencies?
+What can be learned from measures implemented in past infectious disease outbreaks?
+How can public health experts better facilitate knowledge translation 1 and engage in decision-making
+processes?
+What kind of support and guidance do Member States need to overcome barriers to evidence-based
+decision-making?
+
+These questions are the focus of the current technical report which summarises the main conclusions from the
+expert workshop. To provide context, a summary of current knowledge on decision-making during crises is
+provided, including what is known about evidence uptake during emergencies, and the cultural differences
+between the science and policy domains. The body of the report presents the major barriers to evidence-based
+decision-making identified through the workshop, followed by brief summaries of ‘lessons learned’ from four
+different Member States and suggested mechanisms for knowledge translation of scientific evidence into health
+policy. The report concludes with a list of options for further action generated by the workshop.
+The text in this technical report is based on expert presentations, oral discussion, and summaries of group work.
+The workshop was conducted following the Chatham House Rule 2 and statements are therefore not attributed to
+individual participants.
+
+1
+
+Knowledge translation: the dynamic interface linking health information and research with policy and practice.
+
+The Chatham House Rule: ‘When a meeting, or part thereof, is held under the Chatham House Rule, participants are free to use
+the information received, but neither the identity nor the affiliation of the speaker(s), nor that of any other participant, may be
+revealed.’ http://www.chathamhouse.org/chatham-house-rule
+2
+
+2
+
+TECHNICAL REPORT
+
+Use of evidence in decision-making during public health emergencies
+
+2 Evidence and decision-making
+To enable a fruitful dialogue on major barriers and facilitators to evidence-based decision-making, the workshop
+began with a discussion of how evidence is defined and used, what constitutes primary sources of evidence, why
+evidence is valuable, and what is known on the role of evidence in decision-making.
+
+What is ‘evidence’?
+In 2003, WHO’s Regional Office for Europe adopted an initial broad definition of evidence as ‘findings from
+research and other knowledge that may serve as a useful basis for decision-making in public health and healthcare’
+[1]. While literature on the use of evidence in public health emergencies is limited, one presenter discussed work
+that reviewed the types and sources of evidence. Types of evidence in the context of public health emergencies
+include peer-reviewed scientific research articles, but also exist in the form of local data, surveys, surveillance data,
+guidelines and assessments. Sources of evidence are varied and range from published resources, organisations and
+media to people. In one study it was claimed that local data (e.g. epidemiological, historical, qualitative and
+interpersonal information) was recognised as a preferred form of evidence among policy-makers, while informal
+information (e.g. from colleagues and friends) was also seen as an influential source of evidence [2]. Thus, what
+counts as evidence is context-dependent and is often broader than the knowledge produced through ‘scientific
+method’.
+
+Why is evidence important?
+The first guiding principle in the WHO Regional Office for Europe’s ‘Action plan to strengthen the use of evidence,
+information and research for policy-making’ is that ‘evidence comes first: decisions should be based first and
+foremost on the best available evidence’ [3]. Experts agreed that scientific evidence can provide knowledge during
+public health emergencies that enables progress towards improved outcomes, reducing morbidity and mortality, as
+well as the cost of relief efforts. The need for evidence comes from the moral and pragmatic obligation to ensure
+that humanitarian action during crises is the best possible [4]. However, some participants argued that the public
+health sector appears to place a higher self-imposed threshold on the quality and quantity of evidence needed to
+make decisions than other sectors (e.g. natural disasters, traffic). This in turn can complicate engagement with
+decision makers, particularly during public health emergencies.
+
+What is evidence-based decision-making?
+Evidence-based decision-making has been defined as the taking of policy decisions based on the best available
+evidence through a process which is systematic and transparent [5]. While scientific evidence provides knowledge
+typically produced through explicit and validated methodologies, the evidence is not necessarily used consistently
+to steer political choices. Evidence use can be challenged by pre-existing bias, subjected to opportunistic use, or
+used selectively to obtain perceived added value. In practice, participants argued that the information giving rise to
+decisions in a complex crisis situation is a combination of scientific and non-scientific.
+
+Who are the decision makers?
+As the workshop focused on decision-making during infectious disease health crises, the decision makers of
+interest are likely to be those with the authority in their country to implement specific infectious disease control
+measures. In general, more routine measures will be the concern of decision makers situated in national institutes
+of public health. For decisions that are more political in scope - such as school closures or the withdrawal of food
+products during an outbreak of a food-borne disease - the decision makers are probably representatives from
+national or local government (e.g. Ministry of Health, Education, Civil Protection) or from authorised regulatory
+bodies (e.g. food safety authorities). As a result of the variety of decision-making contexts and structures across
+Europe, and the fact that much of the existing literature on evidence-based decision-making related to public
+health has tended to focus on non-crisis situations, this report seeks to establish generally applicable insights that
+emerged from the workshop (i.e. insights most relevant for officials working in national and international public
+health and/or disease control agencies.)
+
+What is known about evidence use in decision-making?
+While the gap between evidence and policy is apparent, few studies exist that examine the use of evidence in
+decision-making during crisis management of public health emergencies. The draft findings from a scoping review
+of available literature were presented during the workshop [16]. The aim of the review was to improve
+
+3
+
+Use of evidence in decision-making during public health emergencies
+
+TECHNICAL REPORT
+
+understanding of how scientific evidence feeds into decision-making processes. The literature search confirmed
+that scientific knowledge and expert advice clearly play a role in decision-making, but many elements complicate
+the ultimate impact of evidence in policy-making. Scientific uncertainty emerged as a major issue affecting
+decisions during public health emergencies. Factors other than science that influence decision-making include past
+experiences, relationships between key stakeholders, media, political climate and context, and reputation. While
+science is an important factor, some participants concurred that existing studies do not clarify the method or
+effectiveness of evidence use or the subsequent knowledge translation in public health emergencies [6].
+Furthermore, the extent to which evidence is a driver of policy decisions is difficult to assess due to the overarching
+complexity of public health emergencies.
+Although the scoping review provides some insight, it indicates evidence is not systematically inserted into policy,
+so questions still remain as to how experts can promote good governance of evidence in public health
+emergencies. It is interesting to note that WHO recently published an action plan to strengthen the use of evidence
+[3]. Workshop participants agreed that legitimate, strong evidence should provide the basis for a political
+discussion involving credibility and confidence, but useable evidence is a combination of social and technical
+expertise.
+
+What is known about decision-making during public health
+emergencies?
+Scientific research can add significant value to decisions during public health emergencies by providing evidence to
+characterise threats and forecast outcomes. However, the equally powerful push and pull of other factors informing
+decision-making imply that the role and impact of scientific evidence in public health policy decisions is not always
+consistent or systematic. One reason for this challenge may be that experts and decision makers do different types
+of work.
+Participants argued that national public health recommendations are not exclusively guided by scientific knowledge,
+but are influenced by political and societal imperatives. For example, this is the case for EU Member States and
+partner countries that are democratic countries where politicians are elected officials. Decision- and policy-makers
+have an enormous responsibility for managing the national economy, health and security in the best interests of
+their citizens. As one presenter explained, this entails weighing up perspectives and values to legitimise good
+decisions, heeding the opinions of public and private stakeholders, and taking action in a timely, appropriate
+manner. During public health emergencies, a series of adaptive decisions may often be required to meet changing
+circumstances during response operations [9] [10]. However, the way in which decisions are made – i.e. who,
+when, and in what timeframe – can differ widely. Without effective exposure and knowledge translation to decision
+makers, scientific evidence may have marginal political influence, particularly when in competition with other
+factors. During the workshop it was suggested that technical experts are often reluctant to ‘simplify’ scientific
+findings because doing so tends to mask the related uncertainties and assumptions. In addition, scientists might
+disagree about the interpretation of uncertain data, further complicating the provision of scientific advice.
+During the workshop, the consensus was that scientific knowledge is the key to situational awareness during public
+health emergencies. Nevertheless, an intrinsic difference in culture between taking action (the realm of decision
+makers) and gathering information (the realm of risk assessors) was acknowledged. In order to bridge the gap
+between these two realms, it is crucial to improve understanding of the supply and demand for science, both from
+decision makers’ and risk assessment experts’ perspectives.
+Public health emergencies are states that impose an imminent threat caused by a disease or infectious agent [7].
+As suggested during the meeting, public health emergencies may be defined as having several phases: the
+characterisation of the incident, risk assessment, response measures and the political decisions that ensue. The
+knowledge of scientific experts, when used effectively, plays an important role in the process of broadening
+understanding and improving preparedness for future risk. However, there are specific challenges in preparedness
+and response to emergencies for the public health sector. One major challenge is the invisible nature of many
+public health threats, in particular communicable disease threats. While natural disasters impose risks that are
+highly visible, microbial agents or chemical attacks may not be as apparent to other stakeholders. In addition, a
+number of public health emergencies are cross-border events that affect different groups and sectors and require a
+much larger, coordinated effort to contain and eliminate. Moreover, with changing and unpredictable social and
+political factors [8], the standard preparedness and response activities of the past now require renewed attention
+to to address novel threats which are exacerbated by factors such as public mistrust and the spread of
+misinformation, as has been the case with vaccine hesitancy [8a].
+
+4
+
+TECHNICAL REPORT
+
+Use of evidence in decision-making during public health emergencies
+
+3 Barriers to evidence-based decisionmaking during public health emergencies
+The use of scientific evidence in the development of health decisions and policy depends on many factors beyond
+technical knowledge translation. How policy makers ultimately arrive at a conclusion can be based on a
+constellation of available evidence, but likely influenced by a multitude of contextual factors and pressures. The
+expert consultation discussed determinants that influence decision-making, and how these factors can be barriers
+to the use of scientific evidence, as well as threats to good governance.
+
+Uncertainty
+Novel public health events are often surrounded by great uncertainty. Uncertainty challenges political decisionmaking contexts, as the available scientific evidence might be irrelevant, unclear, ambiguous, or unhelpful [15].
+The pervasive theme of uncertainty appears to underlie many of the barriers identified during the workshop.
+Decisions must be adaptive during crisis management, and sufficient evidence is not always available. Scientific
+uncertainty appears to result in three outcomes (not mutually exclusive) – use of best available evidence, reversion
+to preparedness plans, or action based upon the precautionary principle [16]. Under time pressure, lack of
+evidence can drive the transformation to what has been referred to as ‘post-normal science’ or ‘mode-2 knowledge’
+(Figure 1) [17], in which both the decision stakes and uncertainties are high, and decisions tend to be made on
+extrapolated data or historical information which may not be particularly well-suited to the emergency at hand.
+One presenter suggested that reactions following the nuclear disaster in Fukushima reflected mode-2 knowledge,
+as the initial response was influenced by the radiation disasters of Nagasaki and Hiroshima because the novelty of
+the event exceeded the capacity of existing evidence [18].
+Even in cases where scientific evidence exists, an understanding of the risks posed by a given disease outbreak can
+evolve rapidly, thereby challenging decision makers to keep abreast of and respond to new evidence. Meanwhile,
+evidence on the utility of response measures may evolve more slowly. The decision to implement response
+measures may depend not only on evidence concerning the disease but also on the perceived severity of disease
+risk which, to some extent is subjective and culturally determined. For example, during the Zika outbreak in 2015,
+knowledge of the links between Zika and congenital malformations developed quickly [19]. However, according to
+some meeting participants, evidence on the utility of appropriate response measures, such as the provision of
+travel advice, was lacking. Nevertheless, due to the novelty of the event there was pressure on public health
+agencies to provide travel advice so this tended to be based upon precautionary principles.
+Finally, the interpretation of evidence by both experts and decision makers may also serve as a source of
+uncertainty. There may be variance both within groups and between them: variations in expert judgments may
+exist, as there might be disagreement among decision makers and between experts and decision makers.
+Participants agreed that because experts are human beings who make individual interpretations, evidence can also
+carry a user opinion-bias, be context-sensitive, and even be based on inconsistent or poor methodology. Due to
+these factors, experts can have different views, weakening the power of evidence due to lack of consensus among
+the scientific community. Participants concurred that inconsistent or inappropriate use of evidence can contribute to
+an erosion of trust between experts, decision makers and the wider public.
+
+Time pressure
+Time limitations for decision-making are a constant and unavoidable barrier to the use of evidence during a crisis.
+Due to the rapid evolution and complexity of public health emergencies, decision makers are under pressure to
+respond urgently and strategically to demonstrate capability and meet public health needs.
+Elected officials have a formidable challenge in managing national economies, public health, and security as well as
+a wide range of national or international issues (e.g. migration, urban growth or environmental disasters). Elected
+decision makers often have to be briefed quickly with episodic input, and are forced to take quick decisions based
+on an incomplete picture. Several participants noted that if evidence is lacking, decision makers may turn
+elsewhere for rapid answers. Under pressure, leaders may consult their own networks of ‘experts’ (e.g. friends,
+colleagues or other politicians) or take decisions influenced by their own cognitive biases or previous experiences.
+
+Sociopolitical factors
+Nowadays, the task of safeguarding public health is complicated by factors such as globalisation and extended
+travel habits, high levels of inequality across Europe, climate change, and more frequently-occurring health crises
+and natural disasters [18a]. Evidence use in decision-making may be compromised by factors such as competing
+5
+
+Use of evidence in decision-making during public health emergencies
+
+TECHNICAL REPORT
+
+political demands, or stakeholder interests that may prioritise short-term response measures which are not
+necessarily effective. In addition, addressing crises in a time of austerity with limited resources exacerbates the
+pressure on politicians and decision makers, and compromises evidence use.
+
+Pressure from neighbouring countries
+Political reputation is also affected by decisions taken outside of countries, and the actions of other players on the
+international stage, such as neighbouring countries or industries, can have an impact on the use of evidence for
+decision-making. EU collaborative mechanisms also encourage sharing practices, which may place additional
+pressure on policy-makers to take decisions in the absence of solid scientific facts. Decision 1082/2013/EU
+specifically aims to encourage the interoperability of national preparedness plans. This is important, as when a
+decision is taken by one country during a public health emergency this may impose pressure on neighbouring
+countries to do the same. Yet, even with the same evidence, the advice of experts from neighbouring countries can
+lead to different conclusions, as was seen in one study on decision-making in the context of the H1N1 influenza
+pandemic. [19a].
+
+Economic interests
+The economic impact of outbreaks also provides some essential context. During many outbreaks, trade and
+tourism fall sharply in affected areas, resulting in a substantial negative impact on the economy. This was evident
+during the SARS outbreak in 2003–2004, when countries were put under immense pressure to implement
+measures to show that they were doing everything they could to become SARS-free.
+The 2014 Ebola outbreak in West Africa caused enormous economic losses to the region [20]. During the outbreak
+even decisions taken on Ebola in Europe may have been affected by economic considerations. As one participant
+pointed out, one EU Member State continued to have direct flights to the affected areas in West Africa, and an
+airline company put very heavy pressure on the airport authorities to institute entry screening, despite the lack of
+evidence supporting such measures, so as to reassure the public.
+
+Communication challenges
+Lack of effective communication stands out as a significant barrier to use of evidence in decision-making from
+many different perspectives. Although communication plays an essential role at all levels of public health
+emergency response, two major themes emerged: suboptimal links between scientific experts and decision
+makers, and the potentially distorting role of news and social media sources. With regard to suboptimal links,
+participants at the meeting argued that scientists fail to consider the time demands placed on decision makers:
+during an emergency they are likely to have only a very limited amount of time to assess scientific evidence.
+It was suggested by one researcher that decision makers have specific needs during a public health emergency.
+They include:
+•
+•
+•
+•
+
+sourcing the best available knowledge from trustworthy institutions and experts
+expert consensus
+transparency; and
+maintaining the credibility of their institutions.
+
+One participant suggested that, to meet these needs, decision makers look for academic experts who embrace a
+larger perspective, and who understand how health fits into other systems such as urbanisation, migration, travel
+or climate change. However, every decision maker almost certainly prefers a specific type of evidence, and it would
+be hazardous to generalise.
+Decision-making is not linear [21], and multiple participants argued that decision makers’ demands for scientific
+knowledge can vary, depending on cultural differences, resource availability, or the specific phase of the crisis
+management cycle. To improve the translation of evidence into decisions, scientific experts must understand these
+needs and be transparent during interactions: bridging the gap between evidence and policy requires an effective
+translation of knowledge.
+One presenter argued that the media could distort the public’s understanding of the risk level of an event, quoting
+the unpredicted press interest in recent monkey pox cases in one EU Member State by way of example. False and
+unscientific information sources, including the opinions expressed by celebrities, in blog posts, and on social media,
+can sway the public view which, in turn, can influence the way in which decision makers react during crises.
+Participants agreed that certain media create challenges to establishing a public consensus on scientific findings, as
+there is always an ‘expert’ available who is willing to contradict or question both evidence and decision-making.
+
+6
+
+TECHNICAL REPORT
+
+Use of evidence in decision-making during public health emergencies
+
+Institutional settings
+Institutional silos limit evidence sharing due to limited collaboration between divisions or disciplines. Political
+organisation can dictate the placement of expert networks in different regions. Decision makers can be elected
+officials, emergency managers, private entities, and even members of the public, all of whom have varying
+proximity and exposure to scientific expertise, evidence, and policy. For example, a decision by a national
+government to distribute a stock of vaccines triggers a series of events and involves decision makers at many levels
+of distribution. Decision makers at these levels can have dissimilar goals, incentives and risk preferences, which are
+not always clear to public health experts. As argued during the workshop, different response options may be due
+to variations in resources, budget, objectives, and decision-making mandates (e.g. recommendations for school
+closures during the 2009 H1N1 outbreak in the US [22]). Changes in the individuals responsible for decisionmaking - whether due to reorganisation, staff turnover or as a result of elections - can disrupt established
+communication channels, or result in a loss of corporate memory, or changes to the legal framework related to
+public health emergency response. Any or all of these results may require renewed or repeated evidence-sharing.
+
+Community engagement
+Lack of active or appropriate involvement with or among other sectors (e.g. environment, social science) can also
+be a barrier to appropriate and effective evidence use in decision-making during public health emergencies.
+Challenges arise in discussions regarding the involvement of community players to maintain transparency, while
+compartmentalising this involvement in order to minimise complexity. Decision makers in one EU Member State
+realised the importance of collaborating with the community and other economically vital sectors following a
+Q fever and tick-borne encephalitis outbreak in the community in July 2016 [23].
+
+7
+
+Use of evidence in decision-making during public health emergencies
+
+TECHNICAL REPORT
+
+4 Modes of knowledge transition
+Knowledge translation is essential for ensuring that evidence is effectively integrated into decision-making contexts.
+It can be defined as ‘the dynamic interface that links health information and research with policy and practice’ that
+‘provide[s] an array of tools to researchers and decision makers to foster evidence-informed policy’ [3]. The
+workshop discussed potential mechanisms to enhance the use of evidence in political decision-making. The
+effective implementation of evidence depends on the context or environment where evidence is discussed, the
+nature of evidence availability, and how scientific knowledge is facilitated by experts.
+The uptake of scientific knowledge requires credibility of, and trust in scientific institutions, and it requires the
+effective translation of sometimes complex scientific messages into information that is timely and actionable for
+decision makers. Workshop participants suggested that trust in public health and biomedical sciences is generally
+strong in comparison with many other policy domains, particularly during events such as infectious disease
+outbreaks.
+
+Boundary organisations
+Boundary organisations work to enable a bridge between scientific and policy domains [11]. As one presenter put
+it, these organisations have a key role in building crisis management competencies, bringing different viewpoints
+together to broaden perceptions and understand biases, and suggesting options for countermeasures to best meet
+the challenges of unexpected events. ECDC and national centres for disease control may be considered boundary
+organisations insofar as one of their important roles is to combine surveillance data, scientific evidence, and
+response capacity with situational context in order to provide evidence on risk and response for decision makers.
+Given that ECDC’s mandate is a product of political decision-making, participants argued that ECDC should
+incorporate information about relevant policy initiatives and decision-making contexts into its planning processes in
+order to more successfully integrate science and policy [12] [13] [14]. The very nature of boundary organisations
+places them in a unique position to help enhance the uptake of scientific evidence.
+
+Networks
+Networks can serve as knowledge translation platforms, which can facilitate evidence-transformation into policy
+through enhanced communication between experts and decision makers. Networks create an important
+environment to break down silos, cultivate relationships, build trust, and facilitate transparency. For example,
+assembly of a cross-sectoral network can bring together an expanded community with input from different
+backgrounds to foster accumulation of best-known evidence, peer-support and exchange of experience and to
+provide improved opportunity for consensus and accountability.
+One example is the Evidence-Informed Policy Network [30], or EVIPNet, established by WHO with the aim of
+promoting partnerships between researchers and policy-makers. EVIPNet aims to bridge the evidence-policy gap in
+a systematic way through support of capacity building, development of national health policy, workshops and
+evidence briefs to present evidence in the context of the policy problem and highlight potential impact and barriers.
+At the workshop, it was noted that one European government’s decision to implement a sugar tax in 2016 was
+based on one such evidence brief [31].Publications by WHO [3] and others [32] [33] provide examples of how
+networks facilitate the use of evidence in policy-making.
+ECDC already interacts with EU/EEA Member States through networks and partnerships, which serve as gateways
+for collaboration with national public health institutes. For example, ECDC has public health networks consisting of
+national focal points (NFPs) and operational contact points (OCPs). These networks are a key source of advice and
+guidance for work in the area of preparedness, while also being the main target group for ECDC outputs [34].
+ECDC also collaborates with decision makers (the Health Security Committee through the European Commission)
+by providing technical support. One way of strengthening knowledge translation is to further foster relationships
+within these networks.
+
+Expanding expert influence and engagement
+Developing and applying an understanding of political dynamics and the supply and demand for science in
+decision-making is one way to optimise the uptake of science in decision-making processes [36]. Some of the
+actions highlighted by the workshop participants were to identify an entry point to policy discussions, to act with
+transparency, to clearly communicate uncertainties, and to frame scientific evidence into broader decision-making
+contexts. In some instances, experts may seek to develop and advocate for policy positions [37] or offer policy
+implications from their research [38]. Broader engagement with different audiences requires the communication of
+messages in a novel and simplified manner.
+
+8
+
+TECHNICAL REPORT
+
+Use of evidence in decision-making during public health emergencies
+
+Enhancing knowledge access
+On-line platforms can facilitate access to scientific knowledge and knowledge translation. Examples within the
+health sector include the Healthcare Information for All - Library Information Services (HIFA LIS) project [39], the
+Cochrane Collaboration [40] and Evidence Aid (humanitarian risk reduction) [41]. The Knowledge to Action
+framework [42], and the PARiHS (Promoting Action on Research Implementation) framework [43] are also
+resources that can facilitate knowledge translation of scientific evidence.
+
+9
+
+Use of evidence in decision-making during public health emergencies
+
+TECHNICAL REPORT
+
+5 Options for further action
+The concluding sessions of the workshop aimed to identify actions that could be undertaken to tackle barriers to
+evidence-based decision-making, improve knowledge translation, and enhance preparedness and response
+activities during public health emergencies, both nationally and internationally. These potential actions are intended
+to be relevant to any public health institutes that seek to enhance the uptake of evidence in decision-making
+processes and during emergencies.
+
+Strengthen knowledge transfer
+ECDC can best support Member States in handling uncertainty and combating misinformation by building
+legitimacy and trust of evidence, experts and scientific institutions. Public health agencies should consider the
+following:
+Training of public health experts (e.g. epidemiologists, information managers)
+To develop decision-support competencies by having a more thorough understanding of political contexts
+and the needs of decision makers.
+To effectively present the evidence and communicate uncertainties so as to inform decision-making.
+Training could be through seminars, workshops, summer/winter schools, and through integrated training
+(e.g. ECDC’s fellowship programme in field epidemiology [44]).
+
+•
+•
+•
+
+Provide evidence base for evidence uptake
+It is interesting to note that WHO recently published an action plan to strengthen the use of evidence [45].
+Execution could include:
+highlighting instances where scientific advice was not effectively heeded, for example, as outlined by the
+European Environment Agency in their reports on ‘Late Lessons from Early Warnings’ 3; and
+support development of guidance on appropriate evidence usage by decision makers.
+
+•
+•
+
+Foster networking between actors and disciplines
+To strengthen trust between scientists and decision makers and better enable consensus on evidence use, ECDC
+could consider the following measures:
+Enhance existing and build new networks to strengthen mutual understanding and improve situational
+awareness of both public health and decision-making contexts. Strategies could include:
+fostering networks combining public health experts with social and political scientists, decision makers,
+communicators and other stakeholders
+identifying how a diversity of expertise and roles is necessary to take complex decisions and build
+understanding of the contexts and constraints under which each group operates; and
+enhancing and broadening the activities of existing networks such as ECDC’s NFPs and EVIPNet Europe.
+
+•
+•
+•
+
+Incorporate social and political science perspectives to strengthen awareness of the role and limitations of
+science in decision-making. Strategies could include:
+Enhancing scientists’ understanding of decision-making contexts, and decision makers’ understanding of
+scientific methods and uncertainties.
+Considering public perception and acceptance of evidence-supported response measures so as to tailor
+response and risk communication (e.g. vaccine recommendations should consider vaccine hesitancy against
+vaccine efficacy).
+
+•
+•
+
+Establish dialogue between experts and key decision makers during peace-time – to what extent should public
+health agencies ‘advocate’ rather than simply presenting ‘facts’?
+Develop consensus and guidance on how scientists could engage as advisors in decision-making processes.
+Identify the types of decision-making requirements that exist during emergencies and identifying ways to
+quickly establish scientific evidence to address these requirements (e.g. developing rapid research
+protocols; establishing real-time mathematical modelling initiatives, etc.).
+Providing support for ‘storytelling’ (i.e. simplifying complex scientific messages) to reach political decision
+makers and provide a reliable depiction of population health.
+
+•
+•
+•
+
+3
+
+https://www.eea.europa.eu/publications/late-lessons-2
+
+10
+
+TECHNICAL REPORT
+
+Use of evidence in decision-making during public health emergencies
+
+Support community engagement projects, and use these cases to share best practices and facilitate contextual
+adaptation. Strategies could include:
+•
+•
+
+highlighting local practices and evidence generation to promote trust and suppress scepticism and rumours
+among the public; and
+using local, community facilitators (e.g. health mediators) as a good model of interaction between experts
+and political decision makers.
+
+Develop knowledge base on evidence uptake in decisionmaking
+To address the challenge of evidence use in the context of rapid public health emergency development, focus can
+be placed on greater availability of open-access resources, strengthening documentation (such as rapid risk
+assessments and after-action reviews [AARs]) and providing guidance on general preparedness and best practice.
+Share case studies as examples of best practice and valuable learning opportunities:
+•
+•
+•
+
+Open-access case studies, success stories or policy failures where the connection between evidence-base
+and decision-making has been addressed can help promote good governance during public health
+emergencies.
+Contextualisation is crucial, so availability of case studies with different contexts (e.g. school closures, mass
+quarantines, governance context) is essential.
+Encourage dissemination of recently-published ECDC recommendations on best practice [46].
+
+Encourage AARs as source of transparent data that provide reflection on past events and help drive planning for
+future outbreaks. Suggestions to enhance AARs include:
+•
+•
+
+•
+
+establishing a platform where countries can share experiences would facilitate exchange of examples of
+evidence availability and provide information on how uptake and utilisation has had an impact on policy
+outcomes
+sharing mistakes as lessons learned to contribute to transparency; and
+including modules within AAR protocols that specifically examine evidence usage during emergencies.
+
+Perform and publish literature reviews on how evidence is used during public health emergencies (already
+initiated by ECDC).
+•
+
+Enhance knowledge of how political moods impact evidence use and response to public health emergencies
+and how public health research relates to potential policy conclusions.
+
+Further develop core competencies of public health in the European countries including:
+•
+•
+
+support to Member States in designing national preparedness plans and ensuring their interoperability; and
+enhancing general preparedness plans (GPP) by building modules that include disciplinary integration of
+sectors, support for communication strategies, and an international perspective to enable consistency with
+neighbours.
+
+Monitor social media. Public sentiment can affect decision-making and the acceptance of emergency response
+measures. Steps to monitor social media and attempt to assess public sentiment include:
+•
+•
+
+examining engagement on Twitter and Facebook (e.g. posts, shares, and ‘likes’) as a measure of impact;
+and
+identifying and examining strategies for rumour management.
+
+11
+
+Use of evidence in decision-making during public health emergencies
+
+TECHNICAL REPORT
+
+Conclusion
+Scientific knowledge is essential for guiding decision-making during public health emergencies. Nevertheless, it
+should be acknowledged that scientific evidence may be just one of many considerations guiding decision-making.
+Understanding the contexts in which decision-making occurs and the barriers to evidence uptake is a necessary
+first step for sustained public health action to enhance evidence usage. There are opportunities to overcome
+existing barriers by enhancing knowledge transfer and pursuing activities which strengthen links between technical
+experts and decision makers. Concrete actions to overcome barriers include establishing bridging networks to
+optimise evidence uptake and incorporating perspectives from the social and political sciences so as to develop
+more sophisticated approaches to knowledge transfer.
+
+12
+
+TECHNICAL REPORT
+
+Use of evidence in decision-making during public health emergencies
+
+References
+1.
+
+WHO Regional Office for Europe. Evidence Informed Policy Making. 2019. [Internet] Available from:
+http://www.euro.who.int/en/data-and-evidence/evidence-informed-policy-making/about-us
+
+2.
+
+Oliver K, de Vocht F. Defining 'evidence' in public health: a survey of policymakers' uses and preferences.
+Eur J Public Health, 2017 May 1;27(suppl_2):112-117.
+
+3.
+
+WHO Regional Office for Europe. Action plan to strengthen the use of evidence. Copenhagen: WHO Regional
+Office for Europe; 2016. Available from:
+http://euro.who.int/__data/assets/pdf_file/0006/314727/66wd12e_EIPActionPlan_160528.pdf
+
+4.
+
+Blanchet K, Allen C, Breckon J, Davies P, Duclos D, Jansen J, et al. Using Research Evidence in the
+Humanitarian Sector: A practice guide. London: Evidence Aid, London School of Hygiene and Tropical
+Medicine and Nesta (Alliance for Useful Evidence); 2018. Available from:
+http://www.alliance4usefulevidence.org/assets/2018/10/Evidence_Aid_Practice_Guide_52pp_DIGITAL.pdf
+
+5.
+
+Oxman AD, Lavis JN, Lewin S, Fretheim A. SUPPORT tools for evidence-informed health Policymaking
+(STP) 1: What is evidence-informed policymaking? Health Res Policy Syst, 2009 Dec 16. 7 (Suppl 1): S1.
+
+6.
+
+Oliver K, Lorenc T, Innvær S. New directions in evidence-based policy research: a critical analysis of the
+literature, Health Research Policy and Systems 2014. 12:34.
+
+7.
+
+World Health Organization. Glossary of humanitarian terms. Geneva: WHO; 2008. Available from:
+http://www.who.int/hac/about/reliefweb-aug2008.pdf
+
+8.
+
+Stapleton P. From Mad Cows to GMOs: The Side Effects of Modernization. Eur J Risk Regul. 2016. 7(3):517531.
+
+8a.
+
+Suk JE, Lopalco P. Pastore Celentano L. Hesitancy, trust and individualism in vaccination decision-making.
+PLoS Curr. 2015 February 25;7.
+
+9.
+
+Lurie N, Wasserman J, Nelson C. Public Health Preparedness: Evolution Or Revolution? Health Affairs. 2006;
+25:4. Available from: http://www.healthaffairs.org/doi/10.1377/hlthaff.25.4.935
+
+10. European Centre for Disease Prevention and Control. Public health emergency preparedness: Core
+competencies for EU Member States. [Internet]. Stockholm: ECDC; 2017. Available from:
+http://ecdc.europa.eu/publications-data/public-health-emergency-preparedness-core-competencies-eumember-states
+11. Miller C. Hybrid management: Boundary organizations, science policy, and environmental governance in the
+climate regime. Science Technology and Human Values. 2001.
+12. Lidskog R, Sundqvist G (eds). Governing the air: The dynamics of science, policy, and citizen interaction,
+2011. Cambridge, MA: MIT Press. 2011.
+13. Esguerra A, Beck S, Lidskog R. Stakeholder Engagement in the Making: IPBES Legitimization Politics. Glob
+Environ Politics. 2017;17(1):59-76.
+14. Gustafsson K, Lidskog R. Boundary organizations and environmental governance: Performance, institutional
+design, and conceptual development. Clim Risk Manag. 2018;19:1-11.
+15. Oliver K, Innvar S, Lorenc T, Woodman J, Thomas J. A systematic review of barriers to and facilitators of the
+use of evidence by policymakers. BMC Health Serv Res. 2014 Jan 314:2.
+16. Salajan A, Tsolova S, Ciotti M, Suk JE. To what extent does evidence support decision-making during
+infectious disease outbreaks? A scoping literature review. In preparation.
+17. Funtowitz S, Ravets J. Science for the post-normal age. Futures. 1993 Sep:25;7:739-755.
+18. Pascale CM. Vernacular epistemologies of risk: The crisis in Fukushima. Curr Sociol. 2016 Mar 3.65(1);3-20.
+18a. Organisation for Economic Co-operation and Development. Understanding the socio-economic divide in
+Europe – Background report – January 2017. Paris: OECD; 2017. Available from:
+http://www.oecd.org/els/soc/cope-divide-europe-2017-background-report.pdf
+19. Rojas DP, Dean NE, Yang Y, Kenah E, Quintero J, Tomasi S, et al. The epidemiology and transmissibility of
+Zika virus in Girardot and San Andres island, Colombia, September 2015 to January 2016. Euro Surveill.
+2016:21(28). Available from: http://www.eurosurveillance.org/ViewArticle.aspx?ArticleId=22529
+19a. Baekkeskov E. Same threat, different responses: Experts steering politicians and stakeholders in 2009 H1N1
+vaccination policy-making. Public Administration, February 2016. [Internet].
+http://doi.org/10.1111/padm.12244
+20. United Nations Development Group – Western and Central Africa. Socio-Economic Impact of Ebola Virus
+Disease in West African Countries – A call for national and regional containment, recovery and prevention.
+New York: UNSDG; 2015. Available from: http://www.undp.org/content/dam/rba/docs/Reports/ebola-westafrica.pdf
+13
+
+Use of evidence in decision-making during public health emergencies
+
+TECHNICAL REPORT
+
+21. Oliver K, Cairney P. A systematic review of the do’s and don’ts of engaging in policy. Palgrave
+Communications, 2019.5:21.
+22. Klaiman T, Kraemer J, Stoto M. Variability in school closure decisions in response to 2009 H1N1: a qualitative
+systems improvement analysis. BMC Public Health, 2011.11:73.
+23. European Centre for Disease Prevention and Control. Synergies in community and institutional public health
+emergency preparedness for tick-borne diseases in the Netherlands. Stockholm: ECDC; 2018. Available from:
+http://ecdc.europa.eu/publications-data/synergies-community-and-institutional-public-health-emergencypreparedness-tick-0
+24. Muscat M, Marinova L, Mankertz A, Gatcheva N, Mihneva Z, Santibanez S, et al. The measles outbreak in
+Bulgaria, 2009–2011: An epidemiological assessment and lessons learnt. Euro Surveill. 2016;21(9):30152.
+Available from: http://www.eurosurveillance.org/ViewArticle.aspx?ArticleId=21399
+25. National Network of Health Mediators – Bulgaria [Internet]. Sofia: NNHM; 2019. Available from:
+http://www.zdravenmediator.net/en/
+26. Stefanelli P, Miglietta A, Pezzoti P, Fazio C, Neri A, Vacca P, et al. Increased incidence of invasive
+meningococcal disease of serogroup C/clonal complex 11, Tuscany, Italy, 2015 to 2016. Euro Surveill.
+2016;21(12). Available from: http://www.eurosurveillance.org/ViewArticle.aspx?ArticleId=21423
+27. Dettori M, Arru B, Azara A, Piana A, Mariotti G, Camerada MV, et al. In the Digital Era, Is Community Outrage
+a Feasible Proxy Indicator of Emotional Epidemiology? The Case of Meningococcal Disease in Sardinia, Italy.
+Int J Environ Res Public Health, 2018 Jul 18;15(7).
+28. Miglietta A, Fazio C, Neri A, Pezzotti P, Innocenti F, Azzari C, et al. Interconnected clusters of invasive
+meningococcal disease due to Neisseria meningitidis serogroup C ST-11 (cc11), involving bisexuals and men
+who have sex with men, with discos and gay-venues hotspots of transmission. Euro Surveill.
+2018 Aug;23(34). Available from: http://www.eurosurveillance.org/content/10.2807/15607917.ES.2018.23.34.1700636
+29. Paraskevis D, Nikolopoulos G, Tsiara C, Paraskeva D, Antoniadou A, Lazanas M, et al. HIV-1 outbreak among
+injecting drug users in Greece, 2011: a preliminary report. Euro Surveill. 2011 Sep 8;16(36). Available from:
+http://www.eurosurveillance.org/ViewArticle.aspx?ArticleId=19962
+30. World Health Organization. Evidence Informed Policy Network. Fact sheet: What is EVIPNet? Available from:
+http://www.who.int/evidence/resources/what-is-EVIPNet_20160925.pdf
+31. Evidence-informed Policy Network. Evidence brief for policy. Reducing the consumption of sugar-sweetened
+beverages and their negative health impact in Estonia (2017). Copenhagen: WHO Regional Office for Europe;
+2017.
+32. International Development Research Centre. Turning health research into policy [Internet]. Ottawa: IRDC;
+2014. Available from: https://www.idrc.ca/en/project/turning-health-research-policy
+33. Ongolo-Zogo P, Lavis JN, Tomson G, Sewankambo NK. Initiatives supporting evidence informed health
+system policymaking in Cameroon and Uganda: a comparative historical case study. BMC Health Serv Res,
+2014 Nov 29;14;612.
+34. European Centre for Disease Prevention and Control. ECDC's partnerships and networks [Internet].
+Stockholm: ECDC; 2019. Available from: http://ecdc.europa.eu/en/about-us/ecdcs-partnerships-and-networks
+35. United Nations Office for Disaster Risk Reduction. Sendai Framework for Disaster Risk Reduction. Geneva:
+UNISDR; 2015. Available from: http://www.unisdr.org/we/coordinate/sendai-framework
+36. Oliver K, Cairney P. How Should Academics Engage in Policymaking to Achieve Impact? Polit Stud Rev. 2018.
+37. Tilly H, Shaxson L, Young J, Rea J, Ball L. 10 things to know about how to influence policy with research.
+London: Overseas Development Institute; 2017. Available from:
+http://www.odi.org/sites/odi.org.uk/files/resource-documents/11205.pdf
+38. Goodwin M. How academics can engage with policy: 10 tips for a better conversation. The Guardian, 25
+March 2013.
+39. Healthcare Information For All. Library Information Services [Internet]. Available from:
+http://www.hifa.org/projects/library-and-information-services
+40. Cochrane website. Available from: https://www.cochrane.org
+41. Evidence Aid website. Available from: http://www.evidenceaid.org
+42. Graham ID, Logan J, Harrison MB, Straus SE, Tetroe J, Caswell W, et al. Lost in knowledge translation: Time
+for a map? J Contin Educ Health Prof. 2006 Winter;26(1):13-24.
+43. National Collaborating Centre for Methods and Tools. PARiHS framework for implementing research into
+practice. Hamilton: McMaster University; 2017. Available from: http://www.nccmt.ca/knowledgerepositories/search/85
+
+14
+
+TECHNICAL REPORT
+
+Use of evidence in decision-making during public health emergencies
+
+44. European Centre for Disease Prevention and Control. Call for application for cohort 2020 ECDC Fellowship
+Programme EPIET and EUPHEM paths, EU-track [Internet]. Stockholm: ECDC; 2019 [cited 23 July 2019].
+Available from: http://ecdc.europa.eu/about-us/work-us/call-ecdc-fellowship-programme-epiet-and-euphempaths
+45. World Health Organization Regional Office for Europe. EUR/RC66/12 – Action plan to strengthen the use of
+evidence, information and research for policy-making in the WHO European Region. Copenhagen: WHO
+Regional Office for Europe. Available from:
+http://euro.who.int/__data/assets/pdf_file/0006/314727/66wd12e_EIPActionPlan_160528.pdf
+46. European Centre for Disease Prevention and Control. Best practice recommendations for conducting afteraction reviews to enhance public health preparedness. Stockholm: ECDC; 2018. Available from:
+http://ecdc.europa.eu/publications-data/best-practice-recommendations-public-health-preparedness
+47. National Institute for Public Health and the Environment. European Multiple Environmental Threats
+Emergency Network [Internet]. Bilthoven: RIVM; 2019. Available from: http://www.rivm.nl/en/aboutrivm/mission-and-strategy/international-affairs/international-projects/emetnet
+48. European Parliament, European Council. Decision No. 1082/2013/EU of the European Parliament and of the
+Council of 22 October 2013 on serious cross-border threats to health and repealing Decision No 2119/98/EC
+(Text with EEA relevance). Off J Eur U. 2013 Nov 5;L 293:1-15. Available at:
+http://ec.europa.eu/health/sites/health/files/preparedness_response/docs/decision_serious_crossborder_thre
+ats_22102013_en.pdf
+49. Knowledgeplatforms.nl [Internet]. The Hague: The Foundation for International Development Publications;
+2019. Available from: http://www.knowledgeplatforms.nl
+50. United Nations. Sustainable Development Goals [Internet]. Geneva: WHO; 2019 [cited 23 July 2019].
+Available from: http://www.un.org/sustainabledevelopment/sustainable-development-goals
+
+15
+
+Use of evidence in decision-making during public health emergencies
+
+Annex 1. List of participants
+Name
+
+Country
+
+Abeysinghe, Sudeepa
+Bynander, Fredrik
+DeVries, Daniel
+Kunchev, Angel
+Gwyn, Prince Morris
+Jacobi, André
+Lopalco, Pierluigi
+Nelson, Christopher
+Oliver, Kathryn
+Panagiotopoulos, Takis
+Price, Charles
+Regmi, Jetri
+Rexroth, Ute
+Reynders, Daniel
+Rubin, Olivier
+Sane, Jussi
+Tomson, Göran
+Vasconcelos, Paula
+
+United Kingdom
+Sweden
+Netherlands
+Bulgaria
+United Kingdom
+Netherlands
+Italy
+United States
+United Kingdom
+Greece
+European Commission
+WHO
+Germany
+Belgium
+Denmark
+Finland
+Sweden
+Portugal
+
+ECDC Staff
+
+Affiliation
+
+Baka, Agoritsa
+Barragan, Susana
+Beauté, Julien
+Cenciarelli, Orlando
+Ciotti, Massimo
+Murach-Ward, Friederike
+Jansa, Josep
+Pasi, Penttinen
+Pommier, Jeanine
+Riley, Paul
+Salajan, Andreea
+Suk, Jonathan
+Takacs, Judit
+Tsolova, Svetla
+Zucs, Phillip
+
+ECDC
+ECDC
+ECDC
+ECDC
+ECDC
+ECDC
+ECDC
+ECDC
+ECDC
+ECDC
+ECDC
+ECDC
+ECDC
+ECDC
+ECDC
+
+16
+
+TECHNICAL REPORT
+
+European Centre for Disease
+Prevention and Control (ECDC)
+
+Subscribe to our publications
+www.ecdc.europa.eu/en/publications
+
+Gustav III:s Boulevard 40, 16973 Solna, Sweden
+
+Contact us
+publications@ecdc.europa.eu
+
+Tel. +46 858601000
+Fax +46 858601001
+www.ecdc.europa.eu
+
+Follow us on Twitter
+@ECDC_EU
+
+An agency of the European Union
+www.europa.eu
+
+Like our Facebook page
+www.facebook.com/ECDC.EU
+
+ECDC is committed to ensuring the transparency and independence of its work
+In accordance with the Staff Regulations for Officials and Conditions of Employment of Other Servants of the European Union and the ECDC
+Independence Policy, ECDC staff members shall not, in the performance of their duties, deal with matters in which they may, directly or
+indirectly, have a personal interest that could impair their independence. Declarations of interest must be received from any prospective
+contractor before a contract can be awarded.
+www.ecdc.europa.eu/en/aboutus/transparency
+
+

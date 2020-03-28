@@ -1,0 +1,2270 @@
+RAPID RISK ASSESSMENT
+
+Coronavirus disease 2019 (COVID-19)
+pandemic: increased transmission in the EU/EEA
+and the UK – seventh update
+25 March 2020
+
+Summary
+On 31 December 2019, a cluster of pneumonia cases of unknown aetiology was reported in Wuhan, Hubei
+Province, China. On 9 January 2020, China CDC reported a novel coronavirus as the causative agent of this
+outbreak, coronavirus disease 2019 (COVID-19).
+As of 25 March 2020, more than 416 916 cases of COVID-19 were reported worldwide by more than 150
+countries. An increasing proportion of global cases are from EU/EEA countries and the UK. As of 25 March,
+204 930 cases and 11 810 deaths have been reported in the EU/EEA and the UK. The number of reported
+COVID-19 cases is rapidly increasing in all EU/EEA countries and the UK, and the notification rate is increasing
+at similar trajectory as was observed in Hubei province in late January/early February and in Italy in late
+February/early March.
+Clinical presentations of COVID-19 range from no symptoms (asymptomatic) to severe pneumonia; severe
+disease can lead to death. In EU/EEA countries with available data, 30% of diagnosed COVID-19 cases were
+hospitalised and 4% had severe illness. Hospitalisation rates were higher for those aged 60 years and above.
+Estimates of crude case-fatality for Germany, Italy and Spain showed that both the risk and absolute numbers
+of deaths rapidly increased with age for those aged 60 years and above in each country. Among hospitalised
+cases, severe illness was reported in 15% of cases, and death occurred in 12% of these cases, with higher
+case–fatality rates in older adults.
+In the present situation where COVID-19 is rapidly spreading in Europe, the current assessment is:
+
+
+
+
+The risk of severe disease associated with COVID-19 for people in the EU/EEA and the UK is currently
+considered moderate for the general population and very high for older adults and individuals with
+chronic underlying conditions.
+The risk of occurrence of widespread national community transmission of COVID-19 in the EU/EEA and
+the UK in the coming weeks is moderate if effective mitigation measures are in place and very high if
+insufficient mitigation measures are in place.
+The risk of healthcare system capacity being exceeded in the EU/EEA and the UK in the coming weeks
+is considered high.
+
+Measures taken at this stage should ultimately aim at protecting the most vulnerable population groups from
+severe illness and fatal outcome by reducing transmission in the general population and enabling the
+reinforcement of healthcare systems. Given the current epidemiology and risk assessment, and the expected
+developments in the next days to few weeks, the following public health measures to reduce further spread
+and mitigate the impact of the pandemic should be applied in EU/EEA countries:
+
+Suggested citation: Coronavirus disease 2019 (COVID-19) pandemic: increased transmission in the EU/EEA and the
+UK – seventh update, 25 March 2020. Stockholm: ECDC; 2020.
+© European Centre for Disease Prevention and Control, Stockholm, 2020.
+
+RAPID RISK ASSESSMENT
+
+COVID-19 pandemic: increased transmission in the EU/EEA – seventh update
+
+Community measures and social distancing should be implemented proactively and with active
+community engagement in order to reduce the impact of the epidemic and to delay its peak, allowing
+healthcare systems to prepare and cope with an increased influx of patients.
+
+
+
+Rigorous hand washing, respiratory etiquette, and the use of face masks by persons with respiratory
+symptoms can contribute to decreasing the spread of COVID-19 in the community.
+Layered application of social distancing measures (including isolation of cases and quarantine of
+contacts; measures at, or closure of, workplaces and educational institutions; restrictions in movement
+and social gatherings) can play a significant role in reducing community transmission if strictly adhered
+to.
+
+Measures in healthcare facilities are an immediate priority in order to: 1) slow the demand for specialised
+healthcare, such as ICU beds; 2) safeguard risk groups 3); protect healthcare workers that provide care; and
+4) minimise the export of cases to other healthcare facilities and the community.
+
+
+
+
+
+
+
+
+
+In healthcare settings, surge capacity plans must be available and up-to-date in expectation for the
+high demand for care of patients with moderate or severe respiratory distress. Critical care needs can
+be required for up to 15% of hospitalised patients with COVID-19.
+Long-term care facilities should implement infection prevention and control measures.
+Healthcare workers need to be protected as they are part of the critical infrastructure of response to
+this epidemic and should be prioritised in the testing policy; healthcare workers need access to, and
+appropriate training on, PPE use.
+Cohorting of hospitalised cases is advised to save staff and PPE resources.
+Rational use of PPE should be employed at all times, but especially when there is shortage of PPE
+material.
+Patients with mild clinical presentation, particularly those who are not in a recognised risk group for
+developing severe disease, can be managed at home with instructions to follow up if symptoms
+deteriorate. Measures to prevent household transmission should be advised and/or facilitated.
+Patients presenting with respiratory distress with increased need for oxygenation require management
+in hospital. Patients in critical condition need specialised care, on average for more than two weeks.
+Current criteria for discharge from the hospital include resolution of symptoms and laboratory evidence
+of SARS-CoV-2 clearance from the upper respiratory tract. Criteria can be adapted to the local context.
+
+Testing and surveillance strategies should rapidly detect cases and elucidate transmission patterns.
+
+
+
+
+
+
+
+
+
+Capacity for SARS-CoV-2 laboratory testing at high levels is essential.
+Shortages in testing capacity need to be anticipated and addressed, taking the needs for testing of
+other critical diseases into account; if capacity is exceeded, priority should be given to the testing of
+vulnerable patients, healthcare workers and patients requiring hospitalisation.
+Validation of performance and operational utility of selected rapid/point-of-care tests (e.g. for antigen
+detection) is needed before recommending their use for clinical diagnosis.
+Serological assays are currently not recommended for case detection.
+Sentinel syndromic and virological surveillance of ARI/ILI allows for the monitoring of community
+transmission and, together with surveillance of hospitalised cases, can help to define triggers for
+escalation/de-escalation of mitigation measures.
+Countries recommending that patients with ARI/ILI should not visit general practitioners need to
+identify alternative sources for community-based surveillance such as telephone helplines.
+Hospital-based surveillance is needed to identify risk groups for severe disease, measure impact and
+inform decisions on mitigation measures.
+Contact tracing should continue during all stages of the epidemic as long as resources allow. For areas
+with widespread transmission there is still value in continuing contact tracing, resources permitting, as
+part of a range of measures.
+
+A strategic approach based on early and rigorous application of these measures will help reduce the burden
+and pressure on the healthcare system, and in particular on hospitals, and will allow more time for the testing
+of therapeutics and vaccine development.
+
+What is new in this update?
+
+
+
+
+
+
+
+Updated data on the epidemiological situation in the EU/EEA and the UK
+Data on disease and case severity from Europe
+Risk associated with COVID-19 for people from the EU/EEA and the UK
+Risk of widespread national community transmission in the EU/EEA and the UK in the coming weeks
+Risk to healthcare systems capacity being exceeded in the EU/EEA and the UK in the coming weeks
+Options for preparedness and response for the mitigation phase focused on the community setting,
+hospitals, and surveillance and testing
+
+2
+
+RAPID RISK ASSESSMENT
+
+COVID-19 pandemic: increased transmission in the EU/EEA – seventh update
+
+Regularly updated information on severe acute respiratory syndrome coronavirus COVID-19 outbreak is available
+on ECDC’s website [1], the European Commission website [2], and the World Health Organization’s (WHO)
+website [3]. This risk assessment is based on published information available as of 25 March 2020. ECDC technical
+reports and guidance documents on COVID-19 are listed in Annex 1.
+
+1 Event background
+For more detailed event background information, please visit ECDC’s website [4].
+Since ECDC’s sixth update on coronavirus disease published on 12 March 2020 and as of 25 March 2020, the
+number of cases and deaths reported in the EU/EEA has increased almost tenfold. During this time, Italy has
+reported more than 50 000 new cases, followed by Spain, Germany and France which are also reporting large
+numbers of new cases. All EU/EEA countries are reporting an exponential growth in the incidence of reported
+COVID-19 cases that is markedly similar to the reports for Hubei Province by China between January and early
+February (Figures 1 and 2, and Annex 2) and has been reported by Italy since 23 February. If this trend continues,
+it is likely that in days or a small number of weeks, prevalence similar to Hubei province and Italy will be observed
+in most EU/EEA countries.
+The main developments since the 12 March 2020 risk assessment can be summarised as follows:
+
+
+
+
+
+
+
+
+
+
+
+All EU/EEA countries and more than 150 countries worldwide are affected.
+While early in the outbreak most cases were reported in China; since 12 March, 63% of the reported global
+cases have been from EU/EEA countries and the UK.
+Overall since the start of the pandemic in the EU/EEA and the UK and since 25 March, 204 930 cases and
+11 810 deaths have been reported. Italy, Spain, Germany and France represent 34% (n=69 176), 19%
+(n=39 673), 15% (n=31 554) and 11% (n=22 302) of all EU/EEA cases, respectively. Italy and Spain
+represent 58% (n=6 820) and 23% (n=2 696) of the fatalities in the EU/EEA, respectively.
+The 14-day cumulative incidence rate of COVID-19, a measure of the prevalence of active cases in the
+population, is 36.1 per 100 000 population in the EU/EEA as of 25 March, ranging from low rates of 2.2 in
+Hungary and 2.3 in Poland to 97.7 per 100 000 in Italy, and more than 100 per 100 000 in Iceland,
+Liechtenstein and Luxembourg (Annex 3). All EU/EEA countries and the UK report increased numbers of
+cases and increased rates since 12 March. The large growth in the 14-days cumulative notification rate
+observed in EU/EEA countries like Luxembourg, Iceland, and Lichtenstein is due to the small size of their
+population (Figures 1 and 2).
+Assuming stable testing policies and no effect of mitigation measures, the EU/EEA and the United Kingdom
+is predicted to reach 100 COVID-19 cases per 100 000 population (the Hubei scenario) between the end of
+March and mid-April (Figures A and B, Annex 2).
+In Italy, after the peak on 21 March when 6 557 new cases were reported, the number of new cases
+reported daily appears to be decreasing. This appears to have occurred roughly two weeks after control
+measures (stay-at-home restrictions) were implemented, first in northern Italy (9 March) and then in the
+whole country (11 March).
+Reports from some healthcare facilities in northern Italy indicate that intensive care capacity has been
+exceeded due to the high volume of patients requiring ventilation [5]. Other EU areas with a large number
+of reported cases may experience the same challenges.
+
+Figure 1. COVID-19 cumulative incidence rate diffusion in Europe on 12 March (A) and 23 March (B)
+
+3
+
+RAPID RISK ASSESSMENT
+
+COVID-19 pandemic: increased transmission in the EU/EEA – seventh update
+
+Figure 2. COVID-19 14-day cumulative incidence rate change (A) and 14-day change in the 14-day
+cumulative number of cases (B) by country from 12 to 23 March
+
+For the most recent information on the current epidemiological situation regarding COVID-19, please visit this
+page [6].
+
+4
+
+RAPID RISK ASSESSMENT
+
+COVID-19 pandemic: increased transmission in the EU/EEA – seventh update
+
+2 Disease background
+For information on COVID-19, please visit this page [7] on ECDC’s website.
+
+Coronavirus disease (COVID-19)
+In December 2019, a novel coronavirus (now called SARS-CoV-2) was detected in three patients with pneumonia
+connected to a cluster of acute respiratory illness cases in Wuhan, China. By the end of February 2020, several
+countries, including several European countries, were experiencing sustained local transmission of coronavirus
+disease.
+Symptoms, severity, and case fatality: By 24 March 2020, 50 569 laboratory-confirmed cases have been
+reported to the European Surveillance System (TESSy). Information on symptoms was available for 14 011 cases
+from 13 countries, mainly (97%) from Germany. Among these cases, the most commonly reported clinical
+symptom was fever (47%), dry or productive cough (25%), sore throat (16%), general weakness (6%) and pain
+(5%). The frequency of these symptoms differs notably from those reported from China [8] and is summarised in
+the sixth update of ECDC’s Rapid Risk Assessment. Data on cases reported more recently to TESSy may be biased
+toward the more seriously ill because national policies have shifted focus towards testing of more severe cases.
+Preliminary estimates of severity were based on the analysis of data from EU/EEA countries and the UK available in
+TESSy and online country reports (for countries whose data was incomplete or missing in TESSy).
+Among all cases:
+
+
+
+Hospitalisation occurred in 30% (13 122 of 43 438) of cases reported from 17 countries (median countryspecific estimate, interquartile range (IQR): 24%, 11-41%)
+Severe illness (requiring ICU and/or respiratory support) accounted for 2 179 of 49 282 (4%) cases from 16
+countries (median, IQR: 3%, 2-8%).
+
+Among hospitalised cases:
+
+
+
+Severe illness was reported in 15% (1 894 of 12 961) of hospitalised cases from 15 countries (median, IQR:
+16%, 10-24%).
+Death occurred in 1 457 of 12 551 (12%) hospitalised cases from eight countries (median, IQR: 10%, 614%).
+
+Age-specific hospitalisation rates among all cases based on TESSy data showed elevated risk among those aged 60
+years and above (Figure 3).
+Figure 3. Age-specific hospitalisation rates among all cases, data from 14 countries in TESSy with
+>50% completeness for hospitalisation and >50 cases, 24 March 2020
+
+Robust estimates for case fatality risk for COVID-19 are still lacking and potentially biased by incomplete outcome
+data and differences in testing policies. The mean crude case-fatality (proportion of deaths among total cases
+reported) from the EU/EEA and the UK by 23 March 2020 was 5.4% (median country-specific estimate: 0.5%;
+range: 0.0-9.3%).
+Based on a large dataset from cases in China, the overall case–fatality risk (CFR) among laboratory-confirmed
+cases was higher in the early stages of the outbreak (17.3% for cases with symptom onset from 1-10 January
+5
+
+RAPID RISK ASSESSMENT
+
+COVID-19 pandemic: increased transmission in the EU/EEA – seventh update
+
+2020) and has reduced over time to 0.7% for patients with symptom onset after 1 February [8]. In data on
+diagnosed COVID-19 cases in China and South Korea, overall CFR was 2.3% and 0.5%, respectively, and increased
+with age in all settings, with the highest CRF among people over 80 years of age (14.8% and 3.7%, respectively)
+[9-11]. Similarly, age-specific estimates of crude case-fatality for Germany, Italy and Spain increased rapidly with
+age, particularly above 60 years of age (Figure 4). The absolute numbers of deaths also increased with age in each
+country: those aged 70–79 years accounted for 19% (Germany), 36% (Italy) and 20% (Spain) of all deaths per
+country; these proportions rose to 74% (Germany), 50% (Italy) and 67% (Spain) among those aged 80 years and
+above.
+Figure 4. Age-specific crude case-fatality (deaths/all cases) in Germany (TESSy data up to 24 March
+2020), Italy (country report with data up to 19 March 2020) and Spain (country report with data up
+to 22 March 2020)
+
+Data from a country report for Italy as of 19 March 2020 showed an increased risk of death among males
+compared with females in all age groups from 50 years and above. The risk of death becomes more pronounced
+with age, with an overall male-to-female ratio among COVID-19 deaths of 2.4:1. According to TESSy data from
+Germany as of 24 March 2020, this ratio is 1.6:1, with a particularly increased risk of death among males aged 70–
+79 years compared to their female contemporaries.
+Among deceased patients in Italy until 19 March 2020, 73.8% had hypertension, 33.9% diabetes, 30.1% ischaemic
+heart disease, 22.0% atrial fibrillation, 19.5% a cancer diagnosed in the last five years. About half (48.6%) of the
+COVID-19 deaths had three or more comorbidities, 26.6% had two comorbidities, 23.5% had one comorbidity, and
+1.2% had none. The most common complications observed in Italy were respiratory insufficiency (96.5%), acute
+kidney failure (29.2%), acute myocardial damage (10.4%) and bacterial superinfection (8.5%) [12].
+Incubation period: Current estimates suggest a median incubation period from five to six days for COVID-19,
+with a range from one to up to 14 days. A recent modelling study confirmed that it remains prudent to consider
+the incubation period of at least 14 days [13,14].
+Viral shedding: Over the course of the infection, the virus has been identified in respiratory tract specimens 1–2
+days before the onset of symptoms, and it can persist up to 8 days in moderate cases and up to 2 weeks in severe
+cases. In terms of viral load profile, SARS-CoV-2 is similar to that of influenza, which peaks at around the time of
+symptom onset [6,15], but contrasts with that of SARS-CoV which peaks at around 10 days after symptom onset,
+and that of MERS-CoV which peaks at the second week after symptom onset. Older age has also been associated
+with higher viral loads [15]. The high viral load close to symptom onset suggests that SARS-CoV-2 can be easily
+transmissible at an early stage of infection [15]. Viral RNA has been detected in faeces from day 5 after symptom
+onset and up to 4 to 5 weeks in moderate cases, as well as in whole blood [16], serum [17,18] saliva [14,15] and
+urine [19]. Prolonged viral RNA shedding has been reported from nasopharyngeal swabs (up to 37 days among
+adult patients [20]) and in faeces (more than one month after infection in paediatric patients) [21]. It should be
+noted that viral RNA shedding does not equate with infectivity. The viral load can be a potentially useful marker for
+assessing disease severity and prognosis: a recent study indicated that viral loads in severe cases were up to 60
+times higher than in mild cases [22].
+Basic reproduction number (R0): Recent modelling of the basic reproductive number (R0) from Italy estimate
+R0 between 2.76 and 3.25. Researchers from Lombardy who analysed the early phase of the outbreak in their
+region reported a reduction in R0 shortly after the introduction of mitigation measures [23]. This is consistent with
+6
+
+RAPID RISK ASSESSMENT
+
+COVID-19 pandemic: increased transmission in the EU/EEA – seventh update
+
+findings from China. A recent review of 12 modelling studies reports the mean R0 at 3.28, with a median of 2.79.
+R0 is proportional to the contact rate and will vary according to the local situation. Further research is needed to
+get a more accurate estimate of R0 in the various outbreak settings [23].
+Infection in asymptomatic individuals: Asymptomatic infection at time of laboratory confirmation has been
+reported from many settings [24-27]; a large proportion of these cases developed some symptoms at a later stage
+of infection [5,28]. There are, however, also reports of cases remaining asymptomatic throughout the whole
+duration of laboratory and clinical monitoring. Viral RNA and infectious virus particles were detected in throat
+swabs from two German citizens evacuated from Hubei province on 1 February 2020 who remained well and
+afebrile seven days after admission to a hospital in Frankfurt [29]. A mother and her child (from a family cluster)
+who both tested positive by quantitative RT-PCR (nasopharyngeal swab samples) remained asymptomatic
+(including normal chest CT images during the observation period) [30]. Similar viral loads in asymptomatic versus
+symptomatic cases were reported in a study including 18 patients [31]. Persistent positivity of viral RNA in throat
+and anal swabs was reported in an asymptomatic female patient after 17 days of clinical observation and
+treatment [28].
+Transmission in pre-symptomatic stage of infection: No significant difference in viral load in asymptomatic
+and symptomatic patients has been reported, indicating the potential of virus transmission from asymptomatic
+patients [5,32,33]. Major uncertainties remain with regard to the influence of pre-symptomatic transmission on the
+overall transmission dynamics of the pandemic because the evidence on transmission from asymptomatic cases
+from case reports is suboptimal. Pre-symptomatic transmission has also been inferred through modelling, and the
+proportion of pre-symptomatic transmission was estimated between 48% and 62% [34]. Pre-symptomatic
+transmission was deemed likely based on a shorter serial interval of COVID-19 (4.0 to 4.6 days) than the mean
+incubation period (five days). The authors indicated that many secondary transmissions would have already
+occurred at the time when symptomatic cases are detected and isolated [35].
+Children: Children made up a very small proportion of the 50 068 cases reported to TESSy as of 24 March (with
+known age (<10 years (1%), 10–19 years (4%)). The male-to-female ratio (1.2:1 overall) was less pronounced in
+children (1.1 and 1.0 in those aged 10–19 and <10 years, respectively) and increased with age. The age
+distribution observed in the EU/EEA and the UK reflects testing policies and case definitions which usually include
+symptoms, and it is possible that the small proportion of affected children reflects a lower risk of children to
+develop COVID-19 [36]. Current literature indicates that children are as likely to be infected as adults but they
+experience mild clinical manifestations [37,38]. Data in TESSy show no difference between age groups in the order
+of most common symptoms but fever was slight less commonly reported among those aged 10–19 years of age
+(39%, compared to 47% for all ages) and sore throat was less common among those aged <10 years (10%,
+compared to 16% for all ages). Asymptomatic cases in infants and children have been also reported [30,39-41].
+Two studies on patients with positive laboratory results reported that 10/15 (66.7%) and 4/31 (13%) of the
+children were asymptomatic [42,43]. Exposure to COVID-19 among children is likely to occur within the family or in
+a household context [44,45].
+Pregnant women and neonates: Pregnant women appear to experience similar clinical manifestations as nonpregnant adult patients with COVID-19 pneumonia. There are only two reported cases of mothers with ICU
+admission and requiring mechanical ventilation or extracorporeal membrane oxygenation (ECMO) [46]. No
+maternal deaths have been reported so far. COVID-19 appears to be less lethal for pregnant women than SARS
+(15% CFR in pregnancy) and MERS (27% CFR in pregnancy) [46]. There is limited evidence of severe adverse
+outcomes, such as miscarriage, preterm birth, stillbirths and foetal distress. No pregnancy losses and only one
+stillbirth have been reported to date [47]. Intrauterine transmission appears to be unlikely [46,48,49]. Elective
+Caesarean section deliveries have been commonly reported as a precautionary method to avoid perinatal
+transmission [46,50,51]. A confirmed COVID-19 neonatal case has been recently reported, however the mode of
+transmission remains unclear [52]. A neonate born to a confirmed maternal case had negative laboratory results
+for COVID-19 and died due to multi-organ failure [53].The virus has not been found in breastmilk [49,54,55].
+Vulnerable groups: Data from Italy corroborate previously identified population groups at higher risk for having
+severe disease and death. These groups are elderly people above 70 years of age, and people with underlying
+conditions such as hypertension, diabetes, cardiovascular disease, chronic respiratory disease and cancer
+[8,18,20,56,57]. Men in these groups appear to be at a higher risk than females. Chronic obstructive pulmonary
+disease (COPD), cardiovascular diseases, and hypertension have been identified as strong predictors for ICU
+admission [20].
+Higher ACE2 (angiotensin converting enzyme II) gene expression may be linked to higher susceptibility to SARSCoV-2. It has been shown that ACE2 expression in lung tissues increases with age, tobacco use and with some
+types of antihypertensive treatment. These observations might explain the vulnerability of older people, tobacco
+users/smokers and those with hypertension; they also highlight the importance of identifying smokers as a
+potential vulnerable group for COVID-19 [54,58-60].
+Immunity: It is too early to know how long the protective immune response against SARS-CoV2 will last, as this
+will require longitudinal serological studies that follow patients’ immunity over an extended period of time [60].
+Evidence from other coronavirus infections (SARS and MERS) indicates that immunity may last for up to three
+years and re-infection with the same strain of seasonal circulating coronavirus is highly unlikely in the same or
+following season. This could also hold true for SARS-CoV2 as there is emerging evidence from early studies
+7
+
+RAPID RISK ASSESSMENT
+
+COVID-19 pandemic: increased transmission in the EU/EEA – seventh update
+
+suggesting that that individuals develop antibodies after infection and are likely to be immune from reinfection in
+the short term [61].
+Seasonality: The four coronaviruses that are endemic in human populations are responsible for 10–15% of
+common cold infections and display a marked winter seasonality in temperate climates, with a peak between
+December and April, but are hardly detected in the summer months [61-64]. The seasonality of coronaviruses
+might be driven, in part, by environmental conditions and host susceptibility, because coronaviruses are more
+stable under low and midrange relative humidity (20–50%) when the defence mechanisms of the airways are
+suppressed [65,66]. However, based on preliminary analyses of the COVID-19 outbreak in China and other
+countries, high reproductive numbers were observed not only in dry and cold districts but also in tropical districts
+with high absolute humidity, such as in Guangxi and Singapore [68]. There is no evidence to date that SARS-CoV-2
+will display a marked winter seasonality, such as other human coronaviruses in the northern hemisphere, which
+emphasises the importance of implementing intervention measures such as isolation of infected individuals,
+workplace distancing, and school closures.
+Survival in the environment: Recent publications have evaluated the survival of SARS-CoV-2 on different
+surfaces. The environmental stability of viable SARS-CoV-2 is up to 3 hours in the air post aerosolisation, up to
+4 hours on copper, up to 24 hours on cardboard, and up to 2–3 days on plastic and stainless steel, albeit with
+significantly decreased titres [69]. These findings are comparable with the results obtained for environmental
+stability of SARS-CoV-1. However, as these are results from experimental studies, they do not directly translate to
+fomite infectivity in the real world [69].
+Different levels of environmental contamination have been described in rooms of COVID-19 patients, ranging from
+1 positive out of 13 samples to 13 out of 15 samples testing positive for SARS-CoV-2 before cleaning. No air
+samples were positive in these studies, but one sample from an air exhaust outlet was positive indicating,
+according to the authors, that virus particles may be displaced by air and deposited on surfaces [69,70].
+In a study of environmental contamination in a Chinese hospital during the COVID-19 outbreak, SARS-CoV-2 was
+detected in environmental samples from intensive care units (ICU) dedicated to COVID-19 care, a COVID-19dedicated obstetric isolation ward, and a COVID-19-dedicated isolation ward. SARS-CoV-2 was also detected on
+objects such as the self-service printers used by patients to self-print the results of their exams, desktop keyboards
+and doorknobs. Virus was detected most commonly on gloves (15.4% of samples) but rarely on eye protection
+devices (1.7%) [72]. This evidence indicates that fomites may play a role in transmission of SARS-CoV-2 but the
+relative importance of this route of transmission compared to direct exposure to respiratory droplets is still unclear.
+Treatment: There is currently no approved specific treatment or vaccine against COVID-19 infection. Patients
+require supportive care and oxygen supplementation. This can be done through non-invasive ventilation (if
+performed in a negative pressure room or through a helmet) or via mechanical ventilation. Critically ill patients may
+also require vasopressor support and antibiotics for secondary bacterial infections. Clinician reports from Italy and
+the USA refer to a number of complications such as cardiomyopathy and sudden onset death, as well as
+thromboembolic episodes (pulmonary embolism). Data collection through the World Health Organization’s COVID19 Clinical Network is ongoing to assess the frequency of these complications.
+A number of pharmaceuticals are being used for severe and critically ill patients as potential treatments against
+SARS-CoV-2, including ribavirin, interferon β-1a, the antiviral combination lopinavir/ritonavir, the antimalarial
+chloroquine/hydroxychloroquine, the antiviral nucleotide analogue remdesivir and the antiviral favipiravir. It is
+important that the available pharmaceuticals are carefully assessed in randomised controlled trials (RCTs); several
+clinical trials are recruiting patients globally to assess the effect of different treatment options.
+A randomised, controlled, open-label trial of lopinavir/ritonavir in 199 COVID-19 patients in China failed to show
+any favourable effect on the clinical course or the mortality compared to standard treatment [72].
+Hydroxychloroquine has been shown in vitro to alter the uptake of the virus in cells, and a small case series and
+trial have reported its use in patients during this outbreak in China and Europe. It remains one of the possible
+therapies that needs to be evaluated through an adequately sized RCT [73,74]. Systemic use of steroids is not
+recommended because they might increase the viral replication and shedding of the virus along with other steroidrelated side effects [76]. Other approaches are also assessed such as the blocking of the inflammatory cascade by
+IL6- & IL4- blockers.
+Reports that non-steroidal anti-inflammatory drugs worsen COVID-19 through increased expression of angiotensinconverting enzyme 2 (ACE2), whose receptor is used by SARS-CoV-2 to enter the target cells, are not supported by
+evidence [77].
+Additional information on clinical case management is provided under ‘Preparedness and public health response’.
+
+Modelling scenarios related to epidemic progression and
+healthcare capacity saturation
+Short-term forecast
+Unless modified by effective intervention, current estimates of the 14-day cumulative notification rate (a proxy
+measure of the prevalence of active COVID-19 cases in the population) predict that about half of all EU/EEA
+8
+
+RAPID RISK ASSESSMENT
+
+COVID-19 pandemic: increased transmission in the EU/EEA – seventh update
+
+countries will reach a rate of 100 cases per 100 000 population (the prevalence in Hubei province at the peak of
+the epidemic) by the end of March, with the remaining countries reaching that level by mid-April 2020. Iceland,
+Luxembourg and Liechtenstein already reached this level on 21, 22 and 23 March, respectively. These predictions
+need to be interpreted with caution because of prediction intervals inherent to modelling and because of the
+underlying assumptions of: 1) a stable diagnostic testing policy and capacity, and 2) an absence of effective
+mitigation measures. As more countries are now only testing severe acute respiratory infections at hospital
+admission (due to shortages of laboratory consumables), the increase of reported laboratory-confirmed cases is
+expected to slow down in several countries. This will probably not reflect reduced incidence. Similarly, prevalence
+predictions will probably be affected by increased community and mitigation measures in the countries if effective.
+
+Estimated risk of healthcare capacity saturation
+ECDC estimated the risk of saturation of intensive care unit (ICU) beds through a simulation approach, using
+hospital data from the 2016–2017 ECDC point-prevalence survey of healthcare-associated infections in acute care
+hospitals [78]. Hospital capacity was evaluated as a function of increasing prevalence of hospitalised COVID-19
+cases per 100 000 population and for three levels of hospitalised COVID-19 patients requiring ICU care (5%, 18%
+and 30% severity scenarios). The model considers bed occupancy rates measured outside the winter season and
+does not take in account the increased capacity added by many countries as a response to the COVID-19
+emergency. The 14-days cumulative notification per 100 000 population was used as a proxy of the prevalence of
+active COVID-19 cases. Countries that did not participate in the ECDC point-prevalence study could not be included
+in the analysis (Annex 3).
+Based on these estimates, four EU/EEA countries are at a high risk of seeing their ICU capability saturated at a
+prevalence of 10 hospitalised COVID-19 cases per 100 000 population (approximately twice the mainland China
+prevalence scenario at the peak of the epidemic). At a prevalence of 18 hospitalised cases per 100 000 (the
+Lombardy scenario as of 5 March), 12 countries are at a high risk of ICU capability becoming saturated. The ICU
+capacity of all EU/EEA countries and the UK would be exceeded at a prevalence of 100 hospitalised cases per
+100 000 population (the Hubei province scenario at the peak of the epidemic). Nonetheless, despite ICU capacity
+saturation in most countries, more than half of the countries (17) would still have a residual non-ICU bed capacity
+in a Hubei-like situation.
+Capacity for airborne infection isolation rooms would be saturated in all countries well before reaching a prevalence
+of 10 hospitalised cases per 100 000 population. In the same prevalence scenario, six countries would not have
+residual isolation capacity in single rooms either, and no country would have any single room capacity left in a
+‘Hubei province scenario’. It is important to emphasise that the time needed to reach a saturation situation
+depends on the size of the country, but that at the regional and sub-regional levels, hospital systems may be
+overwhelmed much earlier.
+It will be possible to estimate the saturation risk with higher accuracy as more national data become available.
+
+3 ECDC risk assessment
+Uncertainties remain regarding infectivity during the incubation period and recovery, the role of herd immunity, risk
+factors for severe illness besides age, the effectiveness of treatment regimens, and the impact of individual or
+population-based preventive measures implemented at different points in the epidemic and at different intensities
+across countries.
+This assessment is based on facts known to ECDC at the time of publication and unless otherwise stated, the
+assessment of risk refers to the risk that exists at the time of writing this report. It follows the ECDC rapid risk
+assessment methodology, with relevant adaptations [79].
+
+Risk assessment questions
+
+
+
+
+What is the overall risk, as of 25 March 2020, of severe disease associated with COVID-19 for the EU/EEA
+and UK?
+What is the risk of occurrence of widespread national community transmission in the EU/EEA and the UK in
+the coming weeks?
+What is the risk of the healthcare system capacity being exceeded in the EU/EEA and the UK in the coming
+weeks?
+
+What is the risk of severe disease associated with COVID-19 for the EU/EEA
+and the UK (as of 25 March 2020)?
+The risk of severe disease associated with COVID-19 for people in the EU/EEA and UK is currently considered
+moderate for the general population and very high for older adults and individuals with chronic underlying
+conditions.
+
+9
+
+RAPID RISK ASSESSMENT
+
+COVID-19 pandemic: increased transmission in the EU/EEA – seventh update
+
+This assessment is based on the following factors:
+
+
+
+
+COVID-19 cases have been reported in all EU/EEA countries and the UK. The overall 14-day cumulative
+incidence rate for the EU/EEA and the UK has increased from 3.3 cases per 100 000 population on 11 March
+to 36.1 cases per 100 000 population on 25 March 2020. There is a growing number of cases in many
+countries without epidemiological links to explain the source of transmission. Based on the predicted
+development of the 14-day cumulative notification rate, similar levels to those seen in Hubei providence are
+expected to be seen in all EU/EEA countries and the UK in a few days to a few weeks. Although uncertainty
+remains about the extent to which the prevention and control measures introduced may slow the speed of
+transmission, the probability of further continued transmission in the EU/EEA and the UK remains very high.
+The evidence from analyses of cases in China is that the disease is mild (i.e. non-pneumonia or mild
+pneumonia) in about 80% of cases; most cases recover, 14% develop severe disease, and 6% experience
+critical illness. Recent data from EU/EEA countries indicate that 30% of cases are hospitalised, and 4%
+require critical care. Severe illness and death is more common among the elderly and those with other
+chronic underlying conditions. These risk groups account for the majority of severe disease and fatalities to
+date. Mitigation measures to slow transmission have been introduced at different points in the epidemic and
+at varying intensities across EU/EEA countries and the UK. The effect of these measures in slowing the
+transmission of COVID-19 in the general population more broadly, and in vulnerable populations of older
+adults and individuals with chronic underlying conditions specifically, is not yet possible to evaluate. Once
+infected, no specific treatment for COVID-19 exists, however supportive therapy, if healthcare capacity for
+this exists, can improve outcomes. In sum, the impact of COVID-19, if acquired, is assessed as moderate
+for the general population and as very high for elderly and individuals with chronic underlying conditions.
+
+What is the risk of occurrence of widespread national community
+transmission of COVID-19 in the EU/EEA and the UK in the coming weeks?
+The risk of occurrence of widespread national community transmission of COVID-19 in the EU/EEA and the UK
+in the coming weeks is moderate if effective mitigation measures are in place, and very high if insufficient
+mitigation measures are in place.
+This assessment is based on the following factors:
+
+
+
+
+There are rapidly growing numbers of cases in many countries, and many countries in Europe have already
+reported nation-wide community transmission. Mitigation measures to slow down transmission have been
+introduced at different points in the epidemic and at varying intensities across EU/EEA countries and the
+UK. The effect of these measures in slowing the transmission of the virus in the general population and in
+vulnerable populations is not yet possible to evaluate, but it is known the virus spreads very quickly in the
+absence of effective mitigation measures. Based on the high transmissibility of the virus and the continued
+increase in the notification rate in all EU/EEA countries, the probability of occurrence of widespread national
+community transmission is considered moderate if effective mitigation measures are in place, and very high
+in the absence of effective mitigation measures. If mitigation measures are lifted suddenly and too early, a
+resurgence of cases is likely.
+The impact of national community transmission would be high, especially if healthcare capacity is exceeded
+or if hospitals are affected and a large number of healthcare workers need to be isolated or become
+infected. The impact on vulnerable groups would be very high, in particular for the elderly.
+
+What is the risk of healthcare system capacity being exceeded in the
+EU/EEA and the UK in the coming weeks?
+The risk of healthcare system capacity being exceeded in the EU/EEA and the UK in the coming weeks is
+considered high.
+This assessment is based on the following factors:
+
+
+
+
+Analyses carried out by ECDC indicate that if the pandemic progresses remains on its current course without
+strong countermeasures and surge capacity enacted, there is high probability that many EU/EEA countries
+will experience demands that far exceed currently available ICU capacity. Furthermore, healthcare staff is
+under pressure and resources are strained across all EU/EEA countries; there have been reports of
+additional strain or shortages in the following areas: ventilator availability; sampling material and laboratory
+materials affecting diagnostic capacity for COVID-19 testing (which also affects other laboratory services);
+contact tracing; surveillance; risk communication; personal protective equipment; shortages of staff and
+space due to increased needs for triage and isolation of suspected cases. Although the influenza season has
+peaked in all EU/EEA countries, some healthcare systems may still be under pressure from residual and
+continued severe influenza cases.
+Sub-regions of Italy, France, the Netherlands and Spain have already reported healthcare system saturation
+due to very high patient loads requiring intensive care. The increased pressure caused by COVID-19 on
+many EU/EEA health system is dependent on the level of preparedness and surge capacity that a given
+country or area has implemented or can implement quickly. If incidence increases quickly and if additional
+10
+
+RAPID RISK ASSESSMENT
+
+COVID-19 pandemic: increased transmission in the EU/EEA – seventh update
+
+surge capacity for resources, staff and hospital beds are not ensured, the impact of COVID-19 will be very
+high and likely result in considerable additional morbidity and mortality in COVID-19 cases. This impact will
+be mostly concentrated in vulnerable populations of elderly and persons with chronic underlying conditions.
+Already stretched capacity would be further exacerbated if substantial numbers of healthcare workers
+became infected with the virus.
+It is essential to introduce measures to slow down the spread of the virus in the population in order to allow
+healthcare systems to put surge capacity measures in place to absorb more severe COVID-19 cases. These options
+are listed under ‘Preparedness and public health response’ and recent ECDC guidance documents [80]. The
+implementation of these mitigation measures will determine the eventual level of impact of the epidemic on
+individuals, populations and healthcare system capacity.
+
+4 Preparedness and public health response
+Five scenarios describing the possible progression of the COVID-19 outbreak in EU/EEA countries were presented
+in ECDC’s fifth Rapid Risk Assessment on COVID-19 (Annex 4) [81]. Currently, the epidemiological situation in
+EU/EEA countries and the UK varies by region, but an analysis of the epidemic progression indicates that all
+EU/EEA countries are generally following the epidemic curve that was observed in China in January and February
+(Annex 2). Most countries in the EU/EEA and the UK are currently in scenario 3, and all available data indicate that
+they are very rapidly moving toward, or are already experiencing, a scenario of sustained community transmission
+of COVID-19 with overburdened health services (scenario 4).
+All measures in the Member States must be aimed at the containment and mitigation of further transmission of the
+virus. A focus on vulnerable groups and populations is paramount. All EU/EEA countries should have already
+activated their pandemic preparedness plans in the context of COVID-19 and initiated appropriate, proportional
+and evidence-based response measures to prevent escalation to scenario 4 (i.e. intensive care capacity is saturated
+and health systems are overwhelmed) [82]. It is also crucial to prepare or adapt business continuity plans for nonhealthcare settings in order to ensure continuity of essential services (e.g. transportation, energy, and information
+technology sectors).
+The options provided below, therefore, focus on scenarios 3 and 4, which describe local and nationwide
+transmission scenarios. Options for scenarios 0, 1 and 2 can be found in ECDC’s previous risk assessment [81].
+
+Community measures and social distancing
+ECDC’s guidelines for the use of non-pharmaceutical countermeasures to delay and mitigate the impact of the
+COVID-19 pandemic include a description of community measures, such as infection prevention and control, and
+social distancing [80].
+
+Infection prevention and control in the community
+There is evidence from other respiratory infections that measures taken by individuals, such as rigorous hand
+hygiene, respiratory etiquette, and use of face masks when sick contribute to reducing the risk of
+transmitting/acquiring COVID-19 infections.
+
+
+
+
+
+Rigorous hand-washing schemes, including the washing of hands with soap and water for at least
+20 seconds, or if soap and water are not available, cleaning hands with alcohol-based solutions, gels or
+tissues is recommended in all community settings in all possible scenarios. Organisations and private
+companies should ensure availability of sufficiently and suitably located washbasins and taps, as well as
+soap and hand gels, to encourage hand hygiene. Public health organisations should disseminate information
+on appropriate hand washing techniques. Proper hand hygiene will also reduce the transmission of other
+communicable diseases.
+Respiratory etiquette (i.e. covering the mouth and nose when coughing and sneezing) may mechanically
+block the droplet transmission that is believed to be the principal transmission mode for COVID-19. After
+coughing/sneezing, disposal of used tissues should occur, followed by immediate hand washing.
+The use of surgical face masks decreases the risk of infecting others when worn by a person with
+respiratory symptoms before seeking medical advice and while being assessed, until isolation. There is no
+evidence on the usefulness of face masks worn by persons who are not ill to prevent infection from COVID19, therefore this is not advisable [80]. It is possible that the use of face masks by untrained people may
+even increase the risk of infection due to a false sense of security, inappropriate use of the mask, and
+increased contact between hands, mouth and eyes without hand washing. In addition, in view of scenario 4,
+reserving PPE for use by healthcare workers should be a priority.
+
+While people with mild symptoms may stay home, anyone with progressing acute respiratory symptoms should
+seek medical attention, ideally first by phone. Household contacts of a person confirmed to have COVID-19 should
+be quarantined for 14 days after their last contact with the case, while household contacts of a person with
+symptoms compatible with COVID-19 should also be encouraged to quarantine at home for 14 days after the
+symptoms of the household contact have resolved. Risk groups, especially the elderly, with symptoms compatible
+with COVID-19 should seek medical advice early, given the higher possibility of progression to severe disease.
+11
+
+RAPID RISK ASSESSMENT
+
+COVID-19 pandemic: increased transmission in the EU/EEA – seventh update
+
+Social distancing measures
+The term ‘social distancing’ refers to efforts that aim to decrease or interrupt transmission of COVID-19 in a
+population (sub-)group by minimising the number of contacts and increasing physical distance between potentially
+infected individuals and healthy individuals, or between population groups with high rates of transmission and
+population groups with no or a low level of transmission. Community-level social distancing measures should be
+implemented in parallel with containment efforts (e.g. contact tracing) [83].
+There are several different types of social distancing measures [84,85]:
+
+
+
+
+Individual-level social distancing can include:
+
+Isolation of COVID-19 cases or people with respiratory symptoms
+
+Quarantine of their contacts
+
+Stay-at-home policies aimed at people who are at high-risk of severe disease.
+Social distancing measures affecting multiple people can include:
+
+The closure of educational institutions and workplaces
+
+Measures to limit outside visitors and limit the contact between the residents of confined settings,
+such as long-term care facilities and prisons
+
+Cancellation, prohibition and restriction of mass gatherings and smaller meetings
+
+Mandatory quarantine of all inhabitants of buildings or residential areas
+
+Internal or external border closures
+
+Stay-at-home restrictions for entire regions or countries.
+
+The effectiveness of the different social distancing measures remains uncertain due to the lack of direct evidence;
+however, the limited evidence base from previous pandemics and from the experience of COVID-19 in China
+indicates that a layered approach is the most effective, and that rigorous measures are needed to reduce
+community transmission [86]. In addition, modelling evidence from France indicates that an 8-week school closure
+combined with 25% adults teleworking could be sufficient to delay the peak of a national epidemic by almost two
+months, with an approximately 40% reduction of the case incidence at the peak [87].
+The term ‘social distancing’ focuses on reducing physical contact as a means of interrupting transmission, and
+reduction of social contact may be an unintended outcome. However, the success of social distancing measures
+that are implemented over an extended period may depend on ensuring that people maintain social contact – from
+a distance – with friends, family and colleagues.
+Some key points for consideration when implementing social distancing measures include the following:
+
+
+
+
+
+
+
+
+Ensuring the continued provision of essential services and supplies to everyone who is subjected to the
+measures (e.g. food, medication and access to healthcare) [88,89].
+Encouraging people to maintain close contact with friends, family and other networks via internet-based
+communications systems, social media and phone as an important means of promoting mental wellbeing
+[88,90].
+Encouraging people to engage in physical activity, whether in their homes or, alone, outside [91].
+Coordinating with and supporting civil society and religious groups who work with vulnerable groups, such
+as the elderly, people with underlying health conditions, disabled people, people with mental health
+problems, homeless people, people living in abusive household settings, and undocumented migrants
+[92,93].
+Officially acknowledging and promoting gestures of solidarity and mutual support that have spontaneously
+emerged in communities under quarantine [94].
+Providing financial compensation for lost income and employment, as this will likely facilitate adherence to
+the prescribed public health measures [95,96].
+
+Risk communication
+
+A high level of public awareness about, and acceptance of, the implemented social distancing measures is a
+prerequisite for their success. A comprehensive risk communication strategy should therefore be implemented,
+following the key principles outlined by WHO (e.g. building trust and strong community engagement) [97]. The
+strategy also includes presenting to the public the rationale and justification behind the chosen social distancing
+measures. In addition to informing the population about mandated measures, people should be strongly
+encouraged to take action at a personal level as a means of protecting themselves and others. Different audiences
+should be targeted (for example by using minority languages). A monitoring system should also be put in place to
+observe public perceptions and opinions of the social distancing measures that people are being subjected to.
+Procedures for identifying and rapidly addressing misinformation, disinformation and rumours, especially on social
+media platforms, should be established. Please refer to the guidance on community engagement [93] for more
+details.
+
+When to initiate social distancing measures and exit strategies
+
+Social distancing measures are effective at reducing viral transmission and they should be implemented wherever
+there is a risk of wider community transmission. The earlier the measures are implemented, the greater the
+reduction in the number of cases. It is estimated that if a range of non-pharmaceutical interventions, including
+social distancing, had been conducted one week, two weeks, or three weeks earlier in China, the number of
+
+12
+
+RAPID RISK ASSESSMENT
+
+COVID-19 pandemic: increased transmission in the EU/EEA – seventh update
+
+COVID-19 cases could have been reduced by 66%, 86%, and 95%, respectively, while also significantly reducing
+the number of affected areas [98].
+Epidemiological situation and healthcare capacity vary between settings and there is no one-size-fits-all solution.
+Consequently, the implementation of measures and their timing has to be adapted accordingly. In order to
+determine the effects of the measures, and to accurately identify the triggers for their activation and subsequently
+for their de-activation, a range of surveillance systems has to be established (or strengthened if already in place).
+This should include monitoring of healthcare capacity and behavioural and mobility studies (see ‘Testing and
+surveillance strategy’ below). Decisions have to take into account the fact that the incubation period and the time
+taken to report cases may bring about a delay of two weeks before the impact of the social distancing measures
+can be observed and their effectiveness evaluated.
+ECDC is currently analysing the optimal approaches to de-escalating social distancing interventions. Broadly, the
+potential strategies are:
+
+
+
+
+Maintain stringent measures until a ‘game changer’ is developed, for example a vaccine or a massproduced, sensitive rapid diagnostic test.
+Apply stringent measures until incidence drops to a certain threshold, then relax measures before reintroducing them before the hospital capacity threshold is reached again.
+Identify a mix of measures that maintains incidence at slightly below hospital capacity, thereby reducing the
+overall number of cases [82].
+
+Social distancing measures in place in EU/EEA Member States and the UK
+
+A variety of response measures have been progressively implemented across the EU/EEA and the UK as the
+transmission of COVID-19 has increased, with at least some measures implemented in all EU/EEA countries and
+the UK (Annex 5). As of 24 March, the majority of EU/EEA countries have implemented measures to close
+educational institutions (29 countries, 94%), close public spaces (28, 90%), cancellation of mass gatherings (27,
+87%), introduction of measures for special populations (26, 84%), closure of workplace or teleworking (21, 68%),
+and stay-at-home restrictions for entire regions or countries (also known as ‘lockdown’) (17, 55%) (Annex 5,
+Figure A).
+
+Measures for healthcare settings
+Hospital preparedness is an absolute and immediate priority when countries/regions find themselves in scenario 3
+or 4. In healthcare settings, surge capacity plans must be up-to-date and launched in expectation of the high
+demand for care of patients with moderate or severe respiratory distress [82]. Emergency wards and intensive
+care wards are likely to exceed capacity very rapidly if service delivery is not reorganised [5,8].
+Healthcare facilities in affected areas in EU/EEA countries should now consider the following measures:
+
+
+
+
+
+
+
+
+
+Design and implement a strategy to discourage patients with symptoms potentially caused by COVID-19
+infection from presenting to healthcare facilities without prior instructions.
+If consistent with national policy on management of COVID-19 cases, mild cases can be encouraged to stay
+home in self-isolation and self-monitor symptoms (see ‘case management’, below).
+In case the testing policy/capacity allows for testing an increased number of samples, countries may also
+establish care facilities designated for mild cases in order to care for and isolate mild cases.
+Designate and establish treatment facilities for sub-intensive and intensive care needs [82]. This implies the
+activation of hospital contingency plans [99].
+Establish surge capacity for healthcare workers (including laboratory staff).
+Establish and enforce policy on limiting access to hospitals for visitors of admitted patients, including
+parents or caregivers accompanying minor patients [99].
+Decrease the administrative workload for healthcare workers.
+Prepare or adapt business continuity plans for healthcare facilities in accordance with the latest public
+health risk assessment and guidance from national, regional or local health authorities to ensure continuity
+of essential services.
+
+For more details on contingency planning in healthcare settings (primary care and hospital settings), please
+consider previous ECDC RRAs [82], the related ‘Guidance for health system contingency planning during
+widespread transmission of SARS-CoV-2 with high impact on healthcare services’ [100] and hospital preparedness
+checklists [59].
+Up to 10% of reported cases in China [8] and up to 9% of overall cases in Italy were among healthcare workers
+[101]. It is likely that nosocomial outbreaks are important amplifiers of the local outbreaks, and they
+disproportionately affect the elderly and vulnerable populations. Infection prevention and control (IPC) practices
+are of critical importance in protecting the function of healthcare services and mitigating the impact on vulnerable
+populations. Staff with symptoms compatible with COVID-19 should self-isolate, avoid working while symptomatic,
+and should be prioritised in the national testing policies in order to be able to return back to work as soon as
+possible. If a suspected or confirmed case of COVID-19 is detected in a facility, all staff should be informed.
+A team or at least one full-time staff member in each health facility should be the lead for IPC and preparedness
+for COVID-19, responsible for the education and training of staff, including full compliance with hand hygiene.
+Additional information is available in the ECDC technical report on infection prevention and control for the care of
+13
+
+RAPID RISK ASSESSMENT
+
+COVID-19 pandemic: increased transmission in the EU/EEA – seventh update
+
+patients with COVID-19 in healthcare settings [102], the technical report on personal protective equipment needs
+in healthcare settings [103,104], and the ECDC ‘Guidance for wearing and removing personal protective equipment
+in healthcare settings for the care of patients with suspected or confirmed COVID-19’ [105],[106], as well as in
+WHO’s Five Moments for Hand Hygiene approach before touching a patient [107].
+If cases are cared for in a home environment, IPC measures are outlined in the WHO guidance for homecare of
+patients with COVID-19 [108].
+Negative pressure isolation rooms are strongly recommended for the performance of aerosol generating
+procedures [102].
+Countries and healthcare institutions should identify additional facilities (e.g. healthcare units, departments, or
+existing healthcare buildings) that can be used for the cohorting of cases with mild symptoms. This should be done
+well ahead of capacity being exceeded in existing healthcare facilities. Cohorting may help conserve PPE and
+reduce the risk of transmission. The minimum requirements for units designated for the management of confirmed
+COVID-19 patients are a) staff adequately trained in infection prevention and control and b) safe diagnostic
+evaluation and management of COVID-19 patients, c) the availability of appropriate PPE, d) adequate laboratory
+support, and e) appropriate cleaning and waste management procedures.
+Long-term care facilities should implement the baseline options for preparedness for COVID-19 described in an
+ECDC guidance document, given that the rapidity of an onset of a COVID-19 outbreak may result in insufficient
+time to implement the necessary IPC [102].
+
+Home care and isolation of cases
+Clinical presentation among reported cases of COVID-19 varies in severity from asymptomatic, subclinical infection
+and mild illness to severe or fatal illness. Reports show that clinical deterioration can occur rapidly, often during the
+second week of illness [8,18,108,109]. For a description of the clinical presentation and vulnerable groups see the
+section on ‘Disease background’.
+Patients with a mild clinical presentation (mainly fever, cough, headache and malaise) will not initially require
+hospitalisation and may be safely managed in dedicated isolation facilities or at home. The majority of these cases
+will spontaneously recover without complications. However, as clinical signs and symptoms may worsen with
+progressive dyspnoea due to lower respiratory tract disease in the second week of illness, patients treated at home
+should be provided with instructions if they experience difficulties breathing. Sufficient call and reception capacity,
+as well as hospitalisation capacity have to be established to guarantee good access. An estimated 10–15% of mild
+cases progress to severe, and 15–20% of severe cases become critical according to data from China [8]. Home
+care could also be considered for symptomatic patients no longer requiring hospitalisation, or in a case of informed
+refusal of hospitalisation [108]. ECDC has proposed criteria for hospital discharge of confirmed COVID-19 cases
+[111].
+Instructions should be provided for home care, PPE use, and environmental cleaning in home settings in order to
+limit transmission within households [108]. Clinical criteria such as resolution of symptoms or absence of fever and
+laboratory evidence of SARS-CoV-2 clearance from the upper respiratory tract should be considered, but also
+adapted to the local context, i.e. existing capacity of the healthcare system, laboratory diagnosis resources, and
+the current epidemiology situation.
+Guidance for clinical care of severe cases is available from WHO [76] and from the US CDC [112].
+
+Rational use of PPE and hand hygiene materials for the care and
+management of COVID-19
+As of March 2020, countries worldwide that are facing COVID-19 are experiencing reduced availability of PPE and
+hand hygiene materials [113]. An immediate priority has been set at EU level to ensure adequate production and
+supply of PPE for healthcare workers and patients, and a joint procurement process has been launched by the
+European Commission for interested EU Member States. Coordinated supply chains for PPE should ensure
+distribution of such materials to healthcare systems to reduce the potential for healthcare-associated transmission
+to vulnerable groups and to healthcare-workers [106] Cross-border supply and donations to highly affected areas
+should continue in order to decrease overall infection pressures in EU/EEA countries.
+The ECDC guidance document ‘Infection prevention and control for the care of patients with novel coronavirus in
+healthcare settings – first update’ [102] highlights best practices for PPE and options for hospitals and long-term
+care facilities that have limited access to such materials. The advice given in this document is in concordance with
+a detailed guidance document published by WHO in February 2020 [114].
+In order to maximize the use of available PPE in the event of insufficient stocks, designated staff members should
+be allocated to perform a procedure, or a set of procedures, in designated areas. For example, designate staff for
+swabbing procedures in a dedicated swabbing area.
+If available resources do not allow for recommended infection control practices, the following options could be
+considered:
+
+14
+
+RAPID RISK ASSESSMENT
+
+COVID-19 pandemic: increased transmission in the EU/EEA – seventh update
+
+Priorities for use of respirators (FFP2/3)
+
+
+
+
+
+
+
+
+Several factors remain unclear and warrant caution: the relevant role of droplet, fomite and aerosol
+transmission for SARS-CoV-2; the protection provided by the different components of personal protective
+equipment; and the transmissibility of the virus at different stages of the disease [70,114]. With the
+exception of aerosol-generating procedures (AGPs), it remains unclear whether respirators (FFP2/3) provide
+better protection than surgical masks against other coronaviruses and other respiratory viruses, e.g.
+influenza viruses [115,116]. Therefore, a rational approach to the use of personal protective equipment in
+case of widespread community transmission with imminent or foreseen shortages necessitates that FFP2/3
+respirators are prioritised for care activities with a higher risk of transmission (AGPs, intensive care).
+The highest priority is for healthcare workers, especially those performing AGPs, including tracheal
+intubation, bronchial suctioning and bronchoscopy. Swabbing can provoke cough and/or sneezing,
+potentially leading to the production of aerosols. Healthcare workers performing swabbing in closed spaces,
+should wear gloves, goggles, gown and an FFP2 respirator (or a surgical mask if there is shortage of
+respirators) [118]. If drive-through or outdoors testing facilities are in place, the use of a surgical mask is
+sufficient for respiratory protection [118].
+Respirators can be used for up to 4 hours for multiple patients without removing them [114]; it is
+acceptable for the respirators to be reused by the same healthcare worker for a limited number of times.
+
+When/if the respirator becomes soiled with bodily fluids, got wet, no longer fits properly, or if
+breathing through the respirator becomes difficult, it has to be discarded. Contamination of the
+respirator surface can be avoided by placing a medical mask over it or by wearing a face shield that
+can be cleaned.
+Research groups and healthcare facilities are currently looking into possible methods to decontaminate and
+sterilise masks (and other equipment) for re-use. Steam, hydrogen peroxide vapour, ultraviolet germicidal
+irradiation and gamma irradiation are being explored, but none of these approaches have been
+standardised. Options such as re-using PPE are considered an extraordinary last-resort method in the event
+of imminent shortages of PPE. They should only be applied after a careful evaluation of the situation and
+after exploring the possibility of resource-conscious, rational PPE use. Countries and groups studying such
+methods should be encouraged to share their results as soon as they become available [119,120].
+
+Priorities for use of surgical masks
+
+
+
+Those caring for COVID-19 patients, if no respirators are available.
+Symptomatic confirmed cases of COVID-19, followed by suspected cases.
+
+Priorities for hand hygiene and use of alcohol-based hand rub
+
+
+
+Prioritise rigorous hand-washing practices using water and soap; ensure access to hand-washing facilities.
+If alcohol-based hand rub is not available in sufficient quantities, the highest priority is at the point-of-care,
+with priority given to areas with confirmed cases. If sufficient stocks are available, place in common areas
+with high footfall outside of designated COVID-19 areas.
+
+Priorities for use of other PPE and hand hygiene products
+
+
+
+
+
+
+If insufficient quantities of gowns are available, use aprons.
+If insufficient quantities of goggles and/or visors are available for the recommended uses, use products that
+can be decontaminated, if available. Otherwise, consider decontamination and reuse (consult
+manufacturer’s guidelines).
+Regular cleaning followed by disinfection is recommended for rooms accessed by patients/residents,
+furniture and frequently touched surfaces (use hospital disinfectants active against viruses). In the event of
+shortages of hospital disinfectants, decontamination may be performed using 0.1% sodium hypochlorite
+(dilution 1:50 if household bleach at an initial concentration of 5% is used) after cleaning with a neutral
+detergent, although no data are available for the effectiveness of this approach against COVID-19 [121].
+Surfaces that may become damaged by sodium hypochlorite may be cleaned with a neutral detergent,
+followed by a 70% concentration of ethanol.
+In long-term care facilities with insufficient quantities of paper towels, use clean cloth towels and replace
+them regularly; wash them with a standard detergent, for example household washing powder [122].
+
+Testing and surveillance strategy
+Laboratory testing
+Timely and accurate laboratory testing of specimens from cases under investigation is an essential part of the
+management of COVID-19 and emerging infections in general. However, the current shortages of laboratory
+consumables and reagents affect diagnostic capacity and hamper the epidemic response at the national and local
+levels. For EU/EEA countries that need help in testing, a pool of specialised referral laboratories have offered
+support [123], while several laboratories have offered additional support [124]. Member States should monitor
+changes in the epidemic situation and be prepared to adjust the laboratory diagnostic capacity on short notice. All
+patients with mild symptoms of respiratory infections/influenza-like illness should be tested if the resources are
+available. Countries should continue to increase their primary diagnostic testing capacity in local clinics and
+laboratories and look for additional laboratory and personnel resources. If capacity in diagnostic laboratories is
+15
+
+RAPID RISK ASSESSMENT
+
+COVID-19 pandemic: increased transmission in the EU/EEA – seventh update
+
+exhausted, research laboratories could be approached. The specimen types to be collected are listed in the WHO
+laboratory guidance [125].
+Testing and assays. The recommended diagnostic test for SARS-CoV-2 infection is by viral RNA detection with
+nucleic acid amplification tests (NAAT), such as RT-PCR [125]. In areas with widespread community transmission
+of SARS-CoV-2 and when laboratory resources are limited, detection by RT-PCR of a single discriminatory target is
+considered sufficient [125]. Confirmatory testing should be performed only for specimens if the first result is
+technically not interpretable. In such a case, additional sampling or repeated testing and confirmation is advised. If
+there is a shortage of sampling materials, oropharyngeal and nasopharyngeal swabbing can be performed with one
+swab and combined into one diagnostic test. Serological assays are under development, and collecting serum
+specimens at symptom onset, or at admission and at convalescent stage, or at discharge, will be useful for later
+seroepidemiological studies and should be done for hospitalised patients and during specific outbreaks in schools or
+confined facilities. Several commercial detection and serological assays for SARS-CoV-2 are on the market,
+however, information on their clinical performance is still limited. Validation of commercial assays is an urgent
+priority.
+Differential diagnostics. Influenza testing of at least hospitalised patients with severe acute respiratory
+infections (SARI) should be continued as long as local circulation of influenza continues in order to initiate early
+antiviral treatment of influenza-infected patients. The differential diagnostics are also key for isolation and contact
+tracing of COVID-19 cases.
+Testing for sentinel surveillance. A representative subset of patients should be swabbed for acute respiratory
+infection (ARI) or influenza-like illness (ILI) sentinel surveillance based on geographical and population distribution.
+Positive specimens should be sent to a reference/referral laboratory at regular intervals for confirmation and
+further characterisation in order to identify and follow up the evolutionary changes of the virus. Testing specimens
+from sentinel outpatient surveillance sites for COVID-19 should be continued for as long as possible; this will
+facilitate monitoring of the effectiveness of the community mitigation measures that are in place.
+Biosafety. As per WHO biosafety guideline, non-propagative diagnostic laboratory work (for example, sequencing,
+nucleic acid amplification test (NAAT)) should be conducted at a facility using procedures equivalent to biosafety
+level 2 (BSL-2) and propagative work (for example, virus culture, isolation or neutralisation assays) should be
+conducted at a containment laboratory with inward directional airflow (BSL-3). Patient specimens from suspected
+or confirmed cases should be transported as UN3373, ‘biological substance category B’. Viral cultures or isolates
+should be transported as category A, UN2814, ‘infectious substance, affecting humans’ [126].
+Laboratory training. Countries should provide training to laboratory staff in laboratory diagnosis of SARS-CoV-2
+in preparation of rapid expansion of laboratory diagnostic capacity.
+Commercial assays. Point-of-care testing (POCT) for infectious diseases represents a set of technologies that
+can lead to the rapid detection of infectious diseases and influence the way patients are treated for suspected
+infectious diseases [127]. Often the objective is to screen large number of patients without shipment of specimens,
+either near or at the site of the patient, for clinical management reasons. The positive and negative predictive
+value of any diagnostic test is dependent on the epidemiological situation and the clinical sensitivity and specificity
+of the test. The availability of diagnostic tests for SARS-CoV-2 infection is monitored by the Foundation for
+Innovative New Diagnostics (FIND), a WHO collaborating centre. An inventory of molecular diagnostics, which are
+existing or are in the pipeline is available at the following link: https://www.finddx.org/covid-19/pipeline/. ECDC is
+closely cooperating with FIND and WHO on SARS-CoV-2 laboratory assay validation, and will inform the EU/EEA
+countries on results as soon as they become available. At the moment, no POCT has been recommended for
+diagnostic use by WHO. Self-testing devices are yet to be fully validated.
+Drive-through and self-testing. In South Korea and some EU/EEA countries, alternative approaches for
+community testing have been introduced, including drive-in testing facilities and home-based self-testing. The
+drive-in testing facilities may provide an efficient way to screen patients for COVID-19 while decreasing the risk of
+contaminating the facilities and decreasing the risk of infection of non-infected people in waiting rooms.
+
+Shortages in laboratory consumables
+Repeated assessments of the situation in the Member States have shown shortages of laboratory consumables.
+The laboratories have experienced delayed or missing deliveries of swabbing material, plastic consumables, RNA
+extraction and RT-PCR reagents, and PPE. This is affecting laboratories in all EU/EEA countries. The European
+Commission has launched a joint procurement to enable equitable access to materials and equipment.
+
+Optimised testing for COVID-19
+All patients presenting to the healthcare system with symptoms of acute respiratory infection in countries with local
+or community transmission of SARS-CoV-2 should be considered as suspected cases according to the EU case
+definition and should be tested for SARS-CoV-2 virus as part of active case finding [128].
+Contacts of all confirmed cases should be traced, especially during the containment phase, but also, if possible,
+during mitigation. While symptomatic contacts should always be tested, the testing of asymptomatic contacts of a
+COVID-19 case can be deferred but should be considered for those with high-risk exposure.
+
+16
+
+RAPID RISK ASSESSMENT
+
+COVID-19 pandemic: increased transmission in the EU/EEA – seventh update
+
+If the number of suspected cases exceeds the available testing capacity in a country or an area, testing the
+following groups should be considered a priority (in decreasing order of importance):
+
+
+
+
+
+
+Testing of hospitalised patients with severe acute respiratory infections (SARI) in order to inform
+appropriate clinical management, including isolation and wearing of PPE
+Testing all cases of acute respiratory infection in hospitals or long-term care facilities in order to guide
+infection control and PPE use to protect vulnerable persons and healthcare staff; testing of symptomatic
+healthcare staff, even those with mild symptoms, to guide decisions on exclusion from, and return to, work;
+the aim is to ensure continued health and social care services
+Testing of patients with acute respiratory infections or influenza-like illnesses in sentinel outpatient clinics;
+testing of patients admitted to sentinel hospitals with severe acute respiratory infections in order to assess
+virus circulation in the population (see surveillance section for more details)
+Elderly people and those with underlying chronic medical conditions such as lung disease, cancer, heart
+failure, cerebrovascular disease, renal disease, liver disease, hypertension, diabetes, and
+immunocompromising conditions who show signs of acute respiratory illness because they may need
+respiratory support sooner than people who are not in a risk group.
+
+Member States should adapt these recommendations based on the national/local epidemiological situation and
+their resources.
+
+Surveillance
+Surveillance for COVID-19 targets both community and hospital surveillance. The objectives at national and
+EU/EEA level are to:
+
+
+
+
+
+monitor the intensity and geographical spread of the virus in the population;
+identify risk groups for severe disease;
+measure the impact on the population and the healthcare system; and to
+measure the impact of any mitigation measures.
+
+These objectives can be addressed through different surveillance methods:
+Monitoring the intensity and spread of the virus in the population: Countries recommending that patients
+with ARI/ILI should visit general practitioners, should employ sentinel syndromic and virological surveillance as the
+main methods to assess intensity and spread of COVID-19. Where feasible, the number of outpatient sentinel sites
+should be increased to increase coverage of the population under syndromic surveillance. Data on the number of
+patients visiting with ARI/ILI symptoms will provide information on spread and intensity as well as data on the
+most affected age groups in primary care. These data should continue to be reported to TESSy in accordance with
+the influenza protocol. Data on the number of SARS-CoV-2 tests performed, and the number of positive tests from
+sentinel surveillance should be collected and reported to TESSy on a weekly basis within the COVID-19 reporting
+scheme.
+In countries recommending that patients with ARI/ILI should not visit general practitioners (GPs), sentinel clinicbased surveillance systems might not be suitable to monitor COVID-19 intensity and spread in the community. In
+these circumstances, sentinel general practices consulted by patients by telephone could report at least the
+number and proportion of telephone consultations due to ARI/ILI. In addition, surveillance should include sites to
+which ARI/ILI patients are guided and where they are tested (e.g. dedicated testing centres). Phone calls received
+at regional/national healthcare hotlines could be an additional source of data. An analysis of the ARI/ILI rate
+regionally and nationally could provide an indication of trends. Hotlines and helplines could also be used to sample
+a proportion of cases fitting the ARI/ILI case definition, which would provide additional data on community
+transmission of COVID-19.
+These methods can also be used to perform assessments in areas within a country where community transmission
+is suspected to be occurring (e.g. SARI cases or cases detected without travel links). GPs in the area (as many as
+possible) should be included in a temporary surveillance assessment and asked to sample patients with ARI/ILI.
+The proportion of cases in the area sampled via healthcare helplines could be increased temporarily to improve the
+sensitivity of the system.
+Hospital-based surveillance: All hospitalised patients with SARI should be tested for SARS-CoV-2 virus,
+irrespective of travel history, in order to detect community transmission, detect nosocomial outbreaks, and monitor
+intensity and impact. Testing data on SARI cases in all hospital wards and/or SARI cases in intensive care units
+should be collected, either through comprehensive surveillance or sentinel hospitals. Data collected should include,
+as a minimum, the number of COVID-19 tests performed among patients with SARI and the number of positive
+tests. These data should be reported to TESSy on a weekly basis. Enhanced surveillance of SARI cases can be used
+to identify risk groups for COVID-19, risk factors for severe illness, and poor outcome. If enhanced SARI
+surveillance cannot be implemented, enhanced surveillance of either all hospitalised confirmed COVID-19 cases or
+else those in intensive care units should be established with the same objectives. ECDC is developing surveillance
+protocols for enhanced surveillance of hospitalised COVID-19 cases.
+Surveillance of confirmed cases: As far as resources allow, case finding based on the surveillance case
+definition [129] should continue in areas with ongoing community transmission. If there are limited resources for
+testing and not all suspected cases can be tested, surveillance based on notified cases will not be comprehensive
+17
+
+RAPID RISK ASSESSMENT
+
+COVID-19 pandemic: increased transmission in the EU/EEA – seventh update
+
+and might be biased depending on who is prioritised for testing. Such surveillance is therefore unlikely to give a full
+picture of the epidemiology of COVID-19. Surveillance of confirmed cases among specific groups, such as
+healthcare workers, can be important to detect transmission in priority areas. As long as suspected cases are being
+tested in accordance with the case definition, surveillance of confirmed cases and national/international reporting
+of these data should continue. If detailed reporting is not possible, a reduced dataset should be used for casebased reporting at the national level and in TESSy; alternatively, aggregated reporting is acceptable. The number
+of samples tested for SARS-COV-2 infection should also be collected.
+Indicators for monitoring: Countries should collect basic indicators from each region on transmissibility,
+seriousness and impact of the disease, following WHO’s Pandemic Influenza Severity Assessment (PISA) guide
+[130]. Transmissibility can be based on ARI/ILI rates (through number of primary healthcare visits, telephone
+consultations, or population-based participatory surveillance initiatives), seriousness on hospitalisation or ICU
+admission rates and impact on how hospitals are coping with the burden of cases. The assessment of the impact
+on hospitals should be based on bed occupancy levels in standard wards and intensive care units, and the capacity
+for ventilation, and could use indicators such as ‘sufficient capacity’ or ‘capacity exhausted’. These indicators would
+inform decisions on local/regional healthcare resource requirements and lead to shifting/enhancing capacities. They
+would also inform on measures like social distancing and quarantine. Decisions on social distancing and quarantine
+would have to be taken in the context of the pressure experienced by the health services. All indicators should be
+collated at the national level and reported at the EU level.
+Excess mortality surveillance: Monitoring of all-cause or specific excess mortality is essential at this stage in
+order to timely assess the impact of the epidemic and identify the most affected age groups outside hospital
+settings. In addition, all deaths among confirmed cases should be monitored and recorded.
+Limited resources: As transmission in countries becomes more widespread, the focus of surveillance should be
+on assessing the intensity and spread of community transmission and on the impact. Surveillance based on sentinel
+clinics and/or telephone helplines and hospital-based surveillance will address these objectives and provide the
+best evidence for control interventions. Participatory surveillance using self-reporting of symptoms may provide
+useful insights into disease dynamics. When resources are limited, hospital-based surveillance data requirements
+could be reduced; as an alternative, aggregate reporting could be used to further limit the workload.
+If there is no capacity for testing of samples from the community for surveillance purposes, sentinel syndromic
+surveillance for ARI/ILI through sentinel general practices and/or telephone helplines should be used to assess the
+intensity and spread of infection. This might be challenging if influenza and/or other respiratory pathogens are cocirculating. If testing capacity remains in hospitals or intensive care units, then the focus should be on SARI/ICU
+surveillance and/or surveillance of hospitalised cases. In the event that no testing capacity remains at all in
+hospitals, the qualitative indicators described above could be used.
+
+Contact tracing
+Contact tracing is an important tool to fight the ongoing epidemic of COVID-19. It aims to rapidly identify cases
+that arise from transmission from existing cases in order to reduce further onward transmission. This is achieved
+through the prompt identification of contacts of a case of COVID-19 (from 2 days before the symptoms onset of
+the case to 14 days after), testing these contacts (where possible), and the provision of information on selfquarantine, hand hygiene and respiratory etiquette measures and advice on what to do if they develop symptoms.
+Evidence relating to the current pandemic shows the importance of contact tracing, both as a method of
+containment and as an effective tool in the context of widespread transmission in combination with other
+measures. Singapore and several provinces in China have been able to limit the size of the outbreak through
+widespread testing, contact tracing and quarantine, and these efforts remain key for ongoing containment
+[8,130,131]. Contact tracing resulted in the identification of many new cases, often before symptom onset, and
+reduced the time from symptom onset to isolation substantially, thus reducing the likelihood of ongoing
+transmission [133,134].
+In South Korea, contact investigation was enhanced by the verification of medical facility records, phone tracking
+systems (GIS), card transactions, and closed-circuit television which, while perhaps effective, raises concerns about
+data protection [135].
+Contact tracing can be resource intensive. However, even if not all contacts of each case are identified and traced,
+contact tracing can still contribute to reducing transmission and work in synergy together with other measures
+such as social distancing [135-137]. Contact tracing may require large numbers of personnel but it is not necessary
+to use healthcare workers or public health staff. Some countries that have implemented contact tracing rigorously
+have used staff from the military or law enforcement and used new technologies e.g. voluntary mobile apps in
+Singapore, to help in their efforts [139,140]. In Ireland, the main tasks of contact tracing have been shifted
+outside public health departments in order to scale it up as transmission increases. A system has been set up
+within a week using an online database and call centres staffed with volunteers, military cadets and students.
+Existing call centres are also used. In future, as the number of cases and contacts rise, contacts may be given
+information via text messages instead of phone calls [141,142].
+If resources are limited, high-risk exposure contacts of each case (close contacts) and contacts that are healthcare
+workers or work with vulnerable populations should be traced first, followed by as many as possible of the low-risk
+exposure contacts [143]. Where resources allow this, contact tracing should still be considered in areas of more
+18
+
+RAPID RISK ASSESSMENT
+
+COVID-19 pandemic: increased transmission in the EU/EEA – seventh update
+
+widespread transmission, together with social distancing. Contact tracing will be a crucial element for continued
+containment once community transmission decreases.
+ECDC has published a technical report and algorithm on public health management of persons having had contact
+with probable and confirmed cases of SARS-CoV-2 infection [144] and a technical report on resources required
+[143].
+
+5 Research needs
+At current, early studies on the most affected populations or risk groups are required to inform public health
+measures and improve case management for the prevention of severe and fatal outcomes. Study protocols to
+conduct ‘first few hundred’ studies, household transmission studies or other types of studies are available from
+WHO and should be used. In particular, the following questions need urgent attention:
+
+
+
+
+
+
+
+
+Possible preventable determinants of severe COVID-19 (e.g. smoking, medications) should be identified, as
+they may contribute to an increase in the number of severe cases and thus impact hospital capacity
+The role of children in transmitting the virus
+The proportion of asymptomatic cases and their role in transmission
+Evidence of how long a COVID-19 patient remains infective, how long antibodies protect from re-infection,
+and what evidence is required before a person can to go back to his/her normal life and work
+The relative efficiency and relevance of the different modes of transmissions (e.g. droplets, airborne,
+surfaces, or faecal-oral)
+Public health relevance of potential indoor transmission through ventilation systems in hospitals, offices and
+buildings
+Molecular studies to shed more light on disease dynamics and viral evolution and spread.
+
+Several clinical trials for medicines and vaccines are currently recruiting participants and require funding and
+harmonised approaches. To boost global preparedness, prevention and containment of the virus, the European
+Commission has allocated EUR 232 million to different sectors [145]. In response to the COVID-19 outbreak, the
+European Commission has funded through the EU Research and Innovation Programme a number of projects
+(total: EUR 45 million) [146]. ECDC collaborates, or will be collaborating, with relevant projects to ensure
+coherence and synergies.
+Also needed are serological studies that analyse the impact at the population level and assess potential pre-existing
+immunity in the population. Serological studies should also assess the true attack rate, how long COVID-19
+immunity lasts, and explore the levels of population immunity at different stages of the epidemic. Such studies
+require sensitive and reliable serological tests, which are currently under development but require validation. Study
+protocols are currently being developed and should be conducted in a harmonised way across the EU/EEA.
+An assessment of the use and effectiveness of PPE in various settings would provide more evidence regarding the
+prevention of transmission in healthcare settings and in particular how to protect healthcare workers. To overcome
+shortages, re-usable and user-friendly PPE should be developed as soon as possible, and methods for the safe
+disinfection of PPE should be standardised.
+Finally, modelling studies assessing effectiveness of interventions and policies aimed at delaying disease
+transmission could be of key importance to support decision-making and ensure hospital capacity.
+
+6 Limitations
+This assessment is undertaken based on facts known to ECDC at the time of publication. There is substantial
+uncertainty regarding the epidemiological characteristics of COVID-19. There is limited epidemiological and clinical
+information on the cases of COVID-19 identified so far (e.g. efficiency of different modes of transmission, proportion
+of mild and asymptomatic cases, transmission during incubation and recovery period, effectiveness of treatment
+regimes, risk factors for severe illness apart from age, effective preventive measures). Given these limitations, ECDC
+will revise the current risk assessment as soon as more information becomes available.
+
+19
+
+RAPID RISK ASSESSMENT
+
+COVID-19 pandemic: increased transmission in the EU/EEA – seventh update
+
+7 Source and date of request
+ECDC internal decision, 23 March 2020.
+
+8 Consulted experts
+ECDC experts (in alphabetic order): Cornelia Adlhoch, Natalia Alberska, Barbara Albiger, Leonidas Alexakis,
+Agoritsa Baka, Eeva Broberg, Sergio Brusin, Nick Bundle, Mike Catchpole, Orlando Cenciarelli, Scott Chiossi, Edoardo
+Colzani, Angelo D'Ambrosio, Stefania De Angelis, Tarik Derrough, Dragoslav Domanovic, Liselotte Diaz Högberg, Erika
+Duffell, Margot Einöder-Moreno, Rodrigo Filipe, Emilie Finch, Céline Gossner, Helen Johnson, Irina Jovel Quinonez
+Dalmau, Tommi Karki, Pete Kinross, John Kinsman, Piotr Kramarz, Csaba Ködmön, Vicky Lefevre, Katrin Leitmeyer,
+Felix Lotsch, Angeliki Melidou, Grazina Mirinaviciute, Thomas Mollet, Otilia Mårdh, Howard Needham, Teymur
+Noori, Pasi Penttinen, Anastasia Pharris, Diamantis Plachouras, Emmanuel Robesyn, Senia Rosales-Klintz, Ettore
+Severi, Gianfranco Spiteri, Jan Semenza, Bertrand Sudre, Carl Suetens, Jonathan Suk, Lars Söderblom, Svetla
+Tsolova, Marieke van der Werf, Marius Vochin, Ariana Wijermans, Emma Wiltshire.
+
+Disclaimer
+ECDC issues this risk assessment document based on an internal decision and in accordance with Article 10 of
+Decision No 1082/13/EC and Article 7(1) of Regulation (EC) No 851/2004 establishing a European centre for
+disease prevention and control (ECDC). In the framework of ECDC’s mandate, the specific purpose of an ECDC risk
+assessment is to present different options on a certain matter. The responsibility on the choice of which option to
+pursue and which actions to take, including the adoption of mandatory rules or guidelines, lies exclusively with the
+EU/EEA Member States. In its activities, ECDC strives to ensure its independence, high scientific quality,
+transparency and efficiency.
+This report was written with the coordination and assistance of an Internal Response Team at the European Centre
+for Disease Prevention and Control. All data published in this risk assessment are correct to the best of our
+knowledge at the time of publication. Maps and figures published do not represent a statement on the part of
+ECDC or its partners on the legal or border status of the countries and territories shown.
+
+20
+
+RAPID RISK ASSESSMENT
+
+COVID-19 pandemic: increased transmission in the EU/EEA – seventh update
+
+Annex 1. ECDC technical reports and guidance
+documents on COVID-19
+
+
+Considerations related to the safe handling of bodies of deceased persons with suspected or confirmed
+COVID-19. ECDC. Stockholm. 23 March 2020.
+
+
+
+Coronavirus disease 2019 (COVID-19) and supply of substances of human origin in the EU/EEA. ECDC.
+Stockholm. 23 March 2020.
+
+
+
+Guidance for health system contingency planning during widespread transmission of SARS-CoV-2 with high
+impact on healthcare services. 17 March 2020.
+
+
+
+Infection prevention and control for COVID-19 in healthcare settings. 12 March 2020.
+
+
+
+Considerations relating to social distancing measures in response to COVID-19 – second update. 23 March
+2020.
+
+
+
+Novel coronavirus (SARS-CoV-2) - Discharge criteria for confirmed COVID-19 cases. 10 March 2020.
+
+
+
+Resource estimation for contact tracing, quarantine and monitoring activities for COVID-19 cases in the
+EU/EEA. 2 March 2020.
+
+
+
+Guidance for wearing and removing personal protective equipment in healthcare settings for the care of
+patients with suspected or confirmed COVID-19. 28 February 2020.
+
+
+
+Checklist for hospitals preparing for the reception and care of coronavirus 2019 (COVID-19) patients. 26
+February 2020.
+
+
+
+Public health management of persons, including healthcare workers, having had contact with COVID-19
+cases in the European Union – first update. 25 February 2020.
+
+
+
+Interim guidance for environmental cleaning in non-healthcare facilities exposed to SARS-CoV-2. 18
+February 2020.
+
+
+
+Guidelines for the use of non-pharmaceutical measures to delay and mitigate the impact of 2019-nCoV. 10
+February 2020.
+
+
+
+Personal protective equipment (PPE) needs in healthcare settings for the care of patients with suspected or
+confirmed novel coronavirus (2019-nCoV). 7 February 2020.
+
+
+
+Public health management of persons having had contact with novel coronavirus cases in the European
+Union. 25 February 2020.
+
+21
+
+RAPID RISK ASSESSMENT
+
+COVID-19 pandemic: increased transmission in the EU/EEA – seventh update
+
+Annex 2. Time distribution of 14-day truncated
+cumulative incidence of COVID-19
+Figure A. 14-day truncated cumulative incidence ≥15.0 cases per 100 000 population and >50
+notified cases, 23 March 2020
+
+Figure B. 14-day truncated cumulative incidence <15.0 cases per 100 000 population or >50 notified
+cases, 23 March 2020
+
+a 14-day truncated cumulative incidence of COVID-19 cases distribution in each country compared with that of Hubei Province, China.
+b 14-day truncated cumulative incidence of COVID-19 cases distribution in each country compared with that of Italy (which, unlike the other
+countries in this panel, has a 14-day truncated cumulative incidence of ≥ 4.0 cases per 100 000 population and > 50 notified cases as of 15 March
+2020) and Hubei Province, China.
+c 14-day truncated cumulative incidence of COVID-19 cases shown from the day (D1) a country reported a 14-day truncated cumulative incidence
+> 0.05 cases per 100 000 population; the ‘flattening of the curve’ observed for Hubei Province at day 30 (D30) coincides with a change in the
+Chinese case definition on 14 February.
+
+22
+
+RAPID RISK ASSESSMENT
+
+COVID-19 pandemic: increased transmission in the EU/EEA – seventh update
+
+Annex 3. 14-day cumulative incidence per
+100 000 population
+Table. COVID-19 14-day cumulative incidence per 100 000 population by country as per 25 March
+2020 and prevalence levels associated with a > 90% risk of saturation of ICU beds
+Number of
+COVID-19 cases,
+25 March 2020
+
+Max 14-day cumulative
+incidence/100 000 population (1)
+
+Prevalence of hospitalised cases per 100 000
+population associated with >90% risk of
+excess of ICU capacity (2)
+
+Austria
+
+5 282
+
+57.6
+
+17.7 [10.6, 58.1]
+
+Belgium
+
+4 269
+
+35.0
+
+24.1 [14.6, 78.1]
+
+Bulgaria
+
+220
+
+3.1
+
+49.7 [30.3, 160.4]
+
+Croatia
+
+382
+
+9.0
+
+20 [11.7, 67.1]
+
+Cyprus
+
+124
+
+10.3
+
+36.1 [20.3, 127.6]
+
+Czech Republic
+
+1 394
+
+12.5
+
+40.4 [24.8, 130]
+
+Denmark
+
+1 591
+
+23.4
+
+ND
+
+Estonia
+
+369
+
+27.0
+
+21.1 [11.7, 74.9]
+
+Finland
+
+792
+
+13.6
+
+18.2 [10.7, 60.7]
+
+France
+
+22 302
+
+30.6
+
+8.2 [5, 26.1]
+
+Germany
+
+31 554
+
+36.5
+
+19.1 [11.9, 60.3]
+
+Greece
+
+743
+
+6.1
+
+16.2 [9.8, 53.1]
+
+Hungary
+
+226
+
+2.2
+
+20.1 [12.1, 65.5]
+
+Iceland
+
+648
+
+163.5
+
+39.8 [21, 149]
+
+Ireland
+
+1 329
+
+26.7
+
+5.6 [3.1, 20]
+
+Italy
+
+69 176
+
+97.7
+
+11.7 [7.2, 37.1]
+27.1 [15.7, 93.2]
+
+Latvia
+
+197
+
+9.8
+
+Liechtenstein
+
+47
+
+121.3
+
+ND
+
+Lithuania
+
+209
+
+7.4
+
+26.4 [15.4, 89.1]
+
+1 099
+
+179.7
+
+50.7 [28.3, 179]
+
+120
+
+24.0
+
+15.2 [7.5, 60.4]
+
+Netherlands
+
+5 560
+
+30.1
+
+9.3 [5.6, 30.6]
+
+Norway
+
+2 566
+
+43.1
+
+14.6 [8.6, 49.3]
+
+Poland
+
+901
+
+2.3
+
+11.9 [7.3, 38]
+
+Portugal
+
+2 362
+
+22.6
+
+11.3 [6.7, 37.4]
+
+Romania
+
+762
+
+3.8
+
+45.7 [28.2, 145.3]
+
+Slovakia
+
+204
+
+3.6
+
+65.2 [39.8, 210.6]
+
+Slovenia
+
+480
+
+21.7
+
+18 [10.1, 62.8]
+
+Spain
+
+39 673
+
+81.4
+
+17.8 [11, 56.7]
+
+Sweden
+
+2 272
+
+19.1
+
+ND
+
+United Kingdom
+
+8 077
+
+11.6
+
+6.7 [4.1, 21.5]
+
+204 930
+
+36.1
+
+ND
+
+Luxembourg
+Malta
+
+Total
+
+(1) The 14-days cumulative incidence rate per 100 000 population reflects the number of active COVID-19 cases per 100 000
+population (proxy of COVID-19 prevalence) and the pressure on the healthcare systems, even though the proportion of
+hospitalised cases is unknown and varies strongly between countries due to differences in diagnostic testing policies;
+(2) Prevalence of hospitalised cases per 100 000 population associated with >90% risk of excess of ICU capacity based on
+modelling performed by ECDC (see text in disease background section); prevalence figures per 100 000 are given for three levels
+of hospitalised patients requiring ICU care: 18% [30%–5%].
+ND: no data.
+
+23
+
+RAPID RISK ASSESSMENT
+
+COVID-19 pandemic: increased transmission in the EU/EEA – seventh update
+
+Annex 4. Scenarios to describe progression of
+COVID-19 outbreaks
+The following five scenarios, adapted from ECDC’s strategic analysis, are used to describe the possible progression
+of the COVID-19 outbreak in EU/EEA countries.
+Scenario 0 describes a situation with no reported cases in the country and multiple introductions and/or
+community transmission elsewhere in Europe. At this stage, the main objective for public health measures should
+be to enable rapid detection and isolation of individual cases to prevent domestic transmission chains, and to
+prepare for the response once cases are detected in the country.
+Scenario 1 describes a situation with multiple introductions but limited local transmission in the country. Despite
+the introductions there is no apparent sustained transmission (only second generation cases observed or
+transmission within sporadic contained clusters with known epidemiological links). In this situation, the objective is
+containment of the outbreak by blocking transmission opportunities, through early detection of imported and
+locally-transmitted COVID-19 cases in order to try to avoid or at least delay the spread of infection and the
+associated burden on healthcare systems. Delaying the start of local transmission will allow the current influenza
+season to end, freeing up some healthcare capacity.
+Scenario 2 describes a situation with increasing number of introductions and of more widespread reports of
+localised human-to-human transmission in the country (more than two generations of cases outside of sporadic
+clusters with known epidemiological links). In this situation, the objective remains to contain where practicable and
+otherwise slow down the transmission of the infection. This will increase the time available for development,
+production and distribution of PPE and effective therapeutic options, and would play a crucial role in reducing the
+burden on the healthcare system and other sectors, particularly if wider transmission of COVID-19 is delayed
+beyond the ongoing influenza season. A reduced burden would also allow for more time to increase laboratory
+capacity, and increase surge capacity in healthcare services. All these measures will facilitate effective treatment of
+infected patients [44]. Rapid collection and analysis of epidemiological and virological data will enable targeting of
+measures in this scenario and later.
+Scenario 3 describes a situation with localised outbreaks, which start to merge becoming indistinct. In this
+scenario, there is sustained human-to-human transmission in the country (more than two generations of cases
+outside of sporadic clusters with known epidemiological links) and an increasing pressure on healthcare systems.
+The objective at this stage is to mitigate the impact of the outbreak by decreasing the burden on healthcare
+systems and protect populations at risk of severe disease. At the same time, operational research should guide
+developing better and more efficient diagnostic and treatment options.
+Scenario 4 describes a situation with widespread sustained transmission where healthcare systems are overburdened due to a large demand for emergency healthcare services, a strained ICU capacity, overworked
+healthcare workers and reduced staff availability due to illness, lack of PPE and lack of diagnostic testing capacity.
+The objective at this stage is still to mitigate the impact of the outbreak, decrease the burden on healthcare
+services, protect populations at risk of severe disease and reduce excess mortality.
+
+24
+
+RAPID RISK ASSESSMENT
+
+COVID-19 pandemic: increased transmission in the EU/EEA – seventh update
+
+Annex 5. Response measures in EU/EEA
+countries and the UK, 24 March 2020*
+
+Social dsitancing measures implemented
+
+Figure A. Number of countries in the EU/EEA and the UK that have implemented social distancing
+measures (n=31)
+
+Partial/full lockdown
+
+17
+
+Closure of workplaces or teleworking
+
+21
+
+Measures for special populations
+
+26
+
+Mass gathering cancellations
+
+27
+
+Closure of public spaces
+
+28
+
+Closure of some educational institutions
+
+29
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+No. of countries (n=31)
+
+Figure B. Number of countries in the EU/EEA and the UK that have implemented school closures
+(n=31)
+
+Educational institutions closed
+
+Higher education or university
+
+27
+
+Secondary school
+
+29
+
+Primary school
+
+27
+
+Daycare or nursery
+
+25
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+No. of countries (n=31)
+
+* These figures are based on information available from official public sources as of Tuesday 24 March 2020 at 2:30pm and may
+not capture measures countries are taking that are not reported on publicly available websites. The situation is evolving rapidly
+and this represents a snapshot of what countries in the EU/EEA and the UK are doing at this time.
+
+25
+
+RAPID RISK ASSESSMENT
+
+COVID-19 pandemic: increased transmission in the EU/EEA – seventh update
+
+References
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+
+European Centre for Disease Prevention and Control (ECDC). COVID-19 2020 [cited 2020 1 March]. Available
+from: https://www.ecdc.europa.eu/en/novel-coronavirus-china.
+European Commission (EC). COVID-19 [cited 2020 1 March]. Available from:
+https://ec.europa.eu/health/coronavirus_en.
+World Health Organization (WHO). Coronavirus disease (COVID-19) outbreak [cited 2020 1 March]. Available
+from: https://www.who.int/emergencies/diseases/novel-coronavirus-2019.
+European Centre for Disease Prevention and Control (ECDC). Event background COVID-19 [cited 2020 1
+March]. Available from: https://www.ecdc.europa.eu/en/novel-coronavirus/event-background-2019.
+Cereda D, Tirani M, Rovida F, Demicheli V, Ajelli M, Poletti P, et al. The early phase of the COVID-19 outbreak
+in Lombardy, Italy 2020. Available from: https://arxiv.org/abs/2003.09320v1.
+European Centre for Disease Prevention and Control (ECDC). Situation update worldwide [cited 2020 1
+March]. Available from: https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases.
+European Centre for Disease Prevention and Control (ECDC). Disease background of COVID-19 [cited 2020 1
+March]. Available from: https://www.ecdc.europa.eu/en/2019-ncov-background-disease.
+World Health Organization (WHO). Report of the WHO-China Joint Mission on Coronavirus Disease 2019
+(COVID-19) 2020 [cited 2020 1 March]. Available from: https://www.who.int/docs/defaultsource/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf.
+Chinese Center for Disease Control and Prevention. The Epidemiological Characteristics of an Outbreak of
+2019 Novel Coronavirus Diseases (COVID-19) — China, 2020 2020 [March 11, 2020]. Available from:
+http://www.ourphn.org.au/wp-content/uploads/20200225-Article-COVID-19.pdf.
+Istituto Superiore di Sanità (ISS). Epidemia COVID-19: Aggiornamento nazionale - 09 marzo 2020 – ore
+16:00: ISS; [March 11, 2020]. Available from: https://www.epicentro.iss.it/coronavirus/bollettino/Bollettinosorveglianza-integrata-COVID-19_09-marzo-2020.pdf.
+Report on the Epidemiological Features of Coronavirus Disease 2019 (COVID-19) Outbreak in the Republic of
+Korea from January 19 to March 2, 2020. J Korean Med Sci. 2020 3/;35(10).
+Istituto Superiore di Sanità. Characteristics of COVID-19 patients dying in Italy Report based on available data
+on March 20th, 2020 2020 [cited 2020 23 March]. Available from:
+https://www.epicentro.iss.it/coronavirus/bollettino/Report-COVID-2019_20_marzo_eng.pdf.
+Chinese Center for Disease Control and Prevention. Epidemic update and risk assessment of 2019 Novel
+Coronavirus 2020 [updated 29 January 2020; cited 2020 29 February]. Available from:
+http://www.chinacdc.cn/yyrdgz/202001/P020200128523354919292.pdf.
+Backer JA, Klinkenberg D, Wallinga J. Incubation period of 2019 novel coronavirus (2019-nCoV) infections
+among travellers from Wuhan, China, 20–28 January 2020. Eurosurveillance. 2020;25(5).
+To KK-W, Tsang OT-Y, Leung W-S, Tam AR, Wu T-C, Lung DC, et al. Temporal profiles of viral load in
+posterior oropharyngeal saliva samples and serum antibody responses during infection by SARS-CoV-2: an
+observational cohort study. The Lancet Infectious Diseases. 2020 2020/03/23/.
+Young BE, Ong SWX, Kalimuddin S, Low JG, Tan SY, Loh J, et al. Epidemiologic Features and Clinical Course
+of Patients Infected With SARS-CoV-2 in Singapore. JAMA. 2020.
+Chang L, Yan Y, Wang L. Coronavirus Disease 2019: Coronaviruses and Blood Safety. Transfusion Medicine
+Reviews. 2020 2020/02/21/.
+Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, et al. Clinical features of patients infected with 2019 novel
+coronavirus in Wuhan, China. The Lancet. 2020 2020/02/15/;395(10223):497-506.
+Peng L, Liu J, Xu W, Luo Q, Deng K, Lin B, et al. 2019 Novel Coronavirus can be detected in urine, blood, anal
+swabs and oropharyngeal swabs samples. medRxiv. 2020:2020.02.21.20026179.
+Fei Zhou* TY, Ronghui Du*, Guohui Fan*, Ying Liu*, Zhibo Liu*, Jie Xiang*, Yeming Wang, Bin Song,
+Xiaoying Gu, Lulu Guan, Yuan Wei, Hui Li, Xudong Wu, Jiuyang Xu, Shengjin Tu, Yi Zhang, Hua Chen, Bin
+Cao,. Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a
+retrospective cohort study. The Lancet. 2020 March 9, 2020.
+Cai J, Xu J, Lin D, Yang z, Xu L, Qu Z, et al. A Case Series of children with 2019 novel coronavirus infection:
+clinical and epidemiological features. Clinical Infectious Diseases. 2020.
+Liu Y, Yan L-M, Wan L, Xiang T-X, Le A, Liu J-M, et al. Viral dynamics in mild and severe cases of COVID-19.
+The Lancet Infectious Diseases. 2020 2020/03/19/.
+Liu Y, Gayle AA, Wilder-Smith A, Rocklöv J. The reproductive number of COVID-19 is higher compared to
+SARS coronavirus. Journal of Travel Medicine. 2020;27(2).
+Ministry of Health LaW, , Japan. Coronavirus disease 2019 (COVID-19) situation within and outside the
+country. Minstry of Health, Labour and Welfare,, Japan; 2020.
+Mizumoto K, Kagaya K, Zarebski A, Chowell G. Estimating the asymptomatic proportion of coronavirus disease
+2019 (COVID-19) cases on board the Diamond Princess cruise ship, Yokohama, Japan, 2020.
+Eurosurveillance. 2020;25(10):2000180.
+Ki M. Epidemiologic characteristics of early cases with 2019 novel coronavirus (2019-nCoV) disease in Korea.
+Epidemiol Health. 2020;42(0):e2020007-0.
+Dong XC, Li JM, Bai JY, Liu ZQ, Zhou PH, Gao L, et al. The epidemiological characteristics of an outbreak of
+2019 novel coronavirus diseases (COVID-19) in China. Zhonghua liu xing bing xue za zhi = Zhonghua
+liuxingbingxue zazhi. 2020 2/18/medline;41(2):145-51.
+
+26
+
+RAPID RISK ASSESSMENT
+
+COVID-19 pandemic: increased transmission in the EU/EEA – seventh update
+
+28. Luo S-H, Liu W, Liu Z-J, Zheng X-Y, Hong C-X, Liu Z-R, et al. A confirmed asymptomatic carrier of 2019 novel
+coronavirus (SARS-CoV-2). Chinese Medical Journal. 9000;Publish Ahead of Print.
+29. Hoehl S, Rabenau H, Berger A, Kortenbusch M, Cinatl J, Bojkova D, et al. Evidence of SARS-CoV-2 Infection in
+Returning Travelers from Wuhan, China. New England Journal of Medicine. 2020.
+30. Pan X, Chen D, Xia Y, Wu X, Li T, Ou X, et al. Asymptomatic cases in a family cluster with SARS-CoV-2
+infection. The Lancet Infectious Diseases. 2020 2020/02/19/.
+31. Zou L, Ruan F, Huang M, Liang L, Huang H, Hong Z, et al. SARS-CoV-2 Viral Load in Upper Respiratory
+Specimens of Infected Patients. New England Journal of Medicine. 2020.
+32. Han Y, Yang H. The transmission and diagnosis of 2019 novel coronavirus infection disease (COVID-19): A
+Chinese perspective. Journal of Medical Virology.n/a(n/a).
+33. Zou L, Ruan F, Huang M, Liang L, Huang H, Hong Z, et al. SARS-CoV-2 Viral Load in Upper Respiratory
+Specimens of Infected Patients. New England Journal of Medicine. 2020;382(12):1177-9.
+34. Ganyani T, Kremer C, Chen D, Torneri A, Faes C, Wallinga J, et al. Estimating the generation interval for
+COVID-19 based on symptom onset data. medRxiv. 2020:2020.03.05.20031815.
+35. Nishiura H, Linton NM, Akhmetzhanov AR. Serial interval of novel coronavirus (COVID-19) infections.
+International Journal of Infectious Diseases. 2020 2020/03/04/.
+36. Mizumoto K, Omori R, Nishiura H. Age specificity of cases and attack rate of novel coronavirus disease
+(COVID-19). medRxiv. 2020:2020.03.09.20033142.
+37. Bi Q, Wu Y, Mei S, Ye C, Zou X, Zhang Z, et al. Epidemiology and Transmission of COVID-19 in Shenzhen
+China: Analysis of 391 cases and 1,286 of their close contacts. medRxiv. 2020:2020.03.03.20028423.
+38. Istituto Superiore di Sanità. Sorveglianza Integrata COVID-19 in Italia [February 27, 2020]. Available from:
+https://www.iss.it/documents/20126/0/Infografica_09marzo.pdf/.
+39. Kam K-q, Yung CF, Cui L, Lin Tzer Pin R, Mak TM, Maiwald M, et al. A Well Infant with Coronavirus Disease
+2019 (COVID-19) with High Viral Load. Clinical Infectious Diseases. 2020.
+40. Lu X, Zhang L, Du H, Zhang J, Li YY, Qu J, et al. SARS-CoV-2 Infection in Children. New England Journal of
+Medicine. 2020.
+41. Tang A, Tong ZD, Wang HL, Dai YX, Li KF, Liu JN, et al. Detection of Novel Coronavirus by RT-PCR in Stool
+Specimen from Asymptomatic Child, China. Emerging infectious diseases. 2020 Jun 17;26(6).
+42. Feng Kai, Yun Yongxing, Wang Xianfeng, al. e. CT image characteristics analysis of 15 cases of children with
+new coronavirus infection [J / OL]. [Pre-published online]. 2020 [cited 2020,58 22 March]. Available from:
+http://rs.yiigle.com/yufabiao/1181979.htm.
+43. Wang Duan JX, Xie Feng, et al. Clinical analysis of 31 cases of new coronavirus infection in children in six
+provinces (autonomous regions) of northern China in 2019 [J / OL]. [Internet pre-publishing]. Chinese
+Journal of Pediatrics,. Available from: http://rs.yiigle.com/yufabiao/1183296.htm.
+44. Ji L-N, Chao S, Wang Y-J, Li X-J, Mu X-D, Lin M-G, et al. Clinical features of pediatric patients with COVID-19:
+a report of two family cluster cases. World Journal of Pediatrics. 2020 2020/03/16.
+45. Park JY, Han MS, Park KU, Kim JY, Choi EH. First Pediatric Case of Coronavirus Disease 2019 in Korea. J
+Korean Med Sci. 2020 3/;35(11).
+46. Mullins E, Evans D, Viner RM, O'Brien P, Morris E. Coronavirus in pregnancy and delivery: rapid review.
+Ultrasound in Obstetrics & Gynecology.n/a(n/a).
+47. Liu Y, Chen H, Tang K, Guo Y. Clinical manifestations and outcome of SARS-CoV-2 infection during
+pregnancy. The Journal of infection. 2020 Mar 4.
+48. Li Y, Zhao R, Zheng S, Chen X, Wang J, Sheng X, et al. Lack of Vertical Transmission of Severe Acute
+Respiratory Syndrome Coronavirus 2, China. Emerging infectious diseases. 2020 Jun 17;26(6).
+49. Chen H, Guo J, Wang C, Luo F, Yu X, Zhang W, et al. Clinical characteristics and intrauterine vertical
+transmission potential of COVID-19 infection in nine pregnant women: a retrospective review of medical
+records. The Lancet. 2020 2020/03/07/;395(10226):809-15.
+50. Chen R, Zhang Y, Huang L, Cheng B-h, Xia Z-y, Meng Q-t. Safety and efficacy of different anesthetic
+regimens for parturients with COVID-19 undergoing Cesarean delivery: a case series of 17 patients. Canadian
+Journal of Anesthesia/Journal canadien d'anesthésie. 2020 2020/03/16.
+51. Fan C, Lei D, Fang C, Li C, Wang M, Liu Y, et al. Perinatal Transmission of COVID-19 Associated SARS-CoV2: Should We Worry? Clinical Infectious Diseases. 2020.
+52. Wang S, Guo L, Chen L, Liu W, Cao Y, Zhang J, et al. A case report of neonatal COVID-19 infection in China.
+Clinical infectious diseases : an official publication of the Infectious Diseases Society of America. 2020 Mar 12.
+53. Zhu H, Wang L, Fang C, Peng S, Zhang L, Chang G, et al. Clinical analysis of 10 neonates born to mothers
+with 2019-nCoV pneumonia. Translational Pediatrics. 2020;9(1):51-60.
+54. Mengyuan Li LL, Yue Zhang, Xiaosheng Wang. An Investigation of the Expression of 2019 Novel Coronavirus
+Cell Receptor Gene ACE2 in a Wide Variety of Human Tissues (Preprint). Research Square. 2020.
+55. Liang W, Guan W, Chen R, Wang W, Li J, Xu K, et al. Cancer patients in SARS-CoV-2 infection: a nationwide
+analysis in China. The Lancet Oncology. 2020 2020/03/01/;21(3):335-7.
+56. Chen N, Zhou M, Dong X, Qu J, Gong F, Han Y, et al. Epidemiological and clinical characteristics of 99 cases
+of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. The Lancet. 2020
+2020/02/15/;395(10223):507-13.
+57. Cai G. Bulk and single-cell transcriptomics identify tobacco-use disparity in lung gene expression of ACE2, the
+receptor of 2019-nCov. medRxiv. 2020:2020.02.05.20020107.
+58. Cai G. Tobacco-Use Disparity in Gene Expression of ACE2, the Receptor of 2019-nCov. Preprint 2020.
+Preprints 2020, 2020020051. 2020.
+27
+
+RAPID RISK ASSESSMENT
+
+COVID-19 pandemic: increased transmission in the EU/EEA – seventh update
+
+59. Chen YS, K.; Qian, W. Asians Do Not Exhibit Elevated Expression or Unique Genetic Polymorphisms for ACE2,
+the Cell-Entry Receptor of SARS-CoV-2. Preprints 2020, 2020020258. 2020.
+60. Neil M Ferguson, Daniel Laydon, Gemma Nedjati-Gilani, Natsuko Imai, Kylie Ainslie, Marc Baguelin, et al.
+Impact of non-pharmaceutical interventions (NPIs) to reduce COVID19 mortality and healthcare demand:
+Imperial College COVID-19 Response Team; 2020 [updated 16 March, 2020; cited 2020 23 March, 2020].
+Available from: https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gidafellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf.
+61. Zhang B, Zhou X, Zhu C, Feng F, Qiu Y, Feng J, et al. Immune phenotyping based on neutrophil-tolymphocyte ratio and IgG predicts disease severity and outcome for patients with COVID-19. medRxiv.
+2020:2020.03.12.20035048.
+62. Ambrosioni J, Bridevaux PO, Wagner G, Mamin A, Kaiser L. Epidemiology of viral respiratory infections in a
+tertiary care centre in the era of molecular diagnosis, Geneva, Switzerland, 2011-2012. Clin Microbiol Infect.
+2014 Sep;20(9):O578-84.
+63. Gaunt ER, Hardie A, Claas EC, Simmonds P, Templeton KE. Epidemiology and clinical presentations of the four
+human coronaviruses 229E, HKU1, NL63, and OC43 detected over 3 years using a novel multiplex real-time
+PCR method. J Clin Microbiol. 2010 Aug;48(8):2940-7.
+64. Killerby ME, Biggs HM, Haynes A, Dahl RM, Mustaquim D, Gerber SI, et al. Human coronavirus circulation in
+the United States 2014-2017. J Clin Virol. 2018 Apr;101:52-6.
+65. Moriyama M, Hugentobler WJ, Iwasaki A. Seasonality of Respiratory Viral Infections. Annu Rev Virol. 2020
+Mar 20.
+66. Ijaz MK, Brunner AH, Sattar SA, Nair RC, Johnson-Lussenburg CM. Survival Characteristics of Airborne Human
+Coronavirus 229E. Journal of General Virology. 1985;66(12):2743-8.
+67. Iwasaki A, Foxman EF, Molony RD. Early local immune defences in the respiratory tract. Nature Reviews
+Immunology. 2017 2017/01/01;17(1):7-20.
+68. Luo W, Majumder MS, Liu D, Poirier C, Mandl KD, Lipsitch M, et al. The role of absolute humidity on
+transmission rates of the COVID-19 outbreak. medRxiv. 2020:2020.02.12.20022467.
+69. van Doremalen N, Bushmaker T, Morris DH, Holbrook MG, Gamble A, Williamson BN, et al. Aerosol and
+Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1. New England Journal of Medicine. 2020.
+70. Cheng VCC, Wong S-C, Chen JHK, Yip CCY, Chuang VWM, Tsang OTY, et al. Escalating infection control
+response to the rapidly evolving epidemiology of the Coronavirus disease 2019 (COVID-19) due to SARS-CoV2 in Hong Kong. Infection Control & Hospital Epidemiology. 2020:1-24.
+71. Ong SWX, Tan YK, Chia PY, Lee TH, Ng OT, Wong MSY, et al. Air, Surface Environmental, and Personal
+Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2)
+From a Symptomatic Patient. JAMA. 2020.
+72. Ye G, Lin H, Chen L, Wang S, Zeng Z, Wang W, et al. Environmental contamination of the SARS-CoV-2 in
+healthcare premises: An urgent call for protection for healthcare workers. medRxiv.
+2020:2020.03.11.20034546.
+73. Cao B, Wang Y, Wen D, Liu W, Wang J, Fan G, et al. A Trial of Lopinavir–Ritonavir in Adults Hospitalized with
+Severe Covid-19. New England Journal of Medicine. 2020.
+74. Gao J, Tian Z, Yang X. Breakthrough: Chloroquine phosphate has shown apparent efficacy in treatment of
+COVID-19 associated pneumonia in clinical studies. BioScience Trends. 2020;14(1):72-3.
+75. Gautret P, Lagier J-C, Parola P, Hoang VT, Meddeb L, Mailhe M, et al. Hydroxychloroquine and azithromycin
+as a treatment of COVID-19: results of an open-label non-randomized clinical trial. International Journal of
+Antimicrobial Agents. 2020 2020/03/20/:105949.
+76. World Health Organization (WHO). Clinical management of severe acute respiratory infection when novel
+coronavirus (nCoV) infection is suspected - Interim guidance (13 March 2020) 2020 [17 January 2020].
+Available from: https://www.who.int/publications-detail/clinical-management-of-severe-acute-respiratoryinfection-when-novel-coronavirus-(ncov)-infection-is-suspected.
+77. European Medicines Agency (EMA). EMA gives advice on the use of non-steroidal anti-inflammatories for
+COVID-19 2020 [cited 2020 23 March]. Available from: https://www.ema.europa.eu/en/news/ema-givesadvice-use-non-steroidal-anti-inflammatories-covid-19.
+78. European Centre for Disease Prevention and Control (ECDC). Point prevalence survey of healthcareassociated
+infections and antimicrobial use in European acute care hospitals. Stockholm: ECDC; 2013 [March 11, 2020].
+Available from: https://www.ecdc.europa.eu/sites/default/files/media/en/publications/Publications/healthcareassociated-infections-antimicrobial-use-PPS.pdf.
+79. European Centre for Disease Prevention and Control (ECDC). Operational tool on rapid risk assessment
+methodology: ECDC; 2019. Available from:
+https://www.ecdc.europa.eu/sites/default/files/documents/operational-tool-rapid-risk-assessmentmethodolgy-ecdc-2019.pdf.
+80. European Centre for Disease Prevention and Control (ECDC). Guidelines for the use of non-pharmaceutical
+measures to delay and mitigate the impact of 2019-nCoV 2020. Available from:
+https://www.ecdc.europa.eu/sites/default/files/documents/novel-coronavirus-guidelines-non-pharmaceuticalmeasures_0.pdf.
+81. European Centre for Disease Prevention and Control (ECDC). Outbreak of novel coronavirus disease 2019
+(COVID-19): increased transmission globally – fifth update, 2 March 2020: ECDC; 2020. Available from:
+https://www.ecdc.europa.eu/sites/default/files/documents/RRA-outbreak-novel-coronavirus-disease-2019increase-transmission-globally-COVID-19.pdf.
+28
+
+RAPID RISK ASSESSMENT
+
+COVID-19 pandemic: increased transmission in the EU/EEA – seventh update
+
+82. European Centre for Disease Prevention and Control (ECDC). Novel coronavirus disease 2019 (COVID-19)
+pandemic: increased transmission in the EU/EEA and the UK – sixth update – 12 March 2020. Stockholm:
+ECDC; 2020. 2020. Available from: https://www.ecdc.europa.eu/sites/default/files/documents/RRA-sixthupdate-Outbreak-of-novel-coronavirus-disease-2019-COVID-19.pdf.
+83. European Centre for Disease Prevention and Control (ECDC). Resource estimation for contact tracing,
+quarantine and monitoring activities for COVID-19 cases in the EU/EEA. Stockholm: European Centre for
+Disease Prevention and Control, 2020.
+84. European Centre for Disease Prevention and Control (ECDC). Considerations relating to social distancing
+measures in response to COVID-19 – second update. Stockholm: ECDC; 2020. 2020. Available from:
+https://www.ecdc.europa.eu/en/publications-data/considerations-relating-social-distancing-measuresresponse-covid-19-second.
+85. European Centre for Disease Prevention and Control. Considerations relating to social distancing measures in
+response to COVID-19 – second update. Stockholm: ECDC; 2020.
+86. Wang C, Liu L, Hao X, Guo H, Wang Q, Huang J, et al. Evolving Epidemiology and Impact of Nonpharmaceutical Interventions on the Outbreak of Coronavirus Disease 2019 in Wuhan, China. medRxiv.
+2020:2020.03.03.20030593.
+87. Domenico LD, Pullano G, Coletti P, Hens N, Colizza V. Expected impact of school closure and telework to
+mitigate COVID-19 epidemic in France - Report #8 (14/03/2020) 2020 [cited 2020 24 March]. Available from:
+https://www.epicx-lab.com/uploads/9/6/9/4/9694133/inserm_covid-19-school-closure-frenchregions_20200313.pdf.
+88. DiGiovanni C, Conley J, Chiu D, Zaborski J. Factors Influencing Compliance with Quarantine in Toronto During
+the 2003 SARS Outbreak. Biosecurity and Bioterrorism: Biodefense Strategy, Practice, and Science.
+2004;2(4):265-72.
+89. Barbera J, Macintyre A, Gostin L. Large-Scale Quarantine Following Biological Terrorism in the United States Scientific Examination, Logistic and Legal Limits, and Possible Consequences. JAMA. 2001;286(21):2711-7.
+90. Brooks S, Webster R, Smith L, Woodland L, Wessely S, Greenberg N. The psychological impact of quarantine
+and how to reduce it: rapid review of the evidence. Lancet. 2020.
+91. PHE. Guidance on social distancing for everyone in the UK: Public Health England; 2020. Available from:
+https://www.gov.uk/government/publications/covid-19-guidance-on-social-distancing-and-for-vulnerablepeople/guidance-on-social-distancing-for-everyone-in-the-uk-and-protecting-older-people-and-vulnerableadults
+92. European Centre for Disease Prevention and Control (ECDC). Novel coronavirus disease 2019 (COVID-19)
+pandemic: increased transmission in the EU/EEA and the UK – sixth update. Stockholm: European Centre for
+Disease Prevention and Control, 12 March. Report No.
+93. European Centre for Disease Prevention and Control (ECDC). Guidance on community engagement for public
+health events caused by communicable disease threats in the EU/EEA. Stockholm: European Centre for
+Disease Prevention and Control, 2020.
+94. Guardian. 'Everything will be all right': message of hope spreads in Italy. 2020 12 March. Report No.
+95. Anderson R, Heesterbeek H, Klinkenberg D, Hollingswort T. How will country-based mitigation measures
+influence the course of the COVID-19 epidemic? Lancet. 2020 March 6.
+96. European Centre for Disease Prevention and Control (ECDC). Community and institutional public health
+emergency preparedness synergies – enablers and barriers. Case studies on acute gastroenteritis in two
+EU/EEA Member States. Stockholm: European Centre for Disease Prevention and Control, 2019.
+97. WHO. Communicating risk in public health emergencies - A WHO guideline for emergency risk communication
+(ERC) policy and practice. Geneva: World Health Organisation, 2017.
+98. Lai S, Ruktanonchai N, Zhou L, Prosper O, Luo W, Floyd J. Effect of non-pharmaceutical interventions for
+containing the COVID-19 outbreak: an observational and modelling study. medRxiv. 2020 March 6.
+99. World Health Organization. Operational considerations for case management of COVID-19 in health facility
+and community. Interim guidance; 19 March 2020 Geneva: WHO; 2020. Available from:
+https://apps.who.int/iris/bitstream/handle/10665/331492/WHO-2019-nCoV-HCF_operations-2020.1-eng.pdf.
+100. European Centre for Disease Prevention and Control (ECDC). Guidance for health system contingency
+planning during widespread transmission of SARS-CoV-2 with high impact on healthcare services. March
+2020. Stockholm: ECDC; 2020.
+101. Istituto Superiore di Sanità. Sorveglianza Integrata COVID-19 in Italia: AGGIORNAMENTO 22 marzo 2020
+2020 [cited 2020 23 March]. Available from:
+https://www.epicentro.iss.it/coronavirus/bollettino/Infografica_22marzo%20ITA.pdf.
+102. European Centre for Disease Prevention and Control (ECDC). Infection prevention and control for the care of
+patients with novel coronavirus in healthcare settings – 1st Update (In press): ECDC; 2020.
+103. European Centre for Disease Prevention and Control (ECDC). Infection prevention and control for the care of
+patients with 2019-nCoV in healthcare settings 2020. Available from:
+https://www.ecdc.europa.eu/sites/default/files/documents/nove-coronavirus-infection-prevention-controlpatients-healthcare-settings.pdf.
+104. European Centre for Disease Prevention and Control (ECDC). Personal protective equipment (PPE) needs in
+healthcare settings for the care of patients with suspected or confirmed novel coronavirus (2019-nCoV) 2020.
+Available from: https://www.ecdc.europa.eu/sites/default/files/documents/novel-coronavirus-personalprotective-equipment-needs-healthcare-settings.pdf.
+105. European Centre for Disease Prevention and Control (ECDC). Guidance for wearing and removing personal
+protective equipment in healthcare settings for the care of patients with suspected or confirmed COVID-19
+29
+
+RAPID RISK ASSESSMENT
+
+106.
+
+107.
+108.
+
+109.
+110.
+111.
+
+112.
+
+113.
+114.
+115.
+116.
+117.
+118.
+
+119.
+120.
+121.
+
+122.
+
+123.
+124.
+125.
+
+COVID-19 pandemic: increased transmission in the EU/EEA – seventh update
+
+2020 [cited 2020 1 March]. Available from: https://www.ecdc.europa.eu/en/publications-data/guidancewearing-and-removing-personal-protective-equipment-healthcare-settings.
+World Health Organization (WHO). Rational use of personal protective equipment for coronavirus disease
+2019 (COVID-19): Interim guidance - 27 February 2020 Geneva: WHO; 2020 [March 11, 2020]. Available
+from: https://apps.who.int/iris/bitstream/handle/10665/331215/WHO-2019-nCov-IPCPPE_use-2020.1eng.pdf.
+World Health Organization (WHO). Infection prevention and control - My 5 Moments for Hand Hygiene [cited
+2020 1 March]. Available from: https://www.who.int/infection-prevention/campaigns/cleanhands/5moments/en/.
+World Health Organization (WHO). Home care for patients with suspected novel coronavirus (nCoV) infection
+presenting with mild symptoms and management of contacts. Interim guidance. 2020 [updated January 20].
+Available from: https://www.who.int/publications-detail/home-care-for-patients-with-suspected-novelcoronavirus-(ncov)-infection-presenting-with-mild-symptoms-and-management-of-contacts.
+Lai S, Ruktanonchai NW, Zhou L, Prosper O, Luo W, Floyd JR, et al. Effect of non-pharmaceutical
+interventions for containing the COVID-19 outbreak: an observational and modelling study. medRxiv.
+2020:2020.03.03.20029843.
+World Health Organization (WHO). Non-pharmaceutical public health measures for mitigating the risk and
+impact of epidemic and pandemic influenza 2019 [cited 2020 1 March]. Available from:
+https://apps.who.int/iris/bitstream/handle/10665/329438/9789241516839-eng.pdf?ua=1.
+European Centre for Disease Prevention and Control (ECDC). Novel coronavirus (SARS-CoV-2): Discharge
+criteria for confirmed COVID-19 cases – When is it safe to discharge COVID-19 cases from the hospital or end
+home isolation? : ECDC; 2020 [March 11, 2020]. Available from:
+https://www.ecdc.europa.eu/sites/default/files/documents/COVID-19-Discharge-criteria.pdf.
+Centers for Disease Control and Prevention (CDC). Interim Clinical Guidance for Management of Patients with
+Confirmed Coronavirus Disease 2019 (COVID-19) 2020 [updated 25 February 2020; cited 2020 1]. March].
+Available from: https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-guidance-managementpatients.html.
+World Health Organization (WHO). Shortage of personal protective equipment endangering health workers
+worldwide: WHO; 2020 [March 11, 2020]. Available from: https://www.who.int/news-room/detail/03-032020-shortage-of-personal-protective-equipment-endangering-health-workers-worldwide.
+World Health Organisation (WHO). Rational use of personal protective equipment for coronavirus disease
+2019 (COVID-19) 2020 [updated 27 February 2020; cited 2020 8 March]. Available from:
+https://apps.who.int/iris/bitstream/handle/10665/331215/WHO-2019-nCov-IPCPPE_use-2020.1-eng.pdf.
+Rothe C, Schunk M, Sothmann P, Bretzel G, Froeschl G, Wallrauch C, et al. Transmission of 2019-nCoV
+Infection from an Asymptomatic Contact in Germany. New England Journal of Medicine. 2020;382(10):970-1.
+Tran K, Cimon K, Severn M, Pessoa-Silva CL, Conly J. Aerosol Generating Procedures and Risk of
+Transmission of Acute Respiratory Infections to Healthcare Workers: A Systematic Review. PLOS ONE.
+2012;7(4):e35797.
+Smith JD, MacDougall CC, Johnstone J, Copes RA, Schwartz B, Garber GE. Effectiveness of N95 respirators
+versus surgical masks in protecting health care workers from acute respiratory infection: a systematic review
+and meta-analysis. Canadian Medical Association Journal. 2016:cmaj.150835.
+European Centre for Disease Prevention and Control (ECDC). Guidance for wearing and removing personal
+protective equipment in healthcare settings for the care of patients with suspected or confirmed COVID-19
+2020 [cited 2020 8 March]. Available from: https://www.ecdc.europa.eu/en/publications-data/guidancewearing-and-removing-personal-protective-equipment-healthcare-settings.
+Medicine Io. Reusability of Facemasks During an Influenza Pandemic: Facing the Flu. Washington, DC: The
+National Academies Press; 2006. 106 p.
+New York Times By Gina Kolata. As Coronavirus Looms, Mask Shortage Gives Rise to Promising Approach
+New York: New York Times; 2020 [cited 2020 24 March]. Available from:
+https://www.nytimes.com/2020/03/20/health/coronavirus-masks-reuse.html?auth=login-email&login=email.
+European Centre for Disease Prevention and Control (ECDC). Interim guidance for environmental cleaning in
+non-healthcare facilities exposed to SARS-CoV-2 2020 [cited 2020 March]. Available from:
+https://www.ecdc.europa.eu/sites/default/files/documents/coronavirus-SARS-CoV-2-guidance-environmentalcleaning-non-healthcare-facilities.pdf
+World Health Organisation (WHO). Home care for patients with suspected novel coronavirus (nCoV) infection
+presenting with mild symptoms and management of contacts 2020 [updated 4 February 2020; cited 2020 8
+March]. Available from: https://www.who.int/publications-detail/home-care-for-patients-with-suspectednovel-coronavirus-(ncov)-infection-presenting-with-mild-symptoms-and-management-of-contacts.
+European Centre for Disease Prevention and Control (ECDC). Laboratory support by specialised laboratories in
+the EU/EEA 2020 [updated 8 February 2020; cited 2020 1 March]. Available from:
+https://www.ecdc.europa.eu/en/novel-coronavirus/laboratory-support.
+European Centre for Disease Prevention and Control (ECDC). Laboratory support for COVID-19 in the EU/EEA
+2020 [cited 2020 23 March]. Available from: https://www.ecdc.europa.eu/en/novel-coronavirus/laboratorysupport.
+World Health Organization (WHO). Laboratory testing for coronavirus disease 2019 (COVID-19) in suspected
+human cases: Interim guidance - 2 March 2020, : WHO; 2020 [11 March, 2020]. Available from:
+https://www.who.int/publications-detail/laboratory-testing-for-2019-novel-coronavirus-in-suspected-humancases-20200117.
+30
+
+RAPID RISK ASSESSMENT
+
+COVID-19 pandemic: increased transmission in the EU/EEA – seventh update
+
+126. World Health Organization (WHO). Laboratory biosafety guidance related to coronavirus disease 2019
+(COVID-19); Interim guidance 12 February 2020. [March 11, 2020]. Available from:
+https://apps.who.int/iris/bitstream/handle/10665/331138/WHO-WPE-GIH-2020.1-eng.pdf.
+127. ISO. ISO 22870:2016(en) Point-of-care testing (POCT) — Requirements for quality and competence [cited
+2020 23 March]. Available from: https://www.iso.org/obp/ui/#iso:std:iso:22870:ed-2:v1:en.
+128. World Health Organization (WHO). Coronavirus disease 2019 (COVID-19) - Situation Report - 62 2020 [cited
+2020 23 March]. Available from: https://www.who.int/docs/default-source/coronaviruse/situationreports/20200322-sitrep-62-covid-19.pdf?sfvrsn=f7764c46_2.
+129. European Centre for Disease Prevention and Control (ECDC). Case definition and European surveillance for
+COVID-19, as of 2 March 2020 2020 [cited 2020 23 March]. Available from:
+https://www.ecdc.europa.eu/en/case-definition-and-european-surveillance-human-infection-novelcoronavirus-2019-ncov.
+130. World Health Organization (WHO). Pandemic Influenza Severity Assessment (PISA): A WHO guide to assess
+the severity of influenza epidemics and pandemics. Geneva2017. Available from:
+https://apps.who.int/iris/bitstream/handle/10665/259392/WHO-WHE-IHM-GIP-2017.2eng.pdf;jsessionid=614D77C9474EFF4ECBE33EE0886261D8?sequence=1.
+131. Pung R, Chiew CJ, Young BE, Chin S, Chen MIC, Clapham HE, et al. Investigation of three clusters of COVID19 in Singapore: implications for surveillance and response measures. The Lancet. 2020.
+132. Fisher D. Why Singapore’s coronavirus response worked – and what we can all learn The Conversation2020
+[cited 2020 24 March]. Available from: https://theconversation.com/why-singapores-coronavirus-responseworked-and-what-we-can-all-learn-134024?fbclid=IwAR36RN5CzQaiscTtlf-J1ePoCTPeA2p_ffPehPY_nwcWC81eJE6ryVw2G8.
+133. Ng Y, Li Z, Chua YX, Chaw WL, Zhao Z, Er B, et al. Evaluation of the effectiveness of surveillance and
+containment measures for the first 100 patients with COVID-19 in Singapore-January 2–February 29, 2020.
+2020.
+134. Bi Q, Wu Y, Mei S, Ye C, Zou X, Zhang Z, et al. Epidemiology and Transmission of COVID-19 in Shenzhen
+China: Analysis of 391 cases and 1,286 of their close contacts. medRxiv. 2020.
+135. COVID-19 National Emergency Response Center ECMT, Korea Centers for Disease Control & Prevention.
+Contact Transmission of COVID-19 in South Korea: Novel Investigation Techniques for Tracing Contacts.
+Osong public health and research perspectives. 2020;11(1):60-3.
+136. Peak CM, Kahn R, Grad YH, Childs LM, Li R, Lipsitch M, et al. Modeling the Comparative Impact of Individual
+Quarantine vs. Active Monitoring of Contacts for the Mitigation of COVID-19. medRxiv.
+2020:2020.03.05.20031088.
+137. Hellewell J, Abbott S, Gimma A, Bosse NI, Jarvis CI, Russell TW, et al. Feasibility of controlling COVID-19
+outbreaks by isolation of cases and contacts. The Lancet Global Health. 2020 2020/02/28/.
+138. Keeling MJ, Hollingsworth TD, Read JM. The Efficacy of Contact Tracing for the Containment of the 2019
+Novel Coronavirus (COVID-19). medRxiv. 2020:2020.02.14.20023036.
+139. CNA938. Singapore launches TraceTogether mobile app to boost COVID-19 contact tracing efforts: CNA;
+2020 [cited 2020 23 March]. Available from: https://www.channelnewsasia.com/news/singapore/covid19trace-together-mobile-app-contact-tracing-coronavirus12560616?fbclid=IwAR2apNBUi2CEME6coD0S_HuhU3i0WiOUDCg9h_6H2XMYPbueDa0rBumPvRM.
+140. Karishma Vaswani. Coronavirus: The detectives racing to contain the virus in Singapore: BBC News
+Singapore; 2020 [cited 2020 23 March]. Available from: https://www.bbc.com/news/world-asia-51866102.
+141. TheJournal.ie BMH. 80 Defence Forces cadets are being trained in Covid-19 contact tracing: TheJournal.ie;
+2020 [cited 2020 23 March]. Available from: https://www.thejournal.ie/defence-forces-cadets-trained-incoronavirus-contact-tracing-5046020-Mar2020/.
+142. Personal communication March 23, 2020: Greg Martin, Specialist in Public Health Medicine, Health Service
+Executive, Ireland.
+143. European Centre for Disease Prevention and Control (ECDC). Resource estimation for contact tracing,
+quarantine and monitoring activities in the EU/EEA 2020 [March 11, 2020]. Available from:
+https://www.ecdc.europa.eu/en/publications-data/resource-estimation-contact-tracing-quarantine-andmonitoring-activities-covid-19.
+144. European Centre for Disease Prevention and Control (ECDC). Public health management of persons, including
+healthcare workers, having had contact with COVID-19 cases in the European Union 2020 [March 1, 2020].
+Available from: https://www.ecdc.europa.eu/en/publications-data/public-health-management-personsincluding-health-care-workers-having-had-contact.
+145. European Commission (EC). The EU's Response to COVID-19: European Commission; 2020 [March 11, 2020].
+Available from: https://ec.europa.eu/commission/presscorner/detail/en/qanda_20_307.
+146. European Commission (EC). COVID-19: Horizon 2020 partly funding Innovative Medicines Initiative fast track
+call: European Commission; 2020 [March 11, 2020]. Available from: https://ec.europa.eu/info/news/covid19horizon-2020-partly-funding-innovative-medicines-initiative-fast-track-call-2020-mar-03_en.
+
+31
+
+

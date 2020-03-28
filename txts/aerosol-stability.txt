@@ -1,0 +1,625 @@
+The
+
+n e w e ng l a n d j o u r na l
+
+of
+
+m e dic i n e
+
+C or r e sp ondence
+
+Aerosol and Surface Stability of SARS-CoV-2
+as Compared with SARS-CoV-1
+To the Editor: A novel human coronavirus that
+is now named severe acute respiratory syndrome
+coronavirus 2 (SARS-CoV-2) (formerly called HCoV19) emerged in Wuhan, China, in late 2019 and
+is now causing a pandemic.1 We analyzed the
+aerosol and surface stability of SARS-CoV-2 and
+compared it with SARS-CoV-1, the most closely
+related human coronavirus.2
+We evaluated the stability of SARS-CoV-2 and
+SARS-CoV-1 in aerosols and on various surfaces
+and estimated their decay rates using a Bayesian
+regression model (see the Methods section in the
+Supplementary Appendix, available with the full
+text of this letter at NEJM.org). SARS-CoV-2
+nCoV-WA1-2020 (MN985325.1) and SARS-CoV-1
+Tor2 (AY274119.3) were the strains used. Aerosols (<5 μm) containing SARS-CoV-2 (105.25 50%
+tissue-culture infectious dose [TCID50] per milliliter) or SARS-CoV-1 (106.75-7.00 TCID50 per milliliter)
+were generated with the use of a three-jet Collison nebulizer and fed into a Goldberg drum to
+create an aerosolized environment. The inoculum resulted in cycle-threshold values between
+20 and 22, similar to those observed in samples
+obtained from the upper and lower respiratory
+tract in humans.
+Our data consisted of 10 experimental conditions involving two viruses (SARS-CoV-2 and
+SARS-CoV-1) in five environmental conditions
+(aerosols, plastic, stainless steel, copper, and cardboard). All experimental measurements are reported as means across three replicates.
+SARS-CoV-2 remained viable in aerosols
+throughout the duration of our experiment
+(3 hours), with a reduction in infectious titer from
+103.5 to 102.7 TCID50 per liter of air. This reduction
+was similar to that observed with SARS-CoV-1,
+from 104.3 to 103.5 TCID50 per milliliter (Fig. 1A).
+SARS-CoV-2 was more stable on plastic and
+stainless steel than on copper and cardboard, and
+viable virus was detected up to 72 hours after application to these surfaces (Fig. 1A), although
+the virus titer was greatly reduced (from 103.7 to
+
+100.6 TCID50 per milliliter of medium after 72 hours
+on plastic and from 103.7 to 100.6 TCID50 per milliliter after 48 hours on stainless steel). The stability kinetics of SARS-CoV-1 were similar (from
+103.4 to 100.7 TCID50 per milliliter after 72 hours
+on plastic and from 103.6 to 100.6 TCID50 per milliliter after 48 hours on stainless steel). On copper,
+no viable SARS-CoV-2 was measured after 4 hours
+and no viable SARS-CoV-1 was measured after
+8 hours. On cardboard, no viable SARS-CoV-2 was
+measured after 24 hours and no viable SARSCoV-1 was measured after 8 hours (Fig. 1A).
+Both viruses had an exponential decay in virus titer across all experimental conditions, as
+indicated by a linear decrease in the log10TCID50
+per liter of air or milliliter of medium over time
+(Fig. 1B). The half-lives of SARS-CoV-2 and
+SARS-CoV-1 were similar in aerosols, with median estimates of approximately 1.1 to 1.2 hours
+and 95% credible intervals of 0.64 to 2.64 for
+SARS-CoV-2 and 0.78 to 2.43 for SARS-CoV-1
+(Fig. 1C, and Table S1 in the Supplementary Appendix). The half-lives of the two viruses were
+also similar on copper. On cardboard, the halflife of SARS-CoV-2 was longer than that of SARSCoV-1. The longest viability of both viruses was
+on stainless steel and plastic; the estimated median half-life of SARS-CoV-2 was approximately
+5.6 hours on stainless steel and 6.8 hours on
+plastic (Fig. 1C). Estimated differences in the halflives of the two viruses were small except for
+those on cardboard (Fig. 1C). Individual replicate
+data were noticeably “noisier” (i.e., there was
+more variation in the experiment, resulting in a
+larger standard error) for cardboard than for
+other surfaces (Fig. S1 through S5), so we advise
+caution in interpreting this result.
+We found that the stability of SARS-CoV-2
+was similar to that of SARS-CoV-1 under the experimental circumstances tested. This indicates
+that differences in the epidemiologic characteristics of these viruses probably arise from other
+factors, including high viral loads in the upper
+
+n engl j med﻿﻿  nejm.org﻿
+
+The New England Journal of Medicine
+Downloaded from nejm.org on March 28, 2020. For personal use only. No other uses without permission.
+Copyright © 2020 Massachusetts Medical Society. All rights reserved.
+
+1
+
+n engl j med
+
+100
+
+101
+
+102
+
+103
+
+104
+
+0
+
+0.5
+
+2.0
+
+Hours
+
+1.0
+
+Aerosols
+
+100
+
+101
+
+102
+
+103
+
+104
+
+100
+
+101
+
+102
+
+103
+
+104
+
+0
+
+0
+
+Hours
+
+1.0
+
+1.0
+
+nejm.org
+
+The New England Journal of Medicine
+Downloaded from nejm.org on March 28, 2020. For personal use only. No other uses without permission.
+Copyright © 2020 Massachusetts Medical Society. All rights reserved.
+3.0
+
+3.0
+
+40
+
+60
+
+80
+
+0
+
+20
+
+40
+
+60
+
+80
+
+0
+
+0
+
+4
+
+SARS-CoV-2
+
+SARS-CoV-1
+
+0
+
+2
+
+4
+
+6
+
+8
+
+8
+6
+
+10
+
+10
+
+Copper
+
+100
+
+100
+
+102
+
+102
+101
+
+103
+
+103
+
+101
+
+104
+
+104
+
+100
+0
+
+20
+
+40
+
+60
+
+80
+
+40
+
+60
+
+80
+
+100
+
+101
+
+102
+
+103
+
+104
+
+100
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+Hours
+
+SARS-CoV-1
+
+Cardboard
+
+20
+
+SARS-CoV-2
+
+0
+
+101
+
+101
+20
+
+102
+
+102
+100
+
+102
+
+103
+
+103
+101
+
+103
+
+104
+
+104
+
+Hours
+
+100
+
+101
+
+102
+
+103
+
+104
+
+104
+
+0
+
+Cardboard
+
+100
+
+100
+
+Copper
+
+101
+
+101
+0 1 4 8 24 48 72 96
+
+102
+
+102
+
+Cardboard
+
+0 1 4 8 24 48 72 96
+
+103
+
+103
+
+2
+
+SARS-CoV-2 SARS-CoV-1
+
+Aerosols
+
+3.0
+
+104
+
+Copper
+104
+
+2
+
+4
+
+6
+
+8
+
+10
+
+2.0
+
+2.0
+
+Aerosols
+
+C Half-Life of Viable Virus
+
+Titer
+(TCID50/liter of air)
+
+Titer
+(TCID50/liter of air)
+
+B Predicted Decay of Virus Titer
+
+Titer
+(TCID50/liter of air)
+
+A Titers of Viable Virus
+
+40
+
+40
+
+60
+
+60
+
+80
+
+80
+
+SARS-CoV-1
+
+Stainless Steel
+
+20
+
+20
+
+SARS-CoV-2
+
+0
+
+0
+
+Stainless Steel
+
+0 1 4 8 24 48 72 96
+
+Stainless Steel
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+100
+
+101
+
+102
+
+103
+
+104
+
+100
+
+101
+
+102
+
+103
+
+104
+
+100
+
+101
+
+102
+
+103
+
+104
+
+20
+
+20
+
+40
+
+40
+
+60
+
+60
+
+80
+
+80
+
+SARS-CoV-1
+
+Plastic
+
+SARS-CoV-2
+
+0
+
+0
+
+Plastic
+
+0 1 4 8 24 48 72 96
+
+Plastic
+
+SARS-CoV-1
+
+SARS-CoV-2
+
+SARS-CoV-1
+
+SARS-CoV-2
+
+of
+
+Half-Life (hr)
+
+Titer
+(TCID50/ml of medium)
+Titer
+(TCID50/ml of medium)
+Titer
+(TCID50/ml of medium)
+
+2
+n e w e ng l a n d j o u r na l
+
+Half-Life (hr)
+
+The
+
+m e dic i n e
+
+Correspondence
+
+Figure 1 (facing page). Viability of SARS-CoV-1 and
+SARS-CoV-2 in Aerosols and on Various Surfaces.
+As shown in Panel A, the titer of aerosolized viable
+virus is expressed in 50% tissue-culture infectious
+dose (TCID50) per liter of air. Viruses were applied to
+copper, cardboard, stainless steel, and plastic maintained at 21 to 23°C and 40% relative humidity over
+7 days. The titer of viable virus is expressed as TCID50
+per milliliter of collection medium. All samples were
+quantified by end-point titration on Vero E6 cells.
+Plots show the means and standard errors (I bars)
+across three replicates. As shown in Panel B, regression plots indicate the predicted decay of virus titer
+over time; the titer is plotted on a logarithmic scale.
+Points show measured titers and are slightly jittered
+(i.e., they show small rapid variations in the amplitude or timing of a waveform arising from fluctuations) along the time axis to avoid overplotting. Lines
+are random draws from the joint posterior distribution of the exponential decay rate (negative of the
+slope) and intercept (initial virus titer) to show the
+range of possible decay patterns for each experimental condition. There were 150 lines per panel, including 50 lines from each plotted replicate. As shown in
+Panel C, violin plots indicate posterior distribution for
+the half-life of viable virus based on the estimated exponential decay rates of the virus titer. The dots indicate the posterior median estimates, and the black
+lines indicate a 95% credible interval. Experimental
+conditions are ordered according to the posterior median half-life of SARS-CoV-2. The dashed lines indicate
+the limit of detection, which was 3.33×10 0.5 TCID50
+per liter of air for aerosols, 10 0.5 TCID50 per milliliter
+of medium for plastic, steel, and cardboard, and 101.5
+TCID50 per milliliter of medium for copper.
+
+respiratory tract and the potential for persons
+infected with SARS-CoV-2 to shed and transmit
+the virus while asymptomatic.3,4 Our results indicate that aerosol and fomite transmission of
+SARS-CoV-2 is plausible, since the virus can remain viable and infectious in aerosols for hours
+and on surfaces up to days (depending on the
+inoculum shed). These findings echo those with
+SARS-CoV-1, in which these forms of transmission
+were associated with nosocomial spread and super-spreading events,5 and they provide information for pandemic mitigation efforts.
+Neeltje van Doremalen, Ph.D.
+Trenton Bushmaker, B.Sc.
+National Institute of Allergy and Infectious Diseases
+Hamilton, MT
+
+Dylan H. Morris, M.Phil.
+Princeton University
+Princeton, NJ
+
+Myndi G. Holbrook, B.Sc.
+National Institute of Allergy and Infectious Diseases
+Hamilton, MT
+
+Amandine Gamble, Ph.D.
+University of California, Los Angeles
+Los Angeles, CA
+
+Brandi N. Williamson, M.P.H.
+National Institute of Allergy and Infectious Diseases
+Hamilton, MT
+
+Azaibi Tamin, Ph.D.
+Jennifer L. Harcourt, Ph.D.
+Natalie J. Thornburg, Ph.D.
+Susan I. Gerber, M.D.
+Centers for Disease Control and Prevention
+Atlanta, GA
+
+James O. Lloyd-Smith, Ph.D.
+University of California, Los Angeles
+Los Angeles, CA
+Bethesda, MD
+
+Emmie de Wit, Ph.D.
+Vincent J. Munster, Ph.D.
+National Institute of Allergy and Infectious Diseases
+Hamilton, MT
+vincent.munster@nih.gov
+Dr. van Doremalen, Mr. Bushmaker, and Mr. Morris contributed equally to this letter.
+The findings and conclusions in this letter are those of the
+authors and do not necessarily represent the official position of
+the Centers for Disease Control and Prevention (CDC). Names
+of specific vendors, manufacturers, or products are included for
+public health and informational purposes; inclusion does not
+imply endorsement of the vendors, manufacturers, or products
+by the CDC or the Department of Health and Human Services.
+Supported by the Intramural Research Program of the National Institute of Allergy and Infectious Diseases, National Institutes of Health, and by contracts from the Defense Advanced
+Research Projects Agency (DARPA PREEMPT No. D18AC00031,
+to Drs. Lloyd-Smith and Gamble), from the National Science
+Foundation (DEB-1557022, to Dr. Lloyd-Smith), and from the
+Strategic Environmental Research and Development Program of
+the Department of Defense (SERDP, RC-2635, to Dr. Lloyd-Smith).
+Disclosure forms provided by the authors are available with
+the full text of this letter at NEJM.org.
+This letter was published on March 17, 2020, at NEJM.org.
+1.	 Coronavirus disease (COVID-2019) situation reports. Gene-
+
+va:​World Health Organization, 2020 (https://www​
+.who​
+.int/​
+emergencies/​diseases/​novel​-­coronavirus​-­2019/​situation​-­reports/​).
+2.	 Wu A, Peng Y, Huang B, et al. Genome composition and divergence of the novel coronavirus (2019-nCoV) originating in
+China. Cell Host Microbe 2020;​27:​325-8.
+3.	 Bai Y, Yao L, Wei T, et al. Presumed asymptomatic carrier
+transmission of COVID-19. JAMA 2020 February 21 (Epub ahead
+of print).
+4.	 Zou L, Ruan F, Huang M, et al. SARS-CoV-2 viral load in upper respiratory specimens of infected patients. N Engl J Med.
+DOI:​ 10.1056/NEJMc2001737.
+5.	 Chen YC, Huang LM, Chan CC, et al. SARS in hospital emergency room. Emerg Infect Dis 2004;​10:​782-8.
+DOI: 10.1056/NEJMc2004973
+Correspondence Copyright © 2020 Massachusetts Medical Society.
+
+n engl j med﻿﻿  nejm.org﻿
+
+The New England Journal of Medicine
+Downloaded from nejm.org on March 28, 2020. For personal use only. No other uses without permission.
+Copyright © 2020 Massachusetts Medical Society. All rights reserved.
+
+3
+
+

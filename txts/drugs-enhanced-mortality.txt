@@ -1,0 +1,119 @@
+Are certain drugs associated with enhanced mortality in COVID-19 ?
+Format: Correspondence, QJM
+Words: 483
+First and Corresponding Author:
+Mark R. Goldstein, MD, FACP
+NCH Physician Group
+Center for Healthy Living
+132 Moorings Park Drive
+Naples, FL 34105, USA
+Email: markrgoldstein@comcast.net
+Phone: 239.624.1120
+Second Author:
+Gregory A. Poland, MD, MACP, FIDSA, FRCP (London)
+Mary Lowell Leary Emeritus Professor of Medicine, USA
+Distinguished Investigator of the Mayo Clinic, USA
+Director, Mayo Vaccine Research Group, USA
+Editor-in-Chief, VACCINE
+611C Guggenheim Building
+Mayo Clinic and Foundation
+Rochester, MN 55905, USA
+Third Author:
+Charles W. Graeber, MD
+Adjunct Assistant Professor of Medicine
+Mayo Clinic College of Medicine and Science
+Professor of Internal Medicine
+University of Central Florida, College of Medicine
+Program Director
+NCH Healthcare System Internal Medicine Residency
+Affiliate of the Mayo Clinic School of Medicine and Science
+Naples, FL 34102, USA
+Conflicts of Interest/Acknowledgements: Non
+
+© The Author(s) 2020. Published by Oxford University Press on behalf of the Association of Physicians.
+All rights reserved. For Permissions, please email: journals.permissions@oup.com
+
+Downloaded from https://academic.oup.com/qjmed/advance-article-abstract/doi/10.1093/qjmed/hcaa103/5812790 by guest on 28 March 2020
+
+References: 6
+
+Prevalent comorbidities for the development of severe pneumonia requiring intensive care
+unit treatment, acute respiratory distress syndrome (ARDS), and death from Coronavirus
+disease 2019 (COVID-19) include hypertension, diabetes and cardiovascular disease
+[1,2]. We posit that drugs commonly used in the treatment of those comorbidities may
+COVID-19; the drugs of primary concern include angiotensin receptor blockers (ARBs)
+used for blood pressure lowering and statins used for cholesterol lowering.
+Notably, angiotensin-converting enzyme 2 (ACE2) is the functional receptor for cell entry
+of the SARS-coronavirus 2 (SARS-CoV-2) and is abundantly expressed by alveolar type
+II epithelial cells [3]. Importantly, ARBs increase the expression of the ACE2 receptor;
+however, ACE-inhibitors do not change the expression of that receptor [4]. Therefore, it is
+possible that ARBs facilitate viral entry into alveolar epithelial cells resulting in a greater
+pathogenic pulmonary response.
+Disturbingly, statins might also promote the activation of the inflammasome pathway in
+ARDS resulting in increased levels of the proinflammatory cytokine, interleukin-18 (IL-18)
+[5], and, as a result, more severe disease due to an IL-18 induction of an interferon (IFN)
+γ-biased cytokine storm [6]. In support of this possibility, a retrospective analysis of a
+multicenter randomized, placebo-controlled trial testing the statin, rosuvastatin, for the
+treatment of infection related ARDS, yielded concerning results [5]. Baseline IL-18 levels
+were positively associated with subsequent morbidity and mortality. Moreover, subjects
+randomized to rosuvastatin 20 mg daily for the 28-day trial were more likely to exhibit a
+rise in IL-18 levels and that rise was significantly associated with increased mortality [5].
+Furthermore, subjects treated with systemic corticosteroid therapy were less apt to have
+a rise in IL-18 levels [5]; this might explain why methylprednisolone treatment decreased
+mortality in those with COVID-19 pneumonia associated ARDS from Wuhan, China [2].
+In conclusion, both ARBs and statins are the standard of care and commonly used in the
+chronic treatment of the comorbidities associated with severe COVID-19 pneumonia,
+ARDS and death. Through their mechanism of action, by ARBs increasing viral entry and
+statins increasing IL-18 levels, these drugs might synergistically promote severe
+pneumonia, ARDS, and death in the setting of COVID-19, particularly in older individuals
+who are more likely to be taking these drugs. Investigators reporting on COVID-19 clinical
+
+https://mc.manuscriptcentral.com/qjm
+
+Downloaded from https://academic.oup.com/qjmed/advance-article-abstract/doi/10.1093/qjmed/hcaa103/5812790 by guest on 28 March 2020
+
+actually increase the risk of severe pneumonia, ARDS and mortality in the setting of
+
+trials or retrospective studies should also include what drugs the subjects are taking at
+baseline and throughout the illness so the medical community can determine if indeed
+ARB or statin treatments portend a worse outcome with COVID-19. This is vitally important
+in a spreading pandemic, potentially victimizing an older population. In the meantime,
+for an ARB for blood pressure control and if statin treatment should be halted during the
+pandemic, particularly if statins are being used for the primary prevention of cardiovascular
+disease. Attention to this might save countless lives.
+
+References
+
+https://mc.manuscriptcentral.com/qjm
+
+Downloaded from https://academic.oup.com/qjmed/advance-article-abstract/doi/10.1093/qjmed/hcaa103/5812790 by guest on 28 March 2020
+
+clinicians need to decide on an individual basis if an ACE-inhibitor should be substituted
+
+[1] Guan W, Ni Z, Hu Y, Liang W, Ou C, He J, et al. for the China Medical Treatment
+Expert Group for Covid-19. Clinical characteristics of Coronavirus Disease 2019 in China.
+N Engl J Med 2020. Published online February 28, 2020. DOI: 10.1056/NEJMoa2002032.
+
+respiratory distress syndrome and death in patients with Coronavirus Disease 2019
+Pneumonia in Wuhan, China. JAMA Intern Med 2020. Published online March 13, 2020.
+DOI: 10.1001/jamainternmed.2020.0994.
+[3] Hoffmann M, Kleine-Weber H, Schroeder S, Krüger N, Herrier T, Erichsen S, et al.
+SARS-CoV-2 cell entry depends on ACE2 and TMPRSS2 and is blocked by a clinically
+proven protease inhibitor. Cell 2020;181:1-10. https://doi.org/10.1016/j.cell.2020.02.052.
+[4] Hilal-Dandan, Randa. “Renin and Angiotensin.” In Goodman & Gilman’s The
+Pharmacological Basis of Therapeutics, Thirteenth Edition, Edited by Laurence l. Brunton,
+471-488, McGraw Hill Education, 2018.
+[5] Rogers A, Guan J, Trtchounian A, Hunninghake G, Kaimal R, Desai M, et al.
+Association of elevated plasma interleukin-18 level with increased mortality in a clinical
+trial of statin treatment for acute respiratory distress syndrome. Crit Care Med
+2019;47:1089-1096.
+[6] Kaplanski G. Interleukin-18: Biological properties and role in disease pathogenesis.
+Immunol Rev 2018;281:138-153.
+
+https://mc.manuscriptcentral.com/qjm
+
+Downloaded from https://academic.oup.com/qjmed/advance-article-abstract/doi/10.1093/qjmed/hcaa103/5812790 by guest on 28 March 2020
+
+[2] Wu C, Chen X, Cai Y, Xia J, Zhou X, Xu S, et al Risk factors associated with acute
+
+

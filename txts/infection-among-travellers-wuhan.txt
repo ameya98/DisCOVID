@@ -1,0 +1,236 @@
+The
+
+n e w e ng l a n d j o u r na l
+
+of
+
+m e dic i n e
+
+C or r e sp ondence
+
+SARS-CoV-2 Infection among Travelers
+Returning from Wuhan, China
+To the Editor: As severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infections
+(causing coronavirus disease 2019 [Covid-19])
+spread globally, uncertainty surrounds estimates
+of the true number of infected persons, which is
+
+crucial to determining the severity of infection
+and the incidence of mild or asymptomatic cases
+and their possible transmission.1 Modeling estimates suggest that in Wuhan, China, the city with
+the most Covid-19 cases, there are substantially
+
+January 30, 2020: 97 persons arrived
+for boarding at an airport in Wuhan, China
+3 Febrile persons were denied
+boarding
+Same day: 94 boarded an evacuation flight
+in Wuhan and arrived in Singapore
+2 Febrile persons (Patients 1 and 2)
+were transferred to a hospital
+on arrival in Singapore
+
+2 Tested positive for SARS-CoV-2
+
+Before February 2, 2020, 6 persons
+reported symptoms and were
+transferred to a hospital
+
+6 Tested negative for SARS-CoV-2
+
+Same day: 92 were transferred to a
+government quarantine facility
+
+February 2, 2020: 76 of 86 persons
+were tested for SARS-CoV-2 at the
+government quarantine facility
+1 Asymptomatic person (Patient 3)
+tested positive for SARS-CoV-2 and
+1 person had an indeterminate result;
+both were transferred to a hospital
+February 5, 2020: all 87 persons at the
+government quarantine facility were tested
+for SARS-CoV-2 and had negative results
+
+All isolated persons were released from
+the government quarantine facility after
+a 14-day quarantine period
+
+Figure 1. Follow-up of 94 Persons who Boarded an Evacuation Flight from Wuhan, China, to Singapore on January 30,
+2020.
+Of the 6 persons who had been transferred to a hospital before February 2, 2020, 3 returned to the government
+quarantine facility and are included with the 87 persons who underwent testing at the facility on quarantine day 6
+(February 5, 2020). SARS-CoV-2 denotes severe acute respiratory syndrome coronavirus 2.
+
+n engl j med﻿﻿  nejm.org﻿
+
+The New England Journal of Medicine
+Downloaded from nejm.org on March 28, 2020. For personal use only. No other uses without permission.
+Copyright © 2020 Massachusetts Medical Society. All rights reserved.
+
+1
+
+The
+
+n e w e ng l a n d j o u r na l
+
+more cases than were officially reported, because
+milder cases may not have been captured in
+hospital-based surveillance.2,3 Data on travelers
+returning from areas with cases of Covid-19
+could be useful in estimating its incidence.4
+We followed up on 94 persons who boarded
+an evacuation flight from Wuhan to Singapore on
+January 30, 2020. Screening for body temperature
+was conducted at check-in and before boarding,
+and 3 febrile persons were prevented from boarding (Fig. 1); no additional information regarding
+the status of these 3 febrile persons was available. Surgical masks were provided to passengers
+on board the plane. On arrival in Singapore, the
+passengers underwent repeat screening for body
+temperature (fever was defined as a body temperature ≥38°C), and 2 persons (a woman 48 years
+of age [Patient 1] and a woman 47 years of age
+[Patient 2]) had a fever. The 2 febrile women
+were transferred immediately to a hospital, and
+they tested positive for SARS-CoV-2 (their clinical course is described in the Supplementary Appendix, available with the full text of this letter
+at NEJM.org).
+The remaining 92 afebrile passengers (age
+range, 2 to 82 years) were quarantined for 14 days
+at a government quarantine facility, where they
+were checked for symptoms and fever three times
+daily. Six persons reported symptoms (4 on quarantine day 2 and 2 on quarantine day 3) and
+were placed in isolation in a hospital and underwent polymerase-chain-reaction (PCR) testing;
+all 6 persons tested negative for SARS-CoV-2.
+On quarantine day 3, samples from 76 of the 86
+asymptomatic persons (75 nasopharyngeal swab
+samples and 1 nasal swab sample) were obtained
+and tested by means of PCR. A 17-year-old boy (the
+son of Patient 1) tested positive for Covid-19 and
+continued to have PCR-positive status for 2 weeks,
+and a 41-year-old man had an inconclusive result
+(positive for N gene and negative for ORF1ab gene).
+On quarantine day 6, samples from all 87 quarantined asymptomatic persons (85 nasopharyngeal
+swab samples and 2 nasal swab samples [3 of the
+6 persons who had been transferred to the hospital before February 2 had returned to the government quarantine facility]) were obtained and
+tested; all tested negative. All persons who were
+not isolated in the hospital were released from
+quarantine on day 14, and all remained uninfected with Covid-19. Understanding the impli-
+
+2
+
+of
+
+m e dic i n e
+
+cations of transmission of SARS-CoV-2 infection
+from persons with asymptomatic or very mild
+symptomatic cases of Covid-19 is vital for the
+formulation of containment strategies.
+Oon-Tek Ng, M.P.H.
+Kalisvar Marimuthu, M.B., B.S.
+Po-Ying Chia, M.B., B.S.
+Vanessa Koh, Ph.D.
+National Centre for Infectious Diseases
+Singapore, Singapore
+oon_tek_ng@ncid.sg
+kalisvar_marimuthu@ncid.sg
+
+Calvin J. Chiew, M.P.H.
+Ministry of Health
+Singapore, Singapore
+
+Liang De Wang, M.Sc.
+Barnaby E. Young, M.B., B.Chir.
+Monica Chan, B.M., B.S.
+Shawn Vasoo, M.B., B.S.
+Li-Min Ling, M.B., B.S.
+David C. Lye, M.B., B.S.
+National Centre for Infectious Diseases
+Singapore, Singapore
+
+Kai-qian Kam, M.Med.(Ped.)
+Koh-Cheng Thoon, M.Med.(Ped.)
+KK Women’s and Children’s Hospital
+Singapore, Singapore
+
+Lalitha Kurupatham, M.P.H.
+Zubaidah Said, M.P.H.
+Ethan Goh, M.P.H.
+Constance Low, M.P.H.
+Soon-Kok Lim, M.P.H.
+Pream Raj, M.P.H.
+Olivia Oh, Ph.D.
+Valerie T.J. Koh, M.P.H.
+Cuiqin Poh, M.P.H.
+Ministry of Health
+Singapore, Singapore
+
+Tze-Minn Mak, Ph.D.
+Lin Cui, Ph.D.
+National Centre for Infectious Diseases
+Singapore, Singapore
+
+Alex R. Cook, Ph.D.
+Saw Swee Hock School of Public Health
+Singapore, Singapore
+
+Raymond T.P. Lin, M.B., B.S.
+Yee-Sin Leo, M.P.H.
+National Centre for Infectious Diseases
+Singapore, Singapore
+yee_sin_leo@ncid.sg
+
+n engl j med﻿﻿  nejm.org﻿
+
+The New England Journal of Medicine
+Downloaded from nejm.org on March 28, 2020. For personal use only. No other uses without permission.
+Copyright © 2020 Massachusetts Medical Society. All rights reserved.
+
+Correspondence
+
+Vernon J.M. Lee, Ph.D.
+Ministry of Health
+Singapore, Singapore
+vernon_lee@moh.gov.sg
+Drs. Ng, Marimuthu, Leo, and Lee contributed equally to the
+study.
+Supported by the following grants from the National Medical
+Research Council, Ministry of Health, Singapore: Collaborative
+Solutions Targeting Antimicrobial Resistance Threats in Health
+Systems (CoSTAR-HS) (NMRC CGAug16C005), NMRC Clinician
+Scientist Award (MOH-000276), and NMRC Clinician Scientist
+Individual Research Grant (MOH-CIRG18nov-0006).
+Disclosure forms provided by the author are available with the
+full text of this letter at NEJM.org.
+Any opinions, findings, conclusions, or recommendations
+expressed in this material are those of the authors and do not
+reflect the views of the Ministry of Health or the National Medical Research Council.
+This article was published on March 12, 2020, at NEJM.org.
+
+1.	 World Health Organization. Novel coronavirus (2019-nCoV):​
+situation report - 12. February 2020 (https://www​.who​.int/​docs/​
+default​-­source/​coronaviruse/​situation​-­reports/​20200201​-­sitrep​-­12​
+-­ncov​.pdf?sfvrsn=273c5d35_2).
+2.	 Wu JT, Leung K, Leung GM. Nowcasting and forecasting the
+potential domestic and international spread of the 2019-nCoV
+outbreak originating in Wuhan, China: a modelling study. Lancet 2020;​395:​689-97.
+3.	 Imai N, Dorigatti I, Cori A, Riley S, Ferguson NM. Estimating
+the potential total number of novel Coronavirus cases in Wuhan
+City, China. London:​Imperial College London, January 17, 2020
+(https://www​.imperial​.ac​.uk/​media/​imperial​-­college/​medicine/​
+sph/​ide/​gida​-­fellowships/​2019​-­nCoV​-­outbreak​-­report​-­17​-­01​-­2020​
+.pdf).
+4.	 Hoehl S, Rabenau H, Berger A, et al. Evidence of SARS-CoV-2
+infection in returning travelers from Wuhan, China. N Engl J
+Med. DOI:​10.1056/NEJMc2001899.
+DOI: 10.1056/NEJMc2003100
+Correspondence Copyright © 2020 Massachusetts Medical Society.
+
+n engl j med﻿﻿  nejm.org﻿
+
+The New England Journal of Medicine
+Downloaded from nejm.org on March 28, 2020. For personal use only. No other uses without permission.
+Copyright © 2020 Massachusetts Medical Society. All rights reserved.
+
+3
+
+

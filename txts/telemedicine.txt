@@ -1,0 +1,281 @@
+The
+
+NEW ENGLA ND JOURNAL
+
+of
+
+MEDICINE
+
+Perspective
+﻿
+
+Virtually Perfect? Telemedicine for Covid-19
+Judd E. Hollander, M.D., and Brendan G. Carr, M.D.​​
+Virtually Perfect? Telemedicine for Covid-19
+
+R
+
+ecognizing that patients prioritize convenient
+and inexpensive care, Duffy and Lee recently
+asked whether in-person visits should become the second, third, or even last option for
+meeting patient needs.1 Previous
+work has specifically described the
+potential for using telemedicine
+in disasters and public health
+emergencies.2 No telemedicine
+program can be created overnight, but U.S. health systems
+that have already implemented
+telemedical innovations can leverage them for the response to
+Covid-19.
+A central strategy for health
+care surge control is “forward
+triage” — the sorting of patients
+before they arrive in the emergency department (ED). Direct-to-consumer (or on-demand) telemedicine, a 21st-century approach to
+forward triage that allows patients to be efficiently screened,
+is both patient-centered and conducive to self-quarantine, and it
+protects patients, clinicians, and
+the community from exposure. It
+
+can allow physicians and patients
+to communicate 24/7, using smartphones or webcam-enabled computers. Respiratory symptoms —
+which may be early signs of
+Covid-19 — are among the conditions most commonly evaluated
+with this approach. Health care
+providers can easily obtain detailed travel and exposure histories. Automated screening algorithms can be built into the intake
+process, and local epidemiologic
+information can be used to standardize screening and practice
+patterns across providers.
+More than 50 U.S. health systems already have such programs.
+Jefferson Health, Mount Sinai,
+Kaiser Permanente, Cleveland
+Clinic, and Providence, for example, all leverage telehealth technology to allow clinicians to see
+patients who are at home. Systems
+
+lacking such programs can outsource similar services to physicians and support staff provided
+by Teladoc Health or American
+Well. At present, the major barrier
+to large-scale telemedical screening for SARS-CoV-2, the novel coronavirus causing Covid-19, is
+coordination of testing. As the
+availability of testing sites expands, local systems that can test
+appropriate patients while minimizing exposure — using dedicated office space, tents, or in-car
+testing — will need to be developed and integrated into telemedicine workflows.
+Rather than expect all outpatient practices to keep up with rapidly evolving recommendations regarding Covid-19, health systems
+have developed automated logic
+flows (bots) that refer moderateto-high-risk patients to nurse triage lines but are also permitting
+patients to schedule video visits
+with established or on-demand
+providers, to avoid travel to in-person care sites. Jefferson Health’s
+telemedical systems have been suc-
+
+n engl j med﻿﻿  nejm.org ﻿
+
+The New England Journal of Medicine
+Downloaded from nejm.org on March 28, 2020. For personal use only. No other uses without permission.
+Copyright © 2020 Massachusetts Medical Society. All rights reserved.
+
+1
+
+Virtually Perfect? Telemedicine for Covid-19
+
+PERS PE C T IV E
+
+cessfully deployed to evaluate and
+treat patients without referring
+them to in-person care. When testing is needed, this approach requires centralized coordination
+with practice personnel as well as
+federal and local testing agencies.
+It is critical that practices not routinely refer patients to EDs, urgent
+care centers, or offices, which
+risks exposure of other patients
+and health care providers.
+Patients presenting for in-person care who screen positive for
+high-risk features should be isolated immediately to avert further
+contact with patients and health
+care workers. Before the Covid-19
+outbreak, many EDs modified the
+“provider-in-triage model” (rapid
+initial evaluation and testing) by
+allowing a remote provider to
+perform intake.3 Aurora Health,
+for example, partnered with a
+commercial telemedicine vendor,
+and others have developed their
+own software for this purpose.
+In an emergency situation, webconferencing software with a secure open line from a triage room
+to a clinician can be implemented
+relatively rapidly. Covering multiple sites with a single remote clinician can address some workforce challenges, but it is difficult
+to do if your software lacks a
+queuing function.
+Tablet computers can be
+cleaned between patients using
+well-defined infection-control procedures. In ambulatory care settings, patients screening positive
+at presentation can be given a tablet and isolated in an exam room.
+A telehealth visit can be conducted
+without exposing staff by using
+commercial systems or paired tablets allowing communication with
+a clinician through a dedicated
+connection. Because of supplychain challenges, we rapidly re-
+
+2
+
+purposed and deployed tablets
+we already had. We expect that
+Covid-19 testing will be more
+widely available shortly, but initially patients who were well enough
+to be sent home were quarantined
+there while home-based testing
+was coordinated. This system
+works for patients who are well but
+cannot totally eliminate health
+care workers’ exposure to sick
+patients who require procedures.
+Similar televisit systems are also
+being used for hospitalized patients to reduce exposure risks for
+visitors and staff.
+Electronic intensive care unit
+(e-ICU) monitoring programs,
+which allow nurses and physicians to remotely monitor the status of 60 to 100 patients in ICUs
+in multiple hospitals — such as
+services offered by Mercy Virtual
+Care Center, Sutter Health, and
+Sentara Healthcare — are ideal
+for monitoring sicker patients.
+Technological and staffing complexities make it impossible to
+create such a program on short
+notice, but rapid deployment of
+the two-tablet approach can reduce health care workers’ contact
+with infected patients in the ICU.
+Community paramedicine or
+mobile integrated health care programs allow patients to be treated
+in their homes, with higher-level
+medical support provided virtually. Houston’s Project ETHAN
+(Emergency Telehealth and Navigation) has used telemedical oversight by physicians to augment
+care offered in person by 911 responders, reducing the need for
+transportation to the ED.4 In the
+face of Covid-19, Avera Health is
+preparing to send mobile home
+health care units directly to patients and is coordinating homebased testing. For sicker patients
+at home, such programs can fa-
+
+cilitate evaluation before hospital
+transfer, potentially allowing them
+to bypass the ED and be placed
+directly in a hospital bed, reducing
+exposure for health care workers
+and other patients.
+Much medical decision making
+is cognitive, and telemedicine can
+provide rapid access to subspecialists who aren’t immediately available in person. This approach has
+been explored most fully in the
+context of stroke, for which systems such as Jefferson Health,
+Cleveland Clinic, and the University of Pittsburgh provide virtual
+emergency neurologic care at
+large numbers of hospitals. The
+Mount Sinai system leverages specialists at eight hospitals and more
+than 300 sites to provide virtual
+emergency consultations and distribute work among subspecialty
+providers. The barriers to implementing these programs are largely related to payment, credentialing, and staffing of specialists.
+Reports that as many as 100
+health care workers at a single institution have to be quarantined at
+home because of exposure to
+Covid-19 have raised concern about
+workforce capacity. At institutions
+with ED tele-intake or direct-toconsumer care, quarantined physicians can cover those services,
+freeing up other physicians to
+perform in-person care. Officebased practices can also employ
+quarantined physicians to care for
+patients remotely. The challenge
+is that other health professionals
+(nurses, medical assistants, physician assistants) also contribute
+to in-person care, and telemedicine cannot replace them all.
+To prepare for the worst-case
+scenario — a local pandemic that
+leaves health care workers quarantined, sick, or absent — Jefferson
+Health is deploying telehealth so
+
+n engl j med﻿﻿  nejm.org ﻿
+
+The New England Journal of Medicine
+Downloaded from nejm.org on March 28, 2020. For personal use only. No other uses without permission.
+Copyright © 2020 Massachusetts Medical Society. All rights reserved.
+
+PE R S PE C T IV E
+
+that clinicians can continue to
+care for established (nonexposed)
+patients by converting scheduled
+office visits to telemedicine visits.
+These visits can be conducted with
+both patient and clinician at home,
+greatly limiting travel and exposure and permitting uninterrupted care of established patients.
+Online training modules and remote training sessions are available for clinicians or patients who
+require just-in-time training or assistance during their first call.
+The main barriers to maintaining usual care by telemedicine
+require changes that are unlikely
+to come from the federal level.
+Commercial reimbursement, Medicaid reimbursement, and credentialing are the states’ domain.
+Only 20% of states require payment parity between telemedicine
+and in-person services.5 Fortunately, both the Centers for Medicare
+
+Virtually Perfect? Telemedicine for Covid-19
+
+and Medicaid Services and some
+local commercial payers have
+modified payment policy in response to Covid-19. We hope others will follow suit.
+Disasters and pandemics pose
+unique challenges to health care
+delivery. Though telehealth will
+not solve them all, it’s well suited
+for scenarios in which infrastructure remains intact and clinicians
+are available to see patients.
+Payment and regulatory structures, state licensing, credentialing across hospitals, and program
+implementation all take time to
+work through, but health systems
+that have already invested in telemedicine are well positioned to
+ensure that patients with Covid-19
+receive the care they need. In this
+instance, it may be a virtually perfect solution.
+Disclosure forms provided by the authors are available at NEJM.org.
+
+From Sidney Kimmel Medical College of
+Thomas Jefferson University, Philadelphia
+(J.E.H.); and Icahn School of Medicine at
+Mount Sinai, New York (B.G.C.).
+This article was published on March 11,
+2020, at NEJM.org.
+1.	 Duffy S, Lee TH. In-person health care
+
+as option B. N Engl J Med 2018;​378:​104-6.
+
+2.	 Lurie N, Carr BG. The role of telehealth
+
+in the medical response to disasters. JAMA
+Intern Med 2018;​178:​745-6 .
+3.	 Joshi AU, Randolph FT, Chang AM, et
+al. Impact of emergency department teleintake on left without being seen and
+throughput metrics. Acad Emerg Med 2020;​
+27:​139-47.
+4.	 Langabeer JR II, Gonzalez M, Alqusairi
+D, et al. Telehealth-enabled emergency medical services program reduces ambulance
+transport to urban emergency departments.
+West J Emerg Med 2016;​17:​713-20.
+5.	 Lacktman NM, Acosta JN, Levine SJ.
+50-State survey of telehealth commercial
+payer statutes. Foley.com/Telemedicine,
+December 2019 (https://www​.foley​.com/​​-­/​
+media/​f iles/​insights/​health​-­care​-­law​-­today/​
+19mc21486​-­50state​-­survey​-­of​-­telehealth​
+-­commercial​.pdf).
+DOI: 10.1056/NEJMp2003539
+Copyright © 2020 Massachusetts Medical Society.
+Virtually Perfect? Telemedicine for Covid-19
+
+n engl j med﻿﻿  nejm.org ﻿
+
+The New England Journal of Medicine
+Downloaded from nejm.org on March 28, 2020. For personal use only. No other uses without permission.
+Copyright © 2020 Massachusetts Medical Society. All rights reserved.
+
+3
+
+

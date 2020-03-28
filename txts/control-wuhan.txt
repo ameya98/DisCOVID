@@ -1,0 +1,1805 @@
+Articles
+
+The effect of control strategies to reduce social mixing on
+outcomes of the COVID-19 epidemic in Wuhan, China:
+a modelling study
+Kiesha Prem*, Yang Liu*, Timothy W Russell, Adam J Kucharski, Rosalind M Eggo, Nicholas Davies, Centre for the Mathematical Modelling of
+Infectious Diseases COVID-19 Working Group†, Mark Jit, Petra Klepac
+
+Summary
+
+Background In December, 2019, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), a novel coronavirus,
+emerged in Wuhan, China. Since then, the city of Wuhan has taken unprecedented measures in response to
+the outbreak, including extended school and workplace closures. We aimed to estimate the effects of physical
+distancing measures on the progression of the COVID-19 epidemic, hoping to provide some insights for the rest of
+the world.
+Methods To examine how changes in population mixing have affected outbreak progression in Wuhan, we used
+synthetic location-specific contact patterns in Wuhan and adapted these in the presence of school closures, extended
+workplace closures, and a reduction in mixing in the general community. Using these matrices and the latest
+estimates of the epidemiological parameters of the Wuhan outbreak, we simulated the ongoing trajectory of an
+outbreak in Wuhan using an age-structured susceptible-exposed-infected-removed (SEIR) model for several physical
+distancing measures. We fitted the latest estimates of epidemic parameters from a transmission model to data on
+local and internationally exported cases from Wuhan in an age-structured epidemic framework and investigated the
+age distribution of cases. We also simulated lifting of the control measures by allowing people to return to work in a
+phased-in way and looked at the effects of returning to work at different stages of the underlying outbreak (at the
+beginning of March or April).
+Findings Our projections show that physical distancing measures were most effective if the staggered return to work
+was at the beginning of April; this reduced the median number of infections by more than 92% (IQR 66–97) and
+24% (13–90) in mid-2020 and end-2020, respectively. There are benefits to sustaining these measures until April in
+terms of delaying and reducing the height of the peak, median epidemic size at end-2020, and affording health-care
+systems more time to expand and respond. However, the modelled effects of physical distancing measures vary by the
+duration of infectiousness and the role school children have in the epidemic.
+Interpretation Restrictions on activities in Wuhan, if maintained until April, would probably help to delay the epidemic
+peak. Our projections suggest that premature and sudden lifting of interventions could lead to an earlier secondary
+peak, which could be flattened by relaxing the interventions gradually. However, there are limitations to our analysis,
+including large uncertainties around estimates of R0 and the duration of infectiousness.
+
+Lancet Public Health 2020
+Published Online
+March 25, 2020
+https://doi.org/10.1016/
+S2468-2667(20)30073-6
+See Online/Comment
+https://doi.org/10.1016/
+S2468-2667(20)30072-4
+*Contributed equally
+†Members are listed at the end
+of the Article
+Centre for Mathematical
+Modelling of Infectious
+Diseases, Department of
+Infectious Disease
+Epidemiology, London School
+of Hygiene & Tropical Medicine,
+London, UK (K Prem PhD,
+Y Liu PhD, T W Russell PhD,
+A J Kucharski PhD, R M Eggo PhD,
+N Davies PhD, Prof M Jit PhD,
+P Klepac PhD)
+Correspondence to:
+Dr Kiesha Prem, Centre for
+Mathematical Modelling
+of Infectious Diseases,
+Department of Infectious Disease
+Epidemiology, London School of
+Hygiene & Tropical Medicine,
+London WC1E 7HT, UK
+kiesha.prem@lshtm.ac.uk
+
+Funding Bill & Melinda Gates Foundation, National Institute for Health Research, Wellcome Trust, and Health Data
+Research UK.
+Copyright © 2020 The Author(s). Published by Elsevier Ltd. This is an Open Access article under the CC BY 4.0
+license.
+
+Introduction
+Severe acute respiratory syndrome coronavirus 2
+(SARS-CoV-2), a novel coronavirus, emerged in the city
+of Wuhan, Hubei, China, in early December, 2019.1,2
+Since then, the local and national governments have
+taken unprecedented measures in response to the
+coronavirus disease 2019 (COVID-19) outbreak caused by
+SARS-CoV-2.3 Exit screening of passengers was shortly
+followed by travel restrictions in Wuhan on Jan 23, 2020,
+halting all means of unauthorised travel into and
+out of the city. Similar control measures were extended
+to the entire province of Hubei by Jan 26, 2020.3
+
+Non-pharmaceutical physical distancing inter­
+ventions,
+such as extended school closures and workplace dis­
+tancing, were introduced to reduce the impact of the
+COVID-19 outbreak in Wuhan.4 Within the city, schools
+remained closed, Lunar New Year holidays were extended
+so that people stayed away from their workplaces, and
+the local government promoted physical distancing
+and encouraged residents to avoid crowded places.
+These measures greatly changed age-specific mixing
+patterns within the population in previous outbreak
+response efforts for other respiratory infectious
+diseases.5,6 Although travel restrictions undoubtedly
+
+www.thelancet.com/public-health Published online March 25, 2020 https://doi.org/10.1016/S2468-2667(20)30073-6	
+
+1
+
+Articles
+
+Research in context
+Evidence before this study
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
+emerged in Wuhan, China in late 2019. In mid-January, 2020,
+schools and workplaces closed as part of the Lunar New Year
+holidays. These closures were then extended to prevent
+SARS-CoV-2 spread. The intended effect of such physical
+distancing measures was to reduce person-to-person contact,
+which spreads infectious diseases. Epidemic parameters, such as
+time-dependent reproduction numbers governing SARS-CoV-2
+transmission in Wuhan, have been estimated based on local
+and internationally exported cases. The frequency of contacts in
+different age groups and locations (schools, workplaces,
+households, and others) in China has also been previously
+estimated. We searched PubMed and medRxiv for studies
+published in English up to March 7, 2020, with the terms
+“coronavirus AND (school OR work) AND (Wuhan OR Hubei)”
+and identified 108 and 130 results, respectively. However, to
+our knowledge, no published article has reported use of
+location-specific transmission models that consider the impacts
+of school or workplace closures to study the spread of
+SARS-CoV-2 in Wuhan.
+
+had a role in reducing exportations of infections outside
+Wuhan and delayed the onset of outbreaks in other
+regions,7,8 changes in mixing patterns affected the tra­
+jectory of the outbreak within Wuhan itself. To estimate
+the effects of physical distancing measures on
+the progression of the COVID-19 epidemic, we look at
+Wuhan, hoping to provide some insights for the rest of
+the world.
+Person-to-person transmission is mostly driven by
+who interacts with whom,9,10 which can vary by age and
+location of the contact (ie, school, work, home, and
+community). Under the context of a large-scale ongoing
+outbreak, contact patterns would drastically shift from
+their baseline conditions. In the COVID-19 outbreak in
+Wuhan, physical distancing measures, including but not
+limited to school and workplace closures and health
+promotions that encourage the general public to avoid
+crowded places, are designed to drastically shift social
+mixing patterns and are often used in epidemic settings.4
+Although contact patterns can be inferred from reported
+social contact data that include information on which
+setting the contact took place in, such studies are often
+focused on high-income countries,11 or particular highdensity areas.12 This limitation can be addressed by
+quantifying contact patterns in the home, school, work,
+and other locations across a range of countries based on
+available information from household-level data and
+local population demographic structures.13
+To examine how these changes in population mixing
+have affected the outbreak progression, we used synthetic
+location-specific contact patterns in Wuhan and adapted
+these in the presence of school closures, extended
+2	
+
+Added value of this study
+We built an age-specific and location-specific transmission
+model to assess progression of the Wuhan outbreak under
+different scenarios of school and workplace closure.
+We found that changes to contact patterns are likely to have
+substantially delayed the epidemic peak and reduced the
+number of coronavirus disease 2019 (COVID-19) cases in
+Wuhan. If these restrictions are lifted in March, 2020, a
+second peak of cases might occur in late August, 2020.
+Such a peak could be delayed by 2 months if the restrictions
+were relaxed a month later, in April, 2020.
+Implications of all the available evidence
+The measures put in place to reduce contacts in school and
+work are helping to control the COVID-19 outbreak by affording
+health-care systems time to expand and respond. Authorities
+need to carefully consider epidemiological and modelling
+evidence before lifting these measures to mitigate the
+impact of a second peak in cases.
+
+workplace closures, and reduction in mixing in the
+general community. Using these matrices and the latest
+estimates of the epidemiological parameters of the Wuhan
+outbreak,1,9,14–16 we simulated the ongoing trajectory of an
+outbreak in Wuhan using an age-structured susceptibleexposed-infected-removed (SEIR) model17,18 for several
+physical distancing measures.
+
+Methods
+
+SEIR model
+We simulated the outbreak in Wuhan using a deter­
+ministic stage-structured SEIR model over a 1 year
+period, during which the modelled outbreak peters out.
+An implication of this approach is that all demographic
+changes in the population (ie, births, deaths, and ageing)
+are ignored.
+We divided the population according to the infection
+status into susceptible (S), exposed (E), infected (I), and
+removed (R) individuals, and according to age into 5-year
+bands until age 70 years and a single category aged 75
+and older (resulting in 16 age categories). Susceptible
+individuals might acquire the infection at a given rate
+when they come in contact with an infectious person and
+enter the exposed disease state before they become
+infectious and later either recover or die. We assumed
+Wuhan to be a closed system with a constant population
+size of 11 million (ie, S + E + I + R=11 million) throughout
+the course of this epidemic. We used the SEIR model
+presented in figure 1. The age-specific mixing patterns of
+individuals in age group i alter their likelihood of being
+exposed to the virus given a certain number of infectious
+people in the population. Additionally, we incorporated
+
+www.thelancet.com/public-health Published online March 25, 2020 https://doi.org/10.1016/S2468-2667(20)30073-6
+
+Articles
+
+Where β is the transmission rate (scaled to the right
+value of R0), Ci,j describe the contacts of age group j made
+by age group i, κ=1-exp(–1/dL) is the daily probability of an
+exposed individual becoming infectious (with dL being
+the average incubation period), and γ=1–exp(–1/dI) is
+the daily probability that an infected individual recovers
+when the average duration of infection is dI. We
+also incorporated contributions of asymptomatic and
+subclinical cases, 1–ρi denotes the probability of an
+infected case being asymptomatic or subclinical. We
+assumed that younger individuals are more likely to be
+asymptomatic (or subclinical) and less infectious
+(proportion of infectiousness compared to Ic, α).
+Using parameters from the literature as presented in
+the table, we simulated the outbreak. We assumed the
+mean incubation period and mean infectious period to
+be 6·4 days16 and 3 days or 7 days,22 respectively. Each
+simulation started with 200 or 2000 infectious individuals
+I0,15 with the rest of the population being in the susceptible
+state. We explored the uncertainty in the model by
+drawing R0 values uniformly from the 95% CI from the
+posterior of the R0 distribution from the semi-mechanistic
+model by Kucharski and colleagues (appendix p 2).14
+
+Social mixing and interventions
+Social mixing patterns vary across locations, including
+households, workplaces, schools, and other locations.
+Therefore, we used the method set out by Prem and
+colleagues,13 which accounts for these differences and
+obtains the location-specific contact matrices (C) for
+different scenarios. In a normal setting, contacts made at
+all of these locations contribute to the overall mixing
+pattern in a population, so we summed contacts across
+the different locations to obtain our baseline contact
+
+ne
+Ju
+
+ay
+M
+
+Ap
+
+be
+m
+ve
+
+Ju
+ly
+Au
+gu
+st
+Se
+pt
+em
+be
+r
+Oc
+to
+be
+r
+No
+ve
+m
+be
+r
+De
+ce
+m
+be
+r
+
+sc
+
+No
+
+c
+
+Ri,t + 1 = Ri,t + γIj,t + 1 + γIj,t + 1
+
+r
+
+sc
+
+Ij,t + 1 = (1 – ρi)κEi,t + (1 – γ)Ij,t
+
+ar
+
+c
+
+Ij,t + 1 = ρiκEi,t + (1 – γ)Ij,t
+
+ril
+
+S3b
+
+Intense control measure and staggered relaxing of interventions in April
+School break
+Extended workplace distancing
+Reduction in mixing in community
+
+j=1
+
+ch
+
+Intense control measure and staggered relaxing of interventions in March
+School break
+Extended workplace distancing
+Reduction in mixing in community
+
+M
+
+– (1 – κ)Ei,t
+
+S3a
+
+ry
+Fe
+br
+ua
+ry
+
+j=1
+
+sc
+i,j j,t
+
+Baseline no intervention, winter school break, and Lunar New Year holidays
+School break
+Lunar New Year holidays
+
+r
+
+i,t
+
+γ
+
+S2
+
+ua
+
+c
+i,j j,t
+
+lsci
+
+Theoretical no intervention, no winter school break, and no Lunar New Year holidays
+
+be
+
+n
+
+Σ C I + αβS Σ C I
+
+Ri
+
+Jan
+
+sc
+i,j j,t
+
+Ei
+
+S1
+
+m
+
+n
+
+Ei,t + 1 = β
+
+ΣC I
+j=1
+
+j=1
+
+γ
+
+lci
+
+(1–ρi )κ
+
+ce
+
+Σ
+
+n
+
+c
+
+Ci,jIj,t – αβSi,t
+
+φi
+
+Si
+
+De
+
+n
+
+Si,t + 1 = Si,t – βSi,t
+
+ρiκ
+
+Intervention scenarios
+
+contributions of asymptomatic and subclinical cases;
+however, the question of whether such individuals are
+able to transmit infection remains unresolved at the time
+of writing, although evidence suggests that they are likely
+to.19 We also considered a scenario in which we assumed
+that younger individuals are more likely to be asympt­
+omatic (or subclinical) and less infectious than older
+individuals.20,21
+For a given age group i, epidemic transitions can be
+described by
+
+2020
+
+2019
+
+Figure 1: Age-structured SEIR model and details of the modelled physical distancing interventions
+According to infection status, we divided the population into susceptible (S), exposed (E), infected (I), and
+removed (R) individuals. An infected individual in an age group can be clinical (Ic) or subclinical (Isc), and ρi refers to
+the probability that an individual is symptomatic or clinical. The age-specific mixing patterns of individuals in age
+group i, Ci,j, alter their likelihood of being exposed to the virus given a certain number of infected individuals in the
+population. Younger individuals are more likely to be asymptomatic and less infectious, ie, subclinical. When ρi=0
+for all i, the model simplifies to a standard SEIR. The force of infection φi,t is given by (βΣjCi,jICj,t+αβΣjCi,jISCj,t,
+where β is the transmission rate and α is the proportion of transmission that resulted from a subclinical individual.
+SEIR= susceptible-exposed-infected-removed.
+Values
+
+References
+
+Basic reproduction number, R0
+
+2·2 (1·6–3·0)*
+
+Kucharski et al14
+
+Average incubation period, dL
+
+6·4 days
+
+Backer et al16
+
+Average duration of infection, dI
+
+3 days or 7 days
+
+Woelfel et al22
+
+Initial number of infected, I0
+Pr(infected case is clinical), ρi
+
+200 or 2000
+0 or 0·4, for i≤4
+
+Abbott et al15
+Bi et al20
+
+Pr(infected case is clinical), ρi
+
+0 or 0·8, for i>4
+
+Davies21
+
+Pr(infection acquired from subclinical), α
+
+0·25
+
+Liu et al19
+
+*Data are median (IQR). Pr represents the probability of an event. The parameters dL and dI represent the mean
+incubation period and duration of infectiousness, respectively.
+
+Table: Parameters of the susceptible-exposed-infected-removed model
+
+pattern in the population before the outbreak (figure 2;
+appendix pp 1–2). In an outbreak setting, different
+intervention strategies are aimed at reducing social
+mixing in different contexts to lower the overall
+transmission in the population. To simulate the effects of
+interventions aimed at reducing social mixing, we
+created synthetic contact matrices for each intervention
+scenario from these building block matrices.
+We considered the following three scenarios: first
+scenario, theoretical: assumed no change to social mixing
+patterns at all location types, no school term break, and no
+Lunar New Year holidays; second scenario, no inter­
+ventions, winter school break in Wuhan, and Lunar New
+
+www.thelancet.com/public-health Published online March 25, 2020 https://doi.org/10.1016/S2468-2667(20)30073-6	
+
+See Online for appendix
+
+3
+
+Articles
+
+Mean number of contacs per day
+0
+
+Age of contact (years)
+
+80
+70
+60
+50
+40
+30
+20
+10
+0
+
+Age of contact (years)
+
+80
+70
+50
+50
+40
+30
+20
+10
+0
+
+Age of contact (years)
+
+80
+70
+50
+50
+40
+30
+20
+10
+0
+
+Age of contact (years)
+
+Normal
+
+A
+
+80
+70
+50
+50
+40
+30
+20
+10
+0
+
+1
+
+2
+
+3
+
+≥4
+
+All
+
+K
+
+C
+
+D
+
+Work
+
+School
+
+E
+
+G
+
+H
+
+I
+
+J
+
+L
+
+M
+
+N
+
+O
+
+Q
+
+R
+
+S
+
+T
+
+Other locations
+
+Propotion at work: 25%
+Proportion at school: 0%
+
+Intense control measures
+
+Home
+
+Propotion at work: 10%
+Proportion at school: 0%
+
+Outbreak setting
+
+F
+
+B
+
+P
+
+Propotion at work: 50%
+Proportion at school: 0%
+
+0 10 20 30 40 50 60 70 80
+
+0 10 20 30 40 50 60 70 80
+
+0 10 20 30 40 50 60 70 80
+
+0 10 20 30 40 50 60 70 80
+
+0 10 20 30 40 50 60 70 80
+
+Age of individual (years)
+
+Age of individual (years)
+
+Age of individual (years)
+
+Age of individual (years)
+
+Age of individual (years)
+
+Figure 2: Synthetic age-specific and location-specific contact matrices for China under various physical distancing scenarios during the intense control period for China
+Synthetic age-specific contact patterns across all locations, at home, in the workplace, in school, and at other locations during normal circumstances (ie, under no intervention) are presented in
+panels A to E. Age-specific and location-specific contact matrices under the various physical distancing interventions are presented in panels F to T. Darker colour intensities indicate higher proclivity of
+making the age-specific contact.
+
+Year holidays: assumed no physical distancing control
+measures, school-going individuals did not have any
+contacts at school because of school holidays from Jan 15,
+to Feb 10, 2020, and 10% and later 75% of workforce would
+be working during the holidays from Jan 25, to Jan 31, 2020,
+and from Feb 1, to Feb 10, 2020, respectively; and third
+scenario, intense control measures in Wuhan to contain
+the outbreak: assumed school closure and about 10% of
+workforce (eg, health-care personnel, police, and other
+4	
+
+essential government staff) would be working even during
+the control measures (figures 1, 2). For the third scenario,
+we modelled the effect of the intense control measures
+ending at the beginning of March or April, and we allowed
+for a staggered return to work while the school remained
+closed (ie, 25% of the workforce working in weeks one and
+two, 50% of the workforce working in weeks three and
+four, and 100% of the workforce working and school
+resuming (figure 2).3,23,24
+
+www.thelancet.com/public-health Published online March 25, 2020 https://doi.org/10.1016/S2468-2667(20)30073-6
+
+Articles
+
+Theoretical no intervention
+School break and Lunar New Year
+Relax intervention in March
+Relax intervention in April
+School winter holidays
+Intense control measures
+Staggered relax of interventions (March)
+Staggered relax of interventions (April)
+
+A
+
+Children as infectious
+
+80
+
+80
+
+60
+
+60
+
+40
+
+40
+
+20
+
+20
+
+0
+
+0
+
+C
+
+D
+
+10 000
+
+3000
+
+2000
+
+6000
+
+1500
+4000
+
+1000
+
+2000
+
+500
+0
+
+E
+
+F
+
+100
+
+100
+
+80
+
+80
+
+60
+
+60
+
+40
+
+40
+
+20
+
+20
+
+0
+
+0
+
+G
+
+H
+
+10 000
+
+3000
+2500
+
+8000
+
+2000
+
+6000
+
+1500
+4000
+
+1000
+
+2000
+
+500
+0
+
+No
+
+ve
+m
+De be
+ce r
+m
+b
+Jan er
+ua
+Fe ry
+br
+ua
+ry
+M
+ar
+ch
+Ap
+ril
+M
+ay
+Ju
+ne
+Ju
+l
+A y
+Se ugu
+pt st
+em
+b
+Oc er
+t
+No obe
+ve r
+m
+De be
+ce r
+m
+be
+r
+
+0
+
+2019
+
+2020
+
+ve
+m
+De be
+ce r
+m
+b
+Jan er
+ua
+Fe ry
+br
+ua
+ry
+M
+ar
+ch
+Ap
+ril
+M
+ay
+Ju
+ne
+Ju
+l
+A y
+Se ugu
+pt st
+em
+b
+Oc er
+t
+No obe
+ve r
+m
+De be
+ce r
+m
+be
+r
+
+Cumulative incidence (%)
+in individuals aged 10 to <15
+
+Children less infectious
+
+2500
+
+8000
+
+0
+
+New cases per day
+in individuals aged 10 to <15
+
+B
+100
+
+No
+
+New cases per day
+in individuals aged 55 to <60
+
+Cumulative incidence (%)
+in individuals aged 55 to <60
+
+100
+
+2019
+
+2020
+
+Figure 3: Effects of different intervention strategies on cumulative incidence and new cases per day among individuals aged 55 to <60 years (A to D) and
+10 to <15 years (E to H) from late 2019 to end-2020
+
+www.thelancet.com/public-health Published online March 25, 2020 https://doi.org/10.1016/S2468-2667(20)30073-6	
+
+5
+
+B
+150
+New cases per day (thousands)
+
+A
+100
+80
+60
+40
+20
+
+C
+
+40
+20
+
+em
+b
+ce er
+m
+be
+Jan r
+u
+Fe ary
+br
+ua
+ry
+M
+ar
+ch
+Ap
+ril
+M
+ay
+Ju
+ne
+Ju
+l
+Au y
+g
+Se u
+s
+pt
+em t
+b
+Oc er
+t
+No obe
+ve r
+m
+De ber
+ce
+m
+be
+r
+
+2020
+Age 0 to <5
+
+5
+
+2019
+
+D
+
+Age 5 to <15
+
+15
+
+2020
+
+E
+
+Age 15 to <25
+
+50
+
+4
+
+40
+10
+
+3
+2
+
+30
+20
+
+5
+
+1
+
+10
+0
+
+F
+
+Age 25 to <60
+
+G
+10
+
+80
+
+8
+
+60
+
+6
+
+40
+
+4
+
+20
+
+2
+
+0
+
+0
+
+No
+v
+De em
+ce ber
+m
+Jan be
+r
+Fe uar
+br y
+ua
+M ry
+ar
+c
+Ap h
+ri
+M l
+a
+Ju y
+ne
+Ju
+Se Aug ly
+pt us
+em t
+O b
+No cto er
+ve be
+De mb r
+ce er
+m
+be
+r
+
+100
+
+2019
+
+2020
+
+0
+Age 60 to <80
+
+No
+v
+De em
+ce ber
+m
+Jan be
+r
+Fe uar
+br y
+ua
+M ry
+ar
+c
+Ap h
+ri
+M l
+a
+Ju y
+ne
+Ju
+Se Aug ly
+pt us
+em t
+O b
+No cto er
+ve be
+De mb r
+ce er
+m
+be
+r
+
+0
+
+2019
+
+2020
+
+Theoretical no intervention
+School break and Lunar New Year
+Relax intervention in March
+Relax intervention in April
+School winter holidays
+Intense control measures
+Staggered relax of interventions (March)
+Staggered relax of interventions (April)
+
+No
+v
+De em
+ce ber
+m
+Jan be
+r
+Fe uar
+br y
+ua
+M ry
+ar
+c
+Ap h
+ri
+M l
+ay
+Ju
+ne
+Ju
+Se Aug ly
+pt us
+em t
+O b
+No cto er
+ve be
+De mb r
+ce er
+m
+be
+r
+
+New cases per day (thousands)
+
+60
+
+De
+
+De
+
+No
+v
+
+2019
+
+New cases per day (thousands)
+
+80
+
+0
+
+em
+b
+ce er
+m
+be
+Jan r
+u
+Fe ary
+br
+ua
+ry
+M
+ar
+ch
+Ap
+ril
+M
+ay
+Ju
+ne
+Ju
+l
+Au y
+g
+Se u
+pt st
+em
+b
+Oc er
+t
+No obe
+ve r
+m
+De ber
+ce
+m
+be
+r
+
+0
+
+100
+
+No
+v
+
+Cumulative incidence (%)
+
+Articles
+
+2019
+
+2020
+
+Figure 4: Effects of different physical distancing measures on cumulative incidence (A) and new cases per day (B), and age-specific incidence per day (C to G)
+from late 2019 to end-2020
+Results depicted here assume an infectious period of 7 days. Median cumulative incidence, incident cases per day, and age-specific incidence per day are represented
+as solid lines. Shaded areas around the coloured lines in panel A represent the IQR.
+
+Analyses and model building were done in R
+version 3.6.2.
+
+Role of the funding source
+The funder of the study had no role in study design, data
+collection, data analysis, data interpretation, or writing of
+the report. The corresponding author had full access to
+all the data in the study and had final responsibility for
+the decision to submit for publication.
+6	
+
+Results
+Our simulations showed that control measures aimed
+at reducing social mixing in the population can be
+effective in reducing the magnitude and delaying the
+peak of the COVID-19 outbreak. For different control
+measures among individuals aged 55 to <60 years
+and 10 to <15 years, the standard school winter
+break and holidays for the Lunar New Year would
+have had little effect on progression of the outbreak
+
+www.thelancet.com/public-health Published online March 25, 2020 https://doi.org/10.1016/S2468-2667(20)30073-6
+
+Articles
+
+Discussion
+COVID-19, a contact-transmissible infectious disease, is
+thought to spread through a population via direct contact
+between individuals.1,9,10 Outbreak control measures
+aimed at reducing the amount of mixing in the
+population have the potential to delay the peak and
+reduce the final size of the epidemic. To evaluate
+the effect of location-specific physical distancing
+measures—such as extended school closures and
+interventions in workplaces—on the timing and
+magnitude of the peak and the final size of the epidemic,
+we accounted for these heterogeneities in contact
+networks in our model. We simulated outbreaks
+and modelled the interventions by scaling down the
+appropriate component of the contact mixing matrices
+for China.
+
+A
+
+Cases averted (%)
+
+Children less infectious
+
+Relax interventions in April
+Relax interventions in March
+School break and Lunar New Year
+
+80
+Infectious period: 3 days
+
+B
+
+Children as infectious
+
+100
+
+60
+40
+20
+0
+
+C
+
+D
+
+100
+
+Cases averted (%)
+
+80
+Infectious period: 7 days
+
+had schools and workplaces reopened as normal
+(figure 3).
+We present the median cumulative incidence, incident
+cases per day, and age-specific incidence per day of
+200 simulated outbreaks (figure 4). Intense control
+measures of prolonged school closure and work holidays
+reduced the cumulative infections by end-2020 and peak
+incidence, while also delaying the peak of the outbreak
+(figure 4). Our model suggests that the effects of these
+physical distancing strategies vary across age categories;
+the reduction in incidence is highest among school
+children and older individuals and lowest among
+working-age adults (figure 4; figure 5).
+Physical distancing measures were most effective if the
+staggered return to work was at the beginning of April;
+this reduced the median number of infections by more
+than 92% (IQR 66–97) and 24% (13–90) in mid-2020 and
+end-2020, respectively (figure 5; appendix p 3), should
+the disease have a longer duration of infectiousness, and
+reduced the magnitude and delayed peak incidence
+across all age categories (figure 4), which could have had
+further beneficial impact by relieving the pressure on the
+health-care system in the immediate few months after
+the outbreak began. Uncertainty in R0 values has a large
+effect on the timing of the epidemic peak and final size of
+the outbreak (figure 4).
+The modelled effects of the intense control measures
+of prolonged school closure and work holidays vary by
+the duration of infectiousness. If the disease had a short
+infectious period (3 days), then our model suggests
+that relaxing physical distancing interventions in March
+(figure 5; appendix p 4) could avert around 30% of cases
+in school children and older individuals. Fewer cases
+could be averted by end-2020 should the disease have a
+longer duration of infectiousness (eg, 7 days; figure 5);
+physical distancing interventions would need to be
+relaxed a month later (in April) to observe a larger effect.
+If children were less infectious, lifting physical distancing
+interventions in April instead of March could engender
+additional health benefits (figure 5; appendix pp 5–6).
+
+60
+40
+20
+0
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+0
+
+10
+
+20
+
+Age (years)
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+Age (years)
+
+Figure 5: Modelled proportion of number of infections averted by end-2020 by age for different physical
+distancing measures, assuming the duration of infectiousness to be 3 days (A, B) or 7 days (C, D)
+The additional proportions of cases averted (compared with no intervention) are presented across age and by the
+different physical distancing measures.
+
+Mathematical models can help us understand how
+SARS-CoV-2 could spread across the population and
+inform control measures that might mitigate future
+transmission.25,26 We simulated the trajectory of the
+ongoing outbreak of COVID-19 in Wuhan using an agestructured SEIR model.17,18 As individuals’ mixing patterns
+are non-random, they influence the transmission
+dynamics of the disease.11 Models that assess the effective­
+ness of physical distancing interventions, such as school
+closure, need to account for social structures
+and heterogeneities in mixing of individuals.27–31 In our
+model, we incorporated changes to age-specific and
+location-specific social mixing patterns to estimate the
+effects of location-specific physical distancing
+interventions in curtailing the spread of the outbreak.
+The measures put in place to reduce contacts at schools
+and workplaces are helping control the outbreak by
+providing the health-care system with the time and
+opportunity to expand and respond. Consequently, if
+these restrictions are lifted prematurely, while there are
+still enough susceptible people to keep the Re>1 once
+contacts increase, the number of infections would
+increase. Realistically, interventions are lifted slowly,
+partly as an attempt to avoid a sharp increase in infection,
+but also for logistical and practical reasons. Therefore, we
+simulated lifting the interventions in a staggered fashion.
+
+www.thelancet.com/public-health Published online March 25, 2020 https://doi.org/10.1016/S2468-2667(20)30073-6	
+
+7
+
+Articles
+
+Evidence of the effects of various physical dis­tancing
+measures on containing the outbreak are scarce and
+little is known about the behavioural changes of
+individuals over time, either during an outbreak or
+otherwise. Therefore, to model the effects of the physical
+distancing measures implemented in Wuhan, we
+assumed the effect that certain types of physical dis­
+tancing have on age-specific and location-specific
+contact rates.
+Much is unknown about the true age-specific sus­
+ceptibility and transmissibility of COVID-19. Therefore,
+we assumed no heterogeneity in susceptibility between
+children. Furthermore, for simplicity, we assumed that
+children and adults were equally transmissible, other
+than the differences in their contact rates (subclinical
+children could be more infectious than subclinical adults;
+appendix pp 5–6). Similar to an influenza-like pathogen,
+our model suggests that interac­
+tions between school
+children and older individuals in the population have
+important public health implications, as children might
+have high infection rates but the elderly are more
+vulnerable to severe infections, with potentially fatal
+outcomes.32,33 However, unlike models built for pandemic
+or seasonal flu, we accounted for the lack of population
+immunity to SARS-CoV-2.
+This study describes a mathematical model that
+quantifies the potential impacts of physical distancing
+policies, relying on Wuhan as a case study. Epidemio­
+logical investigations during the WHO-China Joint
+Mission on COVID-19 found many infections clustered
+around households.34 Extreme physical distancing
+measures, including school closures, workplace closures,
+and avoidance of any public gatherings all at once can
+push the transmission to households, leading to increased
+clustering of household cases.5 As households are not
+explicitly included in the model, we did not consider
+heterogeneity and clustering of household transmission.
+Distinguishing between repeated and new contacts is
+important for disease propagation in contact network
+models;35,36 more sophisticated methods that account for
+temporal presence within the household37 would be
+needed to characterise higher degrees of contact. Looking
+at limitations of our study, our compartmental model does
+not capture individual-level heterogeneity in contacts,
+which could be important in super-spreading events,
+particularly early in an epidemic. Combined with
+nosocomial infections, the risk of COVID-19 infection is
+potentially amplified with close contact between
+confirmed cases and health-care workers. However, the
+compartmental model we present is not equipped to
+explicitly consider transmission within health-care
+institutions and households. More complex models, such
+as individual-based models with familial and health-care
+structures, should be explored. No­socomial infection risk
+among health-care workers and patients has been
+identified as a research gap to be prioritised in the next
+few months by WHO.
+8	
+
+A key parameter is the basic reproduction number (R0),
+which determines how fast SARS-CoV-2 can spread
+through the population during the early stages of the
+outbreak. This is an inherently difficult parameter to
+estimate, since the true number of cases that can
+transmit infection at a given time is unknown (reported
+cases are likely to be just a small fraction of true cases)
+and probably varies over time (because of different
+interventions being introduced and population behaviour
+changing in response to the epidemic). In our analysis,
+we used an existing model that inferred time-dependent
+Re based on the growth of reported cases in Wuhan and
+the number of exported cases outside China originating
+from Wuhan.14 We acknowledge that the underlying
+reproduction number in Wuhan could have been larger
+than that used in our study. However, other studies of
+early SARS-CoV-2 transmission dynamics in Wuhan,
+using different methods, arrived at the same estimate
+with similar ranges.1,9
+Although the precise effects of interventions might
+vary by country and different estimates of key para­
+meters, our model highlights the usefulness of physical
+distancing interventions and the need to carefully
+calibrate their lifting to avoid second and subsequent
+waves of a COVID-19 epidemic. Areas of China outside
+Hubei and other east or southeast Asian regions have
+managed to avert a major outbreak locally and delayed
+the peak of the epidemic, without resorting to Hubei’s
+extreme measures.38 Policy makers are advised to
+reapportion their resources to focus on mitigating the
+effects of potentially soon-to-be overwhelmed health
+systems.39
+Non-physical distancing factors play a part in mitigating
+potential spikes in cases, especially when physical
+distancing measures are relaxed. The effects of seasonality
+on SARS-CoV-2 are difficult to predict without long time
+series; supporting evidence for the link between climate
+and COVID-19 has been largely anecdotal and based on
+spread in different settings and such analyses are subject
+to confounding.40,41 Consequently, we have not incorporated
+climatic factors into our mathematical model. Future
+research should be directed towards understanding the
+potential seasonality of COVID-19 and the climatic factors
+that could affect its transmission dynamics. Other
+innovations, such as the rapid expansion of hospital
+capacity and testing capabilities, would shorten diagnostic
+and health system delays,3,38,39 thus reducing effective
+interactions between infectious and susceptible indi­
+viduals and interrupting transmission. Effective vaccines42
+and antivirals43 that are being developed could counteract
+this global public health threat. The extent to which these
+strategies can detect cases earlier and isolate infectious
+individuals from the susceptible pool or protect against
+infection is less well-understood, hence nece­
+ssitating
+further evaluation.
+Combined physical distancing and travel res­trictions
+have aided in lowering the transmission of COVID-19
+
+www.thelancet.com/public-health Published online March 25, 2020 https://doi.org/10.1016/S2468-2667(20)30073-6
+
+Articles
+
+over the course of the ongoing outbreak in Wuhan.8,44,45
+Evidence for this drop in transmission can be gleaned
+from the time-varying estimates of the reproduction
+number14 or observing that the turnover of the epidemic
+has occurred far before depletion of susceptible
+individuals, indicating the effects of the implemented
+measures. It is difficult to quantify whether physical
+distancing alone is responsible for the drop in cases,
+especially during the ongoing epidemic. Therefore, we
+took a broad view of this question, making assumptions
+about the results of certain forms of physical distancing
+and measuring the effects somewhat qualitatively.
+However, to some extent, physical distancing has resulted
+in both a shorter epidemic and a lower peak. Given what
+is known about the transmissibility and (the relatively
+long 5–6 days) incubation period of COVID-19,1,16 the
+efficacy of physical distancing in reducing these
+important attributes of any epidemic are no surprise.
+In the analysis, we have varied the basic reproduction
+number, the average duration of infections, the initial
+proportion of cases infected, the susceptibility of children,
+and the role of younger individuals in trans­
+mission
+dynamics of COVID-19.
+In conclusion, non-pharmaceutical interventions based
+on sustained physical distancing have a strong potential
+to reduce the magnitude of the epidemic peak of
+COVID-19 and lead to a smaller number of overall
+cases. Lowering and flattening of the epidemic peak is
+particularly important, as this reduces the acute pressure
+on the health-care system. Premature and sudden lifting
+of interventions could lead to an earlier secondary peak,
+which could be flattened by relaxing the interventions
+gradually.
+Contributors
+PK, YL, MJ, and KP conceived the study. KP, YL, and PK designed and
+programmed the model, and KP made the figures. TWR, AJK, RME,
+and ND consulted on the analyses. All authors interpreted the results,
+contributed to writing the Article, and approved the final version for
+submission.
+Centre for the Mathematical Modelling of Infectious Diseases COVID-19
+Working Group
+Stefan Flasche, Samuel Clifford, Carl A B Pearson, James D Munday,
+Sam Abbott, Hamish Gibbs, Alicia Rosello, Billy J Quilty,
+Thibaut Jombart, Fiona Sun, Charlie Diamond, Amy Gimma,
+Kevin van Zandvoort, Sebastian Funk, Christopher I Jarvis,
+W John Edmunds, Nikos I Bosse, Joel Hellewell
+Declaration of interests
+We declare no competing interests.
+Data sharing
+Access to computer code is provided in the appendix (p 1). Data used in
+this study are freely available to the scientific community.
+Acknowledgments
+KP, YL, MJ, and PK were funded by the Bill & Melinda Gates Foundation
+(INV-003174). YL and MJ were funded by the National Institute for Health
+Research (NIHR; 16/137/109). TWR and AJK were funded by the
+Wellcome Trust (206250/Z/17/Z). RME was funded by Health Data
+Research UK (MR/S003975/1). ND was funded by NIHR
+(HPRU-2012-10096). This research was partly funded by the NIHR
+(16/137/109) using aid from the UK Government to support global health
+research. The views expressed in this publication are those of the
+
+author(s) and not necessarily those of the NIHR or the UK Department of
+Health and Social Care. We would like to acknowledge the other members
+of the London School of Hygiene & Tropical Medicine COVID-19
+modelling group, who contributed to this work. Their funding sources are
+as follows: Stefan Flasche and Sam Clifford (Sir Henry Dale Fellowship
+208812/Z/17/Z); Billy J Quilty, Fiona Sun, and Charlie Diamond (NIHR
+16/137/109); Joel Hellewell, Sam Abbott, James D Munday, and Sebastian
+Funk (Wellcome Trust 210758/Z/18/Z); Amy Gimma and Christopher I
+Jarvis (Global Challenges Research Fund ES/P010873/1); Hamish Gibbs
+(Department of Health and Social Care ITCRZ 03010); Alicia Rosello
+(NIHR PR-OD-1017-20002); Thibaut Jombart (Research Public Health
+Rapid Support Team, NIHR Health Protection Research Unit Modelling
+Methodology); Kevin van Zandvoort (Elrha’s Research for Health in
+Humanitarian Crises [R2HC] Programme, UK Government [Department
+for International Development], Wellcome Trust, and NIHR).
+References
+1	 Li Q, Guan X, Wu P, et al. Early transmission dynamics in Wuhan,
+China, of novel coronavirus-infected pneumonia. N Engl J Med
+2020; published online Jan 29. DOI:10.1056/NEJMoa2001316.
+2	 Zhu N, Zhang D, Wang W, et al. A novel coronavirus from patients
+with pneumonia in China, 2019. N Engl J Med 2020; published
+Feb 20. DOI:10.1056/NEJMoa2001017.
+3	 Chen S, Yang J, Yang W, Wang C, Bärnighausen T. COVID-19
+control in China during mass population movements at New Year.
+Lancet 2020; 395: 764–66.
+4	 Fong MW, Gao H, Wong JY, et al. Nonpharmaceutical measures for
+pandemic influenza in nonhealthcare settings—social distancing
+measures. Emerg Infect Dis 2020; published online Feb 6.
+DOI:10.3201/eid2605.190995.
+5	 Hens N, Ayele GM, Goeyvaerts N, et al. Estimating the impact of
+school closure on social mixing behaviour and the transmission of
+close contact infections in eight European countries. BMC Infect Dis
+2009; 9: 187.
+6	 Ahmed F, Zviedrite N, Uzicanin A. Effectiveness of workplace
+social distancing measures in reducing influenza transmission:
+a systematic review. BMC Public Health 2018; 18: 518.
+7	 Quilty BJ, Clifford S, Flasche S, Eggo RM. Effectiveness of airport
+screening at detecting travellers infected with novel coronavirus
+(2019-nCoV). Euro Surveill 2020; 25: 2000080.
+8	 Tian H, Li Y, Liu Y, et al. Early evaluation of the Wuhan City
+travel restrictions in response to the 2019 novel coronavirus
+outbreak. medRxiv 2020; published online Jan 30.
+DOI:10.1101/2020.01.30.20019844 (preprint).
+9	 Riou J, Althaus CL. Pattern of early human-to-human transmission
+of Wuhan 2019 novel coronavirus (2019-nCoV), December 2019 to
+January 2020. Euro Surveill 2020; 25: 2000058.
+10	 Chan JFW, Yuan S, Kok KH, et al. A familial cluster of
+pneumonia associated with the 2019 novel coronavirus indicating
+person-to-person transmission: a study of a family cluster.
+Lancet 2020; 395: 514–23.
+11	 Mossong J, Hens N, Jit M, et al. Social contacts and mixing patterns
+relevant to the spread of infectious diseases. PLoS Med 2008; 5: e74.
+12	 Zhang J, Klepac P, Read JM, et al. Patterns of human social contact
+and contact with animals in Shanghai, China. Sci Rep 2019; 9: 15141.
+13	 Prem K, Cook AR, Jit M. Projecting social contact matrices in
+152 countries using contact surveys and demographic data.
+PLOS Comput Biol 2017; 13: e1005697.
+14	 Kucharski AJ, Russell TW, Diamond C, et al. Early dynamics of
+transmission and control of COVID-19: a mathematical modelling
+study. Lancet Infect Dis 2020; published online March 11.
+https://doi.org/10.1016/S1473-3099(20)30144-4.
+15	 Abbott S, Hellewell J, Munday J, Funk S. The transmissibility
+of novel Coronavirus in the early stages of the 2019–20
+outbreak in Wuhan: exploring initial point-source exposure sizes
+and durations using scenario analysis. Wellcome Open Res 2020;
+5: 17.
+16	 Backer JA, Klinkenberg D, Wallinga J. Incubation period of 2019
+novel coronavirus (2019-nCoV) infections among travellers from
+Wuhan, China, 20–28 January 2020. Euro Surveill 2020;
+25: 2000062.
+17	 Klepac P, Pomeroy LW, Bjørnstad ON, Kuiken T, Osterhaus ADME,
+Rijks JM. Stage-structured transmission of phocine distemper virus
+in the Dutch 2002 outbreak. Proc Biol Sci 2009; 276: 2469–76.
+
+www.thelancet.com/public-health Published online March 25, 2020 https://doi.org/10.1016/S2468-2667(20)30073-6	
+
+9
+
+Articles
+
+18	 Klepac P, Caswell H. The stage-structured epidemic: linking disease
+and demography with a multi-state matrix approach model.
+Theor Ecol 2011; 4: 301–19.
+19	 Liu Y, Funk S, Flasche S. The contribution of pre-symptomatic
+transmission to the COVID-19 outbreak. Centre for Mathematical
+Modelling of Infectious Disease Repository. https://cmmid.github.
+io/topics/covid19/control-measures/pre-symptomatic-transmission.
+html (accessed March 2, 2020).
+20	 Bi Q, Wu Y, Mei S, et al. Epidemiology and transmission of
+COVID-19 in Shenzhen China: analysis of 391 cases and 1286 of
+their close contacts. medRxiv 2020; published online March 3.
+DOI:10.1101/2020.03.03.20028423 (preprint).
+21	 Davies N. nicholasdavies/ncov-age-dist. https://github.com/
+nicholasdavies/ncov-age-dist (accessed March 6, 2020).
+22	 Woelfel R, Corman VM, Guggemos W, et al. Clinical presentation
+and virological assessment of hospitalized cases of coronavirus
+disease 2019 in a travel-associated transmission cluster. medRxiv
+2020; published online March 5. DOI:10.1101/2020.03.05.20030502
+(preprint).
+23	 Zhao LY, Li AQ. Zhezhou City strategy for resuming work and
+production among business enterprises. Feb 13, 2020.
+http://m.xinhuanet.com/ha/2020-02/13/c_1125567288.htm
+(accessed March 17, 2020).
+24	 Sohu News. Academic calendar for elementary and middle school
+in Wuhan. 2019. https://www.sohu.com/a/325806609_500181
+(accessed March 17, 2020).
+25	 Riley S, Fraser C, Donnelly CA, et al. Transmission dynamics of the
+etiological agent of SARS in Hong Kong: impact of public health
+interventions. Science 2003; 300: 1961–66.
+26	 Ferguson NM, Keeling MJ, Edmunds WJ, et al. Planning for
+smallpox outbreaks. Nature 2003; 425: 681–85.
+27	 Wallinga J, Teunis P, Kretzschmar M. Using data on social contacts
+to estimate age-specific transmission parameters for respiratoryspread infectious agents. Am J Epidemiol 2006; 164: 936–44.
+28	 Read JM, Keeling MJ. Disease evolution on networks: the role of
+contact structure. Proc Biol Sci 2003; 270: 699–708.
+29	 Hilton J, Keeling MJ. Incorporating household structure and
+demography into models of endemic disease. J R Soc Interface 2019;
+16: 20190317.
+30	 Wallinga J, Edmunds WJJ, Kretzschmar M. Perspective: human
+contact patterns and the spread of airborne infectious diseases.
+Trends Microbiol 1999; 7: 372–77.
+31	 Edmunds WJ, O’Callaghan CJ, Nokes DJ. Who mixes with whom?
+A method to determine the contact patterns of adults that may lead
+to the spread of airborne infections. Proc Biol Sci 1997; 264: 949–57.
+32	 Cate TR. Clinical manifestations and consequences of influenza.
+Am J Med 1987; 82: 15–19.
+
+10	
+
+33	 Falsey AR, Erdman D, Anderson LJ, Walsh EE. Human
+metapneumovirus infections in young and elderly adults.
+J Infect Dis 2003; 187: 785–90.
+34	 WHO. Report of the WHO-China Joint Mission on Coronavirus
+Disease 2019 (COVID-19). 16–24 Feb, 2020. https://www.who.int/
+docs/default-source/coronaviruse/who-china-joint-missionon-covid-19-final-report.pdf (accessed March 17, 2020).
+35	 Eubank S, Guclu H, Kumar VS, et al. Modelling disease outbreaks
+in realistic urban social networks. Nature 2004; 429: 180–84.
+36	 Stehlé J, Voirin N, Barrat A, et al. Simulation of an SEIR infectious
+disease model on the dynamic contact network of conference
+attendees. BMC Med 2011; 9: 87.
+37	 Potter GE, Handcock MS, Longini IM Jr, Halloran ME. Estimating
+within-household contact networks from egocentric data.
+Ann Appl Stat 2011; 5: 1816–38.
+38	 Cowling BJ, Lim WW. They’ve contained the coronavirus. Here’s
+how. New York Times. 2020. https://www.nytimes.com/2020/03/13/
+opinion/coronavirus-best-response.html (accessed March 17, 2020).
+39	 Wilder-Smith A, Chiew CJ, Lee VJ. Can we contain the COVID-19
+outbreak with the same measures as for SARS? Lancet Infect Dis
+2020; published online March 5. https://doi.org/10.1016/S14733099(20)30129-8.
+40	 Luo W, Majumder MS, Liu D, et al. The role of absolute humidity
+on transmission rates of the COVID-19 outbreak. medRxiv 2020;
+published online February 17. DOI:10.1101/2020.02.12.20022467
+(preprint).
+41	 Lipsitch M. Seasonality of SARS-CoV-2: Will COVID-19 go away on
+its own in warmer weather? Center for Communicable Disease
+Dynamics. 2020. https://ccdd.hsph.harvard.edu/will-covid-19-goaway-on-its-own-in-warmer-weather/ (accessed March 17, 2020).
+42	 ClinicalTrials.gov. Safety and immunogenicity study of 2019-nCoV
+vaccine (mRNA-1273) to prevent SARS-CoV-2 infection. 2020.
+https://clinicaltrials.gov/ct2/show/NCT04283461 (accessed
+March 17, 2020).
+43	 Yao X, Ye F, Zhang M, et al. In vitro antiviral activity and projection
+of optimized dosing design of hydroxychloroquine for the treatment
+of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).
+Clin Infect Dis 2020; published online March 9.
+DOI:10.1093/cid/ciaa237.
+44	 Brooks SK, Webster RK, Smith LE, et al. The psychological impact
+of quarantine and how to reduce it: rapid review of the evidence.
+Lancet 2020; 395: 912–20.
+45	 Wu JT, Leung K, Leung GM. Nowcasting and forecasting the
+potential domestic and international spread of the 2019-nCoV
+outbreak originating in Wuhan, China: a modelling study.
+Lancet 2020; 395: 689–97.
+
+www.thelancet.com/public-health Published online March 25, 2020 https://doi.org/10.1016/S2468-2667(20)30073-6
+
+
