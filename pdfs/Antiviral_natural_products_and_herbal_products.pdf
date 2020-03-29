@@ -1,0 +1,25 @@
+--2020-03-29 16:30:36--  https://www.indiatoday.in/fact-check/story/do-not-believe-this-home-remedy-cure-covid-19-1660728-2020-03-28/
+Resolving www.indiatoday.in (www.indiatoday.in)... 23.212.58.24, 23.212.58.19, 2600:140f:7400::17d4:3a18, ...
+Connecting to www.indiatoday.in (www.indiatoday.in)|23.212.58.24|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.indiatoday.in/fact-check/story/do-not-believe-this-home-remedy-cure-covid-19-1660728-2020-03-28 [following]
+--2020-03-29 16:30:38--  https://www.indiatoday.in/fact-check/story/do-not-believe-this-home-remedy-cure-covid-19-1660728-2020-03-28
+Reusing existing connection to www.indiatoday.in:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘index.html’
+
+     0K .......... .......... .......... .......... ..........  263K
+    50K .......... .......... .......... .......... ..........  256K
+   100K .......... .......... .......... .......... ..........  175K
+   150K .......... .......... .......... .......... ..........  149M
+   200K .......... .......... .......... .......... ..........  574K
+   250K .......... .......... .......... .......... ..........  903K
+   300K .......... .......... .......... ..                     159K=1.0s
+
+2020-03-29 16:30:40 (327 KB/s) - ‘index.html’ saved [340149]
+
+/home/anwesha/corona/: Scheme missing.
+FINISHED --2020-03-29 16:30:40--
+Total wall clock time: 3.2s
+Downloaded: 1 files, 332K in 1.0s (327 KB/s)
