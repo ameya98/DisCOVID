@@ -14,14 +14,14 @@ def get_keyword_extractor(algorithm):
         return keywords_rake
 
 # Returns the most relevant keywords as a list of tuples (keyword, score). Lower the score, more relevant the keyword to this document.
-def keywords_yake(text_file, num_keywords):
+def keywords_yake(text_file, num_keywords, language='en'):
 
     # Read text file.
     with open(text_file, 'r') as f:
         text = f.read()
 
     # Extract keywords with YAKE.
-    kw_extractor = yake.KeywordExtractor(dedupLim=0.6, dedupFunc='jaro', top=num_keywords)
+    kw_extractor = yake.KeywordExtractor(dedupLim=0.6, lan=language, dedupFunc='jaro', top=num_keywords)
     keywords = kw_extractor.extract_keywords(text)
 
     # Lower the score, more the relevance.
@@ -59,13 +59,15 @@ if __name__ == "__main__":
                         help='Number of keywords to extract.')
     parser.add_argument('--alg', dest='algorithm', default='yake', choices=('rake', 'yake'),
                         help='Keyword extraction algorithm to use.')
+    parser.add_argument('--lan', dest='language', default='en', choices=('en', 'hi'),
+                        help='Language of text in file.')
     args = vars(parser.parse_args())
 
     algorithm = args['algorithm']
     keywords = get_keyword_extractor(algorithm)
 
     # Obtain keywords and print along with score.
-    doc_keywords = keywords(args['text_file'], args['num_keywords'])
+    doc_keywords = keywords(args['text_file'], args['num_keywords'], args['language'])
     for kw_pair in doc_keywords:
         keyword, score = kw_pair
         print("%0.4f: %s" % (score, keyword))
