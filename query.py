@@ -11,6 +11,7 @@ import numpy as np
 # For string similarity.
 from strsimpy.normalized_levenshtein import NormalizedLevenshtein
 from strsimpy.jaro_winkler import JaroWinkler
+from strsimpy.metric_lcs import MetricLCS
 
 
 # Returns 1 iff s1 == s2, else 0.
@@ -25,8 +26,10 @@ def exact_similarity(s1, s2):
 def similarity_function(similarity_measure):
     if similarity_measure == 'exact':
         return exact_similarity
+    if similarity_measure == 'mlcs':
+        return lambda s1, s2: 1 - MetricLCS().distance(s1, s2)
     elif similarity_measure == 'nlevs':
-        return NormalizedLevenshtein().distance
+        return lambda s1, s2: 1 - NormalizedLevenshtein().distance(s1, s2)
     elif similarity_measure == 'jaro':
         return JaroWinkler().similarity
     else:
